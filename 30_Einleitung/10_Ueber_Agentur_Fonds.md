@@ -1,8 +1,0 @@
-
-Agentur / Fonds, von xpecto wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbeitsablauf möglichst einfach am PC umzusetzen und dadurch zur Optimierung des Betriebserfolges beizutragen. Die bislang notwendigen Kenntnisse über die Struktur und den Aufbau von Verzeichnissen und Dateien entfällt nahezu, da Agentur / Fonds das Dateimanagement auf Wunsch übernimmt.
-
-Während der Programmentwicklung von Agentur / Fonds stand immer der Mensch im Mittelpunkt, dessen Gewohnheiten im täglichen Umgang mit Daten, Informationen, Archivierung, aber auch dessen Erwartungen an ein Computerprogramm, das die Möglichkeiten einer elektronischen Datenverwaltung und Aufbereitung praxisnah löst, ohne vom Anwender grundlegende Änderungen seiner gewohnten Abläufe und eine hohe Schulungsbereitschaft zu erwarten.
-
-Die einzige Kommunikationsschnittstelle zwischen Mensch und Computer ist der Bildschirm. Deshalb wurde eine sehr übersichtliche Maske entwickelt, die sämtliche wesentlichen Informationen aufzeigt. Die Eingabemasken sind frei an die Bedürfnisse Ihres Unternehmens anpassbar und versorgen Ihre Mitarbeiter individuell mit für sie relevanten Informationen. Berichte und Auswertungen werden ebenfalls nach Ihren Wüschen und nach von Ihnen benötigten Informationen gestaltet.
-
-
