@@ -1,3 +1,5 @@
+Finanzdienstleistungsunternehmen brauchen eine effiziente Verwaltung Ihrer Daten. Nur so können Sie einen reibungslosen und schlanken Betrieb gewährleisten.
+
 Kundenverwaltung und Verträge sind Ihre zentralen Informationen. Der Vertrieb sollte jederzeit und überall auf diese Informationen
 tagesaktuell zugreifen können. eAgentur bietet Ihnen umfangreiche Möglichkeiten, diese Daten zu verwalten.
 
