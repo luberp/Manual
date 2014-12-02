@@ -29,4 +29,4 @@ eventuell vorhandene Datensätze mit anderen Währungen/Einheiten dienen ledigli
 Unter bestimmten Voraussetzungen (z.B. Funktionsbereich _"Buchungen exportieren"_ gewählt, oder festgeschriebene Buchung selektiert) ist die
 Bearbeitungs-Maske im Read-Only-Modus.
 
-![](img/clip_image079.png)
+![](http://xpecto.github.io/docs/img/img079.png)

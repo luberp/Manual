@@ -1,8 +1,8 @@
 Das Modul Nachschlagslisten dient dem Hinterlegen von Listen und Tabellen mit Werten, auf die an verschiedenen Stellen in der Software von
 kundenspezifischen Masken und Scripten zurückgegriffen werden Kann.
 
-![](img/clip_image208.png)
-![](img/clip_image210.png)
+![](http://xpecto.github.io/docs/img/img208.png)
+![](http://xpecto.github.io/docs/img/img210.png)
 
 Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als Auswahlfeld angelegt und so konfiguriert werden, dass die
 auswählbaren Werte aus einer Nachschlagsliste mit der Bezeichnung "Anrede" entnommen werden. Die verfügbaren Werte können somit vom

@@ -3,16 +3,16 @@ eAgentur verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer.
 
 In der Liste der Vorhanden Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht
 automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen Sie durch Click auf die Schaltfläche
-![](img/clip_image211.png)
+![](http://xpecto.github.io/docs/img/img211.png)
 an.
 
-![](img/clip_image212.png)
+![](http://xpecto.github.io/docs/img/img212.png)
 
 Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei
 Windows Domänen-Benutzern setzt sich der Benutzername aus Domänenname\Benutzername zusammen. Sollten Ihre Benutzer also an einem
 Domänenkontroller angemeldet sein, so berücksichtigen Sie dies bitte bei der Erstellung des Benutzerskontos. Bestätigen Sie mit _OK_.
 Nachdem Sie mit der Schaltfläche
-![](img/clip_image013.png)
+![](http://xpecto.github.io/docs/img/img013.png)
 speichern, wird der neue Benutzer in der linken Liste angezeigt.
 
 Beim Start der Software werden zuerst die Rechte des angemeldeten Benutzers ermittelt und daraufhin nur die Menüpunkte und Karteireiter angezeigt,
@@ -31,9 +31,9 @@ einem Benutzer ist äquivalent zum Setzten aller anderen Rechte bei demselben Be
 Benutzer durch Setzen des entsprechenden Rechts auf _verbieten _entzogen werden. Im Gegensatz dazu ist dies bei "Administrator" nicht
 möglich!
 
-![](img/clip_image214.png)
+![](http://xpecto.github.io/docs/img/img214.png)
 
 Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und betätigen Sie die Schaltfläche
-![](img/clip_image046.png)
+![](http://xpecto.github.io/docs/img/img046.png)
 , um eine neue Berechtigungszeile einzufügen. In der Auswahlbox Recht wird das gewünschte Recht ausgewählt, und unter Wert die jeweilige
 Berechtigungsstufe _erlauben_, _verbieten_ oder _default_.

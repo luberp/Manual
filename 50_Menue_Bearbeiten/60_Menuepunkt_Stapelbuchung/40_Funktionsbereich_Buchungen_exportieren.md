@@ -7,4 +7,4 @@ muss der Filter dementsprechend angepasst werden. Über den Button _Export_ wird
 Buchungssätze enthält. Dabei wird automatisch der Exportzeitpunkt und der ausführende Benutzer in die betroffenen Buchungsdatensätze
 eingetragen. Über den Button _Testexport_ wird dieselbe Export-Datei erzeugt, jedoch ohne Informationen in den Buchungsdatensatz einzutragen.
 
-![](img/clip_image087.png)
+![](http://xpecto.github.io/docs/img/img087.png)

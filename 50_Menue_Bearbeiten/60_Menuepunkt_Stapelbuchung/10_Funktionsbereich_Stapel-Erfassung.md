@@ -10,4 +10,4 @@ Buchungsperiode, zu der ein Buchungssatz gehört, richtet sich nach dem Belegdat
 Ein hier erfasster Datensatz kann über den Button _"Buchung löschen"_ jederzeit wieder gelöscht werden, solange er noch nicht
 festgeschrieben ist.
 
-![](img/clip_image081.png)
+![](http://xpecto.github.io/docs/img/img081.png)

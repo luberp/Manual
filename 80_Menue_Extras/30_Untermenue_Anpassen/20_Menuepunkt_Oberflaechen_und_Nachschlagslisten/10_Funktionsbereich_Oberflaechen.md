@@ -7,22 +7,22 @@ sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden 
 werden. Um ein bereits bestehendes Label oder Eingabefeld zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit
 gedrückter Maustaste an die gewünschte Position.
 
-![](img/clip_image198.png)
-![](img/clip_image200.png)
+![](http://xpecto.github.io/docs/img/img198.png)
+![](http://xpecto.github.io/docs/img/img200.png)
 
 Zum einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die
 gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Click auf das markierte Icon in der Werkzeugleiste wird das
 Eingabefeld eingefügt.
 
 Speichern Sie die veränderte Oberfläche mit der Schaltfläche
-![](img/clip_image201.png)
+![](http://xpecto.github.io/docs/img/img201.png)
 .
 
 Reichen in einer Tabelle die vorhandenen Datenbankspalten nicht aus, so können weitere Spalten angelegt werden. Mit der Schaltfläche
-![](img/clip_image202.png)
+![](http://xpecto.github.io/docs/img/img202.png)
 wird ein neues Datenbankfeld angelegt.
 
-![](img/clip_image203.png)
+![](http://xpecto.github.io/docs/img/img203.png)
 
 Wählen Sie unter _"1. Tabelle wählen"_ die Datenbanktabelle, die erweitert werden soll. Geben Sie unter	_"2. Name eingeben"_ den gewünschten Feldnamen ein und bestimmen sie unter _"3. Feldtyp auswählen"_ den Feldtypen. Der
 benötigte Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen:
@@ -35,9 +35,9 @@ Durch Click auf den Button _"Feld erstellen"_ wird das Datenbankfeld angelegt.
 Auf dem Karteireiter _Vorschau _kann jederzeit eine Vorschau der bearbeiteten Maske angezeigt werden, auch ohne die Änderungen vorher zu
 speichern.
 
-![](img/clip_image204.png)
-![](img/clip_image205.png)
-![](img/clip_image207.png)
+![](http://xpecto.github.io/docs/img/img204.png)
+![](http://xpecto.github.io/docs/img/img205.png)
+![](http://xpecto.github.io/docs/img/img207.png)
 
 Die Karteireiter _Editor_, _Layout _und _Code _beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der
 Funktionalität der Masken. Änderungen sind dem xpecto Kundensupport vorbehalten.

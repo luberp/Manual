@@ -2,25 +2,25 @@ Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet. 
 und "Summen- und Salden-Liste" typischerweise in der Gruppe "Buchhaltung" eingegliedert. Im untenstehenden Beispiel ist neben anderen Berichten
 der Bericht "test" in der Gruppe "Standard" eingeordnet.
 
-![](img/clip_image023.png)
-![](img/clip_image181.png)
+![](http://xpecto.github.io/docs/img/img023.png)
+![](http://xpecto.github.io/docs/img/img181.png)
 
 Mit der Schaltfläche
-![](img/clip_image182.png)
+![](http://xpecto.github.io/docs/img/img182.png)
 wird eine neue Gruppe angelegt.
 
-![](img/clip_image183.png)
+![](http://xpecto.github.io/docs/img/img183.png)
 
 Geben Sie den Namen für die neue Gruppe ein und bestätigen Sie mit OK. Anschließend muss die neu angelegte Gruppe mit
-![](img/clip_image184.png)
+![](http://xpecto.github.io/docs/img/img184.png)
 gespeichert werden.
 
 Durch Click auf die Schaltfläche
-![](img/clip_image185.png)
+![](http://xpecto.github.io/docs/img/img185.png)
 wird ein neuer Bericht angelegt. Ein neuer Bericht kann entweder als leerer Bericht oder als Kopie eines bestehenden Berichts angelegt werden. In jedem
 Fall muss der Name für den neuen Bericht angegeben werden, und die Gruppe ausgewählt werden, in die der Bericht eingegliedert werden soll.
 
-![](img/clip_image187.png)
+![](http://xpecto.github.io/docs/img/img187.png)
 
 Für die Kopie eines bestehenden Berichts wählen Sie unter _"Kopie eines bestehenden Berichts"_ den entsprechenden Bericht aus.
 

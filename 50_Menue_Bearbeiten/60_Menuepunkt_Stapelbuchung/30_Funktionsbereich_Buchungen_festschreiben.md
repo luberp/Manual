@@ -11,4 +11,4 @@ Buchungsperiode kann nicht mehr gebucht werden. Um das Buchen in einer geschloss
 Button _"Buchungsperiode YYYY/MM öffnen"_ wieder geöffnet werden. Das wieder öffnen einer Buchungsperiode hebt jedoch nicht die
 Festschreibung der Buchungen in dieser Periode auf.
 
-![](img/clip_image085.png)
+![](http://xpecto.github.io/docs/img/img085.png)

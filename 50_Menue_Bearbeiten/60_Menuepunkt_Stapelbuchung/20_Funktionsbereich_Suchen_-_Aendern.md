@@ -9,4 +9,4 @@ im Read-Only-Modus und der Button _"Buchung Löschen"_ ist deaktiviert. Solange 
 jedoch über den Button "Storno/Korrektur" eine Storno-Buchung erzeugt werden. Wird die Abfrage "Soll eine Korrekturbuchung erzeugt werden?" mit	_Ja _beantwortet, so wird zusätzlich zu der Storno-Buchung eine änderbare (da nicht festgeschriebene) Kopie der Original-Buchung in
 derselben Buchungsperiode angelegt.
 
-![](img/clip_image083.png)
+![](http://xpecto.github.io/docs/img/img083.png)
