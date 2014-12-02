@@ -1,8 +1,8 @@
-eAgentur von xpecto wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbeitsablauf möglichst einfach am PC umzusetzen und
+xpectoPro wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbeitsablauf möglichst einfach am PC umzusetzen und
 dadurch zur Optimierung des Betriebserfolges beizutragen. Die bislang notwendigen Kenntnisse über die Struktur und den Aufbau von Verzeichnissen
-und Dateien entfällt nahezu, da eAgentur das Dateimanagement auf Wunsch übernimmt.
+und Dateien entfällt nahezu, da xpectoPro das Dateimanagement auf Wunsch übernimmt.
 
-Während der Programmentwicklung von eAgentur stand immer der Mensch im Mittelpunkt - dessen Gewohnheiten im täglichen Umgang mit Daten,
+Während der Programmentwicklung von xpectoPro stand immer der Mensch im Mittelpunkt - dessen Gewohnheiten im täglichen Umgang mit Daten,
 Informationen, Archivierung, aber auch dessen Erwartungen an ein Computerprogramm, das die Möglichkeiten einer elektronischen Datenverwaltung und
 Aufbereitung praxisnah löst, ohne vom Anwender grundlegende Änderungen seiner gewohnten Abläufe oder eine hohe Schulungsbereitschaft zu
 erwarten.
