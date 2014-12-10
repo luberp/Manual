@@ -98,7 +98,7 @@
 [7.7.1. Probeberechnung: Provisionstest](http://help.xpecto.de/Berechnungen/Probeberechnung_Provisionstest)
 
 **[8. Menü: Import/Export](http://help.xpecto.de/Einleitung)** 
- 8. [8.1. Import/Export: Tabellen synchronisieren](http://help.xpecto.de/Import_Export/Tabellen_synchronisieren) 
+ 8.1 [8.1. Import/Export: Tabellen synchronisieren](http://help.xpecto.de/Import_Export/Tabellen_synchronisieren) 
  9. [8.2. Import/Export: Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger) 
  10. [8.3. Import/Export: Kontodaten importieren](http://help.xpecto.de/Import_Export/Kontodaten_importieren)
  11. [8.4. Import/Export: Kontodaten zuweisen](http://help.xpecto.de/Import_Export/Kontodaten_zuweisen) 
