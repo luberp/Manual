@@ -4,9 +4,10 @@
 1.3. [1.3. Wer  braucht xpectoPro](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
 
 **[2. Installation](http://help.xpecto.de/Installation)**
-[2.1 Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
-[2.2. Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
-[2.3. Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
+
+ - [2.1. Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
+ -  [2.2. Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
+ - [2.3. Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
 
 **[3. Einrichten der Stammdaten](http://help.xpecto.de/Einrichten_der_Stamdaten)** 
 [3.1. Firmen anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen) 
