@@ -1,24 +1,24 @@
 **[1. Einleitung](http://help.xpecto.de/Einleitung)**
-     1.1. [1.1 Ueber xpectoPro](http://help.xpecto.de/Einleitung/Ueber_xpectoPro) 
-     1.2. [1.2. Was ist xpectoPro](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro) 
-     1.3. [1.3. Wer  braucht xpectoPro](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
+ 1.1. [1.1 Ueber xpectoPro](http://help.xpecto.de/Einleitung/Ueber_xpectoPro) 
+ 1.2. [1.2. Was ist xpectoPro](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro) 
+1.3. [1.3. Wer  braucht xpectoPro](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
 
 **[2. Installation](http://help.xpecto.de/Installation)**
 
-   [2.1. Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
-    [2.2. Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
-   [2.3. Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
+ - [2.1. Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
+ -  [2.2. Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
+ - [2.3. Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
 
 **[3. Einrichten der Stammdaten](http://help.xpecto.de/Einrichten_der_Stamdaten)** 
-[3.1. Firmen anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen) 
-[3.2. Produkte anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Produkte_anlegen) 
+-- [3.1. Firmen anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen) 
+-- [3.2. Produkte anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Produkte_anlegen) 
 [3.3. Vermittler anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittler_anlegen)
 [3.3. Vermittlerstruktur festlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittlerstruktur_anlegen)
 [3.3. Kunden anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Kunden_anlegen)
 [3.3. Verträge anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vertraege_anlegen)
 
 **[4. Verwalten von Bewegungsdaten](http://help.xpecto.de/Einleitung)** 
-[4.1. Ereignisse](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Ereignisse) 
+.. [4.1. Ereignisse](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Ereignisse) 
 [4.2. Vermittler-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Vermittler_Buchungen) 
 [4.3.Soll-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Soll_Buchungen)
 [4.3.Buchungen der Fondsbuchhaltung](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Buchungen_der_Fondsbuchhaltung)
