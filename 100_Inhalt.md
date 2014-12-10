@@ -10,10 +10,10 @@
  - [2.3. Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
 
 **[3. Einrichten der Stammdaten](http://help.xpecto.de/Einrichten_der_Stamdaten)** 
--- [3.1. Firmen anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen) 
--- [3.2. Produkte anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Produkte_anlegen) 
-[3.3. Vermittler anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittler_anlegen)
-[3.3. Vermittlerstruktur festlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittlerstruktur_anlegen)
++ [3.1. Firmen anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen) 
++ [3.2. Produkte anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Produkte_anlegen) 
++ [3.3. Vermittler anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittler_anlegen)
++ [3.3. Vermittlerstruktur festlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittlerstruktur_anlegen)
 [3.3. Kunden anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Kunden_anlegen)
 [3.3. Verträge anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vertraege_anlegen)
 
