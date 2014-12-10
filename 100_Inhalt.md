@@ -30,12 +30,14 @@
 	 
 	 [3.6. Verträge anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vertraege_anlegen)
 
-**[4. Verwalten von Bewegungsdaten](http://help.xpecto.de/Einleitung)** 
+[4. Verwalten von Bewegungsdaten](http://help.xpecto.de/Einleitung)
 
    [4.1. Ereignisse](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Ereignisse)
-   [4.2. Vermittler-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Vermittler_Buchungen)
-   [4.3.Soll-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Soll_Buchungen)
-   [4.3.Buchungen der Fondsbuchhaltung](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Buchungen_der_Fondsbuchhaltung)
+    [4.2. Vermittler-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Vermittler_Buchungen)
+    		
+    [4.3. Soll-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Soll_Buchungen)
+    
+    [4.4.Buchungen der    Fondsbuchhaltung](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Buchungen_der_Fondsbuchhaltung)
 
 **[5. Menü: Datei](http://help.xpecto.de/Datei)** 
 [5.1. Neu](http://help.xpecto.de/Datei_Neu) 
@@ -109,17 +111,19 @@
 [10.1. Zusatzfunktionen: Kirchensteuer](http://help.xpecto.de/Zusatzfunktionen) 
 
 **[ 11 Menü: Hilfe](http://help.xpecto.de/Hilfe)**
-[11.1. Hife: Über](http://help.xpecto.de/Hilfe/Ueber) 
+
+[11.1. Hife: Über](http://help.xpecto.de/Hilfe/Ueber)
+ 
 [11.2. Hilfe: Lizenzbedingungen](http://help.xpecto.de/Hilfe/Lizenzbedingungen) 
+
 [11.3. Hilfe: Fernwartung](http://help.xpecto.de/Hilfe/Fernwartung)
-[11.3. Hilfe: Handbuch](http://help.xpecto.de/Hilfe/Handbuch) 
-[11.4. Hife: xpecto Funktionen](http://help.xpecto.de/Hilfe/xpecto_Funktionen) 
-[11.3. Hilfe: xpecto Change-Log](http://help.xpecto.de/Hilfe/xpecto_Change_Log)
-[11.3. Hilfe: xpecto Versionskontrolle](http://help.xpecto.de/Hilfe/xpecto_Versionskontrolle)
-[11.4. Hilfe: Alle Fenster auf aktuellen Bildschirm holen]
 
+[11.4. Hilfe: Handbuch](http://help.xpecto.de/Hilfe/Handbuch) 
 
+[11.5. Hife: xpecto Funktionen](http://help.xpecto.de/Hilfe/xpecto_Funktionen) 
 
+[11.6. Hilfe: xpecto Change-Log](http://help.xpecto.de/Hilfe/xpecto_Change_Log)
 
+[11.7. Hilfe: xpecto Versionskontrolle](http://help.xpecto.de/Hilfe/xpecto_Versionskontrolle)
 
-liste
+[11.8. Hilfe: Alle Fenster auf aktuellen Bildschirm holen](http://help.xpecto.de/Hilfe/xpecto_Versionskontrolle)
