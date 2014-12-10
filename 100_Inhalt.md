@@ -33,11 +33,12 @@
 [4. Verwalten von Bewegungsdaten](http://help.xpecto.de/Einleitung)
 
    [4.1. Ereignisse](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Ereignisse)
-    [4.2. Vermittler-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Vermittler_Buchungen)
+   
+   [4.2. Vermittler-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Vermittler_Buchungen)
     		
-    [4.3. Soll-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Soll_Buchungen)
+   [4.3. Soll-Buchungen](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Soll_Buchungen)
     
-    [4.4.Buchungen der    Fondsbuchhaltung](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Buchungen_der_Fondsbuchhaltung)
+   [4.4.Buchungen der    Fondsbuchhaltung](http://help.xpecto.de/Verwaltung_von_Bewegungsdaten/Buchungen_der_Fondsbuchhaltung)
 
 **[5. Menü: Datei](http://help.xpecto.de/Datei)** 
 [5.1. Neu](http://help.xpecto.de/Datei_Neu) 
