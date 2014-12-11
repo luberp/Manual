@@ -35,6 +35,8 @@
 *  5.7.
 *  5.8.
 6. Menü: Bearbeiten
+    6.1. 
+ 
 7. Menü: Berechnungen
 8.   Menü: Import/Export
 9.   Menü: Extras
