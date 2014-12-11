@@ -35,7 +35,8 @@
 *  5.7.
 *  5.8.
 6. Menü: Bearbeiten
-6.1 fertret               
+6.1 fertret
+6.2. gretrzrz               
  
 7. Menü: Berechnungen
 8.   Menü: Import/Export
