@@ -20,8 +20,9 @@
 * 4.3.
 * 4.4
 5. Menü: Datei
-*  5.1.
-    *5.1.1
+ *5.1
+ * 5.1
+ *5.2.  
 6. Menü: Bearbeiten
 7. Menü: Berechnungen
 8.   Menü: Import/Export
