@@ -1,8 +1,8 @@
 
 1. Einleitung
-    1.1. Über xpectoPro
-    1.2. Was ist xpectoPro
-    1.3. Wer braucht xpectoPro
+*    1.1 
+* 1.2
+* 1.3 
 2.   Installation
 3.   Einrichten der Stammdaten
 4.  Verwalten von Bewegungsdaten
