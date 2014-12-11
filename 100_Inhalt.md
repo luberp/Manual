@@ -1,13 +1,32 @@
- 1. ** [Einleitung](http://help.xpecto.de/Einleitung) **
+ 1. Item 1
+ 2. A corollary to the above item.
+ 3. Yet another point to consider.
+ 5. List item
+   6.
+ 6. Item 2
+ 7. A corollary that does not need to be ordered.
+      * This is indented four spaces, because it's two spaces further than the item above.
+    * 
+    2.1 You might want to consider making a new list.
+    *
+ 8. Item 3
+ 9.    
 
-	[1.1. Über xpecto](http://help.xpecto.de/Einleitung/Über_xpectoPro)
+
+
+
+
+
+
+ 10. ** [Einleitung](http://help.xpecto.de/Einleitung) **
+          2. [1.1. Über xpecto](http://help.xpecto.de/Einleitung/Über_xpectoPro)
 
 	[1.2. Was ist xpecto](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro)
 
 	[1.3. Wer braucht xpecto](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
 
 
- 2. ** [Installation](http://help.xpecto.de/Installation) **
+ 11. ** [Installation](http://help.xpecto.de/Installation) **
 
 	[2.1. Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
 
@@ -15,7 +34,7 @@
 
 	[2.3. Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
 
- 3. ** [Einrichten der Stammdaten](http://help.xpecto.de/Einrichten_der_Stammdaten) **
+ 12. ** [Einrichten der Stammdaten](http://help.xpecto.de/Einrichten_der_Stammdaten) **
 
 	[3.1. Firmen anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen)
 
@@ -29,7 +48,7 @@
 
 	[3.6. Verträge anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Verträge_anlegen)
 
- 4. ** [Verwalten von Bewegungsdaten](http://help.xpecto.de/Einleitung) **
+ 13. ** [Verwalten von Bewegungsdaten](http://help.xpecto.de/Einleitung) **
 
 	[4.1. Ereignisse](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Ereignisse)
 
@@ -85,13 +104,13 @@
 
 ** [8. Menü: Import/Export](http://help.xpecto.de/Einleitung) **
  8.1 [8.1. Import/Export: Tabellen synchronisieren](http://help.xpecto.de/Import_Export/Tabellen_synchronisieren)
- 9. [8.2. Import/Export: Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger)
- 10. [8.3. Import/Export: Kontodaten importieren](http://help.xpecto.de/Import_Export/Kontodaten_importieren)
- 11. [8.4. Import/Export: Kontodaten zuweisen](http://help.xpecto.de/Import_Export/Kontodaten_zuweisen)
- 12. [8.5. Import/Export: Kunden- und Vertragsdaten importieren](http://help.xpecto.de/Import_Export/Kunden_und_Vertragsdaten_importieren)
- 13. [8.6. Import/Export: Allgemeiner Import](http://help.xpecto.de/Import_Export/Allgemeiner_Import)
- 14. [8.7. Import/Export: Buchungsexport](http://help.xpecto.de/Import_Export/Buchungsexport)
- 15. [8.8. Import/Export: Briefversand](http://help.xpecto.de/Import_Export/Briefversand)
+ 14. [8.2. Import/Export: Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger)
+ 15. [8.3. Import/Export: Kontodaten importieren](http://help.xpecto.de/Import_Export/Kontodaten_importieren)
+ 16. [8.4. Import/Export: Kontodaten zuweisen](http://help.xpecto.de/Import_Export/Kontodaten_zuweisen)
+ 17. [8.5. Import/Export: Kunden- und Vertragsdaten importieren](http://help.xpecto.de/Import_Export/Kunden_und_Vertragsdaten_importieren)
+ 18. [8.6. Import/Export: Allgemeiner Import](http://help.xpecto.de/Import_Export/Allgemeiner_Import)
+ 19. [8.7. Import/Export: Buchungsexport](http://help.xpecto.de/Import_Export/Buchungsexport)
+ 20. [8.8. Import/Export: Briefversand](http://help.xpecto.de/Import_Export/Briefversand)
 
 ** [ 9. Menü: Extras](http://help.xpecto.de/Extras) **
 [9.1. Extras: Zusatzfunktionen](http://help.xpecto.de/Extras/Zusatzfunktionen)
