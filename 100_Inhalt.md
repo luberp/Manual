@@ -1,9 +1,8 @@
 
 1. Einleitung
- *1.1
- *      
-* 1.2
-* 1.3 
+* 1.1. 
+*  1.2.
+*  1.3.
 2.   Installation
 3.   Einrichten der Stammdaten
 4.  Verwalten von Bewegungsdaten
