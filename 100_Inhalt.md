@@ -27,7 +27,7 @@
      *  5.1.4.
      *  5.1.5.
      *  5.1.6. 
-*  5.2. test
+      5.2. test
 *  5.3.
 *  5.4.
 *  5.5.
@@ -35,7 +35,7 @@
 *  5.7.
 *  5.8.
 6. Menü: Bearbeiten
-    6.1. 
+   
  
 7. Menü: Berechnungen
 8.   Menü: Import/Export
