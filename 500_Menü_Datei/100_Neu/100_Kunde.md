@@ -11,7 +11,7 @@ Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet die M
 
 Unter dem Reiter Eigenschaften kann man die Eigenschften von Kunden festhalten. Durch betätigen von [Bild] 
 
-Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden.
+Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, kann man ein Ereignis auf Beteiligungsebene anlegen.
 
 
 
