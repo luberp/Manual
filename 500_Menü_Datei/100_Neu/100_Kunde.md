@@ -1,8 +1,12 @@
-Finanzdienstleistungsunternehmen brauchen eine effiziente Verwaltung Ihrer Daten. Nur so können Sie einen reibungslosen und schlanken Betrieb gewährleisten.
+Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können sein Anleger die bereit sind eine Beteiligung als Gesellschafter einer Kommanditgesellschaft einzugehen, Vermittler oder Interessenten. Die Kundenmaske kann über Datei → Neu → Kunde, über die Schaltfläche [Bild] neuen Kunden anlegen oder automatisch beim Start von expectoPro.
+[Bild].
+Links wird gegebenfalls eine Übersicht der bereits bestehenden Kunden dargestellt. Um einen neuen Kunde anzulegen betätigen die Schaltfläche [Bild] oder das Menü Datei → Neu → Kunde. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
+[Bild]
+Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit OK. 
+Unter dem Reiter Allgemein steht eine Übersicht von der Stammdaten, sonstige Daten und We-Portal Daten. Durch Betätigen von login kann sich der Kunde Web-Portal einloggen.
 
-Kundenverwaltung und Verträge sind Ihre zentralen Informationen. Der Vertrieb sollte jederzeit und überall auf diese Informationen tagesaktuell zugreifen können. xpectoPro bietet Ihnen umfangreiche Möglichkeiten, diese Daten zu verwalten.
+Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Durch betätigen von der Schaltfläche [Bild].
 
-Die Verwaltung muss alle Fäden in der Hand haben und die Verteilung der Provisionen prompt und zuverlässig abwickeln können. Die Provisionssysteme und Strukturen können bei xpectoPro beliebig aufgebaut werden. Hier liegt die Stärke im Detail. Die Abbildung der Berechnungsmodule durch frei programmierbare Skripte ermöglicht beliebig tiefe Vertriebsstrukturen mit nahezu unbegrenzten Möglichkeiten der Provisionsberechnung.
+Unter dem Reiter Eigenschaften kann man die Eigenschften von Kunden festhalten. Durch betätigen von [Bild] 
 
-Der Kontakt mit Ihren Kunden und Vertriebsmitarbeitern oder Partnern ist sehr wichtig. Jede Information über Probleme und Absprachen sollte zentral verfügbar sein. So spricht Ihre Firma mit nur "einer" Stimme. Problemkunden können so besser behandelt werden, falsche Auskünfte gehören der Vergangenheit an. xpectoPro ist in der Lage, für jeden Kunden und Mitarbeiter eine Historie zu speichern. So ist der aktuelle Stand für jeden einsehbar. Erst so wird eine qualifizierte Kunden- und Mitarbeiterführung möglich.
-
+Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden.
