@@ -1,17 +1,3 @@
-Konzeption und Verwaltung eines Fonds sind eine komplexe Aufgabe. Verschiedene Bereiche sollen möglichst einfach und reibungslos verwaltet werden.
-eAgentur ist auf Ihre Bedürfnisse zugeschnitten. Es arbeitet Hand in Hand, um Ihre Verwaltung zu vereinfachen und Ihnen lästige
-Routineaufgaben abzunehmen.
 
-Die Fondsverwaltung besteht in der Regel aus zwei unterschiedlichen Bereichen, dem eigentlichen Fonds und dem angeschlossenen Vertrieb. Beide Bereiche
-nutzen Anleger- und Vertragsdaten, jedoch mit unterschiedlichen Zielen. Genau dies wird durch die Verknüpfung der beiden Funktionsbereiche
-Vertriebsverwaltung und Fondsverwaltung in der Software eAgentur erreicht. xpecto bietet Ihnen dadurch eine einheitliche Lösung für beide
-Bereiche.
-
-Die Verwaltung von Anlegern, Verträgen und Kontobewegungen sind die zentralen Funktionen des Funktionsbereichs Fondsverwaltung.
-Begrüßungsschreiben, Kontoauszüge und steuerliche Ergebnisverteilung werden per Knopfdruck erstellt, ohne aufwändige Tipparbeit.
-Das Layout der Schreiben ist über einen Editor frei anpassbar.
-
-Die Verbuchung der Zahlungseingänge sowie der Zahlungsausgänge ist ein sehr arbeitsintensiver Bereich. Der Kontoauszugsmanager von eAgentur
-erleichtert hier vieles. Die automatische Verbuchung von Zahlungen macht selbst kleinteiliges Geschäft wie VL-Fonds zum Kinderspiel. Durch die
-integrierte Lösung werden viele Routineaufgaben sehr beschleunigt und die Aufgaben der Verwaltung vereinfacht. So können Sie Ihre Verwaltung
-optimieren. Eine schlankere Verwaltung entsteht, das ist gut für Sie und Ihre Kunden.
+Verträge werden zum Kunden angelegt. Öffnen Sie die Ansicht Kunden und markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neunen Vertrag anzulegen über Menü → Neu → Vertrag, oder über die Schaltfläche [Bild].
+Es erscheint die Eingabeaufforderung neuen Vertrag erstellen, hier wählen Sie ein Produkt ein. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
