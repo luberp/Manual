@@ -7,9 +7,9 @@ Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie 
 Unter dem Reiter Allgemein steht eine Übersicht von der Stammdaten, sonstige Daten und Web-Portal Daten. Durch Betätigen von login kann sich der Kunde Web-Portal einloggen. 
 Die Adresse kann durch Betätigung von [Bild] überprüft werden.
 Kontoverbindung wird automatisch validiert und formatiert nach SEPA-Verordnung.
-Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Durch betätigen von der Schaltfläche [Bild].
+Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche [Bild].
 
-Unter dem Reiter Eigenschaften kann man die Eigenschften von Kunden festhalten. Durch betätigen von [Bild] 
+Unter dem Reiter Eigenschaften kann man die Eigenschaften von Kunden festhalten.  
 
 Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, kann man ein Ereignis auf Beteiligungsebene anlegen.
 
