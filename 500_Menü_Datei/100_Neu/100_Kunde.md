@@ -6,7 +6,8 @@ Um einen neuen Kunde anzulegen betätigen die Schaltfläche <img src="http://xpe
 
 Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit OK. 
 
-![](http://xpecto.github.io/docs/img/img_1418997692185.png) 
+![](http://xpecto.github.io/docs/img/img_1418997692185.png)
+
 Links wird eine Übersicht der bereits bestehenden Kunden dargestellt. 
 Unter dem Reiter Allgemein steht eine Übersicht von der Stammdaten, sonstige Daten und Web-Portal Daten. 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeportal sein. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. Ein Kundenportal ist ein Informationsportal für Kunde.
