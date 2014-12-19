@@ -24,6 +24,6 @@ Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeportal sein. 
 <p>Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und formatiert. <br>
 Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1419001576458.png" alt="" title="">. <br>
 Die Adresse kann durch Betätigung von <img src="http://xpecto.github.io/docs/img/img_1418999829813.png" alt="" title=""> auf Richtigkeit geprüft werden. <br>
-Unter dem Reiter Eigenschaften können vordefinierte Eigenschaften erfasst werden. <br>
-Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, kann man ein Ereignis auch auf Beteiligungsebene anlegen.</p></div></body>
+Unter dem Reiter Eigenschaften können Bemerkungen zum Kunde festgehalten. <br>
+Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignissse auch auf Beteiligungsebene angelegt werden.</p></div></body>
 </html>
