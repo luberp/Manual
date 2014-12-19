@@ -90,5 +90,3 @@
 * 10.6. [xpecto Change-Log](http://help.xpecto.de/Hilfe/xpecto_Change_Log)
 *   10.7. [xpecto Versionskontrolle](http://help.xpecto.de/Hilfe/xpecto_Versionskontrolle)
 *  10.8. [Alle Fenster auf aktuellen Bildschirm holen](http://help.xpecto.de/Hilfe/xpecto_Versionskontrolle)
-
-   
