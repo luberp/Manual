@@ -2,6 +2,7 @@ Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anlege
 
 Um einen neuen Kunde anzulegen betätigen die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> oder das Menü *Datei → Neu → Kunde*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
 ![](http://xpecto.github.io/docs/img/img_1418997533947.png) 
+
 Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit OK. 
 
 ![](http://xpecto.github.io/docs/img/img_1418997692185.png) 
