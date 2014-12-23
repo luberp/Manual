@@ -18,14 +18,11 @@ Die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1419329462773.p
 Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepasst werden. Ein Klick auf den Feldnamen öffnet ein Kontextmenü zur Auswahl des gewünschten Feldnamens. Per Klick auf den Bedingungstyp kann der Typ ausgewählt werden. Folgende Bedingungstypen stehen zur 
 Verfügung:
 
-
-entspricht einem der folgenden Werte
-enthält
-endet mit
-beginnt mit
-ist leer
-ist nicht leer
-
+ - entspricht einem der folgenden Werte  
+ - endet mit 
+ - beginnt mit
+ - ist leer
+ - ist nicht leer
 
 Schließlich werden in den Eingabefeldern die Vergleichswerte der jeweiligen Bedingung eingetragen.
 
