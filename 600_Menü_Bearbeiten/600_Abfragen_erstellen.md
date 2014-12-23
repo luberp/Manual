@@ -63,10 +63,13 @@ ausgewählt werden.</p>
 
 <p>Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  CSV oder  Excel exportiert werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1419342669871.png" alt="" title="">  <br>
-Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen. <br>
-<img src="http://xpecto.github.io/docs/img/img_1419345799957.png" alt="" title=""> <br>
-Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank oder zwischen Datenbanken.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1419342669871.png" alt="" title=""> </p>
+
+<p>Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1419345799957.png" alt="" title=""></p>
+
+<p>Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank oder zwischen Datenbanken.</p>
 
 <p>Über die Schaltfläche Kampagne kann eine Kapagne gestartet werden (siehe Kampagne). Startet eine neue Kampagne für den Massendruck oder andere Massenfunktionen.</p>
 
