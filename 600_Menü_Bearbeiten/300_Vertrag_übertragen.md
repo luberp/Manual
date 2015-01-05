@@ -2,4 +2,5 @@
 
 ![](http://xpecto.github.io/docs/img/img_1420452519984.png)
 
+Die Maske Vertrag übertragen ermöglicht das Suchen nach dem Kundendaten oder nach Vertragsdaten.
 Der übertragene Vertrag bekommt automatisch den Status übertragen.
