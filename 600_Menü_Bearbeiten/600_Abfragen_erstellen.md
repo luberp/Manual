@@ -60,13 +60,15 @@ Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefü
 
 Wählen Sie das Produkt aus, zu dem die Datensätze importiert werden sollen. 
 
-Klicken Sie auf die Schaltfläche 
-![](http://xpecto.github.io/docs/img/img_1421152862771.png)
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421152862771.png)
 um die zu importierende Datei auszuwählen.
 
 Je nach Dateiformat der zu importierenden Daten müssen die Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format.  
 Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421159835110.png) werden die Importdaten als Tabelle angezeigt. 
-Starten sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421159892128.png).
+Starten sie den Import durch die Schaltfläche 
+
+![](http://xpecto.github.io/docs/img/img_1421159892128.png).
+
 
 
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
