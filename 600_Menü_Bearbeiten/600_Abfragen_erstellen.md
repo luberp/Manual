@@ -7,5 +7,5 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p><img src="http://xpecto.github.io/docs/img/img_1421156562180.png" alt="" title=""></p></div></body>
+<body><div class="container"><p><img src="http://xpecto.github.io/docs/img/img_1421156777229.png" alt="" title=""></p></div></body>
 </html>
