@@ -82,8 +82,9 @@ Starten sie den Import durch die Schaltfläche.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1419345799957.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1421157289055.png" alt="" title=""> <br>
-<img src="http://xpecto.github.io/docs/img/img_1421157289055.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1421157289055.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1421157289055.png" alt="" title=""></p>
 
 <p>Beenden Sie den Abfrageeditor mit <img src="http://xpecto.github.io/docs/img/img_1419346860827.png" alt="" title="">.</p>
 
