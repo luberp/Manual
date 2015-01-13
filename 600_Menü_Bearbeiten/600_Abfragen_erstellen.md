@@ -44,7 +44,6 @@ In diesem Beispiel sind Adresse, Bezeichner, Kundennummer des Kunden, Adresse un
 
 Klicken sie nun erneut auf *Weiter*, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
 
-![](http://xpecto.github.io/docs/img/img_1419342241688.png)
 
 ![](http://xpecto.github.io/docs/img/img_1421155722737.png)
 
