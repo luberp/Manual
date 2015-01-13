@@ -1,3 +1,8 @@
+
+Kampagne Massenaktion Berichte drucken Veranstaltung
+Die Weitergabe der Daten ist nun denkbar einfach. Ein Klick auf "Excel" oder "CSV" öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterbearbeiten.
+Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktionen wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung.
+
 Wiedervorlagen können zu Kunden, Verträgen und Vermittlern angelegt werden. Um das Fenster Wiedervorlage ein- bzw. auszublenden, klicken Sie im
 Menü auf _Bearbeiten-&gt;Wiedervorlage_. Das Wiedervorlage-Fenster wird in der Hauptmaske links unter der Kunden- bzw. Vermittlerliste
 eingeblendet.
