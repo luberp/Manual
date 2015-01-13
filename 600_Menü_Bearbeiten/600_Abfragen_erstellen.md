@@ -13,9 +13,7 @@ eine oder mehrere Bedingungen treffen zu (OR)
 
 Über die Schaltfläche “Feld hinzufügen” wird einem Block eine Bedingung hinzugefügt. Über die Schaltfläche “Block hinzufügen” wird einem Block ein Unterblock hinzugefügt. Auf diese Weise kann für einen Teil der Bedingungen ein anderer Gruppierungstyp verwendet werden.
 
-Die Schaltfläche
-<img src="http://xpecto.github.io/docs/img/img_1419329462773.png" alt="" title=""> 
-löscht eine Bedingungszeile.
+Die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1419329462773.png" alt="" title=""> löscht eine Bedingungszeile.
 
 Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepasst werden. Ein Klick auf den Feldnamen öffnet ein Kontextmenü zur Auswahl des gewünschten Feldnamens. Per Klick auf den Bedingungstyp kann der Typ ausgewählt werden. Folgende Bedingungstypen stehen zur 
 Verfügung:
@@ -46,7 +44,8 @@ In diesem Beispiel sind Adresse, Bezeichner, Kundennummer des Kunden, Adresse un
 
 Klicken sie nun erneut auf Weiter, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
 
-<img src="http://xpecto.github.io/docs/img/img_1419342241688.png" alt="" title=""> 
+<img src="http://xpecto.github.io/docs/img/img_1419342241688.png" alt="" title="">
+
 Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  CSV, SQL oder Excel weitergegeben werden. 
 Die Weitergabe der Daten ist  einfach. Ein Klick auf “Excel” oder “CSV” öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
 Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche Kampagne kann eine Kapagne gestartet werden (siehe Kampagne). 
