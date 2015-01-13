@@ -71,4 +71,4 @@ Starten sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/
 Nachdem Sie die folgende Meldung mit OK bestätigt haben sind die angezeigten Daten importiert. 
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
 
-Beenden Sie den Abfrageeditor mit ![](http://xpecto.github.io/docs/img/img_1419346860827.png).
+Durch Betätigung on Beenden können Sie den Abfrageeditor beenden.
