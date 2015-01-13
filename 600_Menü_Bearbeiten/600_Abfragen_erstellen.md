@@ -51,13 +51,11 @@ Die dargestellten Datensätze können über Betätigung der entsprechenden Schal
 Die Weitergabe der Daten ist  einfach. Ein Klick auf "Excel" oder "CSV" öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
 Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktionen wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung.
 
+Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen.
 <img src="http://xpecto.github.io/docs/img/img_1419342669871.png" alt="" title="">
 
-Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen.
-
-<img src="http://xpecto.github.io/docs/img/img_1419345799957.png" alt="" title="">
-
 Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank oder zwischen Datenbanken.
+<img src="http://xpecto.github.io/docs/img/img_1419345799957.png" alt="" title="">
 
 Über die Schaltfläche Kampagne kann eine Kapagne gestartet werden (siehe Kampagne). Startet eine neue Kampagne für den Massendruck oder andere Massenfunktionen.
 
