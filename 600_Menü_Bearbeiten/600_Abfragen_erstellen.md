@@ -34,17 +34,20 @@ Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 b
 Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile folgendermaßen an: Klicken Sie auf den Feldnamen Vertrags-Nr und wählen im darauf folgenden Kontextmenü das Feld Vertriebspartner Betreuer-Nr. Tragen Sie in das Eingabefeld die Vermittlernummer ein.
 
 ![](http://xpecto.github.io/docs/img/img_1419332163233.png) 
+
 Legen Sie über “*Feld hinzufügen*” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder Produkte Produktname und Vertragsdaten  Abschlussdatum und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.
 
 Klicken sie nun auf Weiter. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch anhaken ausgewählt werden.
 
 
  ![](http://xpecto.github.io/docs/img/img_1419341604703.png) 
+
 In diesem Beispiel sind Adresse, Bezeichner, Kundennummer des Kunden, Adresse und Bezeichner des Vertriebspartners ausgewählt.
 
 Klicken sie nun erneut auf *Weiter*, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
 
  ![](http://xpecto.github.io/docs/img/img_1421159395437.png) 
+
 Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  CSV, SQL oder Excel weitergegeben werden. 
 Die Weitergabe der Daten ist  einfach. Ein Klick auf “*Excel*” oder “*CSV*” öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
 Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche Kampagne kann eine Kapagne gestartet werden (siehe Kampagne). 
@@ -52,6 +55,7 @@ Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Scha
 Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefügt. 
 
  ![](http://xpecto.github.io/docs/img/img_1419342669871.png) 
+
 Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank oder zwischen Datenbanken. 
 
  ![](http://xpecto.github.io/docs/img/img_1419345799957.png) 
@@ -62,11 +66,9 @@ Klicken Sie auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1421
 
 Je nach Dateiformat der zu importierenden Daten müssen die Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. 
 Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421159835110.png) werden die Importdaten als Tabelle angezeigt.  
-Starten sie den Import durch die Schaltfläche 
-![](http://xpecto.github.io/docs/img/img_1421159892128.png).
+Starten sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421159892128.png).
 
 Nachdem Sie die folgende Meldung mit OK bestätigt haben sind die angezeigten Daten importiert. 
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
 
-Beenden Sie den Abfrageeditor mit 
-![](http://xpecto.github.io/docs/img/img_1419346860827.png).
+Beenden Sie den Abfrageeditor mit ![](http://xpecto.github.io/docs/img/img_1419346860827.png).
