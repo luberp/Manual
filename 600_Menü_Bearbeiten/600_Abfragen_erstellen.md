@@ -69,6 +69,7 @@ Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. Mit d
 Starten sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421159892128.png).
 
 Nachdem Sie die folgende Meldung mit OK bestätigt haben sind die angezeigten Daten importiert. 
+
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
 
 Durch Betätigung on Beenden können Sie den Abfrageeditor beenden.
