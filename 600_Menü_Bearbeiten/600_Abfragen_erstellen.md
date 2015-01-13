@@ -45,7 +45,7 @@ Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 b
 
 <p><img src="http://xpecto.github.io/docs/img/img_1419332163233.png" alt="" title=""></p>
 
-<p>Legen Sie über “<em>Feld hinzufügen</em>” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder Produktname und Abschlussdatum und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.</p>
+<p>Legen Sie über “<em>Feld hinzufügen</em>” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder Produkte Produktname und Vertragsdaten  Abschlussdatum und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.</p>
 
 <p>Klicken sie nun auf <em>Weiter</em>. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch anhaken ausgewählt werden.</p>
 
@@ -71,14 +71,15 @@ Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefü
 
 <p>Wählen Sie das Produkt aus, zu dem die Datensätze importiert werden sollen. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1421152862771.png" alt="" title=""></p>
+<p>Klicken Sie auf die Schaltfläche  <br>
+<img src="http://xpecto.github.io/docs/img/img_1421152862771.png" alt="" title=""> <br>
+um die zu importierende Datei auszuwählen.</p>
 
-<p>um die zu importierende Datei auszuwählen.  <br>
-Je nach Dateiformat der zu importierenden Daten müssen die Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. <br>
-Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. Mit der Schaltfläche (Bild) werden die Importdaten als Tabelle angezeigt.  <br>
-Starten sie den Import durch die Schaltfläche.</p>
+<p>Je nach Dateiformat der zu importierenden Daten müssen die Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. <br>
+Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1421159835110.png" alt="" title=""> werden die Importdaten als Tabelle angezeigt.  <br>
+Starten sie den Import durch die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1421159892128.png" alt="" title="">.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1419345799957.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1421160002075.png" alt="" title=""></p>
 
 <p>Beenden Sie den Abfrageeditor mit <img src="http://xpecto.github.io/docs/img/img_1419346860827.png" alt="" title="">.</p>
 
