@@ -11,7 +11,7 @@ Bedingungszeilen sind in Blöcken zusammengefasst. Am oberen Rand eines Blocks w
 jede der Bedingungen trifft zu (AND)  
 eine oder mehrere Bedingungen treffen zu (OR)
 
-Über die Schaltfläche “Feld hinzufügen” wird einem Block eine Bedingung hinzugefügt. Über die Schaltfläche “Block hinzufügen” wird einem Block ein Unterblock hinzugefügt. Auf diese Weise kann für einen Teil der Bedingungen ein anderer Gruppierungstyp verwendet werden.
+Über die Schaltfläche “*Feld hinzufügen*” wird einem Block eine Bedingung hinzugefügt. Über die Schaltfläche “Block hinzufügen” wird einem Block ein Unterblock hinzugefügt. Auf diese Weise kann für einen Teil der Bedingungen ein anderer Gruppierungstyp verwendet werden.
 
 Die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1419329462773.png" alt="" title=""> löscht eine Bedingungszeile.
 
@@ -30,8 +30,7 @@ Betrachten wir folgendes Beispiel:
 
 Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 bis 31.12.2014 Verträge des Produkts “TRI1, Top Return Invest I” abgeschlossen hat.
 
-<p>Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile folgendermaßen an: Klicken Sie auf den Feldnamen Vertrags-Nr und wählen im darauf folgenden Kontextmenü das Feld Vertriebspartner Betreuer-Nr. Tragen Sie in das Eingabefeld die Vermittlernummer ein.
-
+Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile folgendermaßen an: Klicken Sie auf den Feldnamen Vertrags-Nr und wählen im darauf folgenden Kontextmenü das Feld Vertriebspartner Betreuer-Nr. Tragen Sie in das Eingabefeld die Vermittlernummer ein.
 
 <img src="http://xpecto.github.io/docs/img/img_1419332163233.png" alt="" title="">
 
