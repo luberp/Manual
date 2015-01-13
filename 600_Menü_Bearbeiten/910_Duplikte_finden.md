@@ -7,3 +7,9 @@ Falscherfassungen.
 
 Aus Gründen der Historisierung und Nachvollziehbarkeit werden Datensätze, die bereits mit anderen Datensätzen verknüpft sind, nicht aus
 der Datenbank gelöscht, sondern nur durch einen entsprechenden Status (wie z.B. Storno oder ausgeschieden) gekennzeichnet.
+
+Eine saubere Datenbasis erleichtert die Arbeit ungemein. Ein häufiges Problem bei der Erfassung von Daten ist die doppelte Eingabe von Kunden, Vertriebspartner oder anderen Adressen.
+
+Mit dem xpecto Werkzeug "Duplikate finden" können Sie elegant doppelte Adressen suchen, finden und zusammenführen.
+
+Um das Werkzeug zu benutzen wählen Sie "Bearbeiten"/"Duplikate finden". Sie wählen nun die Datenbasis wie z.B. Kundendaten. Das System listet nach kurzer Wartezeit die gefundenen Duplikate auf und zeigt die Unterschiede der beiden Datensätze an. Sie können nun die entsprechenden Daten verändern oder die zu übernehmenden Datenfelder auswählen. Mit einem Klick auf "Duplikat auflösen" wird ein Datensatz entfernt und der verbleibende Datensatz aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den neuen Kunden übertragen.
