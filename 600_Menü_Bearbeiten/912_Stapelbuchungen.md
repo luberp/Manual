@@ -15,7 +15,7 @@ Die Stapelbuchungs-Maske ist das zentrale Werkzeug zur Verwaltung von Buchungsda
  -  Buchungen festschreiben
  -  Buchungen exportieren
  
- Die Stapelbuchungs-Maske kann jeweils für ein bestimmtes Produkt geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der Stapelbuchungs-Maske ein Produkt-Auswahl-Dialog angezeigt. Das gewählte Produkt wird in der Titelzeile des Stapelbuchungs-Dialog angezeigt. Solange der Dialog geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
+Die Stapelbuchungs-Maske kann jeweils für ein bestimmtes Produkt geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der Stapelbuchungs-Maske ein Produkt-Auswahl-Dialog angezeigt. Das gewählte Produkt wird in der Titelzeile des Stapelbuchungs-Dialog angezeigt. Solange der Dialog geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
  Jeder Funktionsbereich der Stapelbuchungs-Maske definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist eine Buchungsliste sowie eine Berarbeitungs-Maske zum Anzeigen bzw. Bearbeiten einer Buchung.
 
 
