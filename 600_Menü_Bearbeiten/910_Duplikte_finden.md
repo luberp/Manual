@@ -1,8 +1,9 @@
-Über diesen Menüpunkt werden die Duplikate gesucht. Es gibt die Möglichkeit nach Duplikate in Kundendaten, Vertriebspartner und Kontoverbindungen zu suchen.
-
+Mit zunehmendem Alter der Datenbank enstehen Duplikaten, besonders wenn mehrere Benutzer Daten eingeben. Unter Duplikate finden können Duplikate gesucht und aufgelöst, damit kann die Genauigkeit Ihrer Daten erhöht werden.
+Es gibt die Möglichkeit nach Duplikate in Kundendaten, Vertriebspartner und Kontoverbindungen zu suchen.
 
 ![](http://xpecto.github.io/docs/img/img_1421242451087.png)
 
+Duplikate auflösen
 "Wollen Sie den Datensatz ....wirklich löschen?" mit _Ja_ wird der Datensatz aus der Datenbank gelöscht. Es können nur neu
 erfasste Datensätze, bzw. Datensätze, auf die noch nicht von anderen Datensätzen verwiesen wird, gelöscht werden. Im speziellen
 heißt dies z.B., dass ein Vermittler, der bereits einen Vertrag verkauft hat, ein Kunde, zu dem bereits ein Vertrag erfasst ist, oder ein Vertrag, zu
