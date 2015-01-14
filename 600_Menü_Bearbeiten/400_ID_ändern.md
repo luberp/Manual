@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Über diesen Menüpunkt kann die Vermittler -, Kunden- oder Vertrags-ID geändert werden.  <br>
+<body><div class="container"><p>Über diesen Menüpunkt kann die Vermittler -, Kunden- oder Vertrags-ID geändert werden. <br>
 Um eine ID zu ändern wählen Sie das Menü ► ID ändern. Sie werden aufgefordert eine Nummer einzugeben. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1421233957681.png" alt="" title=""></p>
