@@ -8,6 +8,7 @@ Wählen Sie hier Kontoverbindungen.
 ![](http://xpecto.github.io/docs/img/img_1421247350050.png)
 
 Bitte klicken Sie auf die jeweiligen Werte, die in den neuen Datensatz übernehmen werden sollen.
+
 ![](http://xpecto.github.io/docs/img/img_1421247414670.png)
 
 Duplikate auflösen
