@@ -2,7 +2,9 @@ Mit zunehmendem Alter der Datenbank enstehen Duplikaten, besonders wenn mehrere 
 Es gibt die Möglichkeit nach Duplikate in Kundendaten, Vertriebspartner und Kontoverbindungen zu suchen.
 
 ![](http://xpecto.github.io/docs/img/img_1421242451087.png)
+
 Wählen Sie hier Kontoverbindungen.
+
 ![](http://xpecto.github.io/docs/img/img_1421247350050.png)
 
 Bitte klicken Sie auf die jeweiligen Werte, die in den neuen Datensatz übernehmen werden sollen.
