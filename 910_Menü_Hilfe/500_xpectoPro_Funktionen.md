@@ -1,0 +1,1 @@
+xpectoPro Funktionen enthält ein Link auf der Homepage wo die jFunktionen detailliert beschrieben sind.
