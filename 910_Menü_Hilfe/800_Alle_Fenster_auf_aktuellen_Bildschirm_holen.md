@@ -1,0 +1,1 @@
+Alle Fenster auf dem aktuellen Bildschirm holen wird verwenden wenn der Kunde mehrere Bildschirme hat, und der Support Fernzugriff zu ermöglichen und damit alle geöffnete Fenster sichtbar auf einen Bildschirm sind.
