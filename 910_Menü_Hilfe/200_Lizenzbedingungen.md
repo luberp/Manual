@@ -1,0 +1,3 @@
+Wir entwicklen Software auf dem technisch aktuellsten Stand. xpecto verwendet die jeweils aktuellen Entwicklungswerkzeuge und integriert und nutzt Module und Komponenten von anderen Entwicklern. An dieser Stelle möchten wir auf die einzelnen Projekte hinweisen und uns öffentlich für die Leistungen der einzelnen Entwickler bedanken.
+Unter Lizenzbedingungen werden die Lizenzinformationen für xpectoPro.
+Open Source Projekte sowie Organisationen deren Informationen benutzt wurden.
