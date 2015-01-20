@@ -1,4 +1,1 @@
 xpecto Change-Log enthält ein Link auf der Homepage wo die Änderungen an der Software aufgezeichnet wurden.
-Ein Änderungsprotokoll (englisch Changelog) ist ein Protokoll oder eine Aufzeichnung von Änderungen an einem Projekt, wie beispielsweise einer Software oder einer Website. Das Wort Changelog ist ein aus dem Englischen übernommenes Kofferwort, das sich aus engl. change für Änderung und log für Logbuch zusammensetzt.
-
-Die meisten Open-Source-Projekte beinhalten eine Changelog-Datei in ihren Distributionen. Diese Datei heißt oftmals CHANGELOG, CHANGES, HISTORY, RELEASE-NOTES oder seltener einfach NEWS. Es handelt sich um eine reine Textdatei. Vor allem im Windows-Bereich wird diesen Dateien manchmal auch die Dateiendung .txt angehängt.
