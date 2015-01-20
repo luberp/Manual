@@ -9,8 +9,11 @@ Werte
 Der Reiter Übertragung dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden.
 Dazu müssen Sie Übertragungs-Parameter einstellen.
 ![](http://xpecto.github.io/docs/img/img_1418992717795.png)
+
 Nachdem der Übertrag durchgeführt würde, werden neue Verträge angelegt. Der Vertrag-Status ändert sich auf übertragen.
+
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
+
 Der Vertrag-Status ändert sich danach automatisch auf übertragen.
 
 Buchungsdaten
