@@ -16,7 +16,7 @@ Sie können Kampagnen über Menü Bearbeiten Kampagnen oder über Abfrage erstel
 
 <p>Kampagne <br>
 vordefinierter Verteiler <br>
-individuelle Abfrage <br>
+individuelle Abfrage Abfrage bearbeiten - hier können Sie die schon hinterlegte Abfrage (siehe Abfragen erstellen) bearbeiten, und an Ihre Kampagne anpassen. <br>
 Aktionen: Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres</p>
 
 <p>Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktionen wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung. <br>
@@ -32,7 +32,7 @@ Alle Aktionen, Informationen und Reaktionen in der Kundenakte <br>
 Einfache Auswertungen auf Knopfdruck <br>
 Kampagnenmanagement</p>
 
-<p>Es sollen neue Vertriebspartner gefunden werden. Zu diesem Zweck wurde ein Adressbestand mit potentiellen Vertriebspartnern angelegt. Diese sollen Sie mit einem Mailing informieren. Desweiteren werden Anzeigen geschaltet, die den Weg zu unbekanntem Potential öffnen sollen. Sie sollen die Kampagne steuern und den Erfolg der Kampagne überprüfen.</p>
+<p>Es sollen neue Vertriebspartner gefunden werden. Zu diesem Zweck wurde ein Adressbestand mit potentiellen Vertriebspartnern angelegt. Diese sollen Sie mit einem Mailing informieren. Desweiteren werden Anzeigen geschaltet, die den Weg zu unbekanntem Potential öffnen sollen. </p>
 
 <p>Sie erzeugen eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. Anschließend schreiben Sie alle Teilnehmer der Kampagne per email, Brief oder Fax an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.</p>
 
