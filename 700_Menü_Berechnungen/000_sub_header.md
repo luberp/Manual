@@ -20,4 +20,3 @@ Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger enthalten eine E-Mail oder eine SMS als Benachrichtigung und Hinweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern und in ihrem „Style" erfolgen.
 
 Zusammenfassung
-Die Abrechnung der Provisionen mit xpectoPro kann direkt auf Ihre Anforderungen angepasst werden. Durch unsere Erfahrung im Vertriebsbereich sprechen wir ihre Sprach und können ihre Vertriebsverträge direkt in der Software umsetzen.
