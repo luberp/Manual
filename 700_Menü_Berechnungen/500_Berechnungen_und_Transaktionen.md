@@ -9,16 +9,7 @@
 </head>
 <body><div class="container"><p><img src="http://xpecto.github.io/docs/img/img_1423558893524.png" alt="" title=""></p>
 
-<p>Über diesen Menüpunkt wird der aktuell ausgewählte Kunde, Vertrag oder Vermittler gelöscht. Nach Bestätigung der Warnmeldung <br>
-“Wollen Sie den Datensatz ….wirklich löschen?” mit <em>Ja</em> wird der Datensatz aus der Datenbank gelöscht. Es können nur neu <br>
-erfasste Datensätze, bzw. Datensätze, auf die noch nicht von anderen Datensätzen verwiesen wird, gelöscht werden. Im speziellen <br>
-heißt dies z.B., dass ein Vermittler, der bereits einen Vertrag verkauft hat, ein Kunde, zu dem bereits ein Vertrag erfasst ist, oder ein Vertrag, zu <br>
-dem bereits Buchungen erfasst sind, nicht gelöscht werden kann. Der Zweck dieses Menüpunkts ist lediglich die zeitnahe Löschung von <br>
-Falscherfassungen.</p>
-
-<p>Aus Gründen der Historisierung und Nachvollziehbarkeit werden Datensätze, die bereits mit anderen Datensätzen verknüpft sind, nicht aus <br>
-der Datenbank gelöscht, sondern nur durch einen entsprechenden Status (wie z.B. Storno oder ausgeschieden) gekennzeichnet. <br>
-xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.</p>
+<p>xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.</p>
 
 <p>Die Berechnung der Buchungen wird über den Dialog “Berechnungen”/”Berechnungen und Transaktionen” durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnnahme) ein Ausführungsinterall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung oder eine Verzinsung der monatlichen Endstände). Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte elegant durchführbar.</p>
 
