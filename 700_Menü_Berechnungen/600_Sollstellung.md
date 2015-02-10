@@ -6,8 +6,7 @@ Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellung
 setzen) und erstellen Sie die gewünschte Ausgabedatei. Als Ausgabeformate stehen DTAUS (Standardformat deutscher Banken für den Zahlungsverkehr)
 oder EDIFACT (internationales Standardformat für den Zahlungsverkehr) zur Auswahl.
 
-Nach Auswahl eines entsprechenden Berichts kann über den Button "Abrechnung drucken" eine Abrechnungs-Liste zu dem erstellten Sollbuchungslauf
-ausgegeben werden.
+Nach Auswahl eines entsprechenden Berichts kann über den Button "Abrechnung drucken" eine Abrechnungs-Liste zu dem erstellten Sollbuchungslauf ausgegeben werden.
 
 
 Das Modul Sollstellung berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten.
