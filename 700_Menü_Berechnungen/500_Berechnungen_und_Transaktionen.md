@@ -6,7 +6,7 @@ Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung gef�
 
 Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. 
 Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
-
+Transaktionen sind Sammlung von Werte und Buchungen.
 Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.
 Werte einbuchen resultieren Buchhaltungsdaten.
 Wenn Buchungsdaten vorhanden dann resultiert Transaktionen. Provisionen einfügen Ansprüche berechnen.
