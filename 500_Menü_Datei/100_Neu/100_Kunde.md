@@ -17,3 +17,7 @@ Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet Ihnen
 Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden.  
 Unter dem Reiter Eigenschaften können Bemerkungen zum Kunde festgehalten.  
 Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignissse auch auf Beteiligungsebene angelegt werden.
+
+Jeder Vertriebspartner und jeder Leiter von Vertriebseinheiten möchte die aktuelle Produktion zeitnah einsehen. Die Bereitstellung von Stammdaten über Kunden und Verträge ist daher ein grundlegendes Bedürfnis jedes Vertriebs. Die Daten sollten zeitnah für den Partner sichtbar sein. Für den notwendigen Überblick über den eigenen Kundenstamm können die Listen sortiert und gefiltert werden. 
+
+Zusätzlich zu den Stammdaten möchten viele Vertriebspartner auch Einsicht un den laufenden Schriftverkehr und die Historie der Verträge haben. Die Portale werden hier um die Kundenakten erweitert. Eine Auflistung aller Schriftstücke, E-Mails und Telefonate mit dem Kunden wird sichtbar. Für die Verwaltung ist diese Umstellung ein großer Schritt. Alle Dokumente müssen gescannt und verlinkt werden. Für die schnelle Abarbeitung der Dokumente sind meist Barcode-Systeme geeignet. Die Verwaltung gewinnt dadurch deutlich an Geschwindigkeit und legt gleichzeitig den Grundstein für vollständige elektronische Kundenakten.
