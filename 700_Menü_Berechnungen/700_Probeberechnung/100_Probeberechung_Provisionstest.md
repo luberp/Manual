@@ -22,4 +22,20 @@ Die regelmäßige und korrekte Abrechnung von Provisionen sollte eine Selbstvers
 
 Bei Anlegen von neuen Umsätzen werden die Provisionsmerkmale direkt mit erfasst. Hier ist neben dem Verkäufer des Umsatzes auch ein Tippgeber oder eine Quelle für den Lead zu erfassen.
 
+Bei der Provisionsabrechnungen werden dann alle Merkmale miteinander ausgewertet und daraus der aktuelle Provisionsbetrag ermittelt. Der Betrag wird in der Buchhaltung abgelegt und um weitere Buchungen erweitert, dadurch entsteht die vollständige Abrechnung.
+
+Den Abschluss bilden die Erstellung der steuerlichen Belege und die Auszahlung der fälligen Beträge. Als letzer Schritt müssen die Belege noch den Vertriebspartner mitgeteilt oder zugesendet werden.
+
+Provisionsmodelle
+strukturierte Berechnung
+kleines Programm
+Nutzung aller Daten zur Berechnung
+1. Berechnung der Ansprüche
+2. Berechnung der Auszahlungen
+
+Abrechnung von Provisionen 
+Provisionsvereinbarungen sind die Basis für die Zusammenarbeit mit dem Vertrieb.
+Die zeitnahe und korrekte Abrechnung von Provisionen sollte eine Selbstverständlichkeit für jedes Unternehmen sein. Diese Abläufe können nur gelingen wenn alle Bausteine und Prozesse im Unternehmen optimal abgestimmt zusammenwirken.
+
+
 
