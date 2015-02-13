@@ -31,5 +31,6 @@ Die einzelne Sollbuchungen des Zahlplans werden in jedem Vertrag dargestellt und
 
 Provisionen löschen.
 Belege löschen.
-
+Der Provisionsbeleg stellt den Nachweis für die korrekte Berechnung der Provisionen und die Vollständigkeit der Abrechnung gegenüber dem Vertriebspartner dar. Das Dokument sollte klar strukturiert sein und die steuerlichen und die vertrieblichen Anforderungen abdecken. 
+Ein typischer Provisionsbeleg besteht aus zwei Teilen: Der erste Teil der Abrechnung ist die Zusammenfassung auf dem Kontoauszug. Die steuerlichen Belange werden vollständig in diesem Teil dargestellt. Dieser Teil ist für die 
 Abrechnungen drücken.
