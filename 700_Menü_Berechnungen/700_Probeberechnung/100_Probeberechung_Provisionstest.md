@@ -27,11 +27,11 @@ Bei der Provisionsabrechnungen werden dann alle Merkmale miteinander ausgewertet
 Den Abschluss bilden die Erstellung der steuerlichen Belege und die Auszahlung der fälligen Beträge. Als letzer Schritt müssen die Belege noch den Vertriebspartner mitgeteilt oder zugesendet werden.
 
 Provisionsmodelle
-strukturierte Berechnung
-kleines Programm
-Nutzung aller Daten zur Berechnung
-1. Berechnung der Ansprüche
-2. Berechnung der Auszahlungen
+ - strukturierte Berechnung
+ - kleines Programm
+ - Nutzung aller Daten zur Berechnung
+ - 1. Berechnung der Ansprüche
+ - 2. Berechnung der Auszahlungen
 
 Abrechnung von Provisionen 
 Provisionsvereinbarungen sind die Basis für die Zusammenarbeit mit dem Vertrieb.
