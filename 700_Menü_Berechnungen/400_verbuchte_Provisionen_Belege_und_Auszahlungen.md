@@ -31,4 +31,5 @@ Die einzelne Sollbuchungen des Zahlplans werden in jedem Vertrag dargestellt und
 
 Provisionen löschen.
 Belege löschen.
+
 Abrechnungen drücken.
