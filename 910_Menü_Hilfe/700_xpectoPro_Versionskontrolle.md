@@ -1,2 +1,1 @@
-
-![](http://xpecto.github.io/docs/img/img_1421747335009.png)
+Die Versionskontrolle ist für den internen Support gedacht und wird nur von xpecto Mitarbeiter verwendet.

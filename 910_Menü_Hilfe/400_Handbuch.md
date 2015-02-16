@@ -1,1 +1,1 @@
-Hilfe Handbuch enthält ein Link auf dieses Handbuch.
+Menüpunkt Handbuch enthält ein Link auf dieses Handbuch.

@@ -1,29 +1,11 @@
 Dieses Modul dient dem Import von Verträgen einschließlich Kundenstammdaten.
 
-Wählen Sie das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine
-Produktspalte, setzen Sie in der Checkbox _"Datei enthält Produktspalte"_ ein Häkchen. Hierdurch entfällt die Auswahl des
-Produkts. Klicken Sie auf die Schaltfläche
-![](http://xpecto.github.io/docs/img/img118.png)
-um die zu importierende Datei auszuwählen.
+Wählen Sie das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in der Checkbox _"Datei enthält Produktspalte"_ ein Häkchen. Hierdurch entfällt die Auswahl des Produkts. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img118.png) um die zu importierende Datei auszuwählen.
 
-Je nach Dateiformat der zu importierenden Daten müssen das Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der
-Auswahlfelder entspricht dem Import einer Datei im CSV Format. Unter _"Prozedur"_ wird die zur Verarbeitung der Daten zu verwendende
-Import-Prozedur ausgewählt. Import-Prozeduren müssen vorher vom xpecto Kundensupport hinterlegt werden. Enthalten die zu importierenden Daten
-Datensätze, die sich bereits in der verwendeten Datenbank befinden, so setzen Sie ein Häkchen bei	_"vorhandene Kunden und Verträge aktualisieren"_. Dies verhindert die doppelte Anlage bereits vorhandener Datensätze (bereits
-vorhandene Datensätze werden durch einen Abgleich-Algorithmus erkannt und aktualisiert). Unter _"Schritt 2: Importparameter festlegen"_
-kann angegeben werden, dass fehlende Verträge, Kunden oder Vermittler angelegt werden sollen. Andernfalls werden nur bestehende Datensätze
-aktualisiert.
+Je nach Dateiformat der zu importierenden Daten müssen das Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung derAuswahlfelder entspricht dem Import einer Datei im CSV Format. Unter _"Prozedur"_ wird die zur Verarbeitung der Daten zu verwendende Import-Prozedur ausgewählt. Import-Prozeduren müssen vorher vom xpecto Kundensupport hinterlegt werden. Enthalten die zu importierenden Daten Datensätze, die sich bereits in der verwendeten Datenbank befinden, so setzen Sie ein Häkchen bei	_"vorhandene Kunden und Verträge aktualisieren"_. Dies verhindert die doppelte Anlage bereits vorhandener Datensätze (bereits vorhandene Datensätze werden durch einen Abgleich-Algorithmus erkannt und aktualisiert). Unter _"Schritt 2: Importparameter festlegen"_ kann angegeben werden, dass fehlende Verträge, Kunden oder Vermittler angelegt werden sollen. Andernfalls werden nur bestehende Datensätze aktualisiert.
 
 ![](http://xpecto.github.io/docs/img/img171.png)
 
-Mit der Schaltfläche
-![](http://xpecto.github.io/docs/img/img172.png)
-werden die Importdaten (bei Verwendung der richtigen Trennzeichen bzw. Textzeichen) als Tabelle angezeigt. Weisen sie nun die Spalten der Importdatei den
-passenden Spalten der Datenbank zu. Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche
-![](http://xpecto.github.io/docs/img/img173.png)
-.
+Mit der Schaltfläche![](http://xpecto.github.io/docs/img/img172.png) werden die Importdaten (bei Verwendung der richtigen Trennzeichen bzw. Textzeichen) als Tabelle angezeigt. Weisen sie nun die Spalten der Importdatei den passenden Spalten der Datenbank zu. Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img173.png).
 
-Der erfolgreiche Import der Kundendaten und Vertragsdaten wird durch eine Message-Box unter Angabe der Anzahl der importierten Kunden und Verträge
-bestätigt. Bei Fehlschlagen des Imports eines oder mehrerer Datensätze (z.B. aufgrund fehlerhafter Daten) wird eine entsprechende Meldung
-angezeigt, und der komplette Import abgebrochen. Prüfen Sie in diesem Fall die zu importierende Datei auf Korrektheit, oder wenden Sie sich an den
-xpecto Kundensupport.
+Der erfolgreiche Import der Kundendaten und Vertragsdaten wird durch eine Message-Box unter Angabe der Anzahl der importierten Kunden und Verträge bestätigt. Bei Fehlschlagen des Imports eines oder mehrerer Datensätze (z.B. aufgrund fehlerhafter Daten) wird eine entsprechende Meldung angezeigt, und der komplette Import abgebrochen. Prüfen Sie in diesem Fall die zu importierende Datei auf Korrektheit, oder wenden Sie sich an den xpecto Kundensupport.
