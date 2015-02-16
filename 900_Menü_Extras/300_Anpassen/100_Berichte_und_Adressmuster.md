@@ -14,6 +14,7 @@ Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet.
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086630188.png) wird eine neue Gruppe angelegt. 
 
 ![](http://xpecto.github.io/docs/img/img_1424086718173.png)
+
 Geben Sie den Namen für die neue Gruppe ein und bestätigen Sie mit OK. Anschließend muss die neue Gruppe gespeichert werden.
  
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png) wird ein neuer Bericht angelegt.
