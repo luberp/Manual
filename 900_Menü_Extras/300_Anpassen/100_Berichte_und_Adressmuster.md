@@ -1,9 +1,32 @@
-Über diesen Menüpunkt wird der aktuell ausgewählte Kunde, Vertrag oder Vermittler gelöscht. Nach Bestätigung der Warnmeldung
-"Wollen Sie den Datensatz ....wirklich löschen?" mit _Ja_ wird der Datensatz aus der Datenbank gelöscht. Es können nur neu
-erfasste Datensätze, bzw. Datensätze, auf die noch nicht von anderen Datensätzen verwiesen wird, gelöscht werden. Im speziellen
-heißt dies z.B., dass ein Vermittler, der bereits einen Vertrag verkauft hat, ein Kunde, zu dem bereits ein Vertrag erfasst ist, oder ein Vertrag, zu
-dem bereits Buchungen erfasst sind, nicht gelöscht werden kann. Der Zweck dieses Menüpunkts ist lediglich die zeitnahe Löschung von
-Falscherfassungen.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>100_Berichte_und_Adressmuster.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Bearbeiten Berichte erzeugen. <br>
+Anpasssen: Berichte und Adressmuster → Berichte, Adressmuster, Textbausteine, individuelle Schreiben <br>
+Symbolleiste: Speichern, Berichtsgruppen neu anlegen, Berichte neu anlegen, Adressmuster neu anlegen, Textbausteine neu anlegen, Individuelle Schreiben neu anlegen, Aktuellen Datensatz löschen, Bericht importieren, Bericht exportieren. <br>
+Symbol: Bericht erzeugen: generiert nur den Bericht. <br>
+Symbol: Bericht bearbeiten: generiert die Vorlage die man danach bearbeiten kann. <br>
+integrierter Berichtsgenerator ist Active Report. <br>
+Berichte: Allgemein, Entwurf, Abfrage, Zusatzdaten, Kategorien, Versandoptionen.</p>
 
-Aus Gründen der Historisierung und Nachvollziehbarkeit werden Datensätze, die bereits mit anderen Datensätzen verknüpft sind, nicht aus
-der Datenbank gelöscht, sondern nur durch einen entsprechenden Status (wie z.B. Storno oder ausgeschieden) gekennzeichnet.
+<p>Alle Ausdrücke, die mit xpectoPro erstellt werden (wie z.B. Provisionsabrechnungen, Kundenanschreiben, Auswertungen, etc.) basieren auf gespeicherten Vorlagen, die über die integrierte Berichtsgenerator ActiveReports von Data Dynamics, über den Word-Editor erstellt werden oder es gibt hier aktuell sieben Möglichkeiten. <br>
+Die Vorlagen für Ausdrücke und Schreiben werden deshalb im folgenden (und auch bei der Kommunikation mit dem xpecto Kundensupport) als Berichte bezeichnet. Jeder Bericht besteht aus einem Layout, einer Datenbankabfrage sowie eigenen Konfigurationsparametern. Dieser Menüpunkt startet den Berichtsdesigner, mit dem Berichte angelegt, geändert und gelöscht werden können.</p>
+
+<p>Berichte und Berichtsgruppen Anlegen <br>
+Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet.  <br>
+Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424086630188.png" alt="" title=""> wird eine neue Gruppe angelegt. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1424086718173.png" alt="" title=""> <br>
+Geben Sie den Namen für die neue Gruppe ein und bestätigen Sie mit OK. Anschließend muss die neue Gruppe gespeichert werden.</p>
+
+<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424086982407.png" alt="" title=""> wird ein neuer Bericht angelegt. <br>
+<img src="http://xpecto.github.io/docs/img/img_1424087138299.png" alt="" title=""></p>
+
+<p>Ein neuer Bericht kann entweder ein leerer Bericht eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage. In jedem Fall muss der Name für den neuen Bericht angegeben werden, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis dazu.</p></div></body>
+</html>
