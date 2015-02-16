@@ -19,4 +19,4 @@ Die Buchhaltung für jeden Vertriebspartner ermöglicht die Buchung von zusätzl
 Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger enthalten eine E-Mail oder eine SMS als Benachrichtigung und Hinweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern und in ihrem „Style" erfolgen.
 
-Zusammenfassung
+
