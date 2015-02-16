@@ -4,8 +4,6 @@ Hier finden Sie allgemeine Konfigurationseinstellungen.
 
 ![](http://xpecto.github.io/docs/img/img179.png) 
 
-> Blockquote
-
 
  Einstellungen sollten nur vom xpecto Kundensupport verändert werden. Es wird empfohlen, diesen Menüpunkt für normale Benutzer über die Rechteverwaltung zu deaktivieren!
 
