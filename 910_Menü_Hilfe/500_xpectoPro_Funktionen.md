@@ -1,9 +1,1 @@
-Menüpunkt Funktionen enthält ein Link auf xpecto Homepage wo die einzelne Funktionen detailliert beschrieben sind. 
-Datenerfassung und -bearbeitung
-Wiedervorlagen und Prozessen
-Buchhaltung und Zahlungsverkehr
-Korrespondenz
-Auswertung
-Provisionierung
-Schnittstellen und Anpassbarkeit
-Onlineportale
+Menüpunkt Funktionen enthält ein Link auf xpecto Homepage wo die einzelne Funktionen detailliert beschrieben sind. Datenerfassung und -bearbeitung, Wiedervorlagen und Prozessen, Buchhaltung und Zahlungsverkehr, Korrespondenz, Auswertung, Provisionierung, Schnittstellen und Anpassbarkeit, Onlineportale.
