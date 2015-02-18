@@ -18,6 +18,7 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086630188.png
 Geben Sie den Namen für die neue Gruppe ein und bestätigen Sie mit OK. Anschließend muss die neue Gruppe gespeichert werden.
  
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png) wird ein neuer Bericht angelegt.
+
 ![](http://xpecto.github.io/docs/img/img_1424087138299.png)
 
 Ein neuer Bericht kann entweder ein leerer Bericht eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage. In jedem Fall muss der Name für den neuen Bericht angegeben werden, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis dazu. Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrage generiert und im Bericht hinterlegt. 
