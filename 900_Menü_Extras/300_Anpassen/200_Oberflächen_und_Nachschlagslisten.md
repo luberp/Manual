@@ -1,9 +1,9 @@
 
 Oberflächen
 Vorschau, Designer, Editor, Layout, Code
-Symbolleiste: Formularaufbau neu anlegen, Nachschlagsgruppen neu anlegen, Aktuellen Datensatz löschen, Standardoberfläche laden.
+Symbolleiste: Formularaufbau neu anlegen, Nachschlagsgruppen neu anlegen, Aktuellen Datensatz löschen, Standardoberfläche laden hier wird versucht eine Standardoberfläche zu laden, aus der Liste der schon definierte Standardoberflächen.
 Unter Formularaufbau neu anlegen kann eine neue Oberfläche erstellen hier haben sie die Möglichkeit eine neue Oberfläche anzulegen und zwar leere Oberfläche, Kopie einer bestehenden Oberfläche oder xpecto Vorlagen.
-Nachschlagslisten sind Comboboxen und  Dropdown-Menüs.
+Nachschlagslisten sind Comboboxen und  Dropdown-Menüs für Oberflächen.
 
 Im folgenden Abschnitt ist die Anpassung und Erweitbarkeit von Formulare bzw. Masken der xpectoPro beschrieben.
 
@@ -49,3 +49,6 @@ Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als
 Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede vermeidet Tippfehler bei der Eingabe der Anrede. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen vermieden, die dieses Feld enthalten. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.
 
 Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verbunden. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegrieffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache un mit Hilfe des xpecto Kundensupports angelegt, der auch das zugehörige Skript programmiert. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne Zuhilfenahme des xpecto Kundensupports vom Benutzer durchgeführt werden. 
+
+lookup, propkunden
+ComboBox, SerchBox,
