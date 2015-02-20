@@ -51,5 +51,6 @@ Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und bet�
  ![](http://xpecto.github.io/docs/img/img_1424439295301.png), um eine neue Berechtigungszeile einzuf체gen. In der Auswahlbox Recht wird das gew체nschte Recht ausgew채hlt, und unter Wert die jeweilige Berechtigungsstufe erlauben, verbieten oder default.
  
 Beschreiben die Vorteile von Gruppen-Rechte.
+
 **Batchjobs: Allgemein**
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuf체hrenden Befehlen von dem Betriebsystem in einer Datei aufgef체hrt ist und f체r die Ausf체hrung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
