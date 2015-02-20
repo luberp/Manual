@@ -1,10 +1,5 @@
 
 Symbolleiste: Speichern, Prozesse neu anlegen, Benutzer neu anlegen, Batch-Jobs neu anlegen, Systembenutzer abfragen und speichern, Prozess importieren, Prozess exportieren, Druckvorschau.
-Prozesse: Allgemein, Designer
-
-Batchjobs: Allgemein
-Batchjobs sind automatisierte Prozesse 
-
 
 ----------
 
@@ -31,6 +26,7 @@ Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und bet�
 
 
 ----------
+**Prozesse: Allgemein, Designer**
 Unter Prozesse können Wiedervorlagen, Mahnprozesse, Zeichnung angelegt werden.
 xpectoPro ermöglicht die Integration von Ablaufprozessen in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse.
 Die Prozesse können über einen grafischen Designer erstellt werden. Die Steuerung der Prozesse erfolgt mit einer zentralen „Wiedervorlage-Steuerung" die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den Überblick über alle wichtigen Abläufe.
@@ -60,6 +56,7 @@ erneute Wartezeit
 Kunde hat gezahlt erledigt
 Kunde hat nicht gezahlt nächste Mahnstufe
 
+Prozesse neu anlegen
 **Benutzer: Allgemein, Rechte, Gruppenmitglieder**
 In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandene Benutzer werden automatisch die in der Windows Domäne vorhandene Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an.
 
@@ -71,3 +68,5 @@ Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutze
 
 Geben Sie einen Benutzername ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei Windows Domänen-Benutzern setzt sich der Benutzer aus Domänenname\Benutzername zusammen. Sollten Ihre Benutzer also an einem Domänencontroller angemeldet sein, so berücksichtigen Sie dies bei der Erstellung des Benutzerkontos. Bestätigen Sie mit OK. Nachdem Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424428777473.png) gespeichert haben, wird der neue Benutzer in der Benutzer Liste angezeigt. 
 
+**Batchjobs: Allgemein**
+Batchjobs sind automatisierte Prozesse 
