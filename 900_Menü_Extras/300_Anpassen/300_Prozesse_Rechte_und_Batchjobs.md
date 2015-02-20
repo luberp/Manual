@@ -1,7 +1,7 @@
 
 Symbolleiste: Speichern, Prozesse neu anlegen, Benutzer neu anlegen, Batch-Jobs neu anlegen, Systembenutzer abfragen und speichern, Prozess importieren, Prozess exportieren, Druckvorschau.
 Prozesse: Allgemein, Designer
-Benutzer: Allgemein, Rechte, Gruppenmitglieder
+
 Batchjobs: Allgemein
 Batchjobs sind automatisierte Prozesse 
 
@@ -60,8 +60,13 @@ erneute Wartezeit
 Kunde hat gezahlt erledigt
 Kunde hat nicht gezahlt nächste Mahnstufe
 
+**Benutzer: Allgemein, Rechte, Gruppenmitglieder**
 In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandene Benutzer werden automatisch die in der Windows Domäne vorhandene Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an.
 
 ![](http://xpecto.github.io/docs/img/img_1424427033970.png)
 Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. 
-Systembenutzer abfragen und speichern holt alle Benutzer aus Active Directoy ab und speichert diese.
+
+**Systembenutzer abfragen und speichern** holt alle Benutzer aus Active Directoy ab und speichert diese.
+
+Geben Sie einen Benutzername ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei Windows Domänen-Benutzern setzt sich der Benutzer aus Domänenname\Benutzername zusammen. Sollten Ihre Benutzer also an einem Domänencontroller angemeldet sein, so berücksichtigen Sie dies bei der Erstellung des Benutzerkontos. Bestätigen Sie mit OK. Nachdem Sie mit der 
+
