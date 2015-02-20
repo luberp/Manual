@@ -68,5 +68,7 @@ Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutze
 
 Geben Sie einen Benutzername ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei Windows Domänen-Benutzern setzt sich der Benutzer aus Domänenname\Benutzername zusammen. Sollten Ihre Benutzer also an einem Domänencontroller angemeldet sein, so berücksichtigen Sie dies bei der Erstellung des Benutzerkontos. Bestätigen Sie mit OK. Nachdem Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424428777473.png) gespeichert haben, wird der neue Benutzer in der Benutzer Liste angezeigt. 
 
+Beim Start der Software werden zuerst die Rechte des angemeldeten Benutzers ermittelt und daraufhin nur die Menüpunkte und Karteireiter angezeigt, für die der Benutzer berechtigt ist oder gegebenfalls der Star
+
 **Batchjobs: Allgemein**
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
