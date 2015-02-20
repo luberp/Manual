@@ -32,5 +32,34 @@ Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und bet�
 
 ----------
 Unter Prozesse können Wiedervorlagen, Mahnprozesse, Zeichnung angelegt werden.
+xpectoPro ermöglicht die Integration von Ablaufprozessen in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse.
+Die Prozesse können über einen grafischen Designer erstellt werden. Die Steuerung der Prozesse erfolgt mit einer zentralen „Wiedervorlage-Steuerung" die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den Überblick über alle wichtigen Abläufe.
+Die Einbindung von externen Stellen zur Datenerfassung, zur Prüfung/Compliance oder zur Betreuung ist über Prozesse sehr gut möglich. 
 
-In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden.
+Beispiel Annahmeprozess:
+Erstellung der Verkaufsunterlagen über Webportal durch Vertriebspartner
+Einreichung der Verkaufsunterlagen bei Gesellschaft
+Eingabe der Daten und Unterlagen durch Compliance, Vertreib o.ä.
+nach erfolgreicher Prüfung: Druck und Versand der Begrüßung
+Wartezeit auf Geldeingang, Alarm nach 14 Tagen
+vollständiger Geldeingang
+
+Beispiel Kundenaquise:
+Kunde gibt Daten auf Kontaktformular ein.
+Callcenter ruft Kunden direkt an
+Versand von Unterlagen
+Callcenter ruft Kunden zur Beratung und Fragen an
+Kunde sendet unterschriebenen  Vertrag
+Weiterführung im Annahmeprozess
+
+Beispiel Mahnwesen:
+Kunde erzeugt Rücklastschrift oder zahlt nicht innerhalb eines bestimmten Zeitraums
+Je nach Grund wird Callcenter oder Vertriebspartner aktiv
+Bearbeiter ergänzt weiteres Vorgehen
+erneute Wartezeit
+Kunde hat gezahlt erledigt
+Kunde hat nicht gezahlt nächste Mahnstufe
+
+In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandene Benutzer werden automatisch die in der Windows Domäne vorhandene Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt 
+
+
