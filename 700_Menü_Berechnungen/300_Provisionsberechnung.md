@@ -1,4 +1,26 @@
-Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. Um eine Provisionsberechnung zu erstellen, klicken Sie im Menü auf	_Berechnungen-&gt;Provisionsberechnung_.
+Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. Um eine Provisionsberechnung zu erstellen, klicken Sie im Menü auf	Berechnungen Provisionsberechnungen.
+
+
+----------
+
+Provisionsberechnungen sind Geldansprüche.
+Provisionssätze legen die Höhe der Provisionen fest. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vertriebspartner getrennt hinterlegt werden. Die Pflege über die Karrierestufen ermöglich dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner oder auch für alle Vertriebspartner individuell festlegen möchten, so ist aus dies möglich. Sie können die beiden Formen mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe. 
+
+Berechnungen Ansprüche
+Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vetrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
+
+Berechnungen Zahlungen 
+In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
+
+Buchhaltung Vertreibspartner 
+Die Buchhaltung für jeden Vertriebspartner ermöglicht die Buchung von zusätzlichen Dingen. Vorschüsse, Abschläge, Teilauszahlungen, Negativsalden und Überträge werden automatisch verwaltet und können entsprechend hinterlegt werden. Die Buchung von spezielle Dingen wie: Boni, Einmalprovisionen, Bürokosten, Materialkosten, Leasingsraten können direkt im Dialog erledigt werden und beeinflussen die Auszahlung und werden auf den Belegen in sauberer Form mit ausgewiesen.
+
+Bereitstellung Abrechnung
+Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
+
+
+
+----------
 
 
 ![](http://xpecto.github.io/docs/img/img_1424767790694.png)
