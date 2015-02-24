@@ -1,7 +1,7 @@
 Stapelbuchung
 Stapelbuchungen sind alle Buchungsdaten pro Fond
-Buchungen festschreiben ist ein Änderugsschutz.
-Buchungen exportieren von Nebenbuchhaltung zur Hauptbuchhaltung
+Buchungen festschreiben ist ein Änderungsschutz.
+Buchungen exportieren von Nebenbuchhaltung zur Hauptbuchhaltung.
 
 xpecto eAgentur enthält eine vollständige, zertifizierte Buchhaltung. Alle Einzahlungen, Forderungen, Dividenden, Gebühren und Auszahlungen werden innerhalb der Buchhaltung für jeden Anleger geführt. Die Buchung erfolgt mit einem vom Anwender vorgegebenen Kontenrahmen, typischerweise SKR03 oder SKR04.
 
@@ -16,6 +16,22 @@ Die Stapelbuchungs-Maske ist das zentrale Werkzeug zur Verwaltung von Buchungsda
  -  Buchungen exportieren
  
 Die Stapelbuchungs-Maske kann jeweils für ein bestimmtes Produkt geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der Stapelbuchungs-Maske ein Produkt-Auswahl-Dialog angezeigt. Das gewählte Produkt wird in der Titelzeile des Stapelbuchungs-Dialog angezeigt. Solange der Dialog geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
- Jeder Funktionsbereich der Stapelbuchungs-Maske definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist eine Buchungsliste sowie eine Berarbeitungs-Maske zum Anzeigen bzw. Bearbeiten einer Buchung. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. Die Bearbeitungs-Maske zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder Valutadatum, Vertrag, Ust-Kennz. und Bemerkung. Die Pflichtfelder werden gelbhinterlegt. 
+
+ Jeder Funktionsbereich der Stapelbuchungs-Maske definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist eine Buchungsliste sowie eine Berarbeitungs-Maske zum Anzeigen bzw. Bearbeiten einer Buchung. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. 
+
+Die Bearbeitungs-Maske zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder Valutadatum, Vertrag, Ust-Kennz. und Bemerkung. 
+
+Valutadatum oder Wertstellung bezeichnet das Datum, ab dem Kontobewegungen wirksam werden. Valuta und Wertstellung bedeuten das gleiche, sie unterscheiden sich aber von der Buchung. Das Valutadatum ist das Datum, an dem eine Gutschrift oder Belastung wirksam wird. Das Buchungsdatum informiert nur über Kontoabewegungen, während die Valuta den echten Kontostand anzeigt. 
+Unter Valutadatum wird das Datum erfasst, zu dem der Datensatz bei Berechnungen (wie z.B. Gebührenberechnung) berücksichtigt wird. Dieses kann unter Umständen vom Belegdatum abweichen. Unter Vertrag kann eine Vertrags-Nr. erfasst werden, der die selektierte Buchungen zugeordnet werden soll. Unter USt-Kennz. (Umsatzsteuer-Kennzeichen) kann ein USt-Satz erfasst werden, der bei Berechnungen verwendet werden soll. Dieses Feld enthält nicht die Umsatzsteuer zu der selektierten Buchung. 
+Die in der Software geführte Nebenbuchhaltung unterstützt generell keine USt Behandlung!
+Die Pflichtfelder werden gelbhinterlegt. 
+
+Stapel-Erfassung
+Suchen/Ändern
+Buchungen festschreiben
+Ereignisse
+
+
+ 
  
 
