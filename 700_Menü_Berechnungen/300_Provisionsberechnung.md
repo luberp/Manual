@@ -34,8 +34,8 @@ Mögliche Einschränkungen sind:
 *   Nach Produkt
 *   Nach Tarif
 *   Nach Vertragsnummer
-*   Nach Vermittler
-*   Nach Firma
+*   Nach Betreuernummer
+*   Nach Zahlfirma
 *   Nach Provisionsart
 *   Nach Transaktionsnummer
 
