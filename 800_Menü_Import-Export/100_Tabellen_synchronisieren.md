@@ -2,4 +2,7 @@ Das Synchronisations-Modul dient dem Export von Datensätzen an das xpecto Webpo
 
 Das Einrichten des Synchronisations-Moduls (z.B. Definition der zu übertragenden Tabellen sowie die Freischaltung der Übertragung am xpecto Webserver) ist eine administrative Aufgabe und wird vom xpecto Kundensupport vorgenommen. Dieses Modul kann erst nach Einrichtung durch den xpecto Kundensupport verwendet werden (vorher wird die Übertragung durch den xpecto Webserver blockiert).
 
-![](http://xpecto.github.io/docs/img/img_1421748051531.png)
+![](http://xpecto.github.io/docs/img/img_1421748051531.png).
+
+Hier können die Daten falls gewünscht gefiltert weden, wie z.B. nach Produkt.
+Sie können auch ein Profil anlegen z.B. nuir für bestimmte Daten.
