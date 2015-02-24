@@ -18,10 +18,7 @@ Die Buchhaltung für jeden Vertriebspartner ermöglicht die Buchung von zusätzl
 Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
 
-
-
 ----------
-
 
 ![](http://xpecto.github.io/docs/img/img_1424767790694.png)
 
@@ -39,6 +36,7 @@ Mögliche Einschränkungen sind:
 *   Nach Provisionsart
 *   Nach Transaktionsnummer
 
+„Schwelle für die Auswahl von höhere Provisionen. Bitte geben Sie den entsprechenden Betrag ein."
 Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie bitte auf _PROVISION BERECHNEN_.
 
 ![](http://xpecto.github.io/docs/img/img100.png)
