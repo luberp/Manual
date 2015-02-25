@@ -50,7 +50,7 @@ Spezielle Rechte: Die Rechte „Administrator" und „Poweruser" umfassen alle m
 Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und betätigen Sie die Schaltfläche 
  ![](http://xpecto.github.io/docs/img/img_1424439295301.png), um eine neue Berechtigungszeile einzufügen. In der Auswahlbox Recht wird das gewünschte Recht ausgewählt, und unter Wert die jeweilige Berechtigungsstufe erlauben, verbieten oder default.
  
-Beschreiben die Vorteile von Gruppen-Rechte. Es bietet sich die Möglichkeiten die Rechte für mehrere Benutzer über Gruppen zu verwalten.
+Beschreiben die Vorteile von Gruppen-Rechte. Es bietet sich die Möglichkeit die Rechte für mehrere Benutzer über Gruppen zu verwalten.
 
 
 **Batchjobs: Allgemein**
@@ -67,5 +67,7 @@ Beispiel: Beim Benutzer „Default" sei das Recht zum Start von xpectoPro auf er
 
 Spezielle Rechte: Die Rechte „Administrator" und „Poweruser" umfassen alle möglichen Rechte, d.h. das Setzen eines der beiden Rechte bei einem Benutzer ist äquivalent zum Setzen aller anderen Rechte bei demselben Benutzer. Bei „Poweruser" können einzelne Rechte für den Benutzer durch Setzen des entsprechenden Rechts auf *verbieten* entzogen werden. Im Gegensatz dazu ist dies bei „Administrator" nicht möglich!
 
-Zur Einstellung der Reche 
+Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424439295301.png), um eine neue Berechtigungszeile einzufügen. In der Auswahlbox Recht wird das gewünschte Recht ausgewählt, und unter Wert die jeweilige Berechtigungsstufe erlauben, verbieten oder default.
 
+
+----------
