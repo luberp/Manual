@@ -31,7 +31,9 @@ Unter Ausgabeformat kann optional das Ausgabeformat des Datenfeldes angegeben we
 
 Hier kann man bestimmten Parameter für das Feld angegeben werden. z.B. proxy, R0801 bei Einfügen des Feldes Beschreibung wird auf das Feld R0801 verwiesen, oder eine Unterabfrage sogenannten Subquery (SELECT US_FullName FROM Config_US_Users WHERE US_Group = UG_ContainedUser)).
 Unter 2b. spezielle Felder anlegen werden, falls gewünscht, spezielle Felder angelegt  wie Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz.
+
 ![](http://xpecto.github.io/docs/img/img_1424253034215.png) 
+
 können neue Tabelle zu Vertriebstabellen oder für Produkt/Vertragstabellen angelegt werden.
 
 ![](http://xpecto.github.io/docs/img/img_1424262589171.png)
