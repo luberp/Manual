@@ -54,3 +54,11 @@ Beschreiben die Vorteile von Gruppen-Rechte.
 
 **Batchjobs: Allgemein**
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
+
+
+----------
+Menüpunkt: Prozesse und Rechte
+In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer.
+In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen Sie durch Klick auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an.
+Geben Sie einen Benutzername ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei Windows Domänen-Benutzern setzt sich der Benutzername aus Domänenname\Benutzername zusammen. Sollte Ihre Benutzer also an einem Domänenkontroller angemeldet sein, so berücksichtigen Sie dies bitte bei der Erstellung des Benutzerkontos. Bestätigen Sie mit OK. Nachdem Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424428777473.png) speichern, wird der neue Benutzer in der linken Liste angezeigt. 
+
