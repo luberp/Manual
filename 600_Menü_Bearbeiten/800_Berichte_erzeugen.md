@@ -7,7 +7,8 @@ Bericht erzeugen: generiert nur den Bericht.
 Bericht bearbeiten: Vorlage generiert und bearbeitet.
 Integrierter Berichtsgenerator: Active Reports.
 Um ein neues Bericht zu erstellen, bieten sich in xpectoPro folgende Möglichkeiten: 
-über Bearbeiten Berichte erzeugen oder über die Schaltflache 
+über Bearbeiten Berichte erzeugen oder
+über die Schaltflache 
 ![](http://xpecto.github.io/docs/img/img_1424858324357.png) in der Symbolleiste.
 
 
