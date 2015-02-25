@@ -50,7 +50,8 @@ Spezielle Rechte: Die Rechte „Administrator" und „Poweruser" umfassen alle m
 Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und betätigen Sie die Schaltfläche 
  ![](http://xpecto.github.io/docs/img/img_1424439295301.png), um eine neue Berechtigungszeile einzufügen. In der Auswahlbox Recht wird das gewünschte Recht ausgewählt, und unter Wert die jeweilige Berechtigungsstufe erlauben, verbieten oder default.
  
-Beschreiben die Vorteile von Gruppen-Rechte.
+Beschreiben die Vorteile von Gruppen-Rechte. Es bietet sich die Möglichkeiten die Rechte für mehrere Benutzer über Gruppen zu verwalten.
+
 
 **Batchjobs: Allgemein**
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
@@ -62,4 +63,9 @@ In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das starten der 
 In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen Sie durch Klick auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an.
 Geben Sie einen Benutzername ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei Windows Domänen-Benutzern setzt sich der Benutzername aus Domänenname\Benutzername zusammen. Sollte Ihre Benutzer also an einem Domänenkontroller angemeldet sein, so berücksichtigen Sie dies bitte bei der Erstellung des Benutzerkontos. Bestätigen Sie mit OK. Nachdem Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424428777473.png) speichern, wird der neue Benutzer in der linken Liste angezeigt. 
 Beim Start der Software werden zuerst die Rechte des angemeldeten Benutzers ermittelt und daraufhin nur die Menüpunkte und Karteireiter angezeigt, für die der Benutzer berechtigt ist oder gegebenfalls der Start der Software abgebrochen. Die Ermittlung der Berechtigungen eines angemeldeten Benutzers erfolgt in zwei Stufen. Zuerst werden die Rechte des Benutzer „Default" abgefragt (der Benutzer „Default" wird bei der Installation der Software automatisch angelegt und mit dem Recht „Administrator" ausgestattet). Danach werden die Rechte des tatsächlich angemeldeten Benutzers abgefragt, diese überblenden gegebenenfalls die Rechte des Benutzers Default. 
+Beispiel: Beim Benutzer „Default" sei das Recht zum Start von xpectoPro auf erlauben gesetzt. Bei einem bestimmten Benutzer sei jedoch zusätzlich das Recht zum Start von xpectoPro auf verbieten gesetzt. Dadurch ist allen Windows Benutzern grundsätzlich das starten der Software möglich. Der bestimmte kann jedoch xpectoPro nicht starten, obwohl beim Benutzer „Default" das Recht auf erlauben gesetzt ist.
+
+Spezielle Rechte: Die Rechte „Administrator" und „Poweruser" umfassen alle möglichen Rechte, d.h. das Setzen eines der beiden Rechte bei einem Benutzer ist äquivalent zum Setzen aller anderen Rechte bei demselben Benutzer. Bei „Poweruser" können einzelne Rechte für den Benutzer durch Setzen des entsprechenden Rechts auf *verbieten* entzogen werden. Im Gegensatz dazu ist dies bei „Administrator" nicht möglich!
+
+Zur Einstellung der Reche 
 
