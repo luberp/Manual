@@ -1,18 +1,16 @@
-Verträge werden zum Kunden angelegt. Öffnen Sie die Ansicht Kunden (Karteireiter _Kunden_) und markieren Sie den gewünschten Kunden,
-zu dem Sie einen Vertrag anlegen wollen. Über den Menüpunkt _Datei-&gt;Neu-&gt;Vertrag_ oder die Schaltfläche
-![](http://xpecto.github.io/docs/img/img035.png)
-wird ein neuer Vertrag zum ausgewählten Kunden angelegt. Es erscheint die Eingabeaufforderung "Neuer Datensatz". Wählen Sie ein Produkt und
-geben Sie die gewünschte Vertragsnummer ein. Bestätigen Sie mit _OK_.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700_Einführung_Oberfläche.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft.  <br>
+Symbolleiste: </p>
 
-![](http://xpecto.github.io/docs/img/img036.png)
-![](http://xpecto.github.io/docs/img/img037.png)
-![](http://xpecto.github.io/docs/img/img039.png)
-
-Geben Sie die Daten zum Vertrag wie z.B. Vertragssumme, Laufzeit, Zahlungsintervall usw. ein. Ein entscheidendes Feld ist der Verkäufer. Wählen
-Sie den entsprechenden Vermittler aus der Verkäuferlisteund bestätigen Sie mit
-![](http://xpecto.github.io/docs/img/img041.png)
-.
-
-In der Kundenansicht werden bereits vorhandene Verträge zum Kunden angezeigt. Klicken Sie hierzu auf das Symbol
-![](http://xpecto.github.io/docs/img/img042.png)
-vor dem Kundensymbol.
+<p><img src="http://xpecto.github.io/docs/img/img_1425896546074.png" alt="" title=""> <br>
+neuen Kunde anlegen, neuen Vertrag anlegen, neuen Vermittler anlegen, Adressen neu anlegen, Veranstaltungen neu anlegen, Interessenten neu anlegen, Speichern, Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag), geht zum zuletzt ausgewählten Datensatz zurück, Bericht erzeugen, Bericht bearbeiten, zu den Firmen-Daten, zu den Produkt-Daten, neuen Prozess anlegen, Suchdialog öffnen, Favoriten, Druckvorschau/Seitenansicht, Druckfunktionen, Bericht in Datei Exportieren oder drucken, Dokumente archivieren ein/aus, Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments, Abrechungszeitraum. <br>
+Das Programmfenster teilt sich in zwei Bereiche.</p></div></body>
+</html>
