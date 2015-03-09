@@ -1,9 +1,21 @@
 Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. 
 
 Über den Menüpunkt  *Bearbeiten Berichte erzeugen* wird die xpectoPro Berichtserstellung aufgerufen.
+FFIDs
+Bearbeiten: Bericht erzeugen
+Anpassen: Berichte und Adressmuster
+![](http://xpecto.github.io/docs/img/img_1424860132052.png) Bericht erzeugen.
+![](http://xpecto.github.io/docs/img/img_1424858324357.png)Bericht bearbeiten.
+
+Berichte
+Bericht erzeugen: generiert nur den Bericht.
+Bericht bearbeiten: Vorlage generiert und bearbeitet.
+Integrierter Berichtsgenerator: Active Reports.
+Um ein neues Bericht zu erstellen, bieten sich in xpectoPro folgende Möglichkeiten: 
+über Bearbeiten Berichte erzeugen oder über die Schaltflache ![](http://xpecto.github.io/docs/img/img_1424858324357.png) in der Symbolleiste.
 
 
-Berichte, Adressmuster, Textbausteine, individuelle Schreiben.
+ Adressmuster, Textbausteine, individuelle Schreiben.
 Speichern, Berichtgruppe neu anlegen, Berichte neu anlegen, Adressmuster neu anlegen, Textbausteine neu anlegen, Individuelle Schreiben neu anlegen, Aktuellen Datensatz löschen, Bericht importieren, Bericht exportieren.
 Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet.
 Ordnerstruktur.
@@ -13,8 +25,7 @@ Klicken Sie auf ![](http://xpecto.github.io/docs/img/img070.png) um den gewählt
 
 Mehrseitige Listen oder Auswertungen werden mit den Schaltflächen![](http://xpecto.github.io/docs/img/img072.png) durchblättert.
 
-Der erstellte Bericht kann nun über die Schaltfläche![](http://xpecto.github.io/docs/img/img073.png)
-gedruckt, oder über die Schaltflächen _Word_, _Excel_, _PDF_ und _TIFF_ als Datei im gleichnamigen Format exportiert werden. Soll ein bestimmtes Schreiben vor dem Druck noch nachbearbeitet werden, so bietet es sich z.B. an, den Bericht als Word-Datei zu exportieren, in Microsoft Word die gewünschten Änderungen vorzunehmen und dann direkt von Word aus zu drucken.
+Der erstellte Bericht kann nun über die Schaltfläche![](http://xpecto.github.io/docs/img/img073.png) gedruckt, oder über die Schaltflächen _Word_, _Excel_, _PDF_ und _TIFF_ als Datei im gleichnamigen Format exportiert werden. Soll ein bestimmtes Schreiben vor dem Druck noch nachbearbeitet werden, so bietet es sich z.B. an, den Bericht als Word-Datei zu exportieren, in Microsoft Word die gewünschten Änderungen vorzunehmen und dann direkt von Word aus zu drucken.
 
 Berichte, die von Ihrem Ersteller entsprechend parametrisiert sind, werden zusätzlich als so genannte Favoriten-Berichte in der Hauptmaske von eAgentur auf der Werkzeugleiste angeboten. Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können.
 

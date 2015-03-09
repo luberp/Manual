@@ -1,9 +1,56 @@
-Über diesen Menüpunkt wird der aktuell ausgewählte Kunde, Vertrag oder Vermittler gelöscht. Nach Bestätigung der Warnmeldung
-"Wollen Sie den Datensatz ....wirklich löschen?" mit _Ja_ wird der Datensatz aus der Datenbank gelöscht. Es können nur neu
-erfasste Datensätze, bzw. Datensätze, auf die noch nicht von anderen Datensätzen verwiesen wird, gelöscht werden. Im speziellen
-heißt dies z.B., dass ein Vermittler, der bereits einen Vertrag verkauft hat, ein Kunde, zu dem bereits ein Vertrag erfasst ist, oder ein Vertrag, zu
-dem bereits Buchungen erfasst sind, nicht gelöscht werden kann. Der Zweck dieses Menüpunkts ist lediglich die zeitnahe Löschung von
-Falscherfassungen.
 
-Aus Gründen der Historisierung und Nachvollziehbarkeit werden Datensätze, die bereits mit anderen Datensätzen verknüpft sind, nicht aus
-der Datenbank gelöscht, sondern nur durch einen entsprechenden Status (wie z.B. Storno oder ausgeschieden) gekennzeichnet.
+Oberflächen
+Vorschau, Designer, Editor, Layout, Code
+Symbolleiste: Formularaufbau neu anlegen, Nachschlagsgruppen neu anlegen, Aktuellen Datensatz löschen, Standardoberfläche laden hier wird versucht eine Standardoberfläche zu laden, aus der Liste der schon definierte Standardoberflächen.
+Unter Formularaufbau neu anlegen kann eine neue Oberfläche erstellen hier haben sie die Möglichkeit eine neue Oberfläche anzulegen und zwar leere Oberfläche, Kopie einer bestehenden Oberfläche oder xpecto Vorlagen.
+Nachschlagslisten sind Comboboxen und  Dropdown-Menüs für Oberflächen.
+
+Im folgenden Abschnitt ist die Anpassung und Erweitbarkeit von Formulare bzw. Masken der xpectoPro beschrieben.
+
+**Oberflächen**
+
+In xpectoPro sind alle Eingabenmasken individuell anpassbar. Dies bezieht sich nicht nur auf das Layout der Masken, sondern erstreckt sich auch auf die damit verknüpfte Funktionalitäten. Während das Layout (Anzahl, Anordnung und Beschriftung der Eingabefelder) durchaus von erfahrenen Benutzern geändert werden kann, sollten Änderungen an der Funktionalität nur vom xpecto Kundensupport durchgeführt werden. 
+
+Auf dem Karteireiter Vorschau wird der Name schon sagt einen Vorschau von der Oberfläche dargestellt. 
+Auf dem Karteireiter Vorschau kann jederzeit eine Vorschau der bearbeiteten Maske angezeigt werden, auch ohne die Änderungen vorher zu speichern.
+Sowie die Tabelle aus der die Daten verwerdet wurden, Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen, aktualisieren, vergleichen. 
+Unter die Schaltfläche Mustervorlage ![](http://xpecto.github.io/docs/img/img_1424264077326.png) wird die Mustervorlage für Standard-Positionen und -Größen angezeigt.
+
+Auf dem Karteireiter Designer befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Maske. Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild der Maske nach Ihren Wünschen angepasst werden. 
+Um ein bereits bestehendes Label oder Eingabefeld zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position.
+Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das markierte Icon in der Werkzeugleiste wird das Eingabefeld eingefügt. 
+Speichern Sie die veränderte Oberfläche mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424252432208.png). 
+
+Reichen in einer Tabelle die vorhandenen Felder nicht aus, so können weitere Felder angelegt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424252468984.png) wird ein neues Datenbankfeld angelegt.
+
+![](http://xpecto.github.io/docs/img/img_1424252729534.png).
+
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424252792081.png) kann eine neue Tabelle in der Datenbank angelegt werden. 
+Wählen Sie unter 1. Tabelle wählen die Datenbanktabelle, dier erweitert werden soll. Geben Sie unter 2a. Feld anlegen den gewünschten Feldname, Feldtyp, der benötigten Feldtyp ist abhängig von der Art der Daten , die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: Text, langer Text, Ja/Nein, Datum, Datum und Uhrzeit, Kommazahl, Ganzzahl.
+Unter Ausgabeformat kann optional das Ausgabeformat des Datenfeldes angegeben werden. z.B. Wert #0.00.
+
+Hier kann man bestimmten Parameter für das Feld angegeben werden. z.B. proxy, R0801 bei Einfügen des Feldes Beschreibung wird auf das Feld R0801 verwiesen, oder eine Unterabfrage sogenannten Subquery (SELECT US_FullName FROM Config_US_Users WHERE US_Group = UG_ContainedUser)).
+Unter 2b. spezielle Felder anlegen werden, falls gewünscht, spezielle Felder angelegt  wie Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz.
+
+![](http://xpecto.github.io/docs/img/img_1424253034215.png) 
+
+können neue Tabelle zu Vertriebstabellen oder für Produkt/Vertragstabellen angelegt werden.
+
+![](http://xpecto.github.io/docs/img/img_1424262589171.png)
+
+Unter die Schaltfläche Mustervorlage wird die Mustervorlage für Standard-Positionen und -Größen angezeigt.
+Vergleichen mit Standard-Form macht ein Vergleich mit dem Standardoberfläche. 
+
+Editor, Layout und Code beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität der Masken.
+
+**Nachschlagslisten**
+
+Das Modul Nachschlagslisten dient dem Hinterlegen von Listen und Tabellen mit Werten, auf die an verschiedenen Stellen in der Software von kundenspezifischen Masken und Skripten zurückgegriffen werden kann. 
+Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als Auswahlfeld angelegt und so konfiguriert werden, dass die auswählbaren Werte aus einer Nachschlagsliste mit der Bezeichnung „Anrede" entnommen werden. Die verfügbaren Werte können somit vom Benutzer durch Bearbeiten der Nachschlagsliste 
+„Anrede" selbst angepasst werden, ohne in die Skripte eingreifen zu müssen, die das Verhalten der Kundenmaske definieren.
+Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede vermeidet Tippfehler bei der Eingabe der Anrede. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen vermieden, die dieses Feld enthalten. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.
+
+Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verbunden. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegrieffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache un mit Hilfe des xpecto Kundensupports angelegt, der auch das zugehörige Skript programmiert. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne Zuhilfenahme des xpecto Kundensupports vom Benutzer durchgeführt werden. 
+
+lookup, propkunden
+ComboBox, SerchBox,
