@@ -14,7 +14,7 @@ Ein Vermittler kann ein Verkäufer, Mitarbeiter oder ein Betreuer sein.
 Ziel der MLM ist durch überdurchschnittlich hohe Kundenzufriedenheit ein positives Image aufzubauen und hierüber neue Kunden zu gewinne und so der wirtschaftlichen Erfolg eines Unternehmens zu sichern und zu steigern. Unerwartete und nützliche Aufmerksamkeiten spielen im Empfehlungsmarketing eine zentrale Rolle, da die Kundenkontakte vor allem aufgrund persönliche Empfehlungen anstatt über klassische Werbung generiert werden.
 Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen erhalten diejenigen, die sich viele Nachverkäufer unter ihnen aufbauen, regelmäßige Geldzahlungen aufgrund von Produktionsanteilen.
 Personen sind alle: Kunden, Vermittler und Interessenten.
-Interessenten können in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
+Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 
 Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden.
  ![](http://xpecto.github.io/docs/img/img_1425898635719.png)
