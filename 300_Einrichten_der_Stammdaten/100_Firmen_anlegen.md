@@ -12,3 +12,7 @@ Die Einstellungen auf den Karteireitern *Kosten* und *Konten* sind eng verbunden
 
 Karrierestufen
 Web-Dokumente
+
+Reiter Produkte
+
+Reiter Gesellschaften
