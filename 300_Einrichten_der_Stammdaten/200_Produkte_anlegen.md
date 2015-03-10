@@ -16,6 +16,7 @@ Karteireiter Belege
 Unter Karteireiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, und zwar die Provisionssätze nach Karrierestufen  angelegt.
 Unter Karteireiter *Status* können die verschiedene Status für das Produkt angelegt werden.
 Außerdem kann auf dem Karteireiter *Konten* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsscripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. Gleiches gilt für das Anlegen von Produkten. Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt. 
+OPOS Konto: Offene Posten eine Buchung auf einem Konto, für die es keine Gegenbuchung gibt.
 FinTS/HBCI (Financial Transaction Services / Home Banking Computer Interface): 
 CAMT (Cash-Management-Nachricht): XML-basiertes Format zum Austausch von Nachrichten zwischen Bank und Kunden.
 
