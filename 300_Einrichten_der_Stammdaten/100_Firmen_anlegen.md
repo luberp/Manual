@@ -13,7 +13,7 @@ Die Maske beinhaltet auf der rechte Seite folgende Reiter: Firmen, Produkte und 
 <p>Unter <em>Firmen</em> werden die Vertriebsfirmen, in deren Namen Provisionsabrechnungen erstellt werden, verwaltet.  <br>
 Auf dem Karteireiter <em>Allgemein</em> werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich <em>Abrechnung</em> beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird xpecto Kundensupport voreingestellt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1425984895983.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1425984994086.png" alt="" title=""></p>
 
 <p>Auf dem Karteireiter <em>Kosten</em> können Kostensätze für den automatischen Einbehalt von der Vermittler-Provision eingetragen werden. <br>
 Verschiedene Kostenarten werden über entsprechende Schlüssel unterschieden, die vorher auf dem Karteireiter <em>Konten</em> angelegt werden müssen. Auf dem Karteireiter <em>Konten</em> werden die Schlüssel für die zu unterscheidenden Vermittler-Buchungsarten definiert. Vermittler-Buchungen sind berechnete und manuell erfasste Provisionen und Einbehalte davon, die zu den Vermittlern in einer Buchungs-ähnlichen Form gespeichert werden. Vermittler-Buchungen sind nicht zu verwechseln mit Buchungen einer Finanzbuchhaltung. <br>
