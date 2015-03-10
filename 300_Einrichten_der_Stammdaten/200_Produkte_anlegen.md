@@ -1,4 +1,6 @@
-Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte . Sie finden die Eingabemaske unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425984359021.png).
+Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. 
+Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein. 
+Sie finden die Eingabemaske unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425984359021.png).
 
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
 
