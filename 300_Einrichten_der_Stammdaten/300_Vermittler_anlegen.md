@@ -5,7 +5,8 @@ Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und di
 
 **individuelle Provisionen - die flexible Methode**
 Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen.Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif. Unter *Berechnung* werden Wert und Einheit als Parameter für die Berechnung der Provision eingetragen. Optional kann der Gültigkeitszeitraum eines Provisionssatzes mittels „Gültig ab" und/oder „bis".
- 
+eingeschränkt werden.
+
 Wichtige Eckdaten für die Vertriebsverwaltung sind Ihre Vermittler. Sie erreichen die Maske durch einen Klick auf den Karteireiter _Vermittler_.
 
 ![](http://xpecto.github.io/docs/img/img_1426062088486.png)
