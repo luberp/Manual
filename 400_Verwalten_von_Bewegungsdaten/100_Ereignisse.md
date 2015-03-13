@@ -6,7 +6,7 @@ Wählen Sie das Datum, die Ereignisart wie z.B: E-Mail oder Telefonat und hinter
 ![](http://xpecto.github.io/docs/img/img043.png)
 ![](http://xpecto.github.io/docs/img/img045.png)
 
-Kunde Ereignisse
+Kunden Karteireiter *Ereignisse*
 auf Kundenebene - Dialog „Ereignis zum Kunden"
 
 auf Beteiligungsebene - Dialog „Ereignis zur Beteiligung" 
