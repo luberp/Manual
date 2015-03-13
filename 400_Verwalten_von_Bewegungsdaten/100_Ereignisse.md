@@ -11,3 +11,5 @@ Kunden Karteireiter *Ereignisse*
 auf Kundenebene - Dialog „Ereignis zum Kunden"
 
 auf Beteiligungsebene - Dialog „Ereignis zur Beteiligung" 
+
+Ereignis ist ein Verlauf für alle Dokumente. 
