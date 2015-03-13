@@ -18,10 +18,6 @@ Wichtige Eckdaten für die Vertriebsverwaltung sind Ihre Vermittler. Sie erreich
 
 ![](http://xpecto.github.io/docs/img/img_1426067509382.png)
 
-
-![](http://xpecto.github.io/docs/img/img_1426258420945.png)
-
-
 Links wird gegebenenfalls eine Übersicht Ihrer bestehenden Vermittler angezeigt. Legen Sie neue Vermittler mit Menü	_Datei-&gt;Neu-&gt;Vermittler_ oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img026.png) an. Gehen Sie der Aufforderung, eine freie Vermittlernummer einzugeben, nach und bestätigen Sie mit OK. Evtl. wurde die Software bei der Installation so eingestellt, dass Vermittlernummern automatisch fortlaufend vergeben werden. In diesem Fall wird vom Programm die nächste freie Nummer vorgeschlagen. Ansonsten vergeben Sie nach Ihrer vertriebsinternen Richtlinie eine freie Nummer.
 
 Erfassen Sie die vermittlerspezifischen Daten wie Name, Adresse, Kontaktdaten sowie Bankverbindung und Finanzamtdaten.
