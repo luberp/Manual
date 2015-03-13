@@ -32,5 +32,5 @@ Karteireiter Buchungen
 Karteireiter Ereignisse
 Karteireiter Belege
 Karteireiter Umsätze 
-Karteireiter Auswertungen
+Karteireiter Auswertungen: Links, Google Maps
 Auf den Karteireitern _Zusatzdaten_ und _Eigenschaften_ werden zusätzliche Infos wie Adressherkunft oder Bemerkungen zum Vermittler festgehalten.
