@@ -24,4 +24,13 @@ Erfassen Sie die vermittlerspezifischen Daten wie Name, Adresse, Kontaktdaten so
 
 Die Eingabefelder _Benutzer_ und _Passwort _dienen der Anmeldung des Vermittlers am xpecto Webportal. Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe Kapitel "Tabellen synchronisieren") automatisch frei geschalten.
 
+Karteireiter Adressen
+Karteireiter Eigenschaften
+Karteireiter Provisionssätze
+Karteireiter Struktur
+Karteireiter Buchungen
+Karteireiter Ereignisse
+Karteireiter Belege
+Karteireiter Umsätze 
+Karteireiter Auswertungen
 Auf den Karteireitern _Zusatzdaten_ und _Eigenschaften_ werden zusätzliche Infos wie Adressherkunft oder Bemerkungen zum Vermittler festgehalten.
