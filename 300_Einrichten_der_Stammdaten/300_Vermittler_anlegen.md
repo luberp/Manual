@@ -55,3 +55,7 @@ In bestimmte Abstände erfolgt eine Provisionsabrechnung. Sie können tägliche,
 Buchhaltung Vertriebspartner
 Die Buchhaltung für jeden Vertriebspartner ermöglicht die Buchung von zusätzlichen Dingen. Vorschüsse, Abschläge, Teilauszahlungen, Negativsalden und Überträge werden automatisch verwaltet und können entsprechend hinterlegt werden. Die Buchung von spezielle Dingen wie: Boni, Einmalprovisionen, Bürokosten, Materialkosten, Leasingsraten können direkt im Dialog erledigt werden und beeinflussen die Auszahlungen und werden auf den Belegen und sauberer Form mit ausgewiesen.
 
+Bereitstellung Abrechnung
+Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hinweis. Natürlich können die Abrechnungen auch direkt gedruckt werden.
+Das Layout der Abrechnung kann frei angepasst werden und soll modern und in ihrem Style erfolgen.
+
