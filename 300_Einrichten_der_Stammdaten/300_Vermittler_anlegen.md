@@ -34,3 +34,16 @@ Karteireiter Belege
 Karteireiter Umsätze 
 Karteireiter Auswertungen: Links, Google Maps
 Auf den Karteireitern _Zusatzdaten_ und _Eigenschaften_ werden zusätzliche Infos wie Adressherkunft oder Bemerkungen zum Vermittler festgehalten.
+
+Grundlagen Provision
+Die Provisionsabrechnung mit xpectoPro ist sehr umfangreich und extrem anpassbar. Die Verwaltung hat dabei immer einen guten Überblick und Möglichkeiten zum manuellen Eingriff. 
+
+Die Provisionsabrechnung besteht aus mehrere Teilen.
+
+Provisionsmodelle
+Provisionsmodelle sind der wichstigsten Bestandteil bei der Provisionsabrechnung. Diese Provisionsmodelle sind der wichstigste Bestandteil bei der Provisionsabrechnung. Diese Provisionsmodelle bestehen aus einem Stück Programmcode (VB.Net) und kann daher eine sehr umfangreiche Logik aufnehmen. xpectoPro kann für Sie garantiert jedes Provisionsmodell bereitstellen.
+
+Provisionssätze
+Die Provisionssätze legen die Höhe der Provisionen fest. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vetriebspartner getrennt hinterlegt werden. Die Pflege über die Karrierestufen ermöglicht dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner oder auch für alle Vertriebspartner individuell festlegen möchten, so ist auch dies möglich. Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
+
+
