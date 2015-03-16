@@ -28,12 +28,14 @@ Der Vertrag-Status ändert sich danach automatisch auf übertragen.
 Buchungsdaten
 
 *Unter dem Reiter Sollbuchungen werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.* 
-Sollbuchungen
-Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vetrags der Status manuell auf ausgesetzt umgestellt werden.
-Salden
+Karteireiter Sollbuchungen
+
+Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
+Karteireiter Salden beinhaltet eine Salden-Auswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter Produkte  konfigurierte Salden.
+Hier werden die schon vorkonfigurierte Salden angezeigt.
 Auf dem Karteireiter Ereignisse werden wichtige Ereignisse zum aktuell ausgewählten Vermittler, Kunden oder Vertrag sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
 In dem Reiter Belege können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 
- Buchungsdaten Sollbuchungen Salden Ereignisse Belege
+
 
