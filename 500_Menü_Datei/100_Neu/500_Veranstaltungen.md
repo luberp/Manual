@@ -34,4 +34,6 @@ Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Perso
 
 Karteireiter: Bevollmächtigte
 
+Ja, Nein, Enthalten, Ungültig, ohne Weisung
+
 
