@@ -7,7 +7,7 @@ Sie finden die Eingabemaske unter *Datei → Produkte* oder durch einen Klick au
 Hier werden allgemeine Daten zum Produkt erfasst. Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen auf dem Karteireiter *Allgemein* können vom Anwender vorgenommen werden. 
 Auf dem Karteireiter Parameter
 Karteireiter Auswertung
-Karteireiter Saldenübersicht
+Karteireiter Saldenübersicht enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 Unter Karteireiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler, Berechnungen und Default-Provisionierung. Stimmbasis.
 Karteireiter Transchen: Verteilung in Scheiben.
 Karteireiter Kosten
