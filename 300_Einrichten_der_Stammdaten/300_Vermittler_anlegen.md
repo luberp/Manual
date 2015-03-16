@@ -46,4 +46,12 @@ Provisionsmodelle sind der wichstigsten Bestandteil bei der Provisionsabrechnung
 Provisionssätze
 Die Provisionssätze legen die Höhe der Provisionen fest. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vetriebspartner getrennt hinterlegt werden. Die Pflege über die Karrierestufen ermöglicht dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner oder auch für alle Vertriebspartner individuell festlegen möchten, so ist auch dies möglich. Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
 
+Berechnung Ansprüche
+Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
+
+Berechnung Zahlungen
+In bestimmte Abstände erfolgt eine Provisionsabrechnung. Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Beim Abrechnungsverlauf errechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechnete Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner.
+
+Buchhaltung Vertriebspartner
+Die Buchhaltung für jeden Vertriebspartner ermöglicht die Buchung von zusätzlichen Dingen. Vorschüsse, Abschläge, Teilauszahlungen, Negativsalden und Überträge werden automatisch verwaltet und können entsprechend hinterlegt werden. Die Buchung von spezielle Dingen wie: Boni, Einmalprovisionen, Bürokosten, Materialkosten, Leasingsraten können direkt im Dialog erledigt werden und beeinflussen die Auszahlungen und werden auf den Belegen und sauberer Form mit ausgewiesen.
 
