@@ -23,6 +23,7 @@ Unter dem Karteireiter Teil können die Teilenhmer angelegt werden. In dem Berei
 In dem Bereich Meldedaten wird der Status ausgewählt wie intialisiert, eingeladen, schriftlich abgestimmt, pers. angemeldent, bev. angemeldet, verw. angemeldet.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png) wird der Dialog *Person auswählen* aufgemacht. 
+
 ![](http://xpecto.github.io/docs/img/img_1426500257178.png)
 
 Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, sie als neuen Datensatz anlegen.
