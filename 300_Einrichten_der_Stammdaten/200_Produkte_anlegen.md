@@ -5,7 +5,7 @@ Sie finden die Eingabemaske unter *Datei → Produkte* oder durch einen Klick au
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
 
 Hier werden allgemeine Daten zum Produkt erfasst. Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen auf dem Karteireiter *Allgemein* können vom Anwender vorgenommen werden. 
-Auf dem Karteireiter Parameter
+Auf dem Karteireiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
 Karteireiter Auswertung
 Karteireiter Saldenübersicht enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 Unter Karteireiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler, Berechnungen und Default-Provisionierung. Stimmbasis.
