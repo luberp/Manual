@@ -27,9 +27,9 @@ Karteireiter *Wertarten*.
 Unter dem Karteireiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
 
 
-Unter dem Karteireiter *Wechselkurse* werden für die neu angelegte Währungen die Wechselkurse direkt von der EZB angezeigt.
+Unter dem Karteireiter *Wechselkurse* werden für die neu angelegte Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt werden.
 
-Unter dem Karteireiter *Salden* können Sie die Salden konfigurieren. Neben den schon angelegte Salden kann hier neue Salden agelegt werden unter die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426517966548.png) ![](http://xpecto.github.io/docs/img/img_1426518057250.png) 
+Unter dem Karteireiter *Salden* können Sie die Salden konfigurieren. Neben den schon angelegte Salden kann hier neue Salden angelegt werden unter die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426517966548.png) ![](http://xpecto.github.io/docs/img/img_1426518057250.png) 
 ![](http://xpecto.github.io/docs/img/img_1426518083903.png)
 
 Karteireiter *Anteilsarten*
