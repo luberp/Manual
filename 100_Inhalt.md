@@ -12,7 +12,7 @@
 *  3.3. [Vermittler anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittler_anlegen)
 *  3.4. [Vermittlerstruktur festlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vermittlerstruktur_festlegen)
 *  3.5. [Kunden anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Kunden_anlegen)
-*  3.6. [Verträge anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vertraege_anlegen)
+*  3.6. [Verträge anlegen](http://help.xpecto.de/Einrichten_der_Stammdaten/Vertr%C3%A4ge_anlegen)
 4.  [Verwalten von Bewegungsdaten](http://help.xpecto.de/Verwalten_von_Bewegungsdaten)
 *  4.1. [Ereignisse](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Ereignisse)
 * 4.2. [Vermittler-Buchungen](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Vermittler_Buchungen)
