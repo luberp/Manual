@@ -57,4 +57,9 @@ Abfragen und Listen
 Erstellung von Abfragen und Listen über einen einfachen Dialog, Datenexport, Listenerstellung
 Mit dem Dialog „Abfragen erstellen" können sich Benutzer direkt eigene Abfragen „zusammenklicken". Sie wählen die Datenfelder und geben die entsprechenden Filterwerte und Bedingungen an. Alle Elemente dieses Dialogs sind auf Endbenutzer ausgerichtet und tragen „deutsche" Namen. Durch die Einfache Benutzung wird diese Funktion bei unseren Kunden sehr breit eingesetzt. 
 
-Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System schlägt typische Felder vor. Die Auswahl kann jederzeit erweitert oder geändert werden. Auf der folgenden Seite wird direkt das Ergebnis der Abfrage Angezeigt
+Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System schlägt typische Felder vor. Die Auswahl kann jederzeit erweitert oder geändert werden. Auf der folgenden Seite wird direkt das Ergebnis der Abfrage angezeigt. Die Liste kann hier nochmals gefiltert werden. 
+
+Die Weitergabe der Daten ist nun denkbar einfach. Ein Klick auf „Excel" oder „CSV" öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterarbeiten.
+Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktion wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung. 
+Eine ideale Kombination ist der abschleißende Druck der Daten über einen Druckdienstleister.
+
