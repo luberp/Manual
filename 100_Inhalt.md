@@ -34,7 +34,7 @@
 *  5.7. [Produkte](http://help.xpecto.de/Datei/Produkte)
 *  5.8. [Beenden](http://help.xpecto.de/Datei/Beenden)
 6. [Menü: Bearbeiten](http://help.xpecto.de/Bearbeiten)
-*  6.1. [Datensatz löschen](http://help.xpecto.de/Bearbeiten/Datensatz_loeschen)
+*  6.1. [Datensatz löschen](http://help.xpecto.de/Bearbeiten/Datensatz_löschen)
 * 6.2. [Datensatz kopieren](http://help.xpecto.de/Bearbeiten/Datensatz_kopieren)
 * 6.3. [Vertrag übertragen](http://help.xpecto.de/Bearbeiten/Vertrag_übertragen)
 * 6.4. [ID ändern](http://help.xpecto.de/Bearbeiten/ID_ändern)
