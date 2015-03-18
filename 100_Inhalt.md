@@ -19,7 +19,7 @@
 * 4.3. [Soll-Buchungen](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Soll_Buchungen)
 * 4.4. [Buchungen der Fondsbuchhaltung](http://help.xpecto.de/Verwalten_von_Bewegungsdaten/Buchungen_der_Fondsbuchhaltung)
 5. [Menü: Datei](http://help.xpecto.de/Datei)
-* 5.1. [Neu](http://help.xpecto.de/Neu)
+* 5.1. [Neu](http://help.xpecto.de/Datei/Neu)
      * 5.1.1. [Kunde](http://help.xpecto.de/Datei/Neu/Kunde)
      * 5.1.2.  [Vertrag](http://help.xpecto.de/Datei/Neu/Vertrag)
      *  5.1.3. [Vermittler](http://help.xpecto.de/Datei/Neu/Vermittler)
