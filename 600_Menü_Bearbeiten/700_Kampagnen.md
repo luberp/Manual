@@ -18,7 +18,7 @@ Karteireiter Kampagne ist in Bereichen geteilt.
 Bereich Datenquelle wählen:
 vordefinierter Verteiler individuelle Abfrage
 
-individuelle Abfrage Abfrage bearbeiten - hier können Sie die schon hinterlegte Abfrage in ein Editor bearbeiten und an Ihre Kampagne anpassen. Wenn Sie aber kein Abfrage hier hinterlegt haben dann bietet sich hier die Möglichkeit eine Abfrage zu erstellen (siehe Abfragen erstellen). 
+individuelle Abfrage Abfrage bearbeiten - hier können Sie die schon hinterlegte Abfrage in ein Editor bearbeiten und an Ihre Kampagne anpassen. Wenn Sie aber kein Abfrage hier hinterlegt haben dann bietet sich hier die Möglichkeit eine Abfrage in den Dialog „Abfrage editieren für Kampagne" zu erstellen (siehe Abfragen erstellen). 
 
 Bereich Aktion wählen:
 Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres
@@ -54,5 +54,5 @@ Ein neuer Vertriebsinteressent meldet sich wenige Tage später auf Ihre Anzeige.
 Teilnehmer aus dem aktuellen Adressbestand fügen Sie zielgruppenorientiert über die ausgezeichneten Filter  hinzu. Neue Personen können selbstverständlich ad-hoc hinzugefügt werden.
 
 Abfragen und Listen
-Erstellung von Abfragen und Listen über einen einfachen Dialog, Datenexport,, Listenerstellung
-Mit dem Dialog 
+Erstellung von Abfragen und Listen über einen einfachen Dialog, Datenexport, Listenerstellung
+Mit dem Dialog „Abfragen erstellen" können sich Benutzer direkt eigene Abfragen „zusammenklicken". Sie w
