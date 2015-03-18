@@ -55,4 +55,6 @@ Teilnehmer aus dem aktuellen Adressbestand fügen Sie zielgruppenorientiert übe
 
 Abfragen und Listen
 Erstellung von Abfragen und Listen über einen einfachen Dialog, Datenexport, Listenerstellung
-Mit dem Dialog „Abfragen erstellen" können sich Benutzer direkt eigene Abfragen „zusammenklicken". Sie w
+Mit dem Dialog „Abfragen erstellen" können sich Benutzer direkt eigene Abfragen „zusammenklicken". Sie wählen die Datenfelder und geben die entsprechenden Filterwerte und Bedingungen an. Alle Elemente dieses Dialogs sind auf Endbenutzer ausgerichtet und tragen „deutsche" Namen. Durch die Einfache Benutzung wird diese Funktion bei unseren Kunden sehr breit eingesetzt. 
+
+Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System schlägt typische Felder vor. Die Auswahl kann jederzeit erweitert oder geändert werden. Auf der folgenden Seite wird direkt das Ergebnis der Abfrage Angezeigt
