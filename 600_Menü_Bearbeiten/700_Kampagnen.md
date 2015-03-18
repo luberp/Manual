@@ -4,7 +4,7 @@ Veranstaltungen → Einladungen drucken
 Kampagne Massenaktion Berichte drucken Veranstaltung
 
 Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen.
-Sie können Kampagnen und Massendruck Dialog  über Menü → Bearbeiten → Kampagnen oder über Abfrage erstellen →Kampagne erreichen. 
+Sie können den Dialog „Kampagnen und Massendruck"  über Menü → Bearbeiten → Kampagnen oder über Abfrage erstellen →Kampagne erreichen. 
 
 ![](http://xpecto.github.io/docs/img/img_1426683781377.png)
 
@@ -12,9 +12,9 @@ Um eine neue Kampagne anzulegen Klicken Sie auf die Schaltfläche![](http://xpec
 
 
 
-Untereiter Allgemein beinhaltet der Name die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.
+Karteireiter Allgemein beinhaltet der Name die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.
 
-Untereiter Kampagne ist in Bereichen geteilt.
+Karteireiter Kampagne ist in Bereichen geteilt.
 Bereich Datenquelle wählen:
 vordefinierter Verteiler individuelle Abfrage
 
@@ -53,3 +53,6 @@ Ein neuer Vertriebsinteressent meldet sich wenige Tage später auf Ihre Anzeige.
 
 Teilnehmer aus dem aktuellen Adressbestand fügen Sie zielgruppenorientiert über die ausgezeichneten Filter  hinzu. Neue Personen können selbstverständlich ad-hoc hinzugefügt werden.
 
+Abfragen und Listen
+Erstellung von Abfragen und Listen über einen einfachen Dialog, Datenexport,, Listenerstellung
+Mit dem Dialog 
