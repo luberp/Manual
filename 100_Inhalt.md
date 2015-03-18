@@ -59,7 +59,7 @@
 *  7.6. [Sollstellung](http://help.xpecto.de/Berechnungen/Sollstellung)
 *  7.7. [Probeberechnung](http://help.xpecto.de/Berechnungen/Probeberechnung)
      *  7.7.1. [Provisionstest](http://help.xpecto.de/Berechnungen/Provisionstest)
-     * 7.7.2. [Provisionstest](http://help.xpecto.de/Berechnungen/Sollstellungstest)
+     * 7.7.2. [Sollstellungstest](http://help.xpecto.de/Berechnungen/Sollstellungstest)
 8.   [Menü: Import/Export](http://help.xpecto.de/Import_Export)
 *  8.1. [Tabellen synchronisieren](http://help.xpecto.de/Import_Export/Tabellen_synchronisieren)
 *  8.2. [Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger)
