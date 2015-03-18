@@ -29,9 +29,9 @@ vordefinierter Verteiler individuelle Abfrage</p>
 <p>Bereich Aktion wählen: <br>
 Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres</p>
 
-<p>Bereich Gruppe von Daten für Aktionen:</p>
-
-<p>Bereich Auswahl der Empfänger:</p>
+<p>Bereich Gruppe von Daten für Aktionen: <br>
+<img src="http://xpecto.github.io/docs/img/img_1426685469516.png" alt="" title=""> <br>
+Bereich Auswahl der Empfänger:</p>
 
 <p>Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktionen wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung.</p>
 
