@@ -9,7 +9,7 @@ Neue Wiedervorlagen werden über den Menüpunkt Datei → Neu → Wiedervorlage/
 Die erstellten Wiedervorlagen werden sortiert nach Alarmdatum in der Liste angezeigt. Bereits bearbeitete Wiedervorlagen, die nicht mehr länger benötigt werden, können durch einen Mausklick auf erledigt gesetzt werden. Auf erledigt gesetzte Wiedervorlagen werden nicht gelöscht und können durch den xpecto Kundensupport wieder „reaktiviert" werden. Anders als bei erledigten Wiedervorlagen, können gelöschte Wiedervorlagen nicht mehr wiederhergestellt werden! Um eine Wiedervorlage unwiderruflich zu löschen, klicken Sie auf die Schaltfläche X.
 In der Wiedervorlage-Liste werden alle Wiedervorlagen des angemeldeten Benutzer in zeitlicher Reihenfolge des Alarmdatum angezeigt. Sind für einen Benutzer Wiedervorlagepunkte vorhanden, so wird das Wiedervorlage-Fenster automatisch beim Start von xpectoPro eingeblendet.
 
-Wiedervorlage sind Erinnerungen die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen.
+Wiedervorlage sind Erinnerungen die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Diese Wiedervorlagen werden per Hand angelegt und ermöglichen so eine strukturierte Bearbeitung von Aufgaben. In der Oberfläche kann jeder Benutzer eigene Wiedervorlagen sehr einfach erstellen.
 
 
 
