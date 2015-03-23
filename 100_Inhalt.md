@@ -26,7 +26,7 @@
      *  5.1.4. [Interessenten](http://help.xpecto.de/Datei/Neu/Interessenten)
      *  5.1.5. [Veranstaltungen](http://help.xpecto.de/Datei/Neu/Veranstaltungen)
      *  5.1.6. [Wiedervorlage/Prozess](http://help.xpecto.de/Datei/Neu/Wiedervorlage_Prozess)
- * 5.2. [zuletzt ausgewaehlt|zuletzt ausgewählt](http://help.xpecto.de/Datei/zuletzt_ausgewaehlt)
+ * 5.2. [zuletzt ausgewaehlt2|zuletzt ausgewaehlt](http://help.xpecto.de/Datei/zuletzt_ausgewaehlt)
 *  5.3. [Speichern](http://help.xpecto.de/Datei/Speichern)
 *  5.4. [Druckvorschau](http://help.xpecto.de/Datei/Druckvorschau)
 *  5.5. [Drucken](http://help.xpecto.de/Datei/Drucken)
