@@ -2,7 +2,17 @@ xpectoPro wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbei
 
 Während der Programmentwicklung von xpectoPro stand immer der Mensch im Mittelpunkt - dessen Gewohnheiten im täglichen Umgang mit Daten, Informationen, Archivierung, aber auch dessen Erwartungen an ein Computerprogramm, das die Möglichkeiten einer elektronischen Datenverwaltung und Aufbereitung praxisnah löst, ohne vom Anwender grundlegende Änderungen seiner gewohnten Abläufe oder eine hohe Schulungsbereitschaft zu erwarten.
 
-***Wiedervorlage Liste  - Wiedervorlage Seitenleiste  - Wiedervorlage  Steuerung***
+***Wiedervorlage Liste  - Wiedervorlage Seitenleiste  ***
+
+***Wiedervorlage  Steuerung***
+Dient dazu um mehrere Wiedervorlagen und Prozesse zu steuern, und in den nächsten Zustand zu bewegen.
+Jeder Zustand wartet auf eine Aktion.
+Button ist einfach einen Knopf.
+report führt zu einen Berichtsdruck.
+
+Zuerst muss die Vorlage erstellt werden.
+
+
 Wiedervorlagen sind Prozesse oder Aufgabenliste für Mitarbeiter oder zwischen Mitarbeiter.
 Wiedervorlagen können zu Kunden, Verträgen und Vermittler angelegt werden. Um das Fenster Wiedervorlage ein- bzw. auszublenden, klicken Sie im Menü auf Bearbeiten →Wiedervorlage Liste. 
 Neue Wiedervorlagen werden über den Menüpunkt Datei → Neu → Wiedervorlage/Prozess oder im Wiedervorlage-Fenster über die Schaltfläche + angelegt. Markieren Sie einen Vermittler, einen Kunden oder einen Vertrag, zudem die Wiedervorlage erstellt werden soll und klicken Sie auf +. Als Ziel der Wiedervorlage wird automatisch die Vertrags-, Vermittler- oder Kundennummer eingetragen. Im Eingabefeld Termin wird der Zeitpunkt eines Termins, an den der Wiedervorlagepunkt erinnern soll, und nicht der Zeitpunkt der Wiedervorlage definiert. Die Wiedervorlage bzw. der Zeitpunkt, an dem die Wiedervorlage nach oben sortiert wird, muss im Feld Alarm gewählt werden. Die Felder Grund und Bemerkung sind für Notizen zur Wiedervorlage vorgesehen.
