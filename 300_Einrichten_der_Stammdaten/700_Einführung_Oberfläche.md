@@ -33,3 +33,9 @@ Hier kann nach mehrere Kriterien gesucht werden.
 ![](http://xpecto.github.io/docs/img/img_1425898083616.png)
 
 Dokumente archivieren wird genutzt wenn gedruckt wird. 
+
+
+Externe Datenerfassung
+Lagern Sie die Erfassung von Daten an Ihre Vermittler und Kunden aus. Wir ermöglichen Ihnen die Nutzung diesen Daten für Ihre Verwaltung. 
+xpectoPro ermöglicht die Nutzung von Daten die direkt oder von Ihre Vertriebspartnern oder von Ihren Kunden eingetippt wurden. Die Erfassung erfolgt über PDF Formulare oder Web Seiten. Die Daten werden automatisch in unsere Verfassung-Schnittstelle abgelegt. In der Verwaltung können diese Daten dann für die Neuanlage von Kunden oder Verträge benutzt werden. Der Aufwand für die intensive Erfassung von Daten sinkt damit deutlich. Falls Sie PDF Formulare für die Verfassung nutzen, werden diese von unserem System mit Barcodes ausgestattet. Diese Barcodes erhalten die Kennung der Verfassung und beschleunigen die Erfassung noch weiter. Das gezeigte Formular wird über eine Website erfasst und dann als fertiges PDF-Formular von Vertriebspartner heruntergeladen. 
+Um diesen Vertrag nun zu erfassen starten wir die Fremde Erfassung 
