@@ -35,5 +35,5 @@ Wiedervorlage ist eine Aufgabe für ein Benutzer.
 Wiedervorlagen sind Prozessen zugeordnet. Mit einem einzelnen Prozess können beliebig viele Wiedervorlagen verknüpft werden. Wiedervorlagen können darüber hinaus für eine beliebige Anzahl von Personen, Gruppen oder Rollen erstellt werden. 
 
 Wierdervorlage Steuerung
-Dient dazu um mehrere Wiedervorlagen und Prozesse zu steuern, und in den nächsten Zustand zu bewegen.
+Dient dazu um mehrere Wiedervorlagen zu steuern, indem eine gewünschte Aktion dafür auswählt.
 ![](http://xpecto.github.io/docs/img/img_1427132561724.png)
