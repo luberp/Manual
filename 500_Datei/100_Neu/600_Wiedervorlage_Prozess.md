@@ -48,3 +48,7 @@ Wenn Sie  „Nicht OK" auswählen dann werden die Wiedervorlagen auf den vorheri
 ![](http://xpecto.github.io/docs/img/img_1427132561724.png)
 
 Falls Sie wünschen können Sie alle Wiedervorlagen auf den nächsten Zustand setzen, indem Sie „Prüfung OK" wählen.
+Neuem Benutzer zuweisen: Es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
+Wiedervorlage schließen: Die gewählten Wiedervorlagen werden geschlossen.
+Alarmdatum verändern: Für die gewählten Wiedervorlagen wird ein neues Alarmdatum. Das Alarmdatum wird dann abgefragt.
+Zustand ändern: für die gewählten Wiedervorlagen wird der Zustand neu festgelegt.
