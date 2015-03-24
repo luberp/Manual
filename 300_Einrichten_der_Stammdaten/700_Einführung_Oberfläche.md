@@ -48,11 +48,12 @@ xpectoPro ermöglicht die Nutzung von Daten die direkt oder von Ihre Vertriebspa
 Falls Sie eine Webcam an Ihrem Rechner angeschlossen haben können Sie den Barcode auf dem Formular automatisch erkennen lassen. Alternativ müssen Sie die Vertragsnummer per Hand eingeben und erhalten damit die gleiche Daten. Die Software erkennt der Barcode und zeigt die Daten aus der Vorerfassungsschnittstelle direkt an. Jetzt können die hinterlegte Daten sichten und bearbeiten. Wichtig bei jede neue Erfassung ist die Auswahl der korrekten Kunden. Der Kunde konnte bereits in Ihren Bestand hinterlegt sein und sollte nicht erneut angelegt werden. Dieser Dialog ermöglicht Ihnen beiden. Sie können in der linke Hälfte „Neuer Kunde anlegen” oder in der rechten Hälfte einen bestehenden Kunde suchen und auswählen. In unseren Fall ist der Kunde noch nicht vorhanden und soll neu angelegt werden, ich bestätige das mit einem Klick auf dem entsprechenden Knopf. <br>
 Als nächstes werden die Vertragsdaten aus der Vorerfassungsschnittstelle angezeigt. Diese Daten können jetzt überprüft und werden und die Änderungen die per Hand auf dem Antrag gemacht würden in die Maske eingegeben. Zum Abschluss der Erfassung wird der neue Kunde gespeichert. Die Daten sind jetzt im System hinterlegt. Falls Sie den Antrag zu Vertrag archivieren möchten können Sie diese ohne weitere Änderungen scannen und von integrierter Scanmanager automatisch zuordnen lassen.</p>
 
-<p>Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet.</p>
-
 <p>Schreiben erstellen - einfache Schreiben erstellen und drucken. <br>
 xpectoPro enthält für Standardschreiben einen sehr einfachen zu bedienenden Berichtsgenerator der sich an Microsoft Word anlegt. <br>
-Der Berichtsgenerator kann mit einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1427209316556.png" alt="" title=""> gestartet werden.</p>
+Der Berichtsdesigner kann mit einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1427209316556.png" alt="" title=""> gestartet werden.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1427209507608.png" alt="" title=""></p></div></body>
+<p>In dem Dialog „Berichte und Textbausteine” <img src="http://xpecto.github.io/docs/img/img_1427209507608.png" alt="" title=""> <br>
+haben Sie einen Überblick über alle Berichte, Adressmuster, Textbausteine und individuelle Schreiben die in xpectoPro hinterlegt sind. Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet.</p>
+
+<p>Der neue Bericht wird in dem Dialog „Berichte und Textbausteine” über die Symbolleiste erstellt. <img src="http://xpecto.github.io/docs/img/img_1427209711358.png" alt="" title=""></p></div></body>
 </html>
