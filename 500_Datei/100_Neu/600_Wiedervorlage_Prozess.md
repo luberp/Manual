@@ -22,7 +22,7 @@ In der Wiedervorlage-Liste werden alle Wiedervorlagen des angemeldeten Benutzer 
 Wiedervorlage sind Erinnerungen die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Diese Wiedervorlagen werden per Hand angelegt und ermöglichen so eine strukturierte Bearbeitung von Aufgaben. In der Oberfläche kann jeder Benutzer eigene Wiedervorlagen sehr einfach erstellen. Dazu Klick im dem entsprechenden Kunde oder Vertriebspartner auf das Zahnradsymbol.
 
 ![](http://xpecto.github.io/docs/img/img_1427124269211.png)
-Als nächstes müsse Sie die Art der Wiedervorlage auswählen. 
+Als nächstes müssen Sie die Art der Wiedervorlage auswählen. 
 
 ![](http://xpecto.github.io/docs/img/img_1427125664097.png)
 
