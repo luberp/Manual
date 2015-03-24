@@ -38,10 +38,13 @@ Die Wiedervorlagen können mehr Funktionen enthalten und werden so zu Prozessen.
 Jeder Prozess kann eine Reihe unterschiedlicher Komponenten aufweisen, je nachdem welche Anforderungen im Einzelnen für den Prozess und innerhalb Ihrer Organisation gelten. Einige der am häufigsten verwendeten Komponenten werden nachstehen beschrieben. Ihre Prozesse verwenden unter Umständen einige oder alle diese Komponenten. Die Aktionen zum Hinzufügen dieser Komponenten stehen möglicherweise nicht für jeden Status im Prozess zur Verfügung, und die erforderlichen Berechtigungen stehen vielleicht auch nicht allen Benutzer zur Verfügung.
 
 
-Ein Prozess ist eine Definition wie eins Wiedervorlage bearbeitet werden soll.
+Ein Prozess ist eine Definition wie eine Wiedervorlage bearbeitet werden soll.
 Wiedervorlage ist eine Aufgabe für ein Benutzer.
 Wiedervorlagen sind Prozessen zugeordnet. Mit einem einzelnen Prozess können beliebig viele Wiedervorlagen verknüpft werden. Wiedervorlagen können darüber hinaus für eine beliebige Anzahl von Personen, Gruppen oder Rollen erstellt werden. 
 
 Wierdervorlage Steuerung
-Dient dazu um mehrere Wiedervorlagen zu steuern, indem eine gewünschte Aktion dafür auswählt.
+Dient dazu um mehrere Wiedervorlagen zu steuern, indem eine gewünschte Aktion dafür ausgewählt wird. Natürlich haben Sie hier auch die Möglichkeit verschiedene Aktionen auch für einzelne Wiedervorlagen durchzuführen.
+Wenn Sie  „Nicht OK" auswählen dann werden die Wiedervorlagen auf den vorherigen Zustand gesetzt.
 ![](http://xpecto.github.io/docs/img/img_1427132561724.png)
+
+Falls Sie wünschen können Sie alle Wiedervorlagen auf den nächsten Zustand setzen, indem Sie „Prüfung OK" wählen.
