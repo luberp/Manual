@@ -52,7 +52,8 @@ Als nächstes werden die Vertragsdaten aus der Vorerfassungsschnittstelle angeze
 xpectoPro enthält für Standardschreiben einen sehr einfachen zu bedienenden Berichtsgenerator der sich an Microsoft Word anlegt. <br>
 Der Berichtsdesigner kann mit einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1427209316556.png" alt="" title=""> gestartet werden.</p>
 
-<p>In dem Dialog „Berichte und Textbausteine” <img src="http://xpecto.github.io/docs/img/img_1427209507608.png" alt="" title=""> <br>
+<p>In dem Dialog „Berichte und Textbausteine”  <br>
+<img src="http://xpecto.github.io/docs/img/img_1427209507608.png" alt="" title=""> <br>
 haben Sie einen Überblick über alle Berichte, Adressmuster, Textbausteine und individuelle Schreiben die in xpectoPro hinterlegt sind. Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet.</p>
 
 <p>Der neue Bericht wird in dem Dialog „Berichte und Textbausteine” über die Symbolleiste erstellt. <img src="http://xpecto.github.io/docs/img/img_1427209711358.png" alt="" title=""></p></div></body>
