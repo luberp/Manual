@@ -43,12 +43,17 @@ Wiedervorlage ist eine Aufgabe für ein Benutzer.
 Wiedervorlagen sind Prozessen zugeordnet. Mit einem einzelnen Prozess können beliebig viele Wiedervorlagen verknüpft werden. Wiedervorlagen können darüber hinaus für eine beliebige Anzahl von Personen, Gruppen oder Rollen erstellt werden. 
 
 Wierdervorlage Steuerung
+
+Wiedervorlagen bestehen aus Zustände und die dazugehörige Zustandsübergänge. 
 Dient dazu um mehrere Wiedervorlagen zu steuern, indem eine gewünschte Aktion dafür ausgewählt wird. Natürlich haben Sie hier auch die Möglichkeit verschiedene Aktionen auch für einzelne Wiedervorlagen durchzuführen.
-Wenn Sie  „Nicht OK" auswählen dann werden die Wiedervorlagen auf den vorherigen Zustand gesetzt.
+Wenn Sie  „Nicht OK" auswählen dann werden die Wiedervorlagen auf den nächsten  Zustand gesetzt.
 ![](http://xpecto.github.io/docs/img/img_1427132561724.png)
 
 Falls Sie wünschen können Sie alle Wiedervorlagen auf den nächsten Zustand setzen, indem Sie „Prüfung OK" wählen.
 Neuem Benutzer zuweisen: Es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
+
 Wiedervorlage schließen: Die gewählten Wiedervorlagen werden geschlossen.
 Alarmdatum verändern: Für die gewählten Wiedervorlagen wird ein neues Alarmdatum. Das Alarmdatum wird dann abgefragt.
 Zustand ändern: für die gewählten Wiedervorlagen wird der Zustand neu festgelegt.
+
+Prozess wie was ablaufen soll.
