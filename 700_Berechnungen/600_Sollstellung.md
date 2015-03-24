@@ -14,6 +14,7 @@ Wählen Sie das abzurechnende Produkt und den Stichtag. (fällige Raten bis zum 
 Starten Sie die Berechnung der Sollstellung mit einem klick auf Sollstellung berechnen. Es erscheint eine Liste mit Verträge und den dazugehörigen Raten-Sollstellungen.
 
 Sollstellung berechnen:
+
 ![](http://xpecto.github.io/docs/img/img_1423577411603.png)
 
 Datenprüfung: Die Daten werden auf Fehler geprüft.  Danach können falls gewünscht Dateien erzeugt werden und zwar ein Begleitzettel und eine xml-Datei, Details anzeigen oder Datei an Bank übermitteln.
