@@ -54,9 +54,22 @@ haben Sie einen Überblick über alle Berichte, Adressmuster, Textbausteine und 
 
 Der neue Bericht wird in dem Dialog „Berichte und Textbausteine" über die Symbolleiste erstellt ![](http://xpecto.github.io/docs/img/img_1427209711358.png).
 
-In dem folgenden Dialog können die Einzelheiten eingestellt werden. 
+
+In dem folgenden Dialog können die Einzelheiten eingestellt werden.  Es gibt acht verschiedene Arten Berichte anzulegen. 
 ![](http://xpecto.github.io/docs/img/img_1427210573010.png)
-Microsoft Word, integreierter Berichtsgenerator, Datenexport, HTML Mail, PDF Formular, Meta-Bericht, Einfaches RTF oder Docx, festes Seiten Layout
+Berichtengenerator heißt Active Reports und ist Sektionsbasiert.
+Allgemein Entwurf hier mit DK Feld einfügen.
+Abfrage Filter Fields-Ids ist WHERE Bedingung.
+FieldID sind Felder in der Software. Zusatzdaten hier Uterberichte einfügen. 
+Kategorien Einstellung für die Hauptfenster. Kategorien sind Arten von Berichten. Versandoptionen sind SMS E-Mail eBrief. eBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. 
+Textbausteine und individuelle Schreiben nicht ausführlich beschreiben.
+Oberflächen und Nachschlagslisten
+Nachschlagslisten sind Comboboxen und Dropdown Menüs
+
+
+Microsoft Word, integrierter Berichtsgenerator, Datenexport, HTML Mail, PDF Formular, Meta-Bericht, Einfaches RTF oder Docx, festes Seiten Layout
+
+Integrierter Berichtsgenerator enthält
 
 Der Name und die Gruppe in der den Bericht verwaltet soll, werden hier angegeben.
 Als Beispiel nehmen Sie dann einen leerer Bericht und wollen ein Microsoft Word Bericht mit Daten eines Vertrags erstellen. Mit einem Klick auf OK wird der Bericht erstellt und kann im Reiter Entwurf bearbeitet werden.
