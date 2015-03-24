@@ -60,10 +60,12 @@ haben Sie einen Überblick über alle Berichte, Adressmuster, Textbausteine und 
 
 <p>In dem folgenden Dialog können die Einzelheiten eingestellt werden.  <br>
 <img src="http://xpecto.github.io/docs/img/img_1427210573010.png" alt="" title=""> <br>
-Der Name und die Gruppe in der den Bericht verwaltet soll, werden hier angegeben. <br>
+Microsoft Word, integreierter Berichtsgenerator, Datenexport, HTML Mail, PDF Formular, Meta-Bericht, Einfaches RTF oder Docx, festes Seiten Layout</p>
+
+<p>Der Name und die Gruppe in der den Bericht verwaltet soll, werden hier angegeben. <br>
 Als Beispiel nehmen Sie dann einen leerer Bericht und wollen ein Microsoft Word Bericht mit Daten eines Vertrags erstellen. Mit einem Klick auf OK wird der Bericht erstellt und kann im Reiter Entwurf bearbeitet werden.</p>
 
 <p>Reiter: Allgemein, Entwurf, Abfrage, Zusatzdaten, Kategorien, Versandoptionen. <br>
 Als Grundlage für ein Schreiben wird hier eine bestehende Word Vorlage.  <br>
-Sie müssen hier lediglich die einzelne Felder noch einfügen.</p></div></body>
+Sie müssen hier lediglich die einzelne Felder noch einfügen. </p></div></body>
 </html>
