@@ -58,6 +58,7 @@ Der neue Bericht wird in dem Dialog „Berichte und Textbausteine" über die Sym
 
 
 In dem folgenden Dialog können die Einzelheiten eingestellt werden.  Es gibt acht verschiedene Arten Berichte anzulegen. 
+
 ![](http://xpecto.github.io/docs/img/img_1427210573010.png)
 Berichtengenerator heißt Active Reports und ist Sektionsbasiert.
 Allgemein Entwurf hier mit DK Feld einfügen.
