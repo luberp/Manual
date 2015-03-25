@@ -48,7 +48,9 @@ xpectoPro enthält für Standardschreiben einen sehr einfachen zu bedienenden Be
 Der Berichtsdesigner kann mit einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1427209316556.png) gestartet werden.
 
 In dem Dialog „Berichte und Textbausteine" 
+
 ![](http://xpecto.github.io/docs/img/img_1427209507608.png)
+
 haben Sie einen Überblick über alle Berichte, Adressmuster, Textbausteine und individuelle Schreiben die in xpectoPro hinterlegt sind. Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet.
 
 
