@@ -94,3 +94,18 @@ Auf der linke Seite ist die Liste mit den zu Vertrag gehörenden Felder die jetz
 Mit einem Doppelklick auf  ein eingefügtes Feld öffnet sich das Eigenschaften Formularfeld Dialog.
 ![](http://xpecto.github.io/docs/img/img_1428400230846.png) 
 Hier haben Sie die Möglichkeit die Feldeigenschaften zu ändern.
+
+Unter der Reiter Zusatzdaten können Sie Unterberichte einfügen. 
+
+Abfrage Filter Fields-Ids ist WHERE Bedingung.
+FieldID sind Felder in der Software. Zusatzdaten hier Unterberichte einfügen. 
+Kategorien Einstellung für die Hauptfenster. Kategorien sind Arten von Berichten. Versandoptionen sind SMS E-Mail eBrief. eBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. 
+Textbausteine und individuelle Schreiben nicht ausführlich beschreiben.
+
+
+Adressmuster: Das Muster ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf. Der Parameter @ID wird mit der KundenNr oder einer anderen ID an die Abfrage übergeben.
+
+Textbausteine
+
+Individuelle Schreiben
+
