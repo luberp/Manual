@@ -105,7 +105,7 @@ Textbausteine und individuelle Schreiben nicht ausführlich beschreiben.
 
 Adressmuster: Das Muster ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf. Der Parameter @ID wird mit der KundenNr oder einer anderen ID an die Abfrage übergeben.
 
-Textbausteine
+Textbausteine: Die Textbausteine können dann für Erstellung von Individuelle Schreiben verwendet werden.
 
-Individuelle Schreiben
+Individuelle Schreiben wird für ein einzigen Kunde, Interessent oder Vermittler erstellt.
 
