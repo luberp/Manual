@@ -90,6 +90,7 @@ Der Name und die Gruppe in der den Bericht verwaltet soll, werden hier angegeben
 Mit einem Klick auf OK wird der Bericht erstellt und kann in dem Reiter Entwurf bearbeitet werden. xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft. 
 
 ![](http://xpecto.github.io/docs/img/img_1428401489468.png)
+
 Auf der linke Seite ist die Liste mit den zu Vertrag gehörenden Felder die jetzt in der Vorlage eingefügt werden können. Durch einen Doppelklick werden die Felder einfach  in das Schreiben übernommen. Um eine Formel einzufügen wie die bei der Anrede das Wort geehrter und bei andere Anreden  geehrte liefert =vb.GetAdresse("KU_Briefanrede_Post", [KU_Mgnr]) muss das Formularfeld Dialog geöffnet werden. 
 Mit einem Doppelklick auf  ein eingefügtes Feld öffnet sich das Eigenschaften Formularfeld Dialog.
 ![](http://xpecto.github.io/docs/img/img_1428400230846.png) 
