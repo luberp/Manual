@@ -130,3 +130,5 @@ Textbausteine: Die Textbausteine können dann für Erstellung von Individuelle S
 
 Individuelle Schreiben wird für ein einzigen Kunde, Interessent oder Vermittler erstellt.
 
+Briefversand Dienstleister ist die Anbindung an die Kundenschnittstelle der PIN AG. Diese Schnittstelle ermöglicht den Versand von Briefe ohne diese selbst auszudrucken. Diese Integration ermöglicht den Massenversand von Briefe. Wenn das Schreiben als Wordbericht erstellt wurde und gespeichert dann kann über die Favoritenleiste den Bericht erzeugt und angezeigt werden. Nach den Prüfung des Schreibens wird ein Verteiler für den Massenversand benötigt. Die einfachste Möglichkeit zur Erstellung eines Verteilers ermöglicht das Dialog unter Menü Bearbeiten *Abfragen erstellen*. Nachdem die gewünschte Bedingungen und die Felder ausgewählt würden, werden die Daten angezeigt. Diese Daten können jetzt verwendet um eine neue Kampagne für den Massendruck zu starten 
+Startet eine neue Kampagne für den Massendruck oder andere Massenfunktionen. 
