@@ -85,6 +85,7 @@ Sie müssen hier lediglich die einzelne Felder noch einfügen.
 xpectoPro enthält für Standardschreiben ein sehr einfachen zu bedienenden Berichtsgenerator der sich an Microsoft Word anlegt.
 Sie können den Berichtsdesigner mit einem Klick auf das Symbol![](http://xpecto.github.io/docs/img/img_1427209316556.png)gestartet werden. Einen neuen Bericht wird über die Symbolleiste erstellt ![](http://xpecto.github.io/docs/img/img_1427209711358.png). 
 Der Name und die Gruppe in der den Bericht verwaltet soll, werden hier angegeben. Als Beispiel kann ein Wordbericht mit Daten eines Vertrags erstellt werden.
+
 ![](http://xpecto.github.io/docs/img/img_1427210573010.png)
 
 Mit einem Klick auf OK wird der Bericht erstellt und kann in dem Reiter Entwurf bearbeitet werden. xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft. 
@@ -93,7 +94,9 @@ Mit einem Klick auf OK wird der Bericht erstellt und kann in dem Reiter Entwurf 
 
 Auf der linke Seite ist die Liste mit den zu Vertrag gehörenden Felder die jetzt in der Vorlage eingefügt werden können. Durch einen Doppelklick werden die Felder einfach  in das Schreiben übernommen. Um eine Formel einzufügen wie die bei der Anrede das Wort geehrter und bei andere Anreden  geehrte liefert =vb.GetAdresse("KU_Briefanrede_Post", [KU_Mgnr]) muss das Formularfeld Dialog geöffnet werden. 
 Mit einem Doppelklick auf  ein eingefügtes Feld öffnet sich das Eigenschaften Formularfeld Dialog.
+
 ![](http://xpecto.github.io/docs/img/img_1428400230846.png) 
+
 Hier haben Sie die Möglichkeit die Feldeigenschaften zu ändern.
 
 Reiter: Abfrage
@@ -114,6 +117,7 @@ Kategorien: Lesbarer Name und Betreff für Archiv, Text für Archiv Bestätigung
 
 
 ![](http://xpecto.github.io/docs/img/img_1428413403453.png)
+
 Abfrage Filter Fields-Ids ist WHERE Bedingung.
 FieldID sind Felder in der Software. Zusatzdaten hier Unterberichte einfügen. 
 Kategorien Einstellung für die Hauptfenster. Kategorien sind Arten von Berichten. Versandoptionen sind SMS E-Mail eBrief. eBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. 
