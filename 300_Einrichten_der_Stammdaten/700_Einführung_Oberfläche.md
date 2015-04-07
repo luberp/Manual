@@ -101,7 +101,7 @@ Als Kopf-, Fußzeile oder Briefpapier können nur Berichte ausgewählt werden, d
 
 Im Reiter *Kategorien* kann der Bericht kategorisiert werden. Es bietet sich hier die Möglichkeit den Bericht als Favoritenbericht kennzeichnen und dann sehr einfach in der Hauptmaske auf das Schreiben zuzugreifen. 
 
-Unter dem Karteireiter Kategorien kann der bearbeitete Bericht kategorisiert werden. Mit den Optionen unter „Allgemeiner Bericht" kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbolleiste der Hauptmaske angezeigt werden soll. Dies ist sinvoll 
+Unter dem Karteireiter Kategorien kann der bearbeitete Bericht kategorisiert werden. Mit den Optionen unter „Allgemeiner Bericht" kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbolleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können. Unter *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopf-, Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopf-, Fußzeile oder Briefpapier ausgewählt werden
 
 ![](http://xpecto.github.io/docs/img/img_1428413403453.png)
 Abfrage Filter Fields-Ids ist WHERE Bedingung.
