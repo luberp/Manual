@@ -95,8 +95,14 @@ Mit einem Doppelklick auf  ein eingefügtes Feld öffnet sich das Eigenschaften 
 ![](http://xpecto.github.io/docs/img/img_1428400230846.png) 
 Hier haben Sie die Möglichkeit die Feldeigenschaften zu ändern.
 
-Unter der Reiter Zusatzdaten können Sie Unterberichte einfügen. 
+Unter der Reiter *Zusatzdaten* kann jeweils ein anderer Bericht als Kopfzeile, Fußzeile oder Briefpapier des Berichts ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen an Briefkopf müssen dann nur zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht.
+Als Kopf-, Fußzeile oder Briefpapier können nur Berichte ausgewählt werden, die entsprechend kategorisiert sind. 
 
+Im Reiter *Kategorien* kann der Bericht kategorisiert werden. Es bietet sich hier die Möglichkeit den Bericht als Favoritenbericht kennzeichnen und dann sehr einfach in der Hauptmaske auf das Schreiben zuzugreifen. 
+
+Unter dem Karteireiter Kategorien kann der bearbeitete Bericht kategorisiert werden. Mit den Optionen unter „Allgemeiner Bericht" kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbolleiste der Hauptmaske angezeigt werden soll. Dies ist sinvoll 
+
+![](http://xpecto.github.io/docs/img/img_1428413403453.png)
 Abfrage Filter Fields-Ids ist WHERE Bedingung.
 FieldID sind Felder in der Software. Zusatzdaten hier Unterberichte einfügen. 
 Kategorien Einstellung für die Hauptfenster. Kategorien sind Arten von Berichten. Versandoptionen sind SMS E-Mail eBrief. eBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. 
