@@ -1,11 +1,11 @@
-<u>Betriebssystem:</u>
-Microsoft Windows XP oder Windows Vista
+Betriebssystem:
+Microsoft Windows 7/ 8 / 8.1 / 10
 
-<u>Hardware:</u>
+Hardware:
 
 *   Prozessor: Intel oder vergleichbare CPU mit mindestens 1GHz
 
-*   Hauptspeicher: Mind. 512MB bei Windows XP, 1024MB bei Windows Vista
+*   Hauptspeicher: Mind. 1024MB 
 
 *   Festplatte: Mindestens 100MB freier Festplattenspeicher
 
