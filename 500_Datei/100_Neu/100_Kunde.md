@@ -1,5 +1,6 @@
 Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anleger die bereit sind eine Beteiligung als Gesellschafter einer Kommanditgesellschaft einzugehen, Vermittler oder Interessenten sein. Die Kundenmaske kann über *Datei → Neu → Kunde*, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> neuen Kunden anlegen oder automatisch beim Start von expectoPro, erreicht werden.  
 
+
 Um einen neuen Kunde anzulegen betätigen die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> oder das Menü *Datei → Neu → Kunde*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
 
 ![](http://xpecto.github.io/docs/img/img_1418997533947.png) 
@@ -21,3 +22,5 @@ Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden
 Jeder Vertriebspartner und jeder Leiter von Vertriebseinheiten möchte die aktuelle Produktion zeitnah einsehen. Die Bereitstellung von Stammdaten über Kunden und Verträge ist daher ein grundlegendes Bedürfnis jedes Vertriebs. Die Daten sollten zeitnah für den Partner sichtbar sein. Für den notwendigen Überblick über den eigenen Kundenstamm können die Listen sortiert und gefiltert werden. 
 
 Zusätzlich zu den Stammdaten möchten viele Vertriebspartner auch Einsicht un den laufenden Schriftverkehr und die Historie der Verträge haben. Die Portale werden hier um die Kundenakten erweitert. Eine Auflistung aller Schriftstücke, E-Mails und Telefonate mit dem Kunden wird sichtbar. Für die Verwaltung ist diese Umstellung ein großer Schritt. Alle Dokumente müssen gescannt und verlinkt werden. Für die schnelle Abarbeitung der Dokumente sind meist Barcode-Systeme geeignet. Die Verwaltung gewinnt dadurch deutlich an Geschwindigkeit und legt gleichzeitig den Grundstein für vollständige elektronische Kundenakten.
+
+*Auf dem Karteireiter Ereignisse werden wichtige Ereignisse zum aktuell ausgewählten Vermittler, Kunden oder Vertrag sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).*
