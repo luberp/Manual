@@ -1,5 +1,5 @@
 Stapelbuchung
-Stapelbuchungen sind alle Buchungsdaten pro Fond
+Stapelbuchungen sind alle Buchungsdaten pro Fond.
 Buchungen festschreiben ist ein Änderungsschutz.
 Buchungen exportieren von Nebenbuchhaltung zur Hauptbuchhaltung.
 
@@ -31,11 +31,6 @@ Suchen/Ändern
 Buchungen festschreiben
 Ereignisse
 
-Stapelbuchung
- xpectoPro enthält eine vollständige, zertifizierte  Buchung. Alle Einzahlungen, Forderungen, Dividenden, Gebühren und Auszahlungen werden innerhalb der Buchhaltung für jeden Anleger geführt. Die Buchung erfolgt mit einem vom Anwender vorgegebenen Kontenrahmen, typischerweise SKR03 und SKR04. 
- Da die meiste Buchungen von System bei bestimmten Aktionen erzeugt werden, ist die genaue Kenntnis des Kontenrahmens für die tägliche Benutzung meist nicht relevant.
- In bestimmte Fällen ist jedoch sinnvoll direkt Buchungen anzulegen oder zu ändern. Für diese manuellen Buchungen und Korrekturen dient der Stapelbuchungsdialog. Sie erreichen den Stapelbuchungsdialog im *Menü → Bearbeiten*. Der Dialog ermöglicht die Eingabe, die Änderung und die Suche von Buchungen.
- Für die Weitergabe der Buchungen und die Revisionssicherheit der Buchhaltung können Sie Buchungen festschreiben und in protokollierter Weise exportieren.
 
  
  
