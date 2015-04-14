@@ -13,6 +13,12 @@ Symbolleiste:
 Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen 
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
+|        |          |   |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 
 ||||
 | ------------- |:-------------| -----:|
