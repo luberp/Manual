@@ -54,7 +54,16 @@ Hier kann nach mehrere Kriterien gesucht werden.
 
 Dokumente archivieren wird genutzt wenn gedruckt wird. 
 
+|     |     |
+|-----|-----|
+|Foo  |37   |
+|Bar  |101  |
 
+|               |               |       |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Externe Datenerfassung
 Lagern Sie die Erfassung von Daten an Ihre Vermittler und Kunden aus. Wir ermöglichen Ihnen die Nutzung diesen Daten für Ihre Verwaltung. 
