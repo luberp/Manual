@@ -9,13 +9,17 @@ xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft.
 Symbolleiste: 
 ![](http://xpecto.github.io/docs/img/img_1425898224803.png) mit:
 
+:--- | ---- | ---:
+A    | B    | C
+1    | 2
+I    |
 
 Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen 
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 
 
-|&nbsp;|&nbsp;|&nbsp;|
+|               |              |       |
 | ------------- |:-------------| -----:|
 | ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| ble |
 | ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| blu |
