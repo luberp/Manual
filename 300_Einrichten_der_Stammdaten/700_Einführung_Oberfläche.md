@@ -38,10 +38,77 @@ Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt wer
 <table>
     <tr>
         <td>Foo</td>
-        <td>Foo</td>
+        <td>neuen Kunden anlegen</td>
     </tr>
-           <td>Foo</td>
-         <td>Foo</td>
+    <tr>
+        <td>Foo</td>
+        <td>neuen Vertrag anlegen</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>neuen Vermittler anlegen</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>Adresse neu anlegen</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>Veranstaltungen neu anlegen</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>Speichern</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag)</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>geht zum zuletzt ausgewählten Datensatz zurück</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>Bericht erzeugen</td>
+    </tr>
+      <tr>
+        <td>Foo</td>
+        <td>Bericht bearbeiten</td>
+    </tr>
+      <tr>
+        <td>Foo</td><td>zu den Firmen-Daten</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>zu den Produkt-Daten</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>neuen Prozess anlegen</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Suchdialog öffnen</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Favoriten</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Druckvorschau/Seitenansicht</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Druckoptionen</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Bericht in Datei exportieren oder drucken</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Dokumente archivieren ein/aus</td>
+    </tr>
+     <tr>
+        <td>Foo</td><td>Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments</td>
+</tr>
+ <tr>
+        <td>Foo</td><td>Abrechnungszeitraum</td>
+    </tr>
 </table>
 
 Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png)
