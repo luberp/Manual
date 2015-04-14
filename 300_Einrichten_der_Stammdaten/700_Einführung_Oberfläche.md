@@ -1,4 +1,12 @@
-Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste. Auf der linke Seite ist die Navigation und Rechts die Detailsmaske. Die Navi und die zugehörige Liste für das Ergebnis der Suche, dadurch werden die Details des ausgewählten Datensatzes angezeigt. Unten Links die Wiedervorlage Liste.
+Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste. Auf der linke Seite ist die Navigation und Rechts die Detailsmaske. Die Navi und die zugehörige Liste für das Ergebnis der Suche, 
+
++------------+---------+
+|    Type    |  MySQL  |
++------------+---------+
+| Header     | Top Row |
+| Auto Align | On      |
++------------+---------+
+dadurch werden die Details des ausgewählten Datensatzes angezeigt. Unten Links die Wiedervorlage Liste.
 
 &nbsp; | &nbsp;
 ------ | -----
@@ -7,7 +15,7 @@ Unter der Suche befinden sich die Reiter: Kunden, Vermittler, Personen, Veransta
 Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind.
 
 
-dog | bird | cat
+**dog** | **bird** | *cat*
 ----|------|----
 foo | foo  | foo
 bar | bar  | bar
@@ -23,7 +31,7 @@ Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sond
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 
-|             |         |       |
+|        ![](http://xpecto.github.io/docs/img/img_1425898224803.png) |      |
 | ------------- |:-------------| -----:|
 | ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| ble |
 | ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| blu |
