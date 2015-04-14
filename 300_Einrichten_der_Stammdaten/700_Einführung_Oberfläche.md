@@ -54,10 +54,6 @@ Hier kann nach mehrere Kriterien gesucht werden.
 
 Dokumente archivieren wird genutzt wenn gedruckt wird. 
 
-|     |     |
-|-----|-----|
-|Foo  |37   |
-|Bar  |101  |
 
 |               |               |       |
 | ------------- |:-------------:| -----:|
