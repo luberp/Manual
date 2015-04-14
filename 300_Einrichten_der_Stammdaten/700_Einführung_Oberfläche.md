@@ -16,12 +16,16 @@ Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt wer
 |![](http://xpecto.github.io/docs/img/img_1429021811683.png) | neuen Kunden anlegen
 |![](http://xpecto.github.io/docs/img/img_1429021853043.png) | neuen Vertrag anlegen
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| ![](http://xpecto.github.io/docs/img/img_1429021811683.png) | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
+| Tables        | Are           |
+| ------------- |:-------------:| 
+| ![](http://xpecto.github.io/docs/img/img_1429021811683.png) | `neuen Kunden anlegen` | 
+| ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen    | 
+| zebra stripes | neuen Vermittler anlegen     | 
+| zebra stripes | neuen Vermittler anlegen     | 
+| zebra stripes | neuen Vermittler anlegen     | 
+| zebra stripes | neuen Vermittler anlegen     | 
+| zebra stripes | neuen Vermittler anlegen     | 
+| zebra stripes | neuen Vermittler anlegen     | 
 
 <table>
 		<tr><td></td><td>neuen Kunden anlegen</td></tr>
