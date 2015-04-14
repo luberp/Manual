@@ -20,10 +20,12 @@ xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft. 
 
 <p>Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen  <br>
 Personen sind alle: Kunden, Vermittler und Interessenten. <br>
-Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.</p>
+Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren. <br>
+|<img src="http://xpecto.github.io/docs/img/img_1429021811683.png" alt="" title=""> | neuen Kunden anlegen <br>
+|<img src="http://xpecto.github.io/docs/img/img_1429021853043.png" alt="" title=""> | neuen Vertrag anlegen</p>
 
 <table>
-        <tbody><tr><td>![](http://xpecto.github.io/docs/img/img_1429021554999.png)</td><td>neuen Kunden anlegen</td></tr>
+        <tbody><tr><td> ![](http://xpecto.github.io/docs/img/img_1425904888810.png)  </td><td>neuen Kunden anlegen</td></tr>
         <tr><td>Foo</td><td>neuen Vertrag anlegen</td></tr>
         <tr><td>Foo</td><td>neuen Vermittler anlegen</td></tr>
         <tr><td>Foo</td><td>Adresse neu anlegen</td></tr>
