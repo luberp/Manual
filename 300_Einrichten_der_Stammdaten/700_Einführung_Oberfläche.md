@@ -1,25 +1,11 @@
 Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste. Auf der linke Seite ist die Navigation und Rechts die Detailsmaske. Die Navi und die zugehörige Liste für das Ergebnis der Suche, 
 
-+------------+---------+
-|    Type    |  MySQL  |
-+------------+---------+
-| Header     | Top Row |
-| Auto Align | On      |
-+------------+---------+
+
 dadurch werden die Details des ausgewählten Datensatzes angezeigt. Unten Links die Wiedervorlage Liste.
 
-&nbsp; | &nbsp;
------- | -----
-Stuff  | More things
 Unter der Suche befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten.
 Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind.
 
-
-**dog** | **bird** | *cat*
-----|------|----
-foo | foo  | foo
-bar | bar  | bar
-baz | baz  | baz
 Ein Vermittler kann ein Verkäufer, Mitarbeiter oder ein Betreuer sein.
 xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft. 
 
@@ -31,29 +17,29 @@ Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sond
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 
-|        ![](http://xpecto.github.io/docs/img/img_1425898224803.png) |      |
-| ------------- |:-------------| -----:|
-| ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| ble |
-| ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| blu |
-| ![](http://xpecto.github.io/docs/img/img_1429027293249.png)      | neuen Vermittler anlegen | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027337842.png)      | Adresse neu anlegen | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027370695.png)      | Veranstaltungen neu anlegen | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027446779.png)      | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027549896.png)      | geht zum zuletzt ausgewählten Datensatz zurück | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027648565.png)      | Bericht bearbeiten | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027696041.png)      | zu den Firmen-Daten | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027763628.png)      | zu den Produkt-Daten | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027794683.png)      | neuen Prozess anlegen | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027888314.png)      | Suchdialog öffnen | $1600 |
+|  Icon             |    Beschreibung     |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| 
+| ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| 
+| ![](http://xpecto.github.io/docs/img/img_1429027293249.png)      | neuen Vermittler anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027337842.png)      | Adresse neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027370695.png)      | Veranstaltungen neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | 
+| ![](http://xpecto.github.io/docs/img/img_1429027446779.png)      | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | 
+| ![](http://xpecto.github.io/docs/img/img_1429027549896.png)      | geht zum zuletzt ausgewählten Datensatz zurück | 
+| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen |
+| ![](http://xpecto.github.io/docs/img/img_1429027648565.png)      | Bericht bearbeiten | 
+| ![](http://xpecto.github.io/docs/img/img_1429027696041.png)      | zu den Firmen-Daten | 
+| ![](http://xpecto.github.io/docs/img/img_1429027763628.png)      | zu den Produkt-Daten | 
+| ![](http://xpecto.github.io/docs/img/img_1429027794683.png)      | neuen Prozess anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027888314.png)      | Suchdialog öffnen | 
 | ![](http://xpecto.github.io/docs/img/img_1429028285733.png)     | Favoriten | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429027980198.png)      | Druckvorschau/Seitenansicht | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429028123662.png)      | Druckoptionen | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429028169116.png)      | Bericht in Datei exportieren oder drucken | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429028337350.png)     | Dokumente archivieren ein/aus | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments | $1600 |
-| ![](http://xpecto.github.io/docs/img/img_1429028456194.png)      | Abrechnungszeitraum | $1600 |
+| ![](http://xpecto.github.io/docs/img/img_1429027980198.png)      | Druckvorschau/Seitenansicht | 
+| ![](http://xpecto.github.io/docs/img/img_1429028123662.png)      | Druckoptionen | 
+| ![](http://xpecto.github.io/docs/img/img_1429028169116.png)      | Bericht in Datei exportieren oder drucken | 
+| ![](http://xpecto.github.io/docs/img/img_1429028337350.png)     | Dokumente archivieren ein/aus | 
+| ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments | 
+| ![](http://xpecto.github.io/docs/img/img_1429028456194.png)      | Abrechnungszeitraum | 
 
 Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png)
 Nach der Auswahl eines Kunden oder Vertriebspartner werden dessen Daten auf der rechte Seite angezeigt.
