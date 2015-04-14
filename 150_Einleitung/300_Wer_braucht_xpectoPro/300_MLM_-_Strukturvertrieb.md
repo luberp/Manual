@@ -10,3 +10,6 @@ Sie ohne Mehrkosten nutzen. Sie brauchen dazu nicht einmal eine eigene Website.
 
 Durch die Bündelung der Informationen werden viele Verwaltungstätigkeiten sehr vereinfacht. So können Sie Kosten in Ihrer Verwaltung
 einsparen und haben mehr Zeit und Energie, um sich um Ihre Kunden zu kümmern.
+
+Ziel der MLM ist durch überdurchschnittlich hohe Kundenzufriedenheit ein positives Image aufzubauen und hierüber neue Kunden zu gewinne und so der wirtschaftlichen Erfolg eines Unternehmens zu sichern und zu steigern. Unerwartete und nützliche Aufmerksamkeiten spielen im Empfehlungsmarketing eine zentrale Rolle, da die Kundenkontakte vor allem aufgrund persönliche Empfehlungen anstatt über klassische Werbung generiert werden.
+Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen erhalten diejenigen, die sich viele Nachverkäufer unter ihnen aufbauen, regelmäßige Geldzahlungen aufgrund von Produktionsanteilen.
