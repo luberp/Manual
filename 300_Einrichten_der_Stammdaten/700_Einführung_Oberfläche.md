@@ -14,6 +14,10 @@ Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sond
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 |![](http://xpecto.github.io/docs/img/img_1429021811683.png) | neuen Kunden anlegen
+
+----------
+
+
 |![](http://xpecto.github.io/docs/img/img_1429021853043.png) | neuen Vertrag anlegen
 
 <table>
