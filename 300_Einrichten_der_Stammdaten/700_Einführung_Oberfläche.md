@@ -33,7 +33,7 @@ Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt wer
 | ![](http://xpecto.github.io/docs/img/img_1429027763628.png)      | zu den Produkt-Daten | 
 | ![](http://xpecto.github.io/docs/img/img_1429027794683.png)      | neuen Prozess anlegen | 
 | ![](http://xpecto.github.io/docs/img/img_1429027888314.png)      | Suchdialog öffnen | 
-| ![](http://xpecto.github.io/docs/img/img_1429028285733.png)     | Favoriten | $1600 |
+| ![](http://xpecto.github.io/docs/img/img_1429028285733.png)     | Favoriten | 
 | ![](http://xpecto.github.io/docs/img/img_1429027980198.png)      | Druckvorschau/Seitenansicht | 
 | ![](http://xpecto.github.io/docs/img/img_1429028123662.png)      | Druckoptionen | 
 | ![](http://xpecto.github.io/docs/img/img_1429028169116.png)      | Bericht in Datei exportieren oder drucken | 
