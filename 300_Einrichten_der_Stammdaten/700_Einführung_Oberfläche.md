@@ -14,7 +14,11 @@ Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sond
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 
-||||
+&nbsp; | &nbsp;
+------ | -----
+Stuff  | More things
+
+|&nbsp;|&nbsp;|&nbsp;|
 | ------------- |:-------------| -----:|
 | ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| ble |
 | ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| blu |
@@ -55,8 +59,7 @@ Hier kann nach mehrere Kriterien gesucht werden.
 Dokumente archivieren wird genutzt wenn gedruckt wird. 
 
 
-|               |               |       |
-| ------------- |:-------------:| -----:|
+|-------------|-------------------|---------------|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
