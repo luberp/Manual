@@ -17,7 +17,7 @@ Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt wer
 |![](http://xpecto.github.io/docs/img/img_1429021853043.png) | neuen Vertrag anlegen
 
 <table>
-		<tr><td> ![](http://xpecto.github.io/docs/img/img_1425904888810.png)  </td><td>neuen Kunden anlegen</td></tr>
+		<tr><td></td><td>neuen Kunden anlegen</td></tr>
 		<tr><td>Foo</td><td>neuen Vertrag anlegen</td></tr>
 		<tr><td>Foo</td><td>neuen Vermittler anlegen</td></tr>
 		<tr><td>Foo</td><td>Adresse neu anlegen</td></tr>
