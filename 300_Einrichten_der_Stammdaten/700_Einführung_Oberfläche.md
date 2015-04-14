@@ -13,43 +13,30 @@ Symbolleiste:
 Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen 
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
-|![](http://xpecto.github.io/docs/img/img_1429021811683.png) | neuen Kunden anlegen
-|![](http://xpecto.github.io/docs/img/img_1429021853043.png) | neuen Vertrag anlegen
 
-| Tables        | Are           |
-| ------------- |:-------------:| 
-| ![](http://xpecto.github.io/docs/img/img_1429021811683.png) | `neuen Kunden anlegen` | 
-| ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen    | 
-| zebra stripes | neuen Vermittler anlegen     | 
-| zebra stripes | neuen Vermittler anlegen     | 
-| zebra stripes | neuen Vermittler anlegen     | 
-| zebra stripes | neuen Vermittler anlegen     | 
-| zebra stripes | neuen Vermittler anlegen     | 
-| zebra stripes | neuen Vermittler anlegen     | 
-
-<table>
-		<tr><td></td><td>neuen Kunden anlegen</td></tr>
-		<tr><td>Foo</td><td>neuen Vertrag anlegen</td></tr>
-		<tr><td>Foo</td><td>neuen Vermittler anlegen</td></tr>
-		<tr><td>Foo</td><td>Adresse neu anlegen</td></tr>
-		<tr><td>Foo</td><td>Veranstaltungen neu anlegen</td></tr>
-		<tr><td>Foo</td><td>Speichern</td></tr>
-		<tr><td>Foo</td><td>Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag)</td></tr>
-		<tr><td>Foo</td><td>geht zum zuletzt ausgewählten Datensatz zurück</td></tr>
-		<tr><td>Foo</td><td>Bericht erzeugen</td></tr>
-		<tr><td>Foo</td><td>Bericht bearbeiten</td></tr>
-		<tr><td>Foo</td><td>zu den Firmen-Daten</td></tr>
-		<tr><td>Foo</td><td>zu den Produkt-Daten</td></tr>
-		<tr><td>Foo</td><td>neuen Prozess anlegen</td></tr>
-		<tr><td>Foo</td><td>Suchdialog öffnen</td></tr>
-		<tr><td>Foo</td><td>Favoriten</td></tr>
-		<tr><td>Foo</td><td>Druckvorschau/Seitenansicht</td></tr>
-		<tr><td>Foo</td><td>Druckoptionen</td></tr>
-		<tr><td>Foo</td><td>Bericht in Datei exportieren oder drucken</td></tr>
-		<tr><td>Foo</td><td>Dokumente archivieren ein/aus</td></tr>
-		<tr><td>Foo</td><td>Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments</td></tr>
-		 <tr><td>Foo</td><td>Abrechnungszeitraum</td></tr>
-</table>
+| Tables        | Are           | Cool  |
+| ------------- |:-------------| -----:|
+| ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| ble |
+| ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| blu |
+| col 3 is      | neuen Vermittler anlegen | $1600 |
+| col 3 is      | Adresse neu anlegen | $1600 |
+| col 3 is      | Veranstaltungen neu anlegen | $1600 |
+| col 3 is      | Speichern | $1600 |
+| col 3 is      | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | $1600 |
+| col 3 is      | geht zum zuletzt ausgewählten Datensatz zurück | $1600 |
+| col 3 is      | Bericht erzeugen | $1600 |
+| col 3 is      | Bericht bearbeiten | $1600 |
+| col 3 is      | zu den Firmen-Daten | $1600 |
+| col 3 is      | zu den Produkt-Daten | $1600 |
+| col 3 is      | neuen Prozess anlegen | $1600 |
+| col 3 is      | Suchdialog öffnen | $1600 |
+| col 3 is      | Favoriten | $1600 |
+| col 3 is      | Druckvorschau/Seitenansicht | $1600 |
+| col 3 is      | Druckoptionen | $1600 |
+| col 3 is      | Bericht in Datei exportieren oder drucken | $1600 |
+| col 3 is      | Dokumente archivieren ein/aus | $1600 |
+| col 3 is      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments | $1600 |
+| col 3 is      | Abrechnungszeitraum | $1600 |
 
 Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png)
 Nach der Auswahl eines Kunden oder Vertriebspartner werden dessen Daten auf der rechte Seite angezeigt.
