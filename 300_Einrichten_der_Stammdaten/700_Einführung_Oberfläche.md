@@ -1,4 +1,4 @@
-Das Programmfenster teilt sich in zwei Bereiche. Auf der linke Seite ist die Suche und die zugehörige Liste für das Ergebnis der Suche, dadurch werden die Details des ausgewählten Datensatzes angezeigt. 
+Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste. Auf der linke Seite ist die Navigation und Rechts die Detailsmaske. Die Navi und die zugehörige Liste für das Ergebnis der Suche, dadurch werden die Details des ausgewählten Datensatzes angezeigt. Unten Links die Wiedervorlage Liste.
 
 Unter der Suche befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten.
 Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind.
@@ -31,8 +31,7 @@ Symbolleiste:
  - Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments
  - Abrechnungszeitraum
 
-Ziel der MLM ist durch überdurchschnittlich hohe Kundenzufriedenheit ein positives Image aufzubauen und hierüber neue Kunden zu gewinne und so der wirtschaftlichen Erfolg eines Unternehmens zu sichern und zu steigern. Unerwartete und nützliche Aufmerksamkeiten spielen im Empfehlungsmarketing eine zentrale Rolle, da die Kundenkontakte vor allem aufgrund persönliche Empfehlungen anstatt über klassische Werbung generiert werden.
-Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen erhalten diejenigen, die sich viele Nachverkäufer unter ihnen aufbauen, regelmäßige Geldzahlungen aufgrund von Produktionsanteilen.
+Geld wird nicht in das Marketing, für den klassischen Vertrieb ausgegeben, sondern über Provisionszahlungen 
 Personen sind alle: Kunden, Vermittler und Interessenten.
 Interessenten können falls gewünscht in Kunden oder Vermittler umgewandelt werden. Interessenten können z.B. ein Newsletter abonnieren.
 
