@@ -4,11 +4,11 @@ Datum: H G   M   E  L  oder normal eingeben.
 
 Verträge werden zum Kunden angelegt. Öffnen Sie die Ansicht Kunden und markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neunen Vertrag anzulegen über Menü → Neu → Vertrag, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426508800812.png).
 Es erscheint die Eingabeaufforderung neuen Vertrag erstellen, hier wählen Sie ein Produkt ein. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
-Der Karteireiter Allgemein teil sich in folgende Bereiche: in dem Bereich Allgemein, in dem Bereich Status, Provision, Bereich Daten, Bereich Konten, Rateneinzug, Bereich Auswertung. 
+Der Karteireiter *Allgemein* teil sich in folgende Bereiche: in dem Bereich Allgemein, in dem Bereich Status, Provision, Bereich Daten, Bereich Konten, Rateneinzug, Bereich Auswertung. 
 Karteireiter: Eingenschaften 
-Karteireiter Werte beinhaltet die Bereiche:  Verknüpfung, Wert, Berechnungsparameter, Dokument.
+Karteireiter *Werte* beinhaltet die Bereiche:  Verknüpfung, Wert, Berechnungsparameter, Dokument.
 Übertragung  - Übertragung durchführen
-Der Reiter Übertragung dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden.
+Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden.
 Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 In dem Bereich Ziel-Verträge / Rechtsnachfolger können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Dialog *Kunden auswählen*. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.
 
@@ -24,13 +24,15 @@ Nachdem der Übertrag durchgeführt würde, wird ein neun Vertrag angelegt. Der 
 Buchungsdaten
 
 Sollbuchungen
+Unter dem Reiter Sollbuchungen werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto auf das die Lastschrift eingezogen werden soll.
+
 Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beiziehen sich auf die unter Produkte vorkonfigurierte Salden
 
 Ereignisse 
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
 Belege.
-In dem Reiter Belege können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
+In dem Reiter *Belege* können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 
 *Unter dem Reiter Sollbuchungen werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.* 
 
