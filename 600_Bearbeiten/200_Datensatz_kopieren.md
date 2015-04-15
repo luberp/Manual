@@ -1,4 +1,4 @@
-Über diesen Menüpunkt kann der Vermittler, Kunden, Personen, Veranstaltungen oder Interessenten kopiert werden.  
+Über diesen Menüpunkt kann der Vertrag, Vermittler, Kunden, Personen, Veranstaltungen oder Interessenten kopiert werden.  
 Um einen Datensatz zu kopieren wählen Sie das Menü Bearbeiten → Datensatz kopieren. Sie werden aufgefordert eine Nummer einzueben.
 
 ![](http://xpecto.github.io/docs/img/img_1420462123600.png)
