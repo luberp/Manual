@@ -24,10 +24,10 @@ Nachdem der Übertrag durchgeführt würde, wird ein neun Vertrag angelegt. Der 
 Buchungsdaten
 
 Sollbuchungen
-Der Karteireiter Salden beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beiziehen sich auf die unter Produkte vorkonfigurierte Salden
+Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beiziehen sich auf die unter Produkte vorkonfigurierte Salden
 
 Ereignisse 
-Auf dem Karteireiter Ereignisse werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
 Belege.
 In dem Reiter Belege können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
