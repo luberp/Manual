@@ -1,10 +1,10 @@
-Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten. Unter diesen Reiter sind die Suche, die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt.
+Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten. Unter diesen Reiter sind die Suche, die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt. Fußzeile...
 
 ![](http://xpecto.github.io/docs/img/img_1429103385080.png)
 
 Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Hilfe.
 
-Die Symbolleiste beinhaltet folgende Elementen:
+Die Symbolleiste beinhaltet folgende Elemente:
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -30,11 +30,11 @@ Die Symbolleiste beinhaltet folgende Elementen:
 | ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments | 
 | ![](http://xpecto.github.io/docs/img/img_1429028456194.png)      | Abrechnungszeitraum | 
 
-Unter der Suche befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten.
-Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind.
-Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png). Am Ende des Suchfeldes haben Sie drei Schaltflächen. Die Suche einfach zu starten, nach dem Sie einen bestimmten Kunden, Vertrag, Name etc. Die Suche zu löschen durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429098613885.png), oder verschiedene Suchoptionen einzustellen.
-Nach der Auswahl eines Kunden oder Vertriebspartner werden dessen Daten auf der rechte Seite angezeigt.
+Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind, Vermittler beinhaltet alle Vermittler, Personen mit alle Personen, Veranstaltungen mit alle Veranstaltungen, Interessenten mit alle Interessenten.
 
+Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png). Am Ende des Suchfeldes haben Sie drei Schaltflächen. Die Suche einfach starten, nach dem Sie einen bestimmten Kunden, Vertrag, Name etc. Die Suche löschen durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429098613885.png), oder verschiedene Suchoptionen einstellen.
+
+Nach der Auswahl eines Kunden oder Vertriebspartner werden dessen Daten auf der rechte Seite angezeigt.
 Die rechte Seite besteht aus eigene Registerkarten die verschiedene Informationen erhalten.
 
 ![](http://xpecto.github.io/docs/img/img_1425902226633.png)
