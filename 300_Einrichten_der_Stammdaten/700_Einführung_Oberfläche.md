@@ -2,11 +2,9 @@ Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbollei
 
 ![](http://xpecto.github.io/docs/img/img_1429099514811.png)
 
-
 Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Hilfe.
 
 Symbolleiste beinhaltet folgende Elementen:
-
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| 
@@ -54,9 +52,6 @@ Lagern Sie die Erfassung von Daten an Ihre Vermittler und Kunden aus. Wir ermög
 xpectoPro ermöglicht die Nutzung von Daten die direkt oder von Ihre Vertriebspartnern oder von Ihren Kunden eingetippt wurden. Die Erfassung erfolgt über PDF Formulare oder Web Seiten. Die Daten werden automatisch in unsere Verfassung-Schnittstelle abgelegt. In der Verwaltung können diese Daten dann für die Neuanlage von Kunden oder Verträge benutzt werden. Der Aufwand für die intensive Erfassung von Daten sinkt damit deutlich. Falls Sie PDF Formulare für die Verfassung nutzen, werden diese von unserem System mit Barcodes ausgestattet. Diese Barcodes erhalten die Kennung der Verfassung und beschleunigen die Erfassung noch weiter. Das gezeigte Formular wird über eine Website erfasst und dann als fertiges PDF-Formular von Vertriebspartner heruntergeladen. 
 Falls Sie eine Webcam an Ihrem Rechner angeschlossen haben können Sie den Barcode auf dem Formular automatisch erkennen lassen. Alternativ müssen Sie die Vertragsnummer per Hand eingeben und erhalten damit die gleiche Daten. Die Software erkennt der Barcode und zeigt die Daten aus der Vorerfassungsschnittstelle direkt an. Jetzt können die hinterlegte Daten sichten und bearbeiten. Wichtig bei jede neue Erfassung ist die Auswahl der korrekten Kunden. Der Kunde konnte bereits in Ihren Bestand hinterlegt sein und sollte nicht erneut angelegt werden. Dieser Dialog ermöglicht Ihnen beiden. Sie können in der linke Hälfte „Neuer Kunde anlegen" oder in der rechten Hälfte einen bestehenden Kunde suchen und auswählen. In unseren Fall ist der Kunde noch nicht vorhanden und soll neu angelegt werden, ich bestätige das mit einem Klick auf dem entsprechenden Knopf.
 Als nächstes werden die Vertragsdaten aus der Vorerfassungsschnittstelle angezeigt. Diese Daten können jetzt überprüft und werden und die Änderungen die per Hand auf dem Antrag gemacht würden in die Maske eingegeben. Zum Abschluss der Erfassung wird der neue Kunde gespeichert. Die Daten sind jetzt im System hinterlegt. Falls Sie den Antrag zu Vertrag archivieren möchten können Sie diese ohne weitere Änderungen scannen und von integrierter Scanmanager automatisch zuordnen lassen.
-| :-----: |bla|
-| bla| bla|
-
 
 Schreiben erstellen - einfache Schreiben erstellen und drucken.
 xpectoPro enthält für Standardschreiben einen sehr einfachen zu bedienenden Berichtsgenerator der sich an Microsoft Word anlegt.
