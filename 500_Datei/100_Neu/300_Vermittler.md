@@ -27,8 +27,8 @@ Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf de
 
 Definition des Vermittler-Strukturbaums: bei den Vermittlern muss untere Struktur-Betreuer-Nummer jeweils der dem ausgewählten Vermittler direkt übergeordnete Vermittler eingetragen werden. Sind bei einem Vermittler mehrere Provisionssätze eingetragen (z.B. für verschiedene Produkte), wird typischerweise in allen Provisionssätze derselbe übergeordnete Vermittler gewählt (es sei denn für verschiedene Produkte  oder Provisionstypen sollen unterschiedliche Vermittler-Strukturen definiert werden). Struktur-Betreuer-Nummer ist ein Pflichtfeld , beim Strukturkopf (oberster Vermittler des Strukturbaums) wird als übergeordneter Vermittler seine eigene Vermittler-Nr. eingetragen. Bis auf diesen Sonderfall, sind Zirkelbezüge unzulässig. 
 
-    Beispiel
-
+  Beispiel bauen
+  
 **Karriere-System - die einfache Methode (Default)**
 Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. Über den Menüpunkt *Datei  → Firmen* oder *Datei → Produkte* ist der Dialog „xpectoPro Firmen und Produkte" erreichbar, über den die Firmen, Produkte und Gesellschaften verwaltet werden.  Auf dem Reiter *Produkte* auf dem Karteireiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
 
