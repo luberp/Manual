@@ -1,5 +1,6 @@
 Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite ist die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt.
 ![](http://xpecto.github.io/docs/img/img_1429097884909.png)
+
 Unter der Suche befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten.
 Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind.
 
