@@ -5,6 +5,7 @@ Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbollei
 Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Hilfe.
 
 Symbolleiste beinhaltet folgende Elementen:
+
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| 
