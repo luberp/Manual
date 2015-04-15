@@ -1,14 +1,9 @@
-Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste. Auf der linke Seite ist die Navigation und Rechts die Detailsmaske. Die Navi und die zugehörige Liste für das Ergebnis der Suche, 
-
-
-dadurch werden die Details des ausgewählten Datensatzes angezeigt. Unten Links die Wiedervorlage Liste.
+Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite ist die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt.
 
 Unter der Suche befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen, Interessenten.
 Der Reiter Kunden beinhaltet alle Kunden die in System hinterlegt sind.
 
-Ein Vermittler kann ein Verkäufer, Mitarbeiter oder ein Betreuer sein.
-xpectoPro orientiert sich stark an die bekannte Office Anwendung von Microsoft. 
-
+Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Hilfe.
 Symbolleiste: 
 ![](http://xpecto.github.io/docs/img/img_1425898224803.png) mit:
 
