@@ -1,4 +1,3 @@
-Stapelbuchung
 Stapelbuchungen sind alle Buchungsdaten pro Fond.
 Buchungen festschreiben ist ein Änderungsschutz.
 Buchungen exportieren von Nebenbuchhaltung zur Hauptbuchhaltung.
@@ -31,7 +30,10 @@ Suchen/Ändern
 Buchungen festschreiben
 Ereignisse
 
-
+GOBS Modus - Damit man nichts mehr ändern kann.
  
- 
+Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind. 
+Festschreiben damit nichts mehr geändert wird.
+Wenn eine festgeschriebene Buchung gelöscht wird, wird sie einfach nur storniert.
+1.Festschreiben 2.Schließen 3. Exportieren.
 
