@@ -72,4 +72,7 @@ Nachdem Sie die folgende Meldung mit OK bestätigt haben sind die angezeigten Da
 
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
 
-Durch Betätigung on Beenden können Sie den Abfrageeditor beenden.
+Durch Betätigung von Beenden können Sie den Abfrageeditor beenden.
+
+Mit der Funktion „Abfragen erstellen" können beliebige Listen und Abfragen erstellt werden. Die abgefragten Daten können mit einem Klick an Excel übergeben werden. Mit dem Dialog „Abfragen und Listen" können sich Benutzer direkt eigene Abfragen  „zusammenklicken". Sie wählen die Datenfelder und geben die entsprechenden Filterwerte und Bedingungen an. Alle Elemente dieses Dialogs sind auf Endbenutzer ausgerichtet und tragen „deutsche" Namen. Durch die einfache Benutzung wird diese Funktion bei unseren Kunden sehr breit eingesetzt. Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System schlägt typische Felder vor. Die Auswahl kann jederzeit erweitert oder geändert werden. Auf der folgende Seite wird direkt das Ergebnis der Abfrage angezeigt. Die Liste kann hier nochmals gefiltert werden. Ein Klick auf „Excel" oder „CSV"öffnet die ermittelten Daten direkt in Excel und die können dann dort weiterbearbeitet werden.
+Die Daten können auch direkt an eine Kampagne übergeben werden. Die Kampagne ermöglicht Massenaktionen wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung. Eine ideale Kombination ist der abschließende Druck der Daten über einen Druckdienstleister.
