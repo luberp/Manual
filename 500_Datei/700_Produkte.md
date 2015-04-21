@@ -36,7 +36,6 @@ Karteireiter *Anteilsarten*
 
 Karteireiter *Anteilspreise*
 
-Karteireiter: Allgemein, Parameter, Auswertung, Saldenübersicht, Tarife, Tranchen, Kosten, Buchungsdaten, Belege, Provisionssätze, Status, Konten, Wertarten, Währung, Wechselkurse, Salden, Anteilsarten, Anteilspreise. 
 
 
 Zur Grundeinrichtung Ihres xpectoPro gehört auch das Anlegen der mit der Software verwalteten Produkte bzw. Fonds. Sie finden die Eingabemaske unter Datei Produkte bzw. Fonds. Sie finden die Eingabemaske unter Datei Produkte oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424874256918.png).
@@ -47,3 +46,5 @@ Gleiches gilt für das Anlegen von Produkte. Das beim Anlegen eines Produkt zu v
 
 Ein Alternative Investmentfonds ist ein "jeder Organismus für gemeinsame Anlegen einschließlich seiner Teilfonds, die vor einer Anzahl von Anlegern Kapital einsammelt, um es gemäß einer festgelegten Anlagestrategie zum Nutzen dieser Anleger zu investieren, und in der nicht unter die Richtlinien über Organismen für gemeinsame Anlagen in Wertpapieren fällt."
 Um Kleinanleger zukünftig besser schützen  und über das entsprechende Risiko aufklären zu können, unterliegen alle Fonds der Aufsicht der Bundesanstalt für Finanzdiensleistungsaufsicht. Privatanleger können außerdem keine Anteile mehr an Hedgefonds erwerben.
+
+1.Produkt, 2. Kunde, 3.Verträge, 4.Zahlfirma, 5.Vertrieb
