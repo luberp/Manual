@@ -37,5 +37,7 @@ Abrechnung von Provisionen
 Provisionsvereinbarungen sind die Basis für die Zusammenarbeit mit dem Vertrieb.
 Die zeitnahe und korrekte Abrechnung von Provisionen sollte eine Selbstverständlichkeit für jedes Unternehmen sein. Diese Abläufe können nur gelingen wenn alle Bausteine und Prozesse im Unternehmen optimal abgestimmt zusammenwirken.
 
+Die Sollstellung ist ein aus der Buchhaltung der Wohnungs- und Immobilienwirtschaft stammender Begriff. Dabei werden die gesamte vertraglich wirksam vereinbarten Mieten und Vorauszahlungen am Anfang eines Monats bereits im Vorwege als Forderungen an die Mieter gebucht. Die Mieten werden somit ins Soll gestellt. Dies geschieht noch vor dem dritten Werktag eines Monats, dem gesetzlich geregelten Fälligkeitszeitpunkt der Miete. Der Grund, die Mietzahlungen 
+
 
 
