@@ -1,25 +1,6 @@
 Über das Menü *Datei → Firmen* oder über die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1429108156654.png) gelangen Sie zur Maske Firmen und Produkte. 
 
-Die Symbolleiste dient dazu Ihre Arbeit zu erleichtern, damit können Sie sehr einfach. Sie können Speichern, neune Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen. 
-Reiter 
-
-Unter Firmen werden die Vertriebsfirmen, in deren Namen Provisionsabrechnungen erstellt werden, verwaltet oder die Zahlfirmen.
-Eine Vertriebsfirma hat mehrere Gesellschaften.
-Zahlfirma ist für Provisionszahlungen zuständig.
-Eine Zahlfirma ist eine Vertriebsfirma.
-
-Produkte sind die Fonds die können mehrere Firmen haben.
-Gesellschaft ist wie BMW die kann meherere Produkte haben wie 3, 5 i.
-
-1. Produkt, 2. Kunde, 3.Verträge, 4.Zahlfirma, 5.Vertrieb
-
-Provisionszahlendefirma macht Vetrieb.
-
-Reiter: Allgemein, Kosten, Konten, Karrierestufen, Web-Dokumente.
-Auf dem Karteireiter Allgemein werden die Adressdaten
-
-
-Auf dem Karteireiter *Web-Dokumente* werden die Dokumenten für VP Portal, Empfängertyp Kunde oder Vermittler.
+Die Symbolleiste dient dazu Ihre Arbeit zu erleichtern, damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen. 
 
 Über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
 Die Maske beinhaltet auf der rechte Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*.
