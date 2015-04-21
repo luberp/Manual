@@ -1,9 +1,12 @@
-Über das Menü *Datei → Firmen* oder über die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1429108156654.png) gelangen Sie zur Maske Firmen und Produkte. 
 
-Die Symbolleiste dient dazu Ihre Arbeit zu erleichtern, damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen. 
+
+ 
 
 Über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
-Die Maske beinhaltet auf der rechte Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*.
+
+Die Symbolleiste dient dazu Ihre Arbeit zu erleichtern, damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen.
+
+Die Maske beinhaltet auf der rechte Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*. 
 
 Unter *Firmen* werden die Vertriebsfirmen, in deren Namen Provisionsabrechnungen erstellt werden, verwaltet. 
 Auf dem Karteireiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich *Abrechnung* beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird xpecto Kundensupport voreingestellt.
