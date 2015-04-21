@@ -10,4 +10,6 @@ Gleiches gilt für das Anlegen von Produkte. Das beim Anlegen eines Produkt zu v
 Produkte sind die Fonds die können mehrere Firmen haben.
 Gesellschaft ist wie BMW die kann mehrere Produkte haben wie 3, 5 i.
 ![](http://xpecto.github.io/docs/img/img_1429606876064.png)
+
+Die Reihenfolge:
 1. Produkt, 2. Kunde, 3.Verträge, 4.Zahlfirma, 5.Vertrieb
