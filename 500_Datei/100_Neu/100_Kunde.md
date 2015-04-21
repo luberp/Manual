@@ -17,7 +17,7 @@ Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und for
 Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png).
 Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden.  
 Unter dem Reiter Eigenschaften können Bemerkungen zum Kunde festgehalten.  
-Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignissse auch auf Beteiligungsebene angelegt werden.
+Unter Ereignisse kann der Verlauf der Ereignissen zum Kunden dokumentiert werden. Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignisse auch auf Beteiligungsebene angelegt werden.
 
 Jeder Vertriebspartner und jeder Leiter von Vertriebseinheiten möchte die aktuelle Produktion zeitnah einsehen. Die Bereitstellung von Stammdaten über Kunden und Verträge ist daher ein grundlegendes Bedürfnis jedes Vertriebs. Die Daten sollten zeitnah für den Partner sichtbar sein. Für den notwendigen Überblick über den eigenen Kundenstamm können die Listen sortiert und gefiltert werden. 
 
