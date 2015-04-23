@@ -16,7 +16,8 @@ Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, sonstige 
 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeportal sein. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. Ein Kundenportal ist ein Informationsportal für Kunde.
 
-Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit OK. Erfassen Sie Ihre kundenspezifischen Adressdaten sowie die Bankverbindung. Unter den Karteireitern *Adressen* und Eigenschaften können weitere Stammdaten, Bemerkungen und vordefinierte Eigenschaften erfasst werden.
+Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit OK. Erfassen Sie Ihre kundenspezifischen Adressdaten sowie die Bankverbindung. 
+Unter den Karteireitern *Adressen* und *Eigenschaften* können weitere Stammdaten, Bemerkungen und vordefinierte Eigenschaften erfasst werden.
 
 Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und formatiert.  
 Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png).
@@ -28,4 +29,11 @@ Jeder Vertriebspartner und jeder Leiter von Vertriebseinheiten möchte die aktue
 
 Zusätzlich zu den Stammdaten möchten viele Vertriebspartner auch Einsicht un den laufenden Schriftverkehr und die Historie der Verträge haben. Die Portale werden hier um die Kundenakten erweitert. Eine Auflistung aller Schriftstücke, E-Mails und Telefonate mit dem Kunden wird sichtbar. Für die Verwaltung ist diese Umstellung ein großer Schritt. Alle Dokumente müssen gescannt und verlinkt werden. Für die schnelle Abarbeitung der Dokumente sind meist Barcode-Systeme geeignet. Die Verwaltung gewinnt dadurch deutlich an Geschwindigkeit und legt gleichzeitig den Grundstein für vollständige elektronische Kundenakten.
 
-*Auf dem Karteireiter Ereignisse werden wichtige Ereignisse zum aktuell ausgewählten Vermittler, Kunden oder Vertrag sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).*
+Ereignisse ist  sozusagen eine Archiv mit einen Verlauf für alle Dokumente. 
+Ereignisse auf Kundenebene und auf Beteiligungsebene
+
+Eigenschaften sind etwas  wie Tags oder Interessen, Properties.
+Ereignis ist ein Verlauf  für alle Dokumente.
+Es gibt Vertragsdokumente und Beteiligungsdokumente.
+
+Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vermittler, Kunden oder Vertrag sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
