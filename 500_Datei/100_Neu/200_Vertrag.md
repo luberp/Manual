@@ -23,28 +23,20 @@ Nachdem der Übertrag durchgeführt würde, wird ein neun Vertrag angelegt. Der 
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
 
 
-Buchungsdaten
+*Buchungsdaten*
 
-Sollbuchungen
-Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto auf das die Lastschrift eingezogen werden soll.
+
+Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
 
 Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beiziehen sich auf die unter Produkte vorkonfigurierte Salden
 
-Ereignisse 
+
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
-Belege.
 In dem Reiter *Belege* können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 
-*Unter dem Reiter Sollbuchungen werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.* 
-
-Karteireiter Sollbuchungen
 
 Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
-
-*Auf dem Karteireiter Ereignisse werden wichtige Ereignisse zum aktuell ausgewählten Vermittler, Kunden oder Vertrag sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).*
-
-
 
 Verträge werden zum Kunden angelegt. Öffnen Sie die Ansicht Kunden (Karteireiter _Kunden_) und markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Über den Menüpunkt *Datei → Neu → Vertrag* oder die Schaltfläche ![](http://xpecto.github.io/docs/img/img035.png) wird ein neuer Vertrag zum ausgewählten Kunden angelegt. Es erscheint die Eingabeaufforderung "Neuer Datensatz". Wählen Sie ein Produkt und geben Sie die gewünschte Vertragsnummer ein. Bestätigen Sie mit *OK*.
 
