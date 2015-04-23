@@ -5,7 +5,8 @@ Es erscheint die Eingabeaufforderung neuen Vertrag erstellen, hier wählen Sie e
 
 Der Karteireiter *Allgemein* teil sich in folgende Bereiche: in dem Bereich Allgemein, in dem Bereich Status, Provision, Bereich Daten, Bereich Konten, Rateneinzug,  Beiteiligung, Bereich Auswertung. 
 
-Karteireiter: *Eigenschaften* 
+Karteireiter: *Eigenschaften* hier können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
+
 Karteireiter *Werte* beinhaltet die Bereiche:  Verknüpfung, Wert, Berechnungsparameter, Dokument.
 
 
