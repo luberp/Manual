@@ -10,10 +10,13 @@ Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie 
 
 ![](http://xpecto.github.io/docs/img/img_1418997692185.png)
 
-Links wird eine Übersicht der bereits bestehenden Kunden dargestellt. 
+Auf der rechte Seite stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse*.
 
-Unter dem Reiter Allgemein steht eine Übersicht von der Stammdaten, sonstige Daten und Web-Portal Daten. 
+Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, sonstige Daten und Web-Portal Daten. 
+
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeportal sein. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. Ein Kundenportal ist ein Informationsportal für Kunde.
+
+Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit OK. Erfassen Sie Ihre kundenspezifischen Adressdaten sowie die Bankverbindung. Unter den Karteireitern *Adressen* und Eigenschaften können weitere Stammdaten, Bemerkungen und vordefinierte Eigenschaften erfasst werden.
 
 Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und formatiert.  
 Unter dem Reiter Adresse können Sie die Adresse anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png).
