@@ -7,10 +7,10 @@ Es erscheint die Eingabeaufforderung neuen Vertrag erstellen, hier wählen Sie e
 
 Der Karteireiter *Allgemein* teil sich in folgende Bereiche: in dem Bereich Allgemein, in dem Bereich Status, Provision, Bereich Daten, Bereich Konten, Rateneinzug,  Beiteiligung, Bereich Auswertung. 
 
-Karteireiter: *Eingenschaften* 
+Karteireiter: *Eigenschaften* 
 Karteireiter *Werte* beinhaltet die Bereiche:  Verknüpfung, Wert, Berechnungsparameter, Dokument.
 
-Übertragung  - Übertragung durchführen
+
 Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 In dem Bereich Ziel-Verträge / Rechtsnachfolger können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Dialog *Kunden auswählen*. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.
 
