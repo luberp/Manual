@@ -23,5 +23,9 @@
 <p><img src="http://xpecto.github.io/docs/img/img_1430134674440.png" alt="" title=""></p>
 
 <p>Beenden Sie die Installation mit der Schaltfläche <em>Fertigstellen.</em> Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport. <br>
-<img src="http://xpecto.github.io/docs/img/img_1430134706939.png" alt="" title=""></p></div></body>
+<img src="http://xpecto.github.io/docs/img/img_1430134706939.png" alt="" title=""></p>
+
+<p>Zum Starten von xpectoPro klicken Sie im Startmenü auf dem Eintrag xpectoPro.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1430136023754.png" alt="" title=""></p></div></body>
 </html>
