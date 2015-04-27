@@ -1,36 +1,25 @@
-Starten Sie die Datei setup.exe von der eAgentur Installations-CD oder von der xpecto Website.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>200_Installation_der_Software.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Starten Sie die Datei setup.exe von der xpecto Website.</p>
 
-Als Benutzer von Microsoft Windows Vista bestätigen Sie die Sicherheitswarnung, die auf einen unbekannten Herausgeber hinweist, mit	_Ausführen_, und die darauf folgende Sicherheitswarnung der Benutzerkontensteuerung mit _Zulassen_.
+<p>Als Benutzer von Microsoft Windows bestätigen Sie die Sicherheitswarnung, die auf einen unbekannten Herausgeber hinweist, mit   <em>Ausführen</em>, und die darauf folgende Sicherheitswarnung der Benutzerkontensteuerung mit <em>Zulassen.</em></p>
 
-Das Setup beginn nun mit der Vorbereitung der Installation und entpackt die eAgentur Installationsdateien.
+<p>Das Setup beginn nun mit der Vorbereitung der Installation und entpackt die eAgentur Installationsdateien. <br>
+<img src="http://xpecto.github.io/docs/img/img_1430134599536.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img004.png)
+<p>In dem darauf folgendem Dialog bestimmen Sie das Verzeichnis in das eAgentur installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner beizubehalten. Bestätigen Sie den Dialog mit <em>Weiter</em>. <br>
+<img src="http://xpecto.github.io/docs/img/img_1430134632060.png" alt="" title=""></p>
 
-Bestätigen Sie den Willkommensdialog des InstallShield Wizards mit _Weiter_, um den Vorgang fortzusetzten.
+<p>Bestätigen Sie die Setuptyp-Auswahl mit Weiter, um die Installation zu starten. xpectoPro wird nun auf Ihrem Rechner installiert.  <br>
+<img src="http://xpecto.github.io/docs/img/img_1430134674440.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img006.png)
-
-In dem darauf folgendem Dialog bestimmen Sie das Verzeichnis in das eAgentur installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner
-beizubehalten. Bestätigen Sie den Dialog mit _Weiter_.
-
-![](http://xpecto.github.io/docs/img/img008.png)
-
-Anschließend wählen Sie den Setuptyp. Folgende Optionen stehen zur Auswahl:
-
-*   <u>Vollständig:</u>
-Installiert die xpecto Fernwartungssoftware, die Software eAgentur.NET sowie die Version 2.xx von eAgentur. Wählen Sie diese Option, wenn bei
-Ihnen noch Datenbanken im Einsatz sind, die mit der Version 2.xx von eAgentur bearbeitet werden.
-*   <u>eAgentur.NET:</u>
-Installiert die xpecto Fernwartungssoftware und die Software eAgentur.NET
-*   <u>Angepasst:</u>
-Wählen Sie diese Option, wenn Sie ein erfahrener Benutzer sind und die zu installierenden Komponenten selbst wählen wollen.
-
-Es wird empfohlen, die Option eAgentur.NET zu wählen (außer, wenn Sie von Ihrem Administrator oder dem xpecto Kundensupport anderweitige
-Anweisungen erhalten haben).
-
-Bestätigen Sie die Setuptyp-Auswahl mit _Weiter_, um die Installation zu starten. eAgentur wird nun auf Ihrem Rechner installiert.
-
-![](http://xpecto.github.io/docs/img/img010.png)
-
-Beenden Sie die Installation mit der Schaltfläche Fertigstellen. Bei Problemen während der Installation wenden Sie sich bitte an den xpecto
-Kundensupport.
+<p>Beenden Sie die Installation mit der Schaltfläche Fertigstellen. Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport. <br>
+<img src="http://xpecto.github.io/docs/img/img_1430134706939.png" alt="" title=""></p></div></body>
+</html>
