@@ -12,7 +12,7 @@ Durch einen Doppelklick auf die Statusleiste wird der Tracer gestartet.
 | ![](http://xpecto.github.io/docs/img/img_1430151865416.png)  (Liste löschen)    | Liste der zuletzt verwendete Abfragen wird gelöscht | 
 | ![](http://xpecto.github.io/docs/img/img_1430152139096.png) | zuletzt verwendete Abfragen |
 |   ![](http://xpecto.github.io/docs/img/img_1430151530617.png)  (neuer Queryanalyser)  |Durch einen Klick auf dieses Symbol können Sie selbst SQL Abfragen erstellen| 
-|   ![](http://xpecto.github.io/docs/img/img_1430151617532.png)  (neues Tracewindow) |   | Zeigt die Systemmeldungen|
+|   ![](http://xpecto.github.io/docs/img/img_1430151617532.png)  (neues Tracewindow)  |Zeigt die Systemmeldungen| 
 |   ![](http://xpecto.github.io/docs/img/img_1430151808182.png) (Console)  | Visual Basic Code testen | 
 | ![](http://xpecto.github.io/docs/img/img_1430151736894.png)  (Queryanalyser schließen)   | Durch einen Klick auf dieses Symbol können Sie der aktive Queryanalyser schließen.| 
 
