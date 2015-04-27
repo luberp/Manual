@@ -1,17 +1,27 @@
-Starten Sie die Datei setup.exe von der xpecto Website.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>200_Installation_der_Software.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Starten Sie die Datei setup.exe von der xpecto Website.</p>
 
-Als Benutzer von Microsoft Windows bestätigen Sie die Sicherheitswarnung, die auf einen unbekannten Herausgeber hinweist, mit	*Ausführen*, und die darauf folgende Sicherheitswarnung der Benutzerkontensteuerung mit *Zulassen.*
+<p>Als Benutzer von Microsoft Windows bestätigen Sie die Sicherheitswarnung, die auf einen unbekannten Herausgeber hinweist, mit   <em>Ausführen</em>, und die darauf folgende Sicherheitswarnung der Benutzerkontensteuerung mit <em>Zulassen.</em></p>
 
-Das Setup beginn nun mit der Vorbereitung der Installation und entpackt die eAgentur Installationsdateien.
+<p>Das Setup beginn nun mit der Vorbereitung der Installation und entpackt die xpectoPro Installationsdateien.</p>
 
-![](http://xpecto.github.io/docs/img/img_1430134599536.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1430135544227.png" alt="" title=""></p>
 
-In dem darauf folgendem Dialog bestimmen Sie das Verzeichnis in das eAgentur installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner beizubehalten. Bestätigen Sie den Dialog mit *Weiter*.
-![](http://xpecto.github.io/docs/img/img_1430134632060.png)
+<p>In dem darauf folgendem Dialog bestimmen Sie das Verzeichnis in das xpectoPro installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner beizubehalten. Bestätigen Sie den Dialog mit <em>Weiter</em>. <br>
+<img src="http://xpecto.github.io/docs/img/img_1430134632060.png" alt="" title=""></p>
 
-Bestätigen Sie die Setuptyp-Auswahl mit Weiter, um die Installation zu starten. xpectoPro wird nun auf Ihrem Rechner installiert. 
+<p>Bestätigen Sie die Installation mit <em>Weiter</em>, um die Installation zu starten. xpectoPro wird nun auf Ihrem Rechner installiert. </p>
 
-![](http://xpecto.github.io/docs/img/img_1430134674440.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1430134674440.png" alt="" title=""></p>
 
-Beenden Sie die Installation mit der Schaltfläche Fertigstellen. Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport.
-![](http://xpecto.github.io/docs/img/img_1430134706939.png)
+<p>Beenden Sie die Installation mit der Schaltfläche <em>Fertigstellen.</em> Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport. <br>
+<img src="http://xpecto.github.io/docs/img/img_1430134706939.png" alt="" title=""></p></div></body>
+</html>
