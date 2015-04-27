@@ -1,9 +1,13 @@
-In der Vermittler-Ansicht auf dem Karteireiter _Buchungen_ werden Vermittler-Buchungen zu dem aktuell ausgewählten Vermittler verwaltet.
-Vermittler-Buchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender
-Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum und einen Betrag definiert. Vermittler-Buchungen werden
-durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung.
+Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png). Am Ende des Suchfeldes haben Sie drei Schaltflächen. Die Suche einfach starten, nach dem Sie einen bestimmten Kunden, Vertrag, Name etc. Die Suche löschen durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429098613885.png), oder verschiedene Suchoptionen einstellen.
 
-Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf
-![](http://xpecto.github.io/docs/img/img046.png)
-, wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt
-werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
+Nach der Auswahl eines Kunden oder Vertriebspartner werden dessen Daten auf der rechte Seite angezeigt.
+Die rechte Seite besteht aus eigene Registerkarten die verschiedene Informationen erhalten.
+
+![](http://xpecto.github.io/docs/img/img_1425902226633.png) Historie dient der Protokollierung der Änderungen in der Maske.
+Feldspezifische Historie aktivieren oder deaktivieren dient dazu für Einzelfelder die Änderungen verfolgt werden, es wird eine Einzelfeldhistorie durchgeführt.
+
+![](http://xpecto.github.io/docs/img/img_1425904888810.png) Suchdialog öffnen dient der errweiterte Suche. Hier kann nach mehrere Kriterien gesucht werden.
+
+![](http://xpecto.github.io/docs/img/img_1425898083616.png)
+
+Dokumente archivieren wird genutzt wenn gedruckt wird. 
