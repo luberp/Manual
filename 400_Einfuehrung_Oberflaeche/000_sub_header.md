@@ -1,5 +1,5 @@
-Das xpectoPro Programmfenster erreichen Sie nach erfolgreichen Starten der Software. 
-Die Struktur:
+Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software. 
+Das xpectoPro Hauptfenster besteht aus: Menüleiste, Symbol- und Funktionsleiste, Suche, Navigation, Wiedervorlage Liste, Statusleiste.
 
 
  teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen. Unter diesen Reiter sind die Suche, die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt. Fußzeile...
