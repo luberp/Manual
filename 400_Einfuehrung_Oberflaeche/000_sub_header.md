@@ -10,5 +10,5 @@
 <body><div class="container"><p>Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software.  <br>
 Das xpectoPro Hauptfenster besteht aus: Menüleiste, Symbol- und Funktionsleiste, Suche, Navigation, Wiedervorlage Liste, Statusleiste.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430149265133.png" alt="" title=""></p></div></body>
+<p><img src="http://xpecto.github.io/docs/img/img_1430149378540.png" alt="" title=""></p></div></body>
 </html>
