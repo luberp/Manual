@@ -1,14 +1,8 @@
 Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software. 
 Das xpectoPro Hauptfenster besteht aus: Menüleiste, Symbol- und Funktionsleiste, Suche, Navigation, Wiedervorlage Liste, Statusleiste.
 
-
- teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen. Unter diesen Reiter sind die Suche, die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt. Fußzeile...
-
 ***Muss geändert werden.***
 ![](http://xpecto.github.io/docs/img/img_1429103385080.png)
-
-Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Hilfe.
-
 
 Der Reiter *Kunden* beinhaltet alle Kunden die in System hinterlegt sind, Vermittler beinhaltet alle Vermittler, Personen mit alle Personen, Veranstaltungen mit alle Veranstaltungen, Interessenten mit alle Interessenten.
 
