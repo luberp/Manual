@@ -2,6 +2,7 @@
 * 1.1. [Über xpectoPro](http://help.xpecto.de/Einleitung/Über_xpectoPro)
 *  1.2. [Was ist xpectoPro](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro)
 *  1.3. [Wer braucht xpectoPro](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
+
 2.   [Installation](http://help.xpecto.de/Installation)
 *  2.1. [Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
 *  2.2. [Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
@@ -32,6 +33,7 @@
 * 4.6. [Firmen](http://help.xpecto.de/Datei/Firmen)
 *  4.7. [Produkte](http://help.xpecto.de/Datei/Produkte)
 *  4.8. [Beenden](http://help.xpecto.de/Datei/Beenden)
+
 5. [Menü: Bearbeiten](http://help.xpecto.de/Bearbeiten)
 *  5.1. [Datensatz löschen](http://help.xpecto.de/Bearbeiten/Datensatz_löschen)
 * 5.2. [Datensatz kopieren](http://help.xpecto.de/Bearbeiten/Datensatz_kopieren)
@@ -48,8 +50,8 @@
 * 5.13. [Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Vertragsbuchungen)
 * 5.14. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
 * 5.15. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenliste)
-* 5.16.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuereung)        
-
+* 5.16.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuereung)  
+      
 6. [Menü: Berechnungen](http://help.xpecto.de/Berechnungen) 
 *  6.1. [Provisionsansprüche erzeugen](http://help.xpecto.de/Berechnungen/Provisionsansprueche_erzeugen)
 *  6.2. [Abrechnungszeitraum festlegen](http://help.xpecto.de/Berechnungen/Abrechnungszeitraum_festlegen)
@@ -60,7 +62,7 @@
 *  6.7. [Probeberechnung](http://help.xpecto.de/Berechnungen/Probeberechnung)
      *  6.6.1. [Provisionstest](http://help.xpecto.de/Berechnungen/Provisionstest)
      * 6.6.2. [Sollstellungstest](http://help.xpecto.de/Berechnungen/Sollstellungstest)
-
+     
 7.   [Menü: Import/Export](http://help.xpecto.de/Import_Export)
 *  7.1. [Tabellen synchronisieren](http://help.xpecto.de/Import_Export/Tabellen_synchronisieren)
 *  7.2. [Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger)
@@ -84,8 +86,10 @@
 *  8.5. [Kommando ausführen](http://help.xpecto.de/Extras/Kommando_ausführen)
 *  8.6. [Update](http://help.xpecto.de/Extras/Update)
 *  8.7. [Lizenzen](http://help.xpecto.de/Extras/Lizenzen)
+
 9. [Zusatzfunktionen](http://help.xpecto.de/Hilfe)
- * 9.1. [Schnellkontakt](http://help.xpecto.de/Hilfe/Über)  
+ * 9.1. [Schnellkontakt](http://help.xpecto.de/Hilfe/Über) 
+  
 10.   [Menü: Hilfe](http://help.xpecto.de/Hilfe)
 * 10.1. [Über](http://help.xpecto.de/Hilfe/Über)
 * 10.2. [Lizenzbedingungen](http://help.xpecto.de/Hilfe/Lizenzbedingungen)
