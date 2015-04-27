@@ -6,6 +6,7 @@
 *  2.1. [Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
 *  2.2. [Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
 *  2.3. [Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
+
 3.   [Einführung Oberfläche](http://help.xpecto.de/Einfuerung_Oberflaeche)
 *  3.1. [Anwendungsfenster](http://help.xpecto.de/Einrichten_der_Stammdaten/Firmen_anlegen)
 *  3.2. [Navigation](http://help.xpecto.de/Einrichten_der_Stammdaten/Produkte_anlegen)
@@ -48,8 +49,9 @@
 * 5.14. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
 * 5.15. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenliste)
 * 5.16.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuereung)        
+
 6. [Menü: Berechnungen](http://help.xpecto.de/Berechnungen) 
-*  7.1. [Provisionsansprüche erzeugen](http://help.xpecto.de/Berechnungen/Provisionsansprueche_erzeugen)
+*  6.1. [Provisionsansprüche erzeugen](http://help.xpecto.de/Berechnungen/Provisionsansprueche_erzeugen)
 *  6.2. [Abrechnungszeitraum festlegen](http://help.xpecto.de/Berechnungen/Abrechnungszeitraum_festlegen)
 *  6.3. [Provisionsabrechnung](http://help.xpecto.de/Berechnungen/Provisionsabrechnung)
 *  6.4. [verbuchte Provisionen, Belege und Auszahlungen](http://help.xpecto.de/Berechnungen/verbuchte_Provisionen_Belege_und_Auszahlungen)
@@ -58,6 +60,7 @@
 *  6.7. [Probeberechnung](http://help.xpecto.de/Berechnungen/Probeberechnung)
      *  6.6.1. [Provisionstest](http://help.xpecto.de/Berechnungen/Provisionstest)
      * 6.6.2. [Sollstellungstest](http://help.xpecto.de/Berechnungen/Sollstellungstest)
+
 7.   [Menü: Import/Export](http://help.xpecto.de/Import_Export)
 *  7.1. [Tabellen synchronisieren](http://help.xpecto.de/Import_Export/Tabellen_synchronisieren)
 *  7.2. [Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger)
@@ -67,6 +70,7 @@
 * 7.6. [Allgemeiner Import](http://help.xpecto.de/Import_Export/Allgemeiner_Import)
 *  7.7. [Buchungsexport](http://help.xpecto.de/Import_Export/Buchungsexport)
 * 7.8. [Briefversand](http://help.xpecto.de/Import_Export/Briefversand)
+
 8.   [Menü: Extras](http://help.xpecto.de/Extras)
 *  8.1. [Zusatzfunktionen](http://help.xpecto.de/Extras/Zusatzfunktionen)
 *  8.2. [Einstellungen](http://help.xpecto.de/Extras/Einstellungen)
