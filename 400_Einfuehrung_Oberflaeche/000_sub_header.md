@@ -1,26 +1,14 @@
-Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software. 
-Das xpectoPro Hauptfenster besteht aus: Menüleiste, Symbol- und Funktionsleiste, Suche, Navigation, Wiedervorlage Liste, Statusleiste.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>400_Einfuehrung_Oberflaeche_(sub_header)</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software.  <br>
+Das xpectoPro Hauptfenster besteht aus: Menüleiste, Symbol- und Funktionsleiste, Suche, Navigation, Wiedervorlage Liste, Statusleiste.</p>
 
-***Muss geändert werden.***
-![](http://xpecto.github.io/docs/img/img_1429103385080.png)
-
-Der Reiter *Kunden* beinhaltet alle Kunden die in System hinterlegt sind, Vermittler beinhaltet alle Vermittler, Personen mit alle Personen, Veranstaltungen mit alle Veranstaltungen, Interessenten mit alle Interessenten.
-
-Kunden
-Vermittler
-Personen
-Veranstaltungen
-
-Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten kann direkt in das Suchfeld gestartet werden. ![](http://xpecto.github.io/docs/img/img_1425898635719.png). Am Ende des Suchfeldes haben Sie drei Schaltflächen. Die Suche einfach starten, nach dem Sie einen bestimmten Kunden, Vertrag, Name etc. Die Suche löschen durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429098613885.png), oder verschiedene Suchoptionen einstellen.
-
-Nach der Auswahl eines Kunden oder Vertriebspartner werden dessen Daten auf der rechte Seite angezeigt.
-Die rechte Seite besteht aus eigene Registerkarten die verschiedene Informationen erhalten.
-
-![](http://xpecto.github.io/docs/img/img_1425902226633.png) Historie dient der Protokollierung der Änderungen in der Maske.
-Feldspezifische Historie aktivieren oder deaktivieren dient dazu für Einzelfelder die Änderungen verfolgt werden, es wird eine Einzelfeldhistorie durchgeführt.
-
-![](http://xpecto.github.io/docs/img/img_1425904888810.png) Suchdialog öffnen dient der errweiterte Suche. Hier kann nach mehrere Kriterien gesucht werden.
-
-![](http://xpecto.github.io/docs/img/img_1425898083616.png)
-
-Dokumente archivieren wird genutzt wenn gedruckt wird. 
+<p><img src="http://xpecto.github.io/docs/img/img_1430149265133.png" alt="" title=""></p></div></body>
+</html>
