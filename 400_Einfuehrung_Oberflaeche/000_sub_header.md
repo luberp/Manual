@@ -1,4 +1,8 @@
-Das Programmfenster teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen. Unter diesen Reiter sind die Suche, die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt. Fußzeile...
+Das xpectoPro Programmfenster erreichen Sie nach erfolgreichen Starten der Software. 
+Die Struktur:
+
+
+ teilt sich in vier Bereiche. Oben: Menüleiste und Symbolleiste, auf der linke Seite befinden sich die Reiter: Kunden, Vermittler, Personen, Veranstaltungen. Unter diesen Reiter sind die Suche, die Navigation und die zugehörige Liste für das Ergebnis der Suche. Rechts befindet sich die Detailsmaske mit den Details des ausgewählten Datensatzes. Unten Links wird die Wiedervorlage Liste angezeigt. Fußzeile...
 
 ***Muss geändert werden.***
 ![](http://xpecto.github.io/docs/img/img_1429103385080.png)
