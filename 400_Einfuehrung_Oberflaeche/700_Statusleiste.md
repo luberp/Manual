@@ -1,13 +1,54 @@
-In der Vertrags-Ansicht auf dem Karteireiter _Buchungsdaten_ werden Buchungssätze der Fondsbuchhaltung angezeigt, die dem ausgewählten
-Vertrag zugeordnet sind (z.B. Einzahlungen des Kunden auf einen Sparvertrag). Solche Buchungen werden auch häufig als Kunden-Buchungen bezeichnet. In
-dieser Maske können Buchungssätze nicht geändert, gelöscht oder erfasst werden.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700_Statusleiste.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Die Statusleiste ist die unterste Zeile im xpectoPro Fenster. Sie erfüllt drei Funktionen: <br>
+ - Tracer  <br>
+ - Links: Statusfelder <br>
+ - Rechts: Bekanntgabe von Systemmeldungen (Fehlermeldungen)</p>
 
-In der Produkt-Ansicht (erreichbar über _Datei-&gt;Produkte_) auf dem Karteireiter _Buchungsdaten_ werden Buchungssätze der
-Fondsbuchhaltung angezeigt, die keinem Vertrag zugeordnet sind. Solche Buchungen werden auch häufig als Produkt-Buchungen bezeichnet. In dieser Maske
-können ebenfalls keine Buchungssätze geändert, gelöscht oder erfasst werden.
+<p>Durch einen Doppelklick auf die Statusleiste wird der Tracer gestartet.</p>
 
-Die Erfassung und Bearbeitung, der Export und die Festschreibung von Buchungssätzen erfolgt über den Stapelbuchungs-Dialog (siehe Kapitel
-"Menüpunkt Stapelbuchung"), der über den Menüpunkt _Bearbeiten-&gt;Stapelbuchung_ erreichbar ist.
+<p><img src="http://xpecto.github.io/docs/img/img_1430151481175.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img047.png)
-![](http://xpecto.github.io/docs/img/img049.png)
+<table>
+<thead>
+<tr>
+  <th>Symbol</th>
+  <th align="left">Bedeutung</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1430151865416.png" alt="" title="">  (Liste löschen)</td>
+  <td align="left">Liste der zuletzt verwendete Abfragen wird gelöscht</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1430152139096.png" alt="" title=""></td>
+  <td align="left">zuletzt verwendete Abfragen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1430151530617.png" alt="" title="">  (neuer Queryanalyser)</td>
+  <td align="left">Durch einen Klick auf dieses Symbol können Sie selbst SQL Abfragen erstellen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1430151617532.png" alt="" title="">  (neues Tracewindow)</td>
+  <td align="left"></td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1430151808182.png" alt="" title=""> (Console)</td>
+  <td align="left">Visual Basic Code testen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1430151736894.png" alt="" title="">  (Queryanalyser schließen)</td>
+  <td align="left">Durch einen Klick auf dieses Symbol können Sie der aktive Queryanalyser schließen.</td>
+</tr>
+</tbody></table>
+
+
+<p><img src="http://xpecto.github.io/docs/img/img_1430154505123.png" alt="" title=""> Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiger Tool und erfordert Vorkenntnisse in SQL und Visual Basic. Die Aktionsabfragen wie z.B. Löschabfragen führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.</p></div></body>
+</html>
