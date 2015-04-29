@@ -7,7 +7,7 @@ Jede Eingabemaske enthält mehrere Register.
 
 Komplexe Sachverhalten werden in Bereiche eingeteilt wie z.B. Meldedaten, Sonstiges, Web-Portal.
 
-Validierung und Historie. 
+Validierung und Historie, Datenüberprüfung.
 Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H für heute, G für gestern, M für morgen, E für den ersten Tag im Monat, L für den letzten Tag im Monat, die Felder für das Datum schneller und einfacher auszufüllen. Sie haben natürlich die Möglichkeit das Datum normal einzugeben
 ![](http://xpecto.github.io/docs/img/img_1430327215285.png)
 
