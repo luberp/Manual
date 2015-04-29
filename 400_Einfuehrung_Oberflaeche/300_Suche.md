@@ -4,4 +4,4 @@ Um die Suche einfach zu starten betätigen Sie die Schaltfläche ![](http://xpec
 
 Über Symbol- und Funktionsleiste haben Sie die Möglichkeit den Suchdialog zu öffnen.
 ![](http://xpecto.github.io/docs/img/img_1430303808975.png)
- Der Suchdialog dient der erweiterte Suche. Hier kann nach mehrere Kriterien gesucht werden, zB. nach alle Kunden die in Berlin wohnen und einen Vertrag des Produktes TRI1 haben.
+ Der Suchdialog dient der erweiterte Suche. Hier kann nach mehrere Kriterien gesucht werden, z.B. nach alle Kunden die in Berlin wohnen und einen Vertrag des Produktes TRI1 haben.
