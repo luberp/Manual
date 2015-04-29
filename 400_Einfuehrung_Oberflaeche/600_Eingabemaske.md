@@ -1,19 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>600_Eingabemaske.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Nachfolgen wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. Kopf: Titelleiste, Register, Rumpf: Bereiche.</p>
 
-Vertrag, Vermittler, Interessenten
-In der Vermittler-Ansicht, in der Kunden-Ansicht und in der Vertrags-Ansicht gibt es jeweils den Karteireiter *Ereignisse*. Auf dem Karteireiter	*Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vermittler, Kunden oder Vertrag sowie zugehörige Dokumente festgehalten.
-Wählen Sie das Datum, die Ereignisart wie z.B: E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+<p>Jedes Element in xpectoPro enthält seine eigenen Eingabemaske. Die Eingabemaske  <br>
+Jede Eingabemaske enthält mehrere Register.</p>
 
-![](http://xpecto.github.io/docs/img/img043.png)
-![](http://xpecto.github.io/docs/img/img045.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1430325704973.png" alt="" title=""></p>
 
-Kunden Karteireiter *Ereignisse*
+<p>Komplexe Sachverhalten werden in Bereiche eingeteilt wie z.B. Meldedaten, Sonstiges, Web-Portal.</p>
 
-auf Kundenebene - Dialog „Ereignis zum Kunden"
-
-auf Beteiligungsebene - Dialog „Ereignis zur Beteiligung" 
-
-Ereignis ist ein Verlauf für alle Dokumente. 
-
-Emissionskosten
-Die Kosten der Emissionsplatzierung umfassen zum einen die erfolgsabhängigen Platzierungsprovisionen und zum anderen die erfolgsabhängigen Kosten für die Initiierung der Beteiligung, das Marketing und die Gewinnung von Vertriebspartnern.
-Das aus dem Angebot der Stillen Beteiligung platzierte Kapital fließt vollumfänglich der Emittentin zu. Dabei entstehen variable Kosten, die im Wesentlichen die Aufwendungen für die Platzierung und den Vertrieb (Provisionen) beinhaltet.
+<p>Validierung und Historie. <br>
+<img src="http://xpecto.github.io/docs/img/img_1430327215285.png" alt="" title=""></p></div></body>
+</html>
