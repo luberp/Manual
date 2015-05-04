@@ -24,6 +24,8 @@ Jede Eingabemaske enthält mehrere Register.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1430729543912.png" alt="" title=""> Datenvalidierung</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430729578370.png" alt="" title=""> Adressprüfung <br>
+<p><img src="http://xpecto.github.io/docs/img/img_1430729578370.png" alt="" title=""> Adressprüfung</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1430729940939.png" alt="" title=""> Historie <br>
 Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken. Mit der TAB-Taste können Sie auch jeweils in das nächste Feld springen.</p></div></body>
 </html>
