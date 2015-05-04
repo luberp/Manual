@@ -1,31 +1,21 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>600_Eingabemaske.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Nachfolgen wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. Kopf: Titelleiste, Register, Rumpf: Bereiche.</p>
+Nachfolgen wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. Kopf: Titelleiste, Register, Rumpf: Bereiche.
 
-<p>Jedes Element in xpectoPro enthält seine eigenen Eingabemaske. Die Eingabemaske  <br>
-Jede Eingabemaske enthält mehrere Register.</p>
+Jedes Element in xpectoPro enthält seine eigenen Eingabemaske. Die Eingabemaske 
+Jede Eingabemaske enthält mehrere Register.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430327488389.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1430327488389.png)
 
-<p>Komplexe Sachverhalten werden in Bereiche eingeteilt wie z.B. Meldedaten, Sonstiges, Web-Portal.</p>
+Komplexe Sachverhalten werden in Bereiche eingeteilt wie z.B. Meldedaten, Sonstiges, Web-Portal.
 
-<p>Validierung und Historie. </p>
+Validierung und Historie. 
 
-<p>Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H für heute, G für gestern, M für morgen, E für den ersten Tag im Monat, L für den letzten Tag im Monat, die Felder für das Datum schneller und einfacher auszufüllen. Sie haben natürlich die Möglichkeit das Datum normal einzugeben.</p>
+Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H für heute, G für gestern, M für morgen, E für den ersten Tag im Monat, L für den letzten Tag im Monat, die Felder für das Datum schneller und einfacher auszufüllen. Sie haben natürlich die Möglichkeit das Datum normal einzugeben.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430729624073.png" alt="" title=""> Datenüberprüfung. Feld muss befüllt sein.</p>
+![](http://xpecto.github.io/docs/img/img_1430729624073.png) Datenüberprüfung. Feld muss befüllt sein.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430729543912.png" alt="" title=""> Datenvalidierung</p>
+![](http://xpecto.github.io/docs/img/img_1430729543912.png) Datenvalidierung
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430729578370.png" alt="" title=""> Adressprüfung</p>
+![](http://xpecto.github.io/docs/img/img_1430729578370.png) Adressprüfung
 
-<p><img src="http://xpecto.github.io/docs/img/img_1430729940939.png" alt="" title=""> Historie <br>
-Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken. Mit der TAB-Taste können Sie auch jeweils in das nächste Feld springen.</p></div></body>
-</html>
+![](http://xpecto.github.io/docs/img/img_1430729940939.png) Historie
+Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken. Mit der TAB-Taste können Sie auch jeweils in das nächste Feld springen.
