@@ -13,22 +13,16 @@ Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H f�
 
 
 
- 
-
-
-
-
-
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neue Adresse Str + N  | 
+| ![](http://xpecto.github.io/docs/img/img_1430731964269.png)    | Aktuelle Adresse löschen Entf| 
+| ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung | 
+| ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung Feld muss befüllt sein | 
+| ![](http://xpecto.github.io/docs/img/img_1430729543912.png)      | Datenvalidierung | 
+| ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie | 
 
-| ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      |  Datenüberprüfung. Feld muss befüllt sein.| 
-| ![](http://xpecto.github.io/docs/img/img_1430729543912.png)    | Datenvalidierung| 
-| ![](http://xpecto.github.io/docs/img/img_1430729578370.png)     |  Adressprüfung | 
-| ![](http://xpecto.github.io/docs/img/img_1430729940939.png)      | Historie | 
-| ![](http://xpecto.github.io/docs/img/img_1429027370695.png)      | Veranstaltungen neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | 
 
-![](http://xpecto.github.io/docs/img/img_1430731908651.png) Neue Adresse hinzufügen Str + N
-![](http://xpecto.github.io/docs/img/img_1430731964269.png) Aktuelle Adresse löschen Entf
+
+
 Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken. Mit der TAB-Taste können Sie auch jeweils in das nächste Feld springen.
