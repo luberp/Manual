@@ -1,1 +1,1 @@
-Um die Daten zu aktualisieren.
+Um die Daten zu aktualisieren oder F5.
