@@ -1,9 +1,26 @@
-In der Vermittler-Ansicht auf dem Karteireiter _Buchungen_ werden Vermittler-Buchungen zu dem aktuell ausgewählten Vermittler verwaltet.
-Vermittler-Buchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender
-Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum und einen Betrag definiert. Vermittler-Buchungen werden
-durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung.
 
-Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf
-![](http://xpecto.github.io/docs/img/img046.png)
-, wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt
-werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
+
+![](http://xpecto.github.io/docs/img/img_1430827382092.png)
+
+
+
+|  Schaltfläche            |    Beschreibung     |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/img/img_1430827803341.png)      | Wiedervorlage-Historie anzeigen | 
+| ![](http://xpecto.github.io/docs/img/img_1430827829392.png)     |Daten neu laden | 
+
+Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung. Einzelne Benutzer oder Arbeitsgruppen können sich so bestimmten Aufgaben merken und strukturiert abarbeiten. Die Überblick über die Vielzahl von Einzelaufgaben kann schnell zu einem Problem in der Verwaltung werden. 
+
+Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppe hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten.  In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
+
+Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.
+
+Ein Mahnprozess könnte so folgende Optionen anbieten: 
+
+ - Schreiben erstellen und zusenden
+ - 14 Tage auf Einzahlung warten
+ - auf Klärung durch Vertriebspartner warten
+ - Weiterleitung an Inkasso
+ - schließen des Mahnprozesses
+
+Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit  von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so sehr leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
