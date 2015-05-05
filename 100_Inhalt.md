@@ -23,7 +23,7 @@
      *  4.1.5. [Adressen](http://help.xpecto.de/Datei/Neu/Adressen)
      *  4.1.6. [Veranstaltungen](http://help.xpecto.de/Datei/Neu/Veranstaltungen)
      *  4.17. [Wiedervorlage/Prozess](http://help.xpecto.de/Datei/Neu/Wiedervorlage_Prozess)
- * 4.2. [zuletzt ausgewählt](http://help.xpecto.de/Datei/zuletzt_ausgewählt)
+ * 4.2. [zuletzt ausgewählt](http://help.xpecto.de/Datei/zuletzt_ausgewaehlt)
 *  4.3. [Speichern](http://help.xpecto.de/Datei/Speichern)
 *  4.4. [Druckvorschau](http://help.xpecto.de/Datei/Druckvorschau)
 *  4.5. [Drucken](http://help.xpecto.de/Datei/Drucken)
