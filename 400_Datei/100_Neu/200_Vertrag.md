@@ -36,13 +36,12 @@ In dem Bereich <em>Ziel-Verträge / Rechtsnachfolger</em> können die Nachfolger
 
 <p><em>Buchungsdaten</em></p>
 
-<p>Unter dem Reiter <em>Sollbuchungen</em> werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.</p>
+<p>Unter dem Reiter <em>Sollbuchungen</em> werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll. <br>
+Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.</p>
 
 <p>Der Karteireiter <em>Salden</em> beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter <em>Produkte</em> vorkonfigurierte Salden.</p>
 
 <p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).</p>
 
-<p>In dem Reiter <em>Belege</em> können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.</p>
-
-<p>Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.</p></div></body>
+<p>In dem Reiter <em>Belege</em> können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.</p></div></body>
 </html>
