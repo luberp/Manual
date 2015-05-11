@@ -1,4 +1,5 @@
 Die Navigation beinhaltet folgende Bäume: Kunden, Vermittler, Personen, Veranstaltungen.
+Jeder Baum enthält sein eigener Ansicht und die entsprechende Eingabemaske auf der rechte Seite.
 
 Der Baum *Kunden* beinhaltet alle Kunden die in System hinterlegt sind.
 Durch Anklicken auf einen Kunde ![](http://xpecto.github.io/docs/img/img_1430312462226.png)  wird Ihnen die entsprechende Informationen in der Eingabemaske angezeigt.
