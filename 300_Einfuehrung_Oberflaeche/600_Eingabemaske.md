@@ -1,11 +1,11 @@
 Nachfolgen wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. Kopf: Titelleiste, Register, Rumpf: Bereiche.
 
-Jedes Element in xpectoPro enthält seine eigenen Eingabemaske. 
+Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. 
 Jede Eingabemaske enthält mehrere Register.
 
 ![](http://xpecto.github.io/docs/img/img_1430327488389.png)
 
-Komplexe Sachverhalten werden in Bereiche eingeteilt wie z.B. Meldedaten, Sonstiges, Web-Portal.
+Komplexe Sachverhalten werden in Bereiche eingeteilt wie z.B. Register *Algemein* enthält die Bereiche *Meldedaten*, *Sonstiges,* *Web-Portal* und *Beteiligungsübersicht*.
 
 Validierung und Historie. 
 
