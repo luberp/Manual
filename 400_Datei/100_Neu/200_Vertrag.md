@@ -1,5 +1,3 @@
-Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H für heute, G für gestern, M für morgen, E für den ersten Tag im Monat, L für den letzten Tag im Monat, die Felder für das Datum schneller und einfacher auszufüllen. Sie haben natürlich die Möglichkeit das Datum normal einzugeben.
-
 Verträge werden zum Kunden angelegt. Öffnen Sie die Ansicht Kunden und markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neunen Vertrag anzulegen über *Menü → Neu → Vertrag*, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426508800812.png).
 Es erscheint die Eingabeaufforderung neuen Vertrag erstellen, hier wählen Sie ein Produkt ein. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
