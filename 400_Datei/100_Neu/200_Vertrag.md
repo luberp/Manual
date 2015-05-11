@@ -21,10 +21,10 @@ Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung 
 
 <p>Über den Karteireiter: <em>Eigenschaften</em> können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. </p>
 
-<p>Der Karteireiter <em>Werte</em> beinhaltet die Bereiche:  <em>Verknüpfung</em>, <em>Wert</em>, <em>Berechnungsparameter</em>, <em>Dokument</em>.</p>
+<p>Der Karteireiter <em>Werte</em> beinhaltet die Bereiche:  <em>Verknüpfung</em>, <em>Wert</em>, <em>Berechnungsparameter</em>, <em>Dokument</em> und dient der Zinsberechnung.</p>
 
 <p>Der Reiter <em>Übertragung</em> dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang. <br>
-In dem Bereich Ziel-Verträge / Rechtsnachfolger können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1426513187688.png" alt="" title="">, es öffnet sich der Dialog <em>Kunden auswählen</em>. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.</p>
+In dem Bereich <em>Ziel-Verträge / Rechtsnachfolger</em> können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1426513187688.png" alt="" title="">, es öffnet sich der Dialog <em>Kunden auswählen</em>. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1418992717795.png" alt="" title=""> </p>
 
@@ -38,13 +38,11 @@ In dem Bereich Ziel-Verträge / Rechtsnachfolger können die Nachfolger eingeste
 
 <p>Unter dem Reiter <em>Sollbuchungen</em> werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.</p>
 
-<p>Der Karteireiter <em>Salden</em> beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beiziehen sich auf die unter Produkte vorkonfigurierte Salden</p>
+<p>Der Karteireiter <em>Salden</em> beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter <em>Produkte</em> vorkonfigurierte Salden.</p>
 
 <p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).</p>
 
 <p>In dem Reiter <em>Belege</em> können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.</p>
 
-<p>Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.</p>
-
-<p>In der Kundenansicht werden bereits vorhandene Verträge zum Kunden angezeigt. Klicken Sie hierzu auf das Symbol <img src="http://xpecto.github.io/docs/img/img042.png" alt="" title=""> vor dem Kundensymbol.</p></div></body>
+<p>Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.</p></div></body>
 </html>
