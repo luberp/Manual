@@ -1,10 +1,10 @@
 Verträge werden zum Kunden angelegt. 
 Um einen Vertrag anzulegen öffnen Sie die Ansicht *Kunden* und markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neuen Vertrag anzulegen über *Menü → Neu → Vertrag*, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426508800812.png).
-Es erscheint die Eingabeaufforderung neuen Vertrag erstellen, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
+Es erscheint die Eingabeaufforderung *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
 ![](http://xpecto.github.io/docs/img/img_1431357259339.png)
 
-Der Karteireiter *Allgemein* teil sich in folgende Bereiche: *Allgemein*, *Status*, *Provision*, *Daten*, *Konten*, *Rateneinzug*,  *Beteiligung*, *Auswertung*. 
+Der Karteireiter *Allgemein* teil sich in folgende Bereiche: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
 Geben Sie die Daten zum Vertrag wie z.B. Vertragssumme, Laufzeit, Zahlungsintervall usw. ein. 
 
 Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Verkäuferliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png).
@@ -36,3 +36,4 @@ Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hi
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
 In dem Reiter *Belege* können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
+*Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.*  
