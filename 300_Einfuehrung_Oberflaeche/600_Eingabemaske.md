@@ -25,4 +25,4 @@ Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren*
 
 ![](http://xpecto.github.io/docs/img/img_1431530946974.png)
 
-Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H für heute, G für gestern, M für morgen, E für den ersten Tag im Monat, L für den letzten Tag im Monat, die Felder für das Datum schneller und einfacher auszufüllen. Sie haben natürlich die Möglichkeit das Datum normal durch Eintippen einzugeben.
+Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H für heute, G für gestern, M für morgen, E für den ersten Tag im Monat, L für den letzten Tag im Monat, die Felder für das Datum schneller und einfacher auszufüllen. Sie haben natürlich auch die Möglichkeit das Datum normal durch Eintippen einzugeben.
