@@ -9,8 +9,8 @@ Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar diese Felder s
 Validierung und Historie. 
 Validierung der Eingaben dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in dem Eingabefelder prüft.
 
-Historie zeigt eine Liste der Einträge aller Änderungen die die in dieses Feld vorgenommen worden sind.
-Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren* damit wird für jedes Feld die Historie angezeigt.
+Historie zeigt eine Liste der Einträge aller Änderungen die vorgenommen worden sind.
+Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren* damit wird für jedes einzelnen Feld die Historie angezeigt.
 
 
 ![](http://xpecto.github.io/docs/img/img_1431530946974.png)
