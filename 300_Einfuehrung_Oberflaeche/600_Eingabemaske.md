@@ -1,8 +1,8 @@
 Nachfolgen wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. Kopf: Titelleiste, Register, Rumpf: Bereiche.
 
-Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. Die Eigabemaske besteht in der Regel aus mehrere Reiter. 
-Jeder Reiter wird in mehrere Bereiche unterteilt. Diese Bereiche enthalten mehrere Eingabefelder in die Sie Daten eingeben können.
-Manche Bereiche stellen nur eine Übersicht der Stammdaten dar, wie z.B. in dem Reiter *Allgemein* Bereich *Meldedaten*.
+Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. Die Eigabemaske besteht in der Regel aus mehrere Reiter, die der Übersicht dienen.
+Jeder Reiter wird in mehrere Feldgruppen unterteilt. Diese Feldgruppen enthalten mehrere Eingabefelder die mit Daten befüllt werden.
+Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar, wie z.B. in dem Reiter *Allgemein* Feldgruppe *Meldedaten*.
 
 ![](http://xpecto.github.io/docs/img/img_1430327488389.png)
 
@@ -22,6 +22,5 @@ Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H f�
 | ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie | 
 
 
-
-
 Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken. Mit der TAB-Taste können Sie auch jeweils in das nächste Feld springen.
+
