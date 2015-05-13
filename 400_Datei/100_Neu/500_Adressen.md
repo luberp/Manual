@@ -1,5 +1,0 @@
-xpectoPro kann aus jeder Anwendung heraus beendet werden. Wählen Sie dafür den Menüpfad *Datei → Beenden.* Sie erhalten eine Meldung, dass gegebenenfalls noch nicht gesicherte Daten vorhanden sind und diese noch zu sichern sind.
-
-![](http://xpecto.github.io/docs/img/img_1431523498011.png)
-
-**Sie sollten immer vor dem Verlassen des Programs bzw. Ihrer Anwendung Ihre Daten sichern.**
