@@ -29,4 +29,4 @@ Um Ihre Arbeit zu erleichtern ergibt sich hier die Möglichkeit durch einen H f�
 | ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie | 
 
 
-Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken. Mit der TAB-Taste können Sie auch jeweils in das nächste Feld springen.
+Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicken oder mit der Betätigung der TAB-Taste.
