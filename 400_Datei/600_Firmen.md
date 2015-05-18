@@ -10,7 +10,9 @@ Auf dem Karteireiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten un
 ![](http://xpecto.github.io/docs/img/img_1429018791130.png)
 
 Auf dem Karteireiter *Kosten* können Kostensätze für den automatischen Einbehalt von der Vermittler-Provision eingetragen werden.
-Verschiedene Kostenarten werden über entsprechende Schlüssel unterschieden, die vorher auf dem Karteireiter *Konten* angelegt werden müssen. Auf dem Karteireiter *Konten* werden die Schlüssel für die zu unterscheidenden Vermittler-Buchungsarten definiert. Vermittler-Buchungen sind berechnete und manuell erfasste Provisionen und Einbehalte davon, die zu den Vermittlern in einer Buchungs-ähnlichen Form gespeichert werden. Vermittler-Buchungen sind nicht zu verwechseln mit Buchungen einer Finanzbuchhaltung.
+Verschiedene Kostenarten werden über entsprechende Schlüssel unterschieden, die vorher auf dem Karteireiter *Konten* angelegt werden müssen. 
+
+Auf dem Karteireiter *Konten* werden die Schlüssel für die zu unterscheidenden Vermittler-Buchungsarten definiert. Vermittler-Buchungen sind berechnete und manuell erfasste Provisionen und Einbehalte davon, die zu den Vermittlern in einer Buchungs-ähnlichen Form gespeichert werden. Vermittler-Buchungen sind nicht zu verwechseln mit Buchungen einer Finanzbuchhaltung.
 Die Einstellungen auf den Karteireitern *Kosten* und *Konten* sind eng verbunden mit den Berechnungsskripten den Provisionsabrechnung, sie werden deshalb vom xpecto Kundensupport vorgenommen.
 
 Unter dem Karteireiter *Karrierestufen* wird ein Provisionssatzmodell angelegt. Dabei wird die Höhe der Provisionen festgelegt. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vertriebspartner getrennt hinterlegt. Die Pflege über die Karrierestufen ermöglicht dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner individuell festlegen möchten, so ist auch dies möglich (siehe 3.3. Vermittler anlegen).
