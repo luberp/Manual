@@ -17,6 +17,7 @@ Durch einen Doppelklick auf die Statusleiste wird der Tracer gestartet.
 | ![](http://xpecto.github.io/docs/img/img_1430151736894.png)  (Queryanalyser schließen)   | Durch einen Klick auf dieses Symbol können Sie der aktive Queryanalyser schließen.| 
 
 
-![](http://xpecto.github.io/docs/img/img179.png) Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiger Tool und erfordert Vorkenntnisse in SQL und Visual Basic. Die Aktionsabfragen wie z.B. Löschabfragen führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.
+
+![](http://xpecto.github.io/docs/img/img179.png)   Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiger Tool und erfordert Vorkenntnisse in SQL und Visual Basic. Die Aktionsabfragen wie z.B. Löschabfragen führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.
  
 
