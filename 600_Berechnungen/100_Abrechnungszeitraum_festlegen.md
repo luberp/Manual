@@ -18,3 +18,4 @@ In dem Dialog Zeitraum wählen gibt verschiedene Möglichkeiten eine Abrechnunsz
 | Halbjährlich     |2015H1 | 
 | Jährlich    |2015| 
 
+Der neu ausgewählte Zeitraum wird dann in der Symbol -und Funktionsleiste angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum sich immer handelt.
