@@ -76,9 +76,9 @@ Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefü
 Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1421159835110.png" alt="" title=""> werden die Importdaten als Tabelle angezeigt. <br>
 Starten sie den Import durch die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1421159892128.png" alt="" title="">.</p>
 
-<p>Nachdem Sie die folgende Meldung mit OK bestätigt haben sind die angezeigten Daten importiert. </p>
+<p>Nachdem Sie die folgende Meldung mit <em>OK</em> bestätigt haben sind die angezeigten Daten importiert. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1421160002075.png" alt="" title=""></p>
 
-<p>Durch Betätigung von <img src="http://xpecto.github.io/docs/img/img_1431935009760.png" alt="" title="">  <em>Beenden</em> können Sie den Abfrageeditor beenden.</p></div></body>
+<p>Durch Betätigung von <img src="http://xpecto.github.io/docs/img/img_1431935009760.png" alt="" title="">  können Sie den Abfrageeditor beenden.</p></div></body>
 </html>
