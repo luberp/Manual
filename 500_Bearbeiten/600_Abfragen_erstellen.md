@@ -62,8 +62,7 @@ Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Scha
 Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen. <br>
 Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefügt. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1419342669871.png" alt="" title="">  <br>
- <img src="http://xpecto.github.io/docs/img/img_1431932943380.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1431933091869.png" alt="" title=""></p>
 
 <p>Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank oder zwischen Datenbanken. </p>
 
