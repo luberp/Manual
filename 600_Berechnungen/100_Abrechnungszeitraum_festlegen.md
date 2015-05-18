@@ -1,17 +1,20 @@
-Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechung maßgebliche Zeitraum bezeichnet. Der Dialog zur Eingabe des Abrechnungszeitraums kann über den Menüpunkt *Berechnungen → Abrechnungszeitraum* festlegen oder über Doppelklick auf dieAnzeige des Abrechnungszeitraums aufgerufen werden.
+Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechung maßgebliche Zeitraum bezeichnet. Der Dialog zur Eingabe des Abrechnungszeitraums kann über den Menüpunkt *Berechnungen → Abrechnungszeitraum* festlegen oder über Doppelklick auf die Anzeige des Abrechnungszeitraums, in der Symbol- und Funktionsleiste aufgerufen werden. 
+
+
 
 ![](http://xpecto.github.io/docs/img/img_1431936837532.png)
 
+In dem Dialog Zeitraum wählen gibt verschiedene Möglichkeiten eine Abrechnunszeitraum zu wählen.
 
-![](http://xpecto.github.io/docs/img/img_1423815625893.png)
+|  Intervall          |    Eingabeformat     |  
+| ------------- |:-------------| 
+| Täglich     | 2015/02/15 | 
+| Wöchentlich     |2015KW08 | 
+| 2-Wöchentlich    | 2015DW04 | 
+| 4-Wöchentlich     |2015VW02 | 
+| Halbmonatlich    | 2015HM04 | 
+| Monatlich     |2015M02 | 
+| Vierteljährlich    | 2015Q1 | 
+| Halbjährlich     |2015H1 | 
+| Jährlich    |2015| 
 
-Der Abrechnungszeitraum kann in folgenden Formaten eingegeben werden:
-**Abrechnungs-Intervall Eingabeformat**
-täglich 2008/06/12
-wöchentlich 2008KW30
-zweiwöchentlich 2008DW15
-halbmonatlich 2008HM08
-monatlich 2008M03
-vierteljährlich 2008Q2
-halbjährlich 2008H1
-jährlich 2008
