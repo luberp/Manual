@@ -1,14 +1,9 @@
-xpectoPro wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbeitsablauf möglichst einfach am PC umzusetzen und dadurch zur Optimierung des Betriebserfolges beizutragen. Die bislang notwendigen Kenntnisse über die Struktur und den Aufbau von Verzeichnissen und Dateien entfällt nahezu, da xpectoPro das Dateimanagement auf Wunsch übernimmt.
-
-Während der Programmentwicklung von xpectoPro stand immer der Mensch im Mittelpunkt - dessen Gewohnheiten im täglichen Umgang mit Daten, Informationen, Archivierung, aber auch dessen Erwartungen an ein Computerprogramm, das die Möglichkeiten einer elektronischen Datenverwaltung und Aufbereitung praxisnah löst, ohne vom Anwender grundlegende Änderungen seiner gewohnten Abläufe oder eine hohe Schulungsbereitschaft zu erwarten.
-
 Unter Bearbeiten → Wiedervorlage Liste können Sie die Liste der Wiedervorlagen ein-bzw. ausblenden. 
 Unter Bearbeiten →  Wiedervorlage Seitenleiste 
 
-
 Jeder Zustand wartet auf eine Aktion.
 Button ist einfach einen Knopf.
-report führt zu einen Berichtsdruck.
+Report führt zu einen Berichtsdruck.
 
 Zuerst muss die Vorlage erstellt werden.
 
