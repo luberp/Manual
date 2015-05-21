@@ -1,4 +1,6 @@
-Verträge werden zum Kunden angelegt. 
+Um Anlegern Zugangswege zum Investments zu ermöglichen  bieten sich Investitionen in Fonds. Die Fonds werden in xpectoPro als Produkte hinterlegt. 
+Kunden sind Investoren die Produktbeteiligungen einkaufen. Die werden als Verträge angelegt.
+
 Um einen Vertrag anzulegen öffnen Sie die Ansicht *Kunden* und markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neuen Vertrag anzulegen über *Menü → Neu → Vertrag*, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426508800812.png).
 Es erscheint die Eingabeaufforderung *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
@@ -37,3 +39,6 @@ Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgew�
 
 In dem Reiter *Belege* können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 *Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.*  
+
+
+
