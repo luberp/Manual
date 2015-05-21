@@ -15,7 +15,7 @@ Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung 
 
 Über den Karteireiter: *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-Der Karteireiter *Werte* beinhaltet die Bereiche:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
+Der Karteireiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
 
 Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 In dem Bereich *Ziel-Verträge / Rechtsnachfolger* können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Dialog *Kunden auswählen*. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.
@@ -30,6 +30,8 @@ Nachdem der Übertrag durchgeführt würde, wird ein neun Vertrag angelegt. Der 
 
 
 *Buchungsdaten*
+Diese Tabelle zeigt eine Übersicht der Buchungsdaten. Die Feldgruppen sind in GoBS-Modus. Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme (GoBS). Um eine neue Buchung anzulegen siehe *Bearbeiten → Vertragsbuchungen.*
+
 
 Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe Berechnungen Sollstellung) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
 Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
@@ -37,6 +39,7 @@ Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt we
 Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
 
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+Beispiel: Bericht Kontoauszug.
 
 In dem Reiter *Belege* können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 *Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.*  
