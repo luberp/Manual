@@ -1,4 +1,4 @@
-Nachfolgen wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. 
+Nachfolgend wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. 
 
 Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. Die Eigabemaske besteht in der Regel aus mehrere Reiter, die der Übersicht dienen.
 Jeder Reiter wird in mehrere Feldgruppen unterteilt. Diese Feldgruppen enthalten mehrere Eingabefelder die mit Daten befüllt werden.
