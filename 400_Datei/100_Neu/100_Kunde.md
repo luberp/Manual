@@ -14,15 +14,15 @@ Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie 
 
 Auf der rechte Seite in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse*.
 
-Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, sonstige Daten und Web-Portal Daten. 
+Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und Web-Portal Daten. 
 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
 
-Unter dem Reiter *Adresse* können Sie die kundenspezifische Adressdaten sowie die Bankverbindung anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png). Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden. 
+Unter dem Reiter *Adresse* können Sie die kundenspezifische Adressdaten und Bankverbindung anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
+xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png). Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden. 
 
-Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
- 
-Unter *Eigenschaften* können weitere Stammdaten, Bemerkungen und vordefinierte Eigenschaften erfasst werden. Eigenschaften sind Bemerkungen zum Kunde.
 
-Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde , Vermittler oder Vertrag sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignisse auch auf Beteiligungsebene angelegt werden.
-Es gibt Vertragsdokumente und Beteiligungsdokumente.
+Unter dem Reiter *Eigenschaften* können weitere Daten, Bemerkungen und vordefinierte Eigenschaften zum  Kunde erfasst werden.
+
+Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignisse auch auf Beteiligungsebene angelegt werden.
+Es gibt die Möglichkeit  Ereignisse auf Kundenebene oder auf Beteiligungsebene anzulegen.
