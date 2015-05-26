@@ -45,7 +45,7 @@ Karteireiter *Anteilspreise*
 
 
 
-Zur Grundeinrichtung Ihres xpectoPro gehört auch das Anlegen der mit der Software verwalteten Produkte bzw. Fonds. Sie finden die Eingabemaske unter Datei Produkte bzw. Fonds. Sie finden die Eingabemaske unter Datei Produkte oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424874256918.png).
+
 Hier werden allgemeine Daten zum Produkt erfasst. Änderungen an den Adressdaten und Bankverbindungen auf dem Karteireiter Allgemein können vom Anwender vorgenommen werden.
 Außerdem kann auf dem Karteireiter Allgemein der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der vewalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
@@ -56,9 +56,3 @@ Um Kleinanleger zukünftig besser schützen  und über das entsprechende Risiko 
 
 1.Produkt, 2. Kunde, 3.Verträge, 4.Zahlfirma, 5.Vertrieb
 
-
-Unter *Produkte* werden werden allgemeine Daten zum Produkt erfasst. Über die Schaltfläche 
-![](http://xpecto.github.io/docs/img/img_1425977343784.png) können neue Produkte angelegt werden.
-
-Unter Gesellschaften werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte. 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425976921113.png) können neue Gesellschaften angelegt werden.
