@@ -2,7 +2,13 @@ Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. Um ein
 
 
 ----------
+Die Provisionssätze legen die Höhe der Provisionen fest. Die Provisionssätze können dabei je nach Karrierestufe  unter Produkte Reiter Provisionssätze oder individuell für jeden Vertriebspartner getrennt hinterlegt werden unter Vermittler Reiter Provisionssätze.
+Die Pflege über die Karrierestufen ermöglicht dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner oder auch für alle Vertriebspartner individuell festlegen möchten, so ist auch dies möglich.  Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
+
 ![](http://xpecto.github.io/docs/img/img_1432631850462.png)
+
+Provisionsansprüche erzeugen: Bei der Vertragserfassung
+
 ![](http://xpecto.github.io/docs/img/img_1432631898157.png)
 
 ![](http://xpecto.github.io/docs/img/img_1432632034967.png)
