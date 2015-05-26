@@ -4,7 +4,7 @@ Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechung maßgebli
 
 ![](http://xpecto.github.io/docs/img/img_1431936837532.png)
 
-In dem Dialog Zeitraum wählen gibt verschiedene Möglichkeiten eine Abrechnunszeitraum zu wählen.
+In dem Dialog *Zeitraum wählen* gibt verschiedene Möglichkeiten eine Abrechnunszeitraum zu wählen.
 
 |  Intervall          |    Eingabeformat     |  
 | ------------- |:-------------| 
@@ -18,4 +18,4 @@ In dem Dialog Zeitraum wählen gibt verschiedene Möglichkeiten eine Abrechnunsz
 | Halbjährlich     |2015H1 | 
 | Jährlich    |2015| 
 
-Der neu ausgewählte Zeitraum wird dann in der Symbol -und Funktionsleiste angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum sich immer handelt.
+Der neu ausgewählte Zeitraum wird dann in der Symbol -und Funktionsleiste angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum sich gerade handelt.
