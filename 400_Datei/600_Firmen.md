@@ -20,11 +20,5 @@ Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte 
 
 Unter dem Karteireiter *Web-Dokumente* werden alle Dokumente die dem Vertriebspartner in dem Web-Portal zur Verfügung gestellt sind, verwaltet.
 
-Unter *Produkte* werden werden allgemeine Daten zum Produkt erfasst. Über die Schaltfläche 
-![](http://xpecto.github.io/docs/img/img_1425977343784.png) können neue Produkte angelegt werden.
-
-Unter Gesellschaften werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte. 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425976921113.png) können neue Gesellschaften angelegt werden.
-
 
 
