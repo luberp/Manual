@@ -9,19 +9,20 @@ Dieselben Funktionen können auch für die Auswertung von Anlegerinformationen o
 Die Steuerung von Videokonferenzen und Videoschulungen kann ebenso über dieses Modul erledigt werden.
 
 Karteireiter: *Allgemein* 
-→Einladungen drucken - Dialog Kampagnen und Masendruck
-→ Rückläufer Erfassen - Dialog Teilnehmer Veranstaltungen 
+→Einladungen drucken - Dialog *Kampagnen und Masendruck*
+→ Rückläufer Erfassen - Dialog *Teilnehmer Veranstaltungen* 
 
+Dialog Teilnehmer  Veranstaltungen
+Ansicht: Veranstaltungs-Teilnehmer → Karteireiter: Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import.
 ![](http://xpecto.github.io/docs/img/img_1432887691419.png)
 
+Ansicht: Scandialog → Karteireiter: Scandialog 
 ![](http://xpecto.github.io/docs/img/img_1432887789278.png)
+ Scandialog dient dazu um sie Stimmzettel abzulegen.	
 
-Dialog Gesellschaftsversammlung - Karteireiter: Veranstaltungs-Teilnehmer → Karteireiter: Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import.
-Reiter: Scandialog → Karteireiter: Scandialog 
-										 
-Scandialog dient dazu um sie Stimmzettel abzulegen.										 
+										 									 
 Karteireiter: *Teilnehmer*
-Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt werden. In dem Bereich Zuweisung werden die Teilnehmer gesucht unter Kunde , Vermittler , Interessent oder Person.
+Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt werden. In dem Bereich Zuweisung werden die Teilnehmer gesucht unter Kunde, Vermittler , Interessent oder Person.
 In dem Bereich Meldedaten wird der Status ausgewählt wie intialisiert, eingeladen, schriftlich abgestimmt, pers. angemeldent, bev. angemeldet, verw. angemeldet.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png) wird der Dialog *Person auswählen* aufgemacht. 
