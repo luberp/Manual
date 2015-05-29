@@ -1,6 +1,5 @@
 Mit xpectoPro können Sie Veranstaltungen planen, verwalten und auswerten. Das Modul für Veranstaltungen kann dabei für die verschiedensten Arten wie Gesellschafterversammlungen, Vertriebsveranstaltungen oder Onlinemeetings verwendet werden.
 
-Einladungen werden auf Wunsch automatisch versendet. Rückläufer werden verwaltet.
 
 Bei Gesellschafterversammlung können die Abstimmungsergebnisse per Barcode eingelesen und archiviert werden. Die Auswertung der Abstimmung vor Ort oder im Büro ist so schnell erledigt. Jeder Stimmzettel hat seinen vordefinierten Platz und kann automatisch über unseren Scanmanager abgelegt werden.
 
@@ -10,13 +9,14 @@ Die Steuerung von Videokonferenzen und Videoschulungen kann ebenso über dieses 
 
 Karteireiter: *Allgemein* 
 →Einladungen drucken - Dialog *Kampagnen und Masendruck*
-→ Rückläufer Erfassen - Dialog *Teilnehmer Veranstaltungen* 
 
-Dialog Teilnehmer  Veranstaltungen
-Ansicht: Veranstaltungs-Teilnehmer → Karteireiter: Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import.
+→ Rückläufer erfassen - Dialog *Teilnehmer Veranstaltungen*. Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung der Rückläufer. Rückläufer werden verwaltet.
+
+Dialog-*Teilnehmer  Veranstaltungen*
+Ansicht: *Veranstaltungs-Teilnehmer* → Karteireiter: Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import.
 ![](http://xpecto.github.io/docs/img/img_1432887691419.png)
 
-Ansicht: Scandialog → Karteireiter: Scandialog 
+Ansicht: *Scandialog* → Karteireiter: Scandialog 
 ![](http://xpecto.github.io/docs/img/img_1432887789278.png)
  Scandialog dient dazu um sie Stimmzettel abzulegen.	
 
@@ -51,18 +51,16 @@ Bevollmächtigte
 
 
 Zum Beispiel Sie wollen eine neue Gesellschaftsversammlung anlegen.
-Mit Hilfe von xpectoPro erzeugen Sie schnell eine neuen Gesellschaftsversammlung. 
-Über diesen Dialog können Sie individuell Tagesordnungspunkte (TOP) anlegen.  
+Mit Hilfe von xpectoPro erzeugen Sie schnell eine neuen Gesellschaftsversammlung. Planen Sie Ihre Veranstaltungen mit individuellen Tagesordnungspunkten. Legen Sie fest, ob es eine Grenze für der Teilnehmerzahl gibt. Über diesen Dialog können Sie individuell Tagesordnungspunkte (TOP) anlegen.  
 
 Um die neue Veranstaltung anzulegen klicken Sie im Menü *Datei → Neu → Veranstaltungen*
-Sie erstellen mit xpectoPro Einladungen drucken Einlandungen an die Teilnehmer. Über Einladungen drucken wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*).
+Sie erstellen mit xpectoPro Einladungen drucken Einlandungen an die Teilnehmer. Über Einladungen drucken wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch versendet. Die Einladungsschreiben und Teilnahmebestätigungen versenden Sie blitzschnell und hinterlegen diese bei Bedarf im Dokumenten-Archiv.
+
 ![](http://xpecto.github.io/docs/img/img_1432885282511.png)
 
 
-Über Veranstaltungen haben Sie die Möglichkeit ermöglicht die vollständige Abwicklung der Gesellschafterversammlungen. Hierbei können Vollmachten ebenso wie die Anwesenheit und Bevollmächtigung, Abstimmungen zu einzelnen Tagesordnungspunkten verwaltet werden.
+Über Veranstaltungen haben Sie die Möglichkeit die vollständige Abwicklung der Gesellschafterversammlungen. Hierbei können Vollmachten ebenso wie die Anwesenheit und Bevollmächtigung, Abstimmungen zu einzelnen Tagesordnungspunkten verwaltet werden.
 
-
-Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung der Rückläufer. 
 
 Auswertungen vor, während und nach der Gesellschafterversammlung sorgen für eine gute Vorbereitung, den Durchblick während der GV und die optimale Information der Gesellschafter nach der GV.
 
@@ -70,13 +68,5 @@ Auswertungen vor, während und nach der Gesellschafterversammlung sorgen für ei
 Beispiel
 Der neue Fonds ist konzipiert. Es sollen alle Vertriebspartner aus dem Postleitzahl-Bereich 84xxx eingeladen werden. Darüber hinaus sollen die Vertriebspartner eingeladen werden, die im vergangenen Jahr mindestens 250 TEUR Umsatz gemacht haben.
 
-
-
-
-Planen Sie Ihre Veranstaltungen mit individuellen Tagesordnungspunkten. Legen Sie fest, ob es eine Grenze für der Teilnehmerzahl gibt.
-
-Die potentiellen Teilnehmer einer Veranstaltung legen Sie per Massenzuweisung oder bei Bedarf individuell fest.
-
-Die Einladungsschreiben und Teilnahmebestätigungen versenden Sie blitzschnell und hinterlegen diese bei Bedarf im Dokumenten-Archiv.
 
 Bei Einsatz des Vertriebspartner-Portals können sich Vertriebspartner direkt online zu einer Veranstaltung anmelden.
