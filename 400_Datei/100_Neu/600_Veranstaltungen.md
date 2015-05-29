@@ -37,6 +37,7 @@ Ja, Nein, Enthalten, Ungültig, ohne Weisung
 Reiter Allgemein Feldgruppe  Allgemein. 
 ![](http://xpecto.github.io/docs/img/img_1432886377432.png)
 Bedingung Filterung
+Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend wählen Sie in der Allgemeinmaske über den Teilnehmerkreis alle Personen aus, gemacht haben.  Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). Hier können Sie die Teilnehmer filtern. Danach erstellen Sie noch schnell die Einladungsschreiben, die natürlich je nach hinterlegter Präferenz des Vertriebspartners per Brief, Email oder auch per Fax versendet werden.
 ![](http://xpecto.github.io/docs/img/img_1430841532256.png)
 
 
@@ -70,7 +71,6 @@ Beispiel
 Der neue Fonds ist konzipiert. Es sollen alle Vertriebspartner aus dem Postleitzahl-Bereich 84xxx eingeladen werden. Darüber hinaus sollen die Vertriebspartner eingeladen werden, die im vergangenen Jahr mindestens 250 TEUR Umsatz gemacht haben.
 
 
-Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend wählen Sie in der Personenmaske über den flexiblen Filter alle Personen aus, gemacht haben.  Danach erstellen Sie noch schnell die Einladungsschreiben, die natürlich je nach hinterlegter Präferenz des Vertriebspartners per Brief, Email oder auch per Fax versendet werden.
 
 
 Planen Sie Ihre Veranstaltungen mit individuellen Tagesordnungspunkten. Legen Sie fest, ob es eine Grenze für der Teilnehmerzahl gibt.
