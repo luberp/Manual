@@ -13,10 +13,16 @@ Karteireiter: *Allgemein*
 Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie in der Symbol-und Funktionsleiste auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1429027370695.png).  Zu jede Veranstaltungen können mit individuellen Tagesordnungspunkten (TOP) angelegt werden. 
 
 Z.B. Sie wollen eine neue Gesellschaftsversammlung anlegen.
-Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend kann in der Allgemeinmaske über den Teilnehmerkreis alle Personen ausgewählt, die an Veranstaltung teilnehmen. Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1432890657651.png). Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). Hier können Sie die Teilnehmer filtern. Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar in dem Reiter *Teilnehmer*.
-Danach erstellen Sie noch schnell die Einladungsschreiben, die natürlich je nach hinterlegter Präferenz des Vertriebspartners per Brief, Email oder auch per Fax versendet werden.
+Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend kann in der Allgemeinmaske über den Teilnehmerkreis alle Personen ausgewählt, die an Veranstaltung teilnehmen. Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1432890657651.png). Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). 
+
+Hier können Sie die Teilnehmer filtern. 
 ![](http://xpecto.github.io/docs/img/img_1430841532256.png)
 
+Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar in dem Reiter *Teilnehmer*.
+
+
+
+Danach erstellen Sie noch schnell die Einladungsschreiben, die natürlich je nach hinterlegter Präferenz des Vertriebspartners per Brief, Email oder auch per Fax versendet werden.
 
 →Einladungen drucken - Dialog *Kampagnen und Masendruck*
 
@@ -40,7 +46,7 @@ In der Feldgruppe *Meldedaten* wird der Status ausgewählt Hier können Sie fest
 
 Um einen neun Teilnehmer einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).
 
-Um neue hier wird der Dialog *Person auswählen* aufgemacht. 
+Um ein neuer Bevollmächtigter auszuwählen  neue hier wird der Dialog *Person auswählen* aufgemacht. 
 
 ![](http://xpecto.github.io/docs/img/img_1426500257178.png)
 
