@@ -8,7 +8,19 @@ Dieselben Funktionen können auch für die Auswertung von Anlegerinformationen o
 Die Steuerung von Videokonferenzen und Videoschulungen kann ebenso über dieses Modul erledigt werden.
 
 ![](http://xpecto.github.io/docs/img/img_1430841673284.png)
+
+
 Karteireiter: *Allgemein* 
+
+Z.B. Sie wollen eine neue Gesellschaftsversammlung anlegen.
+Mit Hilfe von xpectoPro erzeugen Sie schnell eine neuen Gesellschaftsversammlung. Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie auf die Schaltfläche   Planen Sie Ihre Veranstaltungen mit individuellen Tagesordnungspunkten. Legen Sie fest, ob es eine Grenze für der Teilnehmerzahl gibt. Über diesen Dialog können Sie individuell Tagesordnungspunkte (TOP) anlegen.  
+
+Bedingung Filterung
+Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend kann in der Allgemeinmaske über den Teilnehmerkreis alle Personen aus, die an Veranstaltung teilnehmen. Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1432890657651.png). Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). Hier können Sie die Teilnehmer filtern. Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar in dem Reiter *Teilnehmer*.
+Danach erstellen Sie noch schnell die Einladungsschreiben, die natürlich je nach hinterlegter Präferenz des Vertriebspartners per Brief, Email oder auch per Fax versendet werden.
+![](http://xpecto.github.io/docs/img/img_1430841532256.png)
+
+
 →Einladungen drucken - Dialog *Kampagnen und Masendruck*
 
 → Rückläufer erfassen - Dialog *Teilnehmer Veranstaltungen*. Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung der Rückläufer. Rückläufer werden verwaltet.
@@ -40,19 +52,9 @@ Karteireiter: *Bevollmächtigte*
 Ja, Nein, Enthalten, Ungültig, ohne Weisung
 
 
-Bedingung Filterung
-Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend kann in der Allgemeinmaske über den Teilnehmerkreis alle Personen aus, die an Veranstaltung teilnehmen. Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1432890657651.png). Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). Hier können Sie die Teilnehmer filtern. Danach klicken Sie auf die Schaltfläche 
-![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar in dem Reiter *Teilnehmer*.
-Danach erstellen Sie noch schnell die Einladungsschreiben, die natürlich je nach hinterlegter Präferenz des Vertriebspartners per Brief, Email oder auch per Fax versendet werden.
-![](http://xpecto.github.io/docs/img/img_1430841532256.png)
-
-
 Bevollmächtigte
 ![](http://xpecto.github.io/docs/img/img_1430842006511.png)
 
-
-Zum Beispiel Sie wollen eine neue Gesellschaftsversammlung anlegen.
-Mit Hilfe von xpectoPro erzeugen Sie schnell eine neuen Gesellschaftsversammlung. Planen Sie Ihre Veranstaltungen mit individuellen Tagesordnungspunkten. Legen Sie fest, ob es eine Grenze für der Teilnehmerzahl gibt. Über diesen Dialog können Sie individuell Tagesordnungspunkte (TOP) anlegen.  
 
 Um die neue Veranstaltung anzulegen klicken Sie im Menü *Datei → Neu → Veranstaltungen*
 Sie erstellen mit xpectoPro Einladungen drucken Einlandungen an die Teilnehmer. Über Einladungen drucken wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch versendet. Die Einladungsschreiben und Teilnahmebestätigungen versenden Sie blitzschnell und hinterlegen diese bei Bedarf im Dokumenten-Archiv.
