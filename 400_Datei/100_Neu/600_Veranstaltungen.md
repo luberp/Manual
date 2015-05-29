@@ -13,7 +13,7 @@ Die Steuerung von Videokonferenzen und Videoschulungen kann ebenso über dieses 
 Karteireiter: *Allgemein* 
 
 Z.B. Sie wollen eine neue Gesellschaftsversammlung anlegen.
-Mit Hilfe von xpectoPro erzeugen Sie schnell eine neuen Gesellschaftsversammlung. Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie auf die Schaltfläche   Planen Sie Ihre Veranstaltungen mit individuellen Tagesordnungspunkten. Legen Sie fest, ob es eine Grenze für der Teilnehmerzahl gibt. Über diesen Dialog können Sie individuell Tagesordnungspunkte (TOP) anlegen.  
+Mit Hilfe von xpectoPro erzeugen Sie schnell eine neuen Gesellschaftsversammlung. Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie in der Symbol-und Funktionsleiste auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1429027370695.png).  Zu jede Veranstaltungen können mit individuellen Tagesordnungspunkten (TOP) angelegt werden. 
 
 Bedingung Filterung
 Im Veranstaltungsmodul legen Sie die Veranstaltung an. Anschließend kann in der Allgemeinmaske über den Teilnehmerkreis alle Personen aus, die an Veranstaltung teilnehmen. Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1432890657651.png). Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). Hier können Sie die Teilnehmer filtern. Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar in dem Reiter *Teilnehmer*.
@@ -38,8 +38,8 @@ Karteireiter: *Teilnehmer*
 
 ![](http://xpecto.github.io/docs/img/img_1430841952667.png)
 
-Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt  und individuell verwaltet werden. In der Feldgruppe Zuweisung werden die Teilnehmer gesucht unter Kunde, Vermittler , Interessent oder Person.
-In der Feldgruppe Meldedaten wird der Status ausgewählt wie intialisiert, eingeladen, schriftlich abgestimmt, pers. angemeldent, bev. angemeldet, verw. angemeldet.
+Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt  und individuell verwaltet werden. In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler , Interessent oder Person.
+In der Feldgruppe *Meldedaten* wird der Status ausgewählt Hier können Sie festlegen, ob es eine Grenze für der Teilnehmerzahl gibt.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png) wird der Dialog *Person auswählen* aufgemacht. 
 
