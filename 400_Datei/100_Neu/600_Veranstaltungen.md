@@ -61,7 +61,7 @@ Sie erstellen mit xpectoPro Einladungen drucken Einlandungen an die Teilnehmer. 
 Über Veranstaltungen haben Sie die Möglichkeit ermöglicht die vollständige Abwicklung der Gesellschafterversammlungen. Hierbei können Vollmachten ebenso wie die Anwesenheit und Bevollmächtigung, Abstimmungen zu einzelnen Tagesordnungspunkten verwaltet werden.
 
 
-Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung der Rückläufer. Über die XML-Schnittstelle können die Abstimmungsergbnisse zudem importiert werden.
+Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung der Rückläufer. 
 
 Auswertungen vor, während und nach der Gesellschafterversammlung sorgen für eine gute Vorbereitung, den Durchblick während der GV und die optimale Information der Gesellschafter nach der GV.
 
