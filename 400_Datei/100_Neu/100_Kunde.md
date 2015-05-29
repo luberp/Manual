@@ -1,4 +1,5 @@
 Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anleger, die bereit sind eine Beteiligung als Gesellschafter einer Kommanditgesellschaft einzugehen, Vermittler oder Interessenten sein. Die Kundenmaske kann über *Datei → Neu → Kunde*, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> neuen Kunden anlegen oder automatisch beim Start von xpectoPro, erreicht werden.  
+
 ![](http://xpecto.github.io/docs/img/img_1429792477602.png)
 
 Auf der linke Seite wird eine Übersicht der bereits bestehenden Kunden dargestellt.
@@ -19,10 +20,12 @@ Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigent
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
 
 Unter dem Reiter *Adresse* können Sie die kundenspezifische Adressdaten und Bankverbindung anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
+
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png). Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden. 
 
 
 Unter dem Reiter *Eigenschaften* können weitere Daten, Bemerkungen und vordefinierte Eigenschaften zum  Kunde erfasst werden.
 
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignisse auch auf Beteiligungsebene angelegt werden.
+
 Es gibt die Möglichkeit  Ereignisse auf Kundenebene oder auf Beteiligungsebene anzulegen.
