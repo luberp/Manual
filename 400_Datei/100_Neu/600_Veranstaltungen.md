@@ -41,7 +41,9 @@ Karteireiter: *Teilnehmer*
 Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt  und individuell verwaltet werden. In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler , Interessent oder Person.
 In der Feldgruppe *Meldedaten* wird der Status ausgewählt Hier können Sie festlegen, ob es eine Grenze für der Teilnehmerzahl gibt.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png) wird der Dialog *Person auswählen* aufgemacht. 
+Um einen neun Teilnehmer einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).
+
+Um neue hier wird der Dialog *Person auswählen* aufgemacht. 
 
 ![](http://xpecto.github.io/docs/img/img_1426500257178.png)
 
