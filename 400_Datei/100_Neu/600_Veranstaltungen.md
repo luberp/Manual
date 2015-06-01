@@ -39,23 +39,21 @@ Ansicht: *Veranstaltungs-Teilnehmer* → Karteireiter: Rückmeldung erfassen, TO
 Scandialog dient dazu um die Stimmzettel abzulegen.	
 ![](http://xpecto.github.io/docs/img/img_1432887789278.png)
 
-
-
 										 									 
-Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt  und individuell verwaltet werden.
+Unter dem Karteireiter *Teilnehmer* können die Teilnehmer angelegt  und individuell verwaltet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1430841952667.png)
 
  In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler , Interessent oder Person.
-In der Feldgruppe *Meldedaten* kann der Status, Einstellungen zu den Bevollmächtigter, und Anzahl Teilnehmer festgelegt werden. 
+In der Feldgruppe *Meldedaten* kann der Status, Einstellungen zu den Bevollmächtigter und die Anzahl der Teilnehmer festgelegt werden. 
 
-Um einen neun Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).
+Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).
 
 Um ein neuer Bevollmächtigter auszuwählen  wird  hier der Dialog *Person auswählen* aufgemacht. 
 
 ![](http://xpecto.github.io/docs/img/img_1426500257178.png)
 
-Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, sie als neuen Datensatz anlegen.
+Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz angelegt werden.
 
 Unter dem Karteireiter: *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
 ![](http://xpecto.github.io/docs/img/img_1430842006511.png)
