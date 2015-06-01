@@ -36,9 +36,10 @@ Dialog-*Teilnehmer  Veranstaltungen*
 Ansicht: *Veranstaltungs-Teilnehmer* → Karteireiter: Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import.
 ![](http://xpecto.github.io/docs/img/img_1432887691419.png)
 
-Ansicht: *Scandialog* → Karteireiter: Scandialog 
+Scandialog dient dazu um die Stimmzettel abzulegen.	
 ![](http://xpecto.github.io/docs/img/img_1432887789278.png)
- Scandialog dient dazu um die Stimmzettel abzulegen.	
+
+
 
 										 									 
 Unter dem Karteireiter Teilnehmer können die Teilenhmer angelegt  und individuell verwaltet werden.
