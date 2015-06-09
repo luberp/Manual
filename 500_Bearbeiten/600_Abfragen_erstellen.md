@@ -9,12 +9,12 @@ Bedingungszeilen sind in Blöcken zusammengefasst. Am oberen Rand eines Blocks w
 
  - jede der Bedingungen trifft zu (AND)  
  - eine oder mehrere Bedingungen treffen zu (OR)
- - 
+ 
  ![](http://xpecto.github.io/docs/img/img_1419329260261.png) 
 
 Über die Schaltfläche “*Feld hinzufügen*” wird einem Block eine Bedingung hinzugefügt. Über die Schaltfläche “*Block hinzufügen*” wird einem Block ein Unterblock hinzugefügt. Auf diese Weise kann für einen Teil der Bedingungen ein anderer Gruppierungstyp verwendet werden.
 
-Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419329462773.png) löscht eine Bedingungszeile.
+Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419329462773.png) löscht eine Bedingungszeile oder .
 
 Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepasst werden. Ein Klick auf den Feldnamen öffnet ein Kontextmenü zur Auswahl des gewünschten Feldnamens. Per Klick auf den Bedingungstyp kann der Typ ausgewählt werden. Folgende Bedingungstypen stehen zur  Verfügung:
 
