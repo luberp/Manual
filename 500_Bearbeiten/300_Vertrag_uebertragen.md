@@ -1,4 +1,4 @@
-Über diesen Menüpunkt kann der aktuell ausgewählter Vertrag zu einem anderen Kunde übertragen werden.  
+Über diesen Menüpunkt kann der aktuell ausgewählter Vertrag zu einem anderen Kunde übertragen werden. Dafür markieren Sie den Vertrag den Sie übertragen wollen und dann wählen Sie unter *Bearbeiten → Vertrag übertragen.* 
 
 ![](http://xpecto.github.io/docs/img/img_1420452519984.png)
 
