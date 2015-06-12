@@ -8,3 +8,5 @@ Bestätigen Sie hier die Meldung mit *OK*.
 
 ![](http://xpecto.github.io/docs/img/img_1434110869275.png)
 
+Um den Vertrag bei dem neuen Kunde zu sehen müssen Sie nur die Daten aktualisieren. Dafür  wählen Sie im Menü Bearbeiten → Aktualisieren oder Drücken Sie die F5-Taste.
+
