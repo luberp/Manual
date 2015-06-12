@@ -7,23 +7,20 @@ Jeder Prozess kann eine Reihe unterschiedlicher Komponenten aufweisen, je nachde
 Jeder Prozess hat ein eigener Design der sehr komplex sein kann (siehe *Extras → Anpassen → Prozesse Rechte und Batchjobs*). 
 
 Nachdem das Prozess angelegt würde, kann jeder Benutzer eigenen Wiedervorlagen erstellen.
-Dazu Klick im dem entsprechenden Kunde oder Vertriebspartner auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png)
-Als nächstes müssen Sie die Art der Wiedervorlage auswählen. 
+Dazu kann  im dem entsprechenden Kunde oder Vertriebspartner unter Menü *Datei → Neu → Wiedervorlage/Prozess* oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png) ausgewählt werden.
 
+Als nächstes müssen Sie die Art des Prozesses auswählen. 
 
 ![](http://xpecto.github.io/docs/img/img_1427125664097.png)
 
-In unseren Fall erstellen wir eine einfache Wiedervorlage für den Benutzer selbst. Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden.
+In unseren Fall erstellen wir einen Mahnprozess für einen Vertrag. Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden.
 
 ![](http://xpecto.github.io/docs/img/img_1434095731925.png)
 
-
-Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint eingegebene Datum bei jeweiligem Mitarbeiter, in der Wiedervorlage Liste.
-
-Die Anzahl der fälligen Wiedervorlagen befindet sich direkt in der Hauptmaske, in Bereich links unten werden alle aktuell fällige Wiedervorlagen für den angemeldeten Benutzer angezeigt.
+Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Seitenleiste. 
+Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet sich direkt in der Hauptmaske unten im linken Bereich als Wiedervorlage Liste. 
 
 Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Detail der Wiedervorlage werden angezeigt in der Wiedervorlage Seitenleiste. 
-
 
 ![](http://xpecto.github.io/docs/img/img_1434095789852.png)
 
