@@ -9,7 +9,7 @@
 </head>
 <body><div class="container"><p>Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1434111754405.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1434112012527.png" alt="" title=""></p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1434111789606.png" alt="" title=""></p>
 
