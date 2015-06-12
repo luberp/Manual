@@ -15,7 +15,7 @@ Der Karteireiter *Auswertung* stellt eine grafische und tabellarische des ausgew
 
 ![](http://xpecto.github.io/docs/img/img_1432642241442.png)
 
-Wenn Sie in den Beteiligungsübersicht auf das Symbol![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
+Wenn Sie in den Beteiligungsübersicht auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
 Wenn Sie in den Anzahl Verträge auf das Symbol klicken dann ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jedes Status angezeigt.
 
 
