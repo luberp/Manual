@@ -46,7 +46,7 @@ Unter dem Karteireiter *Teilnehmer* können die Teilnehmer angelegt  und individ
 
 ![](http://xpecto.github.io/docs/img/img_1430841952667.png)
 
- In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler , Interessent oder Person.
+ In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler, Interessent oder Person.
 In der Feldgruppe *Meldedaten* kann der Status, Einstellungen zu den Bevollmächtigter und die Anzahl der Teilnehmer festgelegt werden. 
 
 Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).
