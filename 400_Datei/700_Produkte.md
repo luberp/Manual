@@ -1,25 +1,32 @@
 Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. 
 Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein. 
-Sie finden die Eingabemaske unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425984359021.png).
+Sie finden die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425984359021.png).
 
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
 
-Wenn Sie in den Beteiligungsübersicht auf das Symbol
-![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vetragsübersicht für jede Beteiligungsart erhalten.
 
+
+Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen auf dem Karteireiter *Allgemein* können vom Anwender vorgenommen werden. Hier werden allgemeine Daten zum Produkt erfasst. 
+
+Auf dem Karteireiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
+
+Der Karteireiter *Auswertung* stellt eine grafische und tabellarische des ausgewerteter Produkt dar, und zwar eine Übersicht über die Forderungen, Beteiligungsübersicht, anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung.
+![](http://xpecto.github.io/docs/img/img_1432642241442.png)
+Wenn Sie in den Beteiligungsübersicht auf das Symbol![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
 Wenn Sie in den Anzahl Verträge auf das Symbol klicken dann ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jedes Status angezeigt.
 
-Hier werden allgemeine Daten zum Produkt erfasst. 
-Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen auf dem Karteireiter *Allgemein* können vom Anwender vorgenommen werden. 
-Auf dem Karteireiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
-Der Karteireiter *Auswertung* stellt eine grafische und tabellarische des ausgewerteter Produkt dar, und zwar eine Übersicht über die Forderungen, Beteiligungsübersicht, anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung
-![](http://xpecto.github.io/docs/img/img_1432642241442.png)
-Karteireiter Saldenübersicht enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+
+Karteireiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+
 Unter Karteireiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler, Berechnungen und Default-Provisionierung. Stimmbasis.
-Karteireiter Transchen: Verteilung in Scheiben.
-Karteireiter Kosten
-Karteireiter Buchungsdaten
-Karteireiter Belege
+Feldgruppen: Tarifdefinition, Berechnung, Default-Provisionierung, Stimmbasis.
+Karteireiter *Transchen* dient zum  Verteilung von Beträge in Teilen.
+
+Karteireiter *Kosten*
+
+Karteireiter *Buchungsdaten*
+
+Karteireiter *Belege*
 Unter Karteireiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, und zwar die Provisionssätze nach Karrierestufen  angelegt.
 
 Unter Karteireiter *Status* können die verschiedene Status für das Produkt angelegt werden.
@@ -42,8 +49,6 @@ Unter dem Karteireiter *Salden* können Sie die Salden konfigurieren. Neben den 
 Karteireiter *Anteilsarten*
 
 Karteireiter *Anteilspreise*
-
-
 
 
 Hier werden allgemeine Daten zum Produkt erfasst. Änderungen an den Adressdaten und Bankverbindungen auf dem Karteireiter Allgemein können vom Anwender vorgenommen werden.
