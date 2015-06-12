@@ -54,5 +54,5 @@ Karteireiter *Anteilsarten*
 Karteireiter *Anteilspreise*
 
 
-1.Produkt, 2. Kunde, 3.Verträge, 4.Zahlfirma, 5.Vertrieb
+
 
