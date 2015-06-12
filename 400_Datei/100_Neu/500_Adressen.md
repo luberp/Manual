@@ -1,10 +1,10 @@
 Adressen können Kunden, Vermittler oder Interessenten sein. 
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431524686794.png), oder Menü *Datei → Neu → Adressen* um zu  Personen Eingabemaske zu gelangen.
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431524686794.png), oder Menü *Datei → Neu → Adressen* um zu  Personen Eingabemaske zu gelangen. 
 Der Baum Personen beinhaltet alle Kunden, Vermittler und Personen die im System hinterlegt sind.
 
 ![](http://xpecto.github.io/docs/img/img_1431525294793.png)
 
-Die Eingabemaske enthält folgende Reiter: Allgemein, Kirchensteuer, Auslands-Steuer.
+Die Eingabemaske enthält folgende Reiter: *Allgemein, Kirchensteuer, Auslands-Steuer*.
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Person sind.
 
