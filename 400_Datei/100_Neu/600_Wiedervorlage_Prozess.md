@@ -36,6 +36,6 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen drücken Sie auf die Schaltfl
 
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
-![](http://xpecto.github.io/docs/img/img_1434096802280.png)druckt der vorgegebener Bericht.
+![](http://xpecto.github.io/docs/img/img_1434096802280.png) druckt der vorgegebener Bericht.
 
 ![](http://xpecto.github.io/docs/img/img_1434096840070.png) beendet die Wiedervorlage.
