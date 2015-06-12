@@ -5,8 +5,9 @@ Sie finden die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durc
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
 
 
-
 Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen auf dem Karteireiter *Allgemein* können vom Anwender vorgenommen werden. Hier werden allgemeine Daten zum Produkt erfasst. 
+Außerdem kann auf dem Karteireiter *Allgemein* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. 
+Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
 Auf dem Karteireiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
 
@@ -31,7 +32,10 @@ Unter Karteireiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt 
 
 Unter Karteireiter *Status* können die verschiedene Status für das Produkt angelegt werden.
 
-Außerdem kann auf dem Karteireiter *Konten* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsscripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. Gleiches gilt für das Anlegen von Produkten. Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt. 
+Außerdem kann auf dem Karteireiter *Konten* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. 
+Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
+Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
+Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt. 
 
 OPOS Konto: Offene Posten eine Buchung auf einem Konto, für die es keine Gegenbuchung gibt.
 FinTS/HBCI (Financial Transaction Services / Home Banking Computer Interface): 
@@ -41,19 +45,13 @@ Karteireiter *Wertarten*.
 
 Unter dem Karteireiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
 
-
 Unter dem Karteireiter *Wechselkurse* werden für die neu angelegte Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt werden.
 
-Unter dem Karteireiter *Salden* können Sie die Salden konfigurieren. Neben den schon angelegte Salden kann hier neue Salden angelegt werden unter die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426517966548.png) ![](http://xpecto.github.io/docs/img/img_1426518057250.png) 
-![](http://xpecto.github.io/docs/img/img_1426518083903.png)
+Unter dem Karteireiter *Salden* können Sie die Salden konfigurieren. Neben den schon angelegte Salden kann hier neue Salden angelegt werden unter die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426517966548.png) neue Gruppe ![](http://xpecto.github.io/docs/img/img_1426518057250.png) und neue Buchungskonten![](http://xpecto.github.io/docs/img/img_1426518083903.png).
 
 Karteireiter *Anteilsarten*
 
 Karteireiter *Anteilspreise*
-
-
-Hier werden allgemeine Daten zum Produkt erfasst. Änderungen an den Adressdaten und Bankverbindungen auf dem Karteireiter Allgemein können vom Anwender vorgenommen werden.
-Außerdem kann auf dem Karteireiter Allgemein der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der vewalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
 Gleiches gilt für das Anlegen von Produkte. Das beim Anlegen eines Produkt zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt.
 
