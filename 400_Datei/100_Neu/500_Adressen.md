@@ -6,12 +6,10 @@ Der Baum Personen beinhaltet alle Kunden, Vermittler und Personen die im System 
 
 Die Eingabemaske enthält folgende Reiter: Allgemein, Kirchensteuer, Auslands-Steuer.
 
-Der Reiter *Allgemein* beinhaltet
+Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Person sind.
 
-Der Reiter *Kirchensteuer* beinhaltet
+Der Reiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. 
 
-![](http://xpecto.github.io/docs/img/img_1431525755009.png)
 
-Der Reiter *Auslands-Steuer* beinhaltet
+Der Reiter *Auslands-Steuer* ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.
 
-![](http://xpecto.github.io/docs/img/img_1431525680581.png)
