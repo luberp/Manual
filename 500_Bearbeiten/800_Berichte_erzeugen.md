@@ -40,8 +40,6 @@ Der erstellte Bericht kann nun über die Schaltfläche gedruckt, oder über die 
 
 Berichte, die von Ihrem Ersteller entsprechend parametrisiert sind, werden zusätzlich als so genannte Favoriten-Berichte in der Hauptmaske von eAgentur auf der Werkzeugleiste angeboten. Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Das kann unter dem Reiter *Kategorien* eingestellt werden.
 
-
-
 Mit der Schaltfläche wird der selektierte Favoriten-Bericht auf den in der nebenstehenden Druckerauswahl gewählten Drucker gedruckt. Ist die Schaltfläche aktiviert, so wird der Bericht beim Druck automatisch als PDF-Datei gespeichert und eine Verknüpfung unter den Ereignissen des aktuell ausgewählten Vermittlers, Kunden oder Vertrags hinterlegt.
 
 Hinweis: Dies dient lediglich der Arbeitserleichterung durch schnelles Wiederfinden gedruckter Dokumente, genügt jedoch nicht den Anforderungen einer ordnungsgemäßen EDV-gestützten Archivierung.
