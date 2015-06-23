@@ -2,11 +2,15 @@ Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro e
 
 Über den Menüpunkt  *Bearbeiten → Berichte erzeugen* wird die xpectoPro Berichterstellung aufgerufen. 
 Um ein neues Bericht zu erzeugen wählen Sie unter *Bearbeiten → Berichte erzeugen* oder in der Symbolleiste die Schaltfläche![](http://xpecto.github.io/docs/img/img_1429027617646.png).
-Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet müssen zuerst die Berichtengruppen und der passende Bericht als
+Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und die dazu passende Berichte werden vorgeschlagen. Hier kann zwischen verschiedene Dateiausgaben ausgewählt werden. 
 
 ![](http://xpecto.github.io/docs/img/img_1435072379530.png)
-![](http://xpecto.github.io/docs/img/img_1435072419471.png)
+
+Wenn die Felder ausgefüllt sind dann drucken Sie die Druckvorschau/Seitenansicht  ![](http://xpecto.github.io/docs/img/img_1435072419471.png). 
+
+Sie werden aufgefordert einen Produkt für die Berichterstellung auszuwählen.
 ![](http://xpecto.github.io/docs/img/img_1435072508917.png)
+
 ![](http://xpecto.github.io/docs/img/img_1435071898992.png)
 
 FFIDs 
