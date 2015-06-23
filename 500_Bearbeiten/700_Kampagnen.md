@@ -60,6 +60,6 @@ Mit dem Dialog „Abfragen erstellen" können sich Benutzer direkt eigene Abfrag
 Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System schlägt typische Felder vor. Die Auswahl kann jederzeit erweitert oder geändert werden. Auf der folgenden Seite wird direkt das Ergebnis der Abfrage angezeigt. Die Liste kann hier nochmals gefiltert werden. 
 
 Die Weitergabe der Daten ist nun denkbar einfach. Ein Klick auf „Excel" oder „CSV" öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterarbeiten.
-Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktion wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung. 
+Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktion wie den Druck oder den Mailversand von Schreiben oder Einladungen. 
 Eine ideale Kombination ist der abschleißende Druck der Daten über einen Druckdienstleister.
 
