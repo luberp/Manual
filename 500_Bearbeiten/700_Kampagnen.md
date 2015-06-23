@@ -32,7 +32,7 @@ Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img
 
 
 Feldgruppe *Aktion wählen*:
-Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres
+Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
 
 Feldgruppe  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden.
 ![](http://xpecto.github.io/docs/img/img_1426685469516.png)
