@@ -1,6 +1,6 @@
 Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen durch die  Kombination aus  Listenerstellung und der Nutzung dieser Daten für den Massendruck.
 
-Sie können den Dialog „Kampagnen und Massendruck"  über *Menü → Bearbeiten → Kampagnen* oder über *Abfrage erstellen → Kampagne* erreichen. Der Dialog „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck*  ![](http://xpecto.github.io/docs/img/img_1435065119358.png).
+Sie können die Maske „Kampagnen und Massendruck"  über *Menü → Bearbeiten → Kampagnen* oder über *Abfrage erstellen → Kampagne* erreichen. Die Maske „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck*  ![](http://xpecto.github.io/docs/img/img_1435065119358.png) erreicht werden.
 
 Um eine neue Kampagne anzulegen klicken Sie in dem Dialog auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1421833044056.png).
 
