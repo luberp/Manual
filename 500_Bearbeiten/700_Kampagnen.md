@@ -61,5 +61,5 @@ Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System
 
 Die Weitergabe der Daten ist nun denkbar einfach. Ein Klick auf „Excel" oder „CSV" öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterarbeiten.
 Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktion wie den Druck oder den Mailversand von Schreiben oder Einladungen. 
-Eine ideale Kombination ist der abschleißende Druck der Daten über einen Druckdienstleister.
+Eine ideale Kombination ist der abschließende Druck der Daten über einen Druckdienstleister.
 
