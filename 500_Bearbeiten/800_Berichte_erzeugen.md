@@ -1,9 +1,8 @@
-
 Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. 
 
-Über den Menüpunkt  Bearbeiten Berichte erzeugen wird die xpectoPro Berichtserstellung aufgerufen. 
+Über den Menüpunkt  *Bearbeiten → Berichte erzeugen* wird die xpectoPro Berichtserstellung aufgerufen. 
+
 FFIDs 
-Bearbeiten: Bericht erzeugen 
 Anpassen: Berichte und Adressmuster 
 Bericht erzeugen. 
 Bericht bearbeiten.
@@ -12,8 +11,8 @@ Berichte
 Bericht erzeugen: generiert nur den Bericht. 
 Bericht bearbeiten: Vorlage generiert und bearbeitet. 
 Integrierter Berichtsgenerator: Active Reports. 
-Um ein neues Bericht zu erstellen, bieten sich in xpectoPro folgende Möglichkeiten:  
-über Bearbeiten Berichte erzeugen oder über die Schaltflache in der Symbolleiste.
+
+Um ein neues Bericht zu erzeugen wählen Sie unter *Bearbeiten → Berichte erzeugen* oder in der Symbolleiste ![](http://xpecto.github.io/docs/img/img_1429027617646.png) , bieten sich in xpectoPro folgende Möglichkeiten:  über Bearbeiten Berichte erzeugen oder über die Schaltflache in der Symbolleiste.
 
 Adressmuster, Textbausteine, individuelle Schreiben. 
 Speichern, Berichtgruppe neu anlegen, Berichte neu anlegen, Adressmuster neu anlegen, Textbausteine neu anlegen, Individuelle Schreiben neu anlegen, Aktuellen Datensatz löschen, Bericht importieren, Bericht exportieren. 
