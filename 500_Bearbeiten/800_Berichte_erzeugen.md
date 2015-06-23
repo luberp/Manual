@@ -54,4 +54,4 @@ Um ein neues Bericht zu erstellen wählen Sie unter *Extras → Anpassen → Ber
 
 Auf der linke Seite wird einen Übersicht 
 
-Die Navigation beinhaltet folgende Bäume: Kunden, Vermittler, Personen, Veranstaltungen. Jeder Baum enthält sein eigener Ansicht und die entsprechende Eingabemaske auf der rechte Seite.
+Die Navigation beinhaltet folgende Bäume: Berichte, Adressmuster, Textbausteine, individuelle Schreiben. Jeder Baum enthält sein eigener Ansicht und die entsprechende Eingabemaske auf der rechte Seite.
