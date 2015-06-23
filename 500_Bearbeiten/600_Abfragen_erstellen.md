@@ -50,7 +50,7 @@ Klicken sie nun erneut auf *Weiter*, um zur Anzeige des Abfrageergebnisses zu ge
 
 Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  CSV, SQL oder Excel weitergegeben werden. 
 Die Weitergabe der Daten ist  einfach. Ein Klick auf “*Excel*” oder “*CSV*” öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
-Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche Kampagne kann eine Kampagne gestartet werden (siehe Kampagne). 
+Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche Kampagne kann eine Kampagne gestartet werden (siehe *Bearbeiten → Kampagnen*). 
 Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen.  
 Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefügt. 
 
