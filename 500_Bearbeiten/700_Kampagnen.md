@@ -23,6 +23,7 @@ Vordefinierter Verteiler ist ein spezieller Bericht der als Verteiler für Kampa
 
 
 Die *individuelle Abfrage* ![](http://xpecto.github.io/docs/img/img_1435065913280.png)
+
 ![](http://xpecto.github.io/docs/img/img_1433863956586.png)
 
 ier können Sie die schon hinterlegte Abfrage in den Editor *Abfrage editieren für Kampagne* bearbeiten und an Ihre Kampagne anpassen. Wenn Sie aber kein Abfrage  hinterlegt haben dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfrage editieren für Kampagne" zu erstellen (siehe *Abfragen erstellen → Kampagne*). 
