@@ -14,9 +14,7 @@ Sie werden aufgefordert einen Produkt für die Berichterstellung auszuwählen.
 ![](http://xpecto.github.io/docs/img/img_1435071898992.png)
 
 FFIDs 
-Anpassen: Berichte und Adressmuster 
-Bericht erzeugen. 
-Bericht bearbeiten.
+
 
 Berichte 
 Bericht erzeugen: generiert nur den Bericht. 
@@ -52,4 +50,8 @@ Wenn den Drucker: Briefversand nicht angezeigt wird dann bitte an Support wenden
 
 Durch Auswählen des Checkboxes Berichte archivieren werden die Schreiben an an die Kunden archiviert. Der Klick auf Start werden die einzelne Scheiben erstellt und die Dokumente werden in dem Zwischenspeicher des Briefversandes abgelegt. Die Schreiben sind damit erstellt und müssen nur noch an die PIN AG übertragen werden. Die Kampagne kann damit abgeschlossen werden.
 
-Um ein neues Bericht zu erstellen wählen Sie unter *Extras → Anpassen → Berichte und Adressmuster* oder in der Symbol- und Funktionsleiste die Schaltfläche![](http://xpecto.github.io/docs/img/img_1429027648565.png).
+Um ein neues Bericht zu erstellen wählen Sie unter *Extras → Anpassen → Berichte und Adressmuster* oder in der Symbol- und Funktionsleiste die Schaltfläche![](http://xpecto.github.io/docs/img/img_1429027648565.png).  Sie gelangen in der Maske *Berichte und Adressmuster*.
+
+Auf der linke Seite wird einen Übersicht 
+
+Die Navigation beinhaltet folgende Bäume: Kunden, Vermittler, Personen, Veranstaltungen. Jeder Baum enthält sein eigener Ansicht und die entsprechende Eingabemaske auf der rechte Seite.
