@@ -1,4 +1,4 @@
-Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen.
+Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen durch die  Kombination aus  Listenerstellung und der Nutzung dieser Daten für den Massendruck.
 
 Sie können den Dialog „Kampagnen und Massendruck"  über *Menü → Bearbeiten → Kampagnen* oder über *Abfrage erstellen → Kampagne* erreichen. Der Dialog „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck*  ![](http://xpecto.github.io/docs/img/img_1435065119358.png).
 
@@ -39,7 +39,7 @@ Feldgruppe  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquelle
 
 Bereich *Auswahl der Empfänger* bietet die Möglichkeit alle Datensätze auswählen, alle abwählen,  auswählen von bis.
 
-Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktionen wie den Druck oder den Mailversand von Schreiben oder Einladungen. Die Kombination aus einfachster Listenerstellung und der Nutzung dieser Daten für den Massendruck schafft Freiräume für anspruchsvollere Tätigkeiten in der Verwaltung.
+.  Die
 
 Individualisierbare Softwarelösungen  für das Kampagnenmanagement helfen dabei, den komplexen Kampagnenprozess übersichtlich im Unternehmen zu planen, steuern und auszuwerten. Alle Kundendaten laufen in der Software zusammen und können schnell ausgewertet werden. Somit wird die Kampagnenplanung effektiver.  xpectoPro bietet Unterstützung im Marketing und hat vor allem den Vorteil, dass alle Daten in einer Datenbank zusammenlaufen und verknüpft werden. So erhält jeder Mitarbeiter eine schnelle Übersicht und kann konkrete Handlungsmaßnahmen ableiten oder eine Optimierung der Kampagne vornehmen.
 
