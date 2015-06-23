@@ -45,21 +45,12 @@ Es sollen neue Vertriebspartner gefunden werden. Zu diesem Zweck wurde ein Adres
 
 Sie erzeugen eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. Anschließend schreiben Sie alle Teilnehmer der Kampagne per email, Brief oder Fax an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
 
-Zur Steuerung und Überwachung der Anzeigen benutzen Sie den Workflow, der sich bereits zur Steuerung der letzten Kampagne bewährt hat. Für die einzelnen Medien erzeugen Sie sich oder Ihren Kollegen Aufgaben, die Sie an die rechtzeitige Anzeigenschaltung erinnern.
 
 Der erste Teilnehmer meldet sich kurze Zeit nach dem Mailing telefonisch bei Ihnen und bittet um Zusendung von Vertriebsunterlagen. Beim ersten Klingeln des Telefons sehen Sie bereits, dass der Anrufer Teilnehmer der Kampagne ist. Sie rufen die Detailmaske auf, tragen die Reaktion dort ein und gleichen noch kurz die Stammdaten ab.  xpectoPro kümmert sich automatisch darum, dass Ihr Kollege die gewünschten Unterlagen versendet und legt dem Vertriebsbetreuer den Vorgang rechtzeitig zum telefonischen Nachfassen automatisch wieder vor.
 
 Ein neuer Vertriebsinteressent meldet sich wenige Tage später auf Ihre Anzeige. Sie erfassen die Daten des Teilnehmers und fügen ihn einfach der Kampagne hinzu und übernimmt für Sie wieder den Rest.
 
-Teilnehmer aus dem aktuellen Adressbestand fügen Sie zielgruppenorientiert über die ausgezeichneten Filter  hinzu. Neue Personen können selbstverständlich ad-hoc hinzugefügt werden.
+Teilnehmer aus dem aktuellen Adressbestand fügen Sie zielgruppenorientiert über den Filter  hinzu. 
 
-Abfragen und Listen
-Erstellung von Abfragen und Listen über einen einfachen Dialog, Datenexport, Listenerstellung
-Mit dem Dialog „Abfragen erstellen" können sich Benutzer direkt eigene Abfragen „zusammenklicken". Sie wählen die Datenfelder und geben die entsprechenden Filterwerte und Bedingungen an. Alle Elemente dieses Dialogs sind auf Endbenutzer ausgerichtet und tragen „deutsche" Namen. Durch die Einfache Benutzung wird diese Funktion bei unseren Kunden sehr breit eingesetzt. 
-
-Nach den Filterbedingungen kann man die Felder der Ausgabe bestimmen. Das System schlägt typische Felder vor. Die Auswahl kann jederzeit erweitert oder geändert werden. Auf der folgenden Seite wird direkt das Ergebnis der Abfrage angezeigt. Die Liste kann hier nochmals gefiltert werden. 
-
-Die Weitergabe der Daten ist nun denkbar einfach. Ein Klick auf „Excel" oder „CSV" öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterarbeiten.
-Die Daten können auch direkt an eine Kampagne übergeben werden. Diese Kampagne ermöglicht Massenaktion wie den Druck oder den Mailversand von Schreiben oder Einladungen. 
 Eine ideale Kombination ist der abschließende Druck der Daten über einen Druckdienstleister.
 
