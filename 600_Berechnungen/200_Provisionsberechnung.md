@@ -14,6 +14,7 @@ Provisionsansprüche erzeugen: Bei der Vertragserfassung werden aus den Modellen
 ![](http://xpecto.github.io/docs/img/img_1432631898157.png)
 
 ![](http://xpecto.github.io/docs/img/img_1432632034967.png)
+
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png)
 
 Ausgewählte Provisionen verbuchen ![](http://xpecto.github.io/docs/img/img_1432632280997.png)Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Sie werden anschließend automatisch zum Belegdruck weiter geleitet.
@@ -64,6 +65,7 @@ Mögliche Einschränkungen sind:
 Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie bitte auf _PROVISION BERECHNEN_.
 
 ![](http://xpecto.github.io/docs/img/img100.png)
+
 ![](http://xpecto.github.io/docs/img/img102.jpg)
 
 
