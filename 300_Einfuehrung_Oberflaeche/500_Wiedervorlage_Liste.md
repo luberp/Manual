@@ -1,5 +1,8 @@
 Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung, so können sich einzelne Benutzer oder Arbeitsgruppen, bestimmten Aufgaben merken und strukturiert abarbeiten.
 
+Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so sehr leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
+
+
 ![](http://xpecto.github.io/docs/img/img_1430827382092.png)
 
 Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die den Filter anbietet, gesteuert werden.
@@ -21,5 +24,3 @@ Ein Mahnprozess könnte so folgende Optionen anbieten:
  - auf Klärung durch Vertriebspartner warten
  - Weiterleitung an Inkasso
  - schließen des Mahnprozesses
-
-Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit  von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so sehr leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
