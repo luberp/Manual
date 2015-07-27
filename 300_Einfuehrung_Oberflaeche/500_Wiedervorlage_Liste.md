@@ -2,14 +2,12 @@ Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung. So kö
 
 ![](http://xpecto.github.io/docs/img/img_1430827382092.png)
 
-
+Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die den Filter anbietet, gesteuert werden.
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1430827803341.png)      | Wiedervorlage-Historie anzeigen | 
 | ![](http://xpecto.github.io/docs/img/img_1430827829392.png)     |Daten neu laden | 
-
-Die Überblick über die Vielzahl von Einzelaufgaben kann schnell zu einem Problem in der Verwaltung werden. 
 
 Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppe hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten.  In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
 
