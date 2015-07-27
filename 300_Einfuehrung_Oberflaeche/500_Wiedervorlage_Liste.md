@@ -1,4 +1,4 @@
-
+Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung. So können sich einzelne Benutzer oder Arbeitsgruppen, bestimmten Aufgaben merken und strukturiert abarbeiten.
 
 ![](http://xpecto.github.io/docs/img/img_1430827382092.png)
 
@@ -9,7 +9,7 @@
 | ![](http://xpecto.github.io/docs/img/img_1430827803341.png)      | Wiedervorlage-Historie anzeigen | 
 | ![](http://xpecto.github.io/docs/img/img_1430827829392.png)     |Daten neu laden | 
 
-Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung. Einzelne Benutzer oder Arbeitsgruppen können sich so bestimmten Aufgaben merken und strukturiert abarbeiten. Die Überblick über die Vielzahl von Einzelaufgaben kann schnell zu einem Problem in der Verwaltung werden. 
+Die Überblick über die Vielzahl von Einzelaufgaben kann schnell zu einem Problem in der Verwaltung werden. 
 
 Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppe hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten.  In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
 
