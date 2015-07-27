@@ -1,4 +1,5 @@
-Nachfolgend wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. 
+Nachfolgend wird die Eingabemaske mit ihre Bestandteile vorgestellt. 
+Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro. 
 
 Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. Die Eigabemaske besteht in der Regel aus mehrere Reiter, die der Übersicht dienen.
 Jeder Reiter wird in mehrere Feldgruppen unterteilt. Diese Feldgruppen enthalten mehrere Eingabefelder die mit Daten befüllt werden.
@@ -10,13 +11,12 @@ Sie können die einzelne Felder erreichen, indem Sie diese mit der Maus anklicke
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neue Adresse Str + N  | 
-| ![](http://xpecto.github.io/docs/img/img_1430731964269.png)    | Aktuelle Adresse löschen Entf| 
 | ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung | 
 | ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung Feld muss befüllt sein | 
 | ![](http://xpecto.github.io/docs/img/img_1430729543912.png)      | Datenvalidierung | 
 | ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie | 
-
+| ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neuen Datensatz hinzufügen (Str + N)  | 
+| ![](http://xpecto.github.io/docs/img/img_1430731964269.png)    | Aktuelle Adresse löschen Entf| 
 
 Datenvalidierung der Eingaben dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in dem Eingabefelder prüft.
 
