@@ -3,7 +3,7 @@ Die Eingabmaske erreichen Sie nachdem erfolgreichen Starten von xpectoPro.
 
 Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. Die Eigabemaske besteht in der Regel aus mehrere Reiter, die der Übersicht dienen.
 Jeder Reiter wird in mehrere Feldgruppen unterteilt. Diese Feldgruppen enthalten mehrere Eingabefelder die mit Daten befüllt werden.
-Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar. Diese Felder sind ausgegraut und können nicht befüllt werden, wie z.B. in dem Reiter *Allgemein* Feldgruppe *Meldedaten*.
+Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar. Diese Felder sind ausgegraut und können nicht befüllt werden, wie z.B. unter dem Reiter *Allgemein* Feldgruppe *Meldedaten*.
 
 ![](http://xpecto.github.io/docs/img/img_1431532871860.png)
 
