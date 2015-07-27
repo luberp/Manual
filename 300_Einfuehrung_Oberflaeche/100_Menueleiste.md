@@ -5,3 +5,5 @@ Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Impo
 Die Menüeinträge werden durch einen einfachen Klick ausgewählt. Die Menüeinträge erhalten gegebenenfalls auch Untereinträge. Der Pfeil ![](http://xpecto.github.io/docs/img/img_1430311875340.png) hinter einem Menüpunkt weist darauf hin dass Untermenüs existieren.
 
 ![](http://xpecto.github.io/docs/img/img_1437998669433.png)
+
+Im Verlauf dieses Handbuchs werden Ihnen alle Menü Punkte erklärt.
