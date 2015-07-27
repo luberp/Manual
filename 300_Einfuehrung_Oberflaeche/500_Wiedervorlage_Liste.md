@@ -16,11 +16,3 @@ Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen
 Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
 
 Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.
-
-Ein Mahnprozess könnte so folgende Optionen anbieten: 
-
- - Schreiben erstellen und zusenden
- - 14 Tage auf Einzahlung warten
- - auf Klärung durch Vertriebspartner warten
- - Weiterleitung an Inkasso
- - schließen des Mahnprozesses
