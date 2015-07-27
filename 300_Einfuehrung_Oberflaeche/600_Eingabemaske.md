@@ -7,7 +7,7 @@ Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar. Diese Felder 
 
 ![](http://xpecto.github.io/docs/img/img_1431532871860.png)
 
-Um zwischen den Felder zu navigieren können Sie diese  mit der Maus anklicken oder durch  Betätigung der TAB-Taste.
+Um zwischen den Felder zu navigieren können Sie diese mit der Maus anklicken oder durch Betätigung der TAB-Taste.
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
