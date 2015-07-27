@@ -16,5 +16,9 @@ Um die Suche einfach zu starten betätigen Sie die Schaltfläche <img src="http:
 
 <p><img src="http://xpecto.github.io/docs/img/img_1437999467334.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1437999576542.png" alt="" title=""></p></div></body>
+<p><img src="http://xpecto.github.io/docs/img/img_1437999576542.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1437999785393.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1437999710660.png" alt="" title=""></p></div></body>
 </html>
