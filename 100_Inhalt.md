@@ -11,7 +11,7 @@
 *  3.2. [Symbol- und Funktionsleiste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Symbol-_und_Funktionsleiste)
 *  3.3. [Suche](http://help.xpecto.de/Einfuehrung_Oberflaeche/Suche)
 *  3.4. [Navigation](http://help.xpecto.de/Einfuehrung_Oberflaeche/Navigation)
-*  3.5. [Wiedervorlage Liste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Verträge_anlegen)
+*  3.5. [Wiedervorlage Liste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Wiedervorlage_Liste)
 * 3.6. [Eingabemaske](http://help.xpecto.de/Einfuehrung_Oberflaeche/Eingabemaske)
 *  3.7. [Statusleiste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Statusleiste)
 4. [Menü: Datei](http://help.xpecto.de/Datei)
