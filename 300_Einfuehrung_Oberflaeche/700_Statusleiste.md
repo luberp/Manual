@@ -50,7 +50,7 @@
 </tbody></table>
 
 
-<p>Um den Tracer zu Beenden klicken Sie auf <img src="http://xpecto.github.io/docs/img/img_1438073207481.png" alt="" title=""></p>
+<p>Um den Tracer zu Beenden klicken Sie auf <img src="http://xpecto.github.io/docs/img/img_1438073429514.png" alt="" title=""></p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1431936241832.png" alt="" title=""> Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiger Werkzeug und erfordert Vorkenntnisse in SQL und Visual Basic. Die Aktionsabfragen wie z.B. Löschabfragen führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.</p></div></body>
 </html>
