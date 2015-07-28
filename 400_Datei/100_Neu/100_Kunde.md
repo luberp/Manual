@@ -24,6 +24,12 @@ Die Kundenmaske kann über <em>Datei → Neu → Kunde</em>, über die Schaltfl�
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438074679880.png" alt="" title=""></p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1438074839670.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1438074874903.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1438074994809.png" alt="" title=""></p>
+
 <p>Auf der rechte Seite in der Eingabemaske stehen die Reiter <em>Allgemein, Adressen, Eigenschaften, Ereignisse</em>.</p>
 
 <p>Unter dem Reiter <em>Allgemein</em> steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. </p>
@@ -32,7 +38,8 @@ Die Kundenmaske kann über <em>Datei → Neu → Kunde</em>, über die Schaltfl�
 
 <p>Unter dem Reiter <em>Adresse</em> können Sie die kundenspezifische Adressdaten und Bankverbindung anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  </p>
 
-<p>xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1419001576458.png" alt="" title="">. Die Adresse kann durch Betätigung von <img src="http://xpecto.github.io/docs/img/img_1418999829813.png" alt="" title=""> auf Richtigkeit geprüft werden. </p>
+<p>xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1419001576458.png" alt="" title="">.  <br>
+Die Adresse kann durch Betätigung von <img src="http://xpecto.github.io/docs/img/img_1418999829813.png" alt="" title=""> auf Richtigkeit geprüft werden. </p>
 
 <p>Unter dem Reiter <em>Eigenschaften</em> können weitere Daten, Bemerkungen und vordefinierte Eigenschaften zum  Kunde erfasst werden.</p>
 
