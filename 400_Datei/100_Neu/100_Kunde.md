@@ -40,4 +40,5 @@ Unter dem Reiter *Eigenschaften* können weitere Daten, Bemerkungen und vordefin
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignisse auch auf Beteiligungsebene angelegt werden.
 
 Es gibt die Möglichkeit  Ereignisse auf Kundenebene oder auf Beteiligungsebene anzulegen.
+
 ![](http://xpecto.github.io/docs/img/img_1438076449296.png)
