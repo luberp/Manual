@@ -1,3 +1,2 @@
-Durch Auswählen von Menü *Datei → Drucken* oder durch die Tastenkombination STRG + P wird das Druckfenster erreicht, wo Details zum Druck eingestellt werden können.
-
+Um ein Dokument zu drucken wählen Sie den folgenden Menüpfad *Datei → Drucken* oder die Tastenkombination STRG + P. Im Folgende erscheint das Druckfenster, wo Sie  Drucker oder Details zum Druck einstellen können.
 
