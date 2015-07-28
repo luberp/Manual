@@ -12,8 +12,6 @@ Um einen neuen Kunde anzulegen betätigen die Schaltfläche <img src="http://xpe
 Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit *OK*. 
 
 
-![](http://xpecto.github.io/docs/img/img_1438074679880.png)
-
 Auf der linke Seite oben in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse*.
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. 
@@ -24,11 +22,14 @@ Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsp
 Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten Bank- und Kontoverbindung anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
-Der Unterkarteireiter Allgemein beinhaltet die Stammdaten.
 
-![](http://xpecto.github.io/docs/img/img_1438074839670.png)
+Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+![](http://xpecto.github.io/docs/img/img_1438074679880.png)
 
 Der Unterkarteireiter Rollen beinhaltet die Beziehungen zwischen Personen. Um eine Rolle anzulegen klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png).
+![](http://xpecto.github.io/docs/img/img_1438074839670.png)
+
+
 
 ![](http://xpecto.github.io/docs/img/img_1438074874903.png)
 
