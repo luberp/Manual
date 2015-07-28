@@ -21,8 +21,7 @@ Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsp
 
 Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten Bank- und Kontoverbindung anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
 
-Der Reiter Adressen beinhaltet die folgende Unterkarteireiter: 
-Allgemein Rollen Kontoverbindungen Legitimationsdaten Kirchensteuer Auslands-Steuer
+Der Reiter Adressen beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
@@ -32,6 +31,7 @@ Allgemein Rollen Kontoverbindungen Legitimationsdaten Kirchensteuer Auslands-Ste
 
 
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png). 
+
 Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden. 
 
 
