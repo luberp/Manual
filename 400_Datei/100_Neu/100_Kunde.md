@@ -26,22 +26,21 @@ Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rol
 Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
 ![](http://xpecto.github.io/docs/img/img_1438074679880.png)
 
-Der Unterkarteireiter Rollen beinhaltet die Beziehungen zwischen Personen. Um eine Rolle anzulegen klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png).
+Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Um eine Rolle anzulegen klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png).
+
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
 
-
-![](http://xpecto.github.io/docs/img/img_1438074874903.png)
-
 ![](http://xpecto.github.io/docs/img/img_1438084400120.png)
+
+In dem Dialog Person oder Anschrift haben Sie die Möglichkeit die Rolle als verknüpfte Person hinzuzufügen oder eine neue Anschrift ohne weitere Funktionen einzufügen. 
+
+xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. 
 
 ![](http://xpecto.github.io/docs/img/img_1438074994809.png)
 
 
-xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. Um eine neuen Adresse anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419001576458.png). 
-
-Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden. 
-
+Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden oder kann eine neue Adresse vorschlagen. 
 
 Unter dem Reiter *Eigenschaften* können weitere Daten, Bemerkungen und vordefinierte Eigenschaften zum  Kunde erfasst werden.
 
