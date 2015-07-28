@@ -4,7 +4,7 @@ Die Suche nach Kunden, Verträge, Vertriebspartner oder andere Daten zu suchen k
 Nachdem Sie die gesuchten Daten eingegeben haben, starten Sie die Suche durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1430301774652.png). 
 Die Suche wird gelöscht durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429098613885.png). Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1430302905891.png) dient dazu um verschiedene Suchoptionen, wie gesucht  werden soll einzustellen. Z.B. nur ganze Begriffe, nur Begriffe am Wortamfang, Vorschlagsliste.
 
-Über die Symbol- und Funktionsleiste haben Sie die Möglichkeit den Suchdialog zu öffnen.
+Über die Symbol- und Funktionsleiste haben Sie die Möglichkeit den Suchdialog zu öffnen. Um den Suchdialog zu starten  wählen Sie dazu die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1429027888314.png).
 
 ![](http://xpecto.github.io/docs/img/img_1437999785393.png)
 
