@@ -42,7 +42,7 @@
 * 5.10. [Duplikate finden](http://help.xpecto.de/Bearbeiten/Duplikate_finden)
 * 5.11. [Belege verwalten](http://help.xpecto.de/Bearbeiten/Belege_verwalten)
 *  5.12. [Stapelbuchungen](http://help.xpecto.de/Bearbeiten/Stapelbuchungen)
-* 5.13. [Beteiligungs-/Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Vertragsbuchungen)
+* 5.13. [Beteiligungs-/Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Beteiligungs-Vertragsbuchungen)
 * 5.14. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
 * 5.15. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenliste)
 * 5.16.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuereung)
