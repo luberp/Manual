@@ -14,7 +14,7 @@ Der Tacer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer kann gestar
 |   ![](http://xpecto.github.io/docs/img/img_1430151530617.png)  (neuer Queryanalyser)  |Durch einen Klick auf dieses Symbol können Sie selbst SQL Abfragen erstellen| 
 |   ![](http://xpecto.github.io/docs/img/img_1430151617532.png)  (neues Tracewindow)  |Zeigt die Systemmeldungen| 
 |   ![](http://xpecto.github.io/docs/img/img_1430151808182.png) (Console)  | Visual Basic Code testen | 
-| ![](http://xpecto.github.io/docs/img/img_1430151736894.png)  (Queryanalyser schließen)   | Durch einen Klick auf dieses Symbol können Sie der aktive Queryanalyser schließen.| 
+| ![](http://xpecto.github.io/docs/img/img_1430151736894.png)  (Queryanalyser schließen)   | Durch einen Klick auf dieses Symbol können Sie den aktive Queryanalyser schließen.| 
 
 Um den Tracer zu Beenden klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1438073429514.png).
 
