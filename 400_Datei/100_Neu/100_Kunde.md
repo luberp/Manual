@@ -51,7 +51,7 @@ Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img
 Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
 Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1438089018212.png).
 
-Um eine Rolle zu löschen wählen Sie die ![](http://xpecto.github.io/docs/img/img_1438330503651.png).
+Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
 
 Unter dem Unterkarteireiter *Kontoverbindungen*  haben Sie die Möglichkeit für einen Kunde mehrere Kontoverbindungen anzulegen.
 
