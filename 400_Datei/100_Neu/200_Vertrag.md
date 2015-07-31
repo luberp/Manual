@@ -28,7 +28,6 @@ OPOS
 Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 In dem Bereich *Ziel-Verträge / Rechtsnachfolger* können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Dialog *Kunden auswählen*. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.
 
-![](http://xpecto.github.io/docs/img/img_1418992717795.png) 
 
 Die Reiter *Vorgänger* und *Nachfolger* dienen dazu um zu zeigen ob einen Vertrag Vorgänger oder Rechtsnachfolger hat.
  
