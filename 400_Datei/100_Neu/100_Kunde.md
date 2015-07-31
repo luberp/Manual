@@ -23,29 +23,32 @@ Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank-
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können . Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
 ![](http://xpecto.github.io/docs/img/img_1438074679880.png)
 
 Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen. 
 Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). 
 
 In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
+
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Dialog:
+Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Maske:
 ![](http://xpecto.github.io/docs/img/img_1438084400120.png)
 
 Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es eröffnet sich hier das Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
 
-In dem Dialog Person oder Anschrift haben Sie die Möglichkeit die Rolle als verknüpfte Person hinzuzufügen oder eine neue Anschrift ohne weitere Funktionen einzufügen. 
-Durch Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438088937270.png) können Sie der Anschrift ändern und durch Klick auf ![](http://xpecto.github.io/docs/img/img_1438089018212.png) sichern.
+In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als  eine neue Anschrift ohne weitere Funktionen einzufügen. 
 
-xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. 
+xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. 
 
 ![](http://xpecto.github.io/docs/img/img_1438074994809.png)
 
 
-Die Adresse kann durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1418999829813.png) auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
+Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
+Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
+Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1438089018212.png).
+
 
 Unter dem Unterkarteireiter *Kontoverbindungen*  haben Sie die Möglichkeit für einen Kunde mehrere Kontoverbindungen anzulegen.
 
@@ -58,3 +61,5 @@ Es gibt die Möglichkeit  Ereignisse auf Kundenebene, Beteiligungsebene, Pflicht
 ![](http://xpecto.github.io/docs/img/img_1438076449296.png)
 
 ![](http://xpecto.github.io/docs/img/img_1438086598675.png)
+
+Durch Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438088937270.png) können Sie der Anschrift ändern und durch Klick auf ![](http://xpecto.github.io/docs/img/img_1438089018212.png) sichern.
