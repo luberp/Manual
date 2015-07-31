@@ -1,5 +1,5 @@
 Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anleger, die bereit sind eine Beteiligung als Gesellschafter einer Kommanditgesellschaft einzugehen, Vermittler oder Interessenten sein. 
-Die Kundenmaske kann über *Datei → Neu → Kunde*, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> neuen Kunden anlegen oder automatisch beim Start von xpectoPro, erreicht werden.  
+Die Kundenmaske kann über *Datei → Neu → Kunde*, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> neuen Kunden anlegen oder automatisch beim Start von xpectoPro in der Standardmaske, erreicht werden.  
 
 ![](http://xpecto.github.io/docs/img/img_1434102809186.png)
 
