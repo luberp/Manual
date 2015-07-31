@@ -8,7 +8,7 @@ Die Eingabemaske enthält folgende Reiter: *Allgemein, Rollen, Kontoverbindungen
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Person sind.
 
+Unter dem Reiter *Legitimationsdaten* können Sie die Dokumente erfassen womit sich der Kunde legitimiert.
 Der Reiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. 
-
 
 Der Reiter *Auslands-Steuer* ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.
