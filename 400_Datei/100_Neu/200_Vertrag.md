@@ -12,14 +12,15 @@ Kunden sind Investoren die Produktbeteiligungen kaufen. Die werden als Verträge
 
 <p>Um einen Vertrag anzulegen markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neuen Vertrag anzulegen über <em>Menü → Neu → Vertrag</em>, oder über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1426508800812.png" alt="" title="">.</p>
 
+<p>Es erscheint die Eingabeaufforderung <em>neuen Vertrag erstellen</em>, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.</p>
+
 <p><img src="http://xpecto.github.io/docs/img/img_1438334207283.png" alt="" title=""></p>
+
+<p>Der neue Vertrag wird nachdem Speichern unter Beteiligung angezeigt.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438334261565.png" alt="" title=""></p>
 
-<p>Es erscheint die Eingabeaufforderung <em>neuen Vertrag erstellen</em>, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest.  <br>
-Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.</p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1431357259339.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1438334600212.png" alt="" title=""></p>
 
 <p>Der Karteireiter <em>Allgemein</em> teil sich in folgende Feldgruppen: <em>Allgemein</em>, <em>Daten</em>, <em>Auswertung</em>, <em>Status, Provision</em>, <em>Konten, Rateneinzug</em>,  <em>Beteiligung</em>.  <br>
 Geben Sie die Daten zum Vertrag wie z.B. Vertragssumme, Laufzeit, Zahlungsintervall usw. ein. </p>
