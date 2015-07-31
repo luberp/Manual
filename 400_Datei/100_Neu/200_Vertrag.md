@@ -13,9 +13,9 @@ Der neue Vertrag wird nachdem Speichern unter Beteiligung angezeigt.
 ![](http://xpecto.github.io/docs/img/img_1438334870235.png)
 
 Der Karteireiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
-Geben Sie die Daten zum Vertrag wie z.B. Vertragssumme, Laufzeit, Zahlungsintervall usw. ein. 
+Geben Sie die Daten zum Vertrag wie Trasche, Laufzeit, Zahlungsintervall usw. ein. 
 
-Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Verkäuferliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt (Siehe Vermittler Provisionen).
+Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Vermittleliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt (siehe *Vermittler → Provisionen*).
 
 Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche  für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichen Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
 
