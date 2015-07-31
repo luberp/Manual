@@ -51,3 +51,5 @@ Beispiel: Bericht Kontoauszug.
 
 In dem Reiter *Belege* können z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 *Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.*  
+
+Drittrechte
