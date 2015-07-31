@@ -53,7 +53,7 @@ Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://x
 
 Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
 
-Unter dem Unterkarteireiter *Kontoverbindungen*  haben Sie die Möglichkeit für einen Kunde mehrere Kontoverbindungen anzulegen.
+Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Unterkarteireiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
 
 Unter dem Reiter *Eigenschaften* können weitere Daten, Bemerkungen und vordefinierte Eigenschaften zum  Kunde erfasst werden.
 
