@@ -55,6 +55,7 @@ Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.
 
 Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Unterkarteireiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
 
+
 Unter dem Reiter *Eigenschaften* können weitere Daten, Bemerkungen und vordefinierte Eigenschaften zum  Kunde erfasst werden.
 
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). Sobald dem Kunden ein Vertrag zugeordnet wird, können Ereignisse auch auf Beteiligungsebene angelegt werden.
