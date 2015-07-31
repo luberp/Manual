@@ -43,7 +43,7 @@ Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf
 <p>Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Dialog: <br>
 <img src="http://xpecto.github.io/docs/img/img_1438084400120.png" alt="" title=""></p>
 
-<p>Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title=""> </p>
+<p>Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title="">, es eröffnet sich hier das Suchdialog (siehe <em>Einführung Oberfläche → Suche</em>). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1438327864939.png" alt="" title=""> eine neue Person anzulegen.</p>
 
 <p>In dem Dialog Person oder Anschrift haben Sie die Möglichkeit die Rolle als verknüpfte Person hinzuzufügen oder eine neue Anschrift ohne weitere Funktionen einzufügen.  <br>
 Durch Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438088937270.png" alt="" title=""> können Sie der Anschrift ändern und durch Klick auf <img src="http://xpecto.github.io/docs/img/img_1438089018212.png" alt="" title=""> sichern.</p>
