@@ -4,7 +4,7 @@ Der Baum Personen beinhaltet alle Kunden, Vermittler und Personen die im System 
 
 ![](http://xpecto.github.io/docs/img/img_1438341819567.png)
 
-Die Eingabemaske enthält folgende Reiter: *Allgemein, Kirchensteuer, Auslands-Steuer*.
+Die Eingabemaske enthält folgende Reiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer*.
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten die eigentliche Stammdaten des ausgewählten Person sind.
 
