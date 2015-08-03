@@ -5,8 +5,8 @@ Sie finden die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durc
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
 
 
-Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen auf dem Karteireiter *Allgemein* können vom Anwender vorgenommen werden. Hier werden allgemeine Daten zum Produkt erfasst. 
-Außerdem kann auf dem Karteireiter *Allgemein* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. 
+Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen  Hier werden allgemeine Daten zum Produkt erfasst. 
+ 
 Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
 Auf dem Karteireiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
@@ -15,14 +15,13 @@ Der Karteireiter *Auswertung* stellt eine grafische und tabellarische des ausgew
 
 ![](http://xpecto.github.io/docs/img/img_1432642241442.png)
 
-Wenn Sie in den Beteiligungsübersicht auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
-Wenn Sie in den Anzahl Verträge auf das Symbol klicken dann ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jedes Status angezeigt.
-
+Wenn Sie in den *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
+Wenn Sie in den *Anzahl Verträge* auf das Symbol klicken dann ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jedes Status angezeigt.
 
 Karteireiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 
-Unter Karteireiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler, Berechnungen und Default-Provisionierung. Stimmbasis.
-Feldgruppen: Tarifdefinition, Berechnung, Default-Provisionierung, Stimmbasis.
+Unter Karteireiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
+
 Karteireiter *Transchen* dient zum  Verteilung von Beträge in Teilen.
 
 Karteireiter *Kosten*
