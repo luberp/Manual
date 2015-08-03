@@ -24,21 +24,18 @@ Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung 
 
 Der Karteireiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
 
-OPOS 
+*OPOS* 
 
 Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 In dem Bereich *Ziel-Verträge / Rechtsnachfolger* können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Dialog *Kunden auswählen*. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.
 
-
 Die Reiter *Vorgänger* und *Nachfolger* dienen dazu um zu zeigen ob einen Vertrag Vorgänger oder Rechtsnachfolger hat.
  
-Nachdem der Übertrag durchgeführt würde, wird ein neun Vertrag angelegt. Der Vertrag-Status ändert sich danach automatisch auf übertragen.
+Nachdem der Übertrag durchgeführt würde, wird ein neuer Vertrag angelegt. Der Vertrag-Status ändert sich danach automatisch auf übertragen.
 
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
 
-
 Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten. Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen siehe *Bearbeiten → Beteiligungs-/Vertragsbuchungen.*
-
 
 Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe *Berechnungen → Zahlungsverkehr*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
 Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
