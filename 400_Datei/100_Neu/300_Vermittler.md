@@ -11,6 +11,8 @@
 
 <p>Unter dem Reiter <em>Allgemein</em> steht eine Übersicht von der Meldedaten, Provisionsdaten und  login für den Vertriebspartner-Portal.</p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1438595956872.png" alt="" title=""></p>
+
 <p>Unter dem Reiter <em>Adressen</em> können Sie die Adressen anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche [Bild]. Unter dem Reiter Eigenschaften können vordefinierte Eigenschaften erfasst werden.</p>
 
 <p>Reiter <em>Eigenschaften</em></p>
@@ -36,9 +38,13 @@ Definition des Vermittler-Strukturbaums: bei den Vermittlern muss untere Struktu
 
 <p>Reiter <em>Belege</em></p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1438594583641.png" alt="" title=""></p>
+
 <p>Reiter <em>Umsätze</em> </p>
 
-<p>Reiter <em>Auswertungen</em></p>
+<p>Reiter <em>Auswertungen</em> <br>
+Links: xpectoWebPortal, lokalisieren mit Maps Google.com <br>
+Google Maps: Kunden anzeigen, Struktur anzeigen</p>
 
 <p>Bei den in xpectoPro verwaltete Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden.  <br>
 In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers. <br>
@@ -58,14 +64,12 @@ Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine 
 
 <p>Die Eingabefelder <em>Benutzer</em> und <em>Passwort</em> dienen der Anmeldung des Vermittlers am xpecto Webportal. Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe Kapitel “Tabellen synchronisieren”) automatisch frei geschalten.</p>
 
-<p>Reiter <em>Auswertungen</em>: Links, Google Maps <br>
-Auf den Reiter <em>Eigenschaften</em> werden zusätzliche Infos wie Adressherkunft oder Bemerkungen zum Vermittler festgehalten.</p>
+<p>Reiter <em>Auswertungen</em>: Links, Google Maps</p>
+
+<p>Auf den Reiter <em>Eigenschaften</em> werden zusätzliche Infos wie Adressherkunft oder Bemerkungen zum Vermittler festgehalten.</p>
 
 <p>In der Vermittler-Ansicht auf dem Karteireiter <em>Buchungen</em> werden Vermittler-Buchungen zu dem aktuell ausgewählten Vermittler verwaltet. <br>
 Vermittler-Buchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum und einen Betrag definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung.</p>
 
-<p>Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf <img src="http://xpecto.github.io/docs/img/img046.png" alt="" title=""> , wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.</p>
-
-<p>Wichtige Eckdaten für die Vertriebsverwaltung sind Ihre Vermittler. Sie erreichen die Maske durch einen Klick auf den Karteireiter <em>Vermittler</em>. <br>
-Reiter <em>Allgemein Adressen Eigenschaften Provisionssätze Struktur Buchung Ereignisse Belege Umsätze Auswertungen</em></p></div></body>
+<p>Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf <img src="http://xpecto.github.io/docs/img/img046.png" alt="" title=""> , wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.</p></div></body>
 </html>
