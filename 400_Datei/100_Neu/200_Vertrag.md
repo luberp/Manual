@@ -13,16 +13,16 @@ Der neue Vertrag wird nachdem Speichern unter Beteiligung angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1438334870235.png)
 
-Der Karteireiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
+Der Reiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
 Geben Sie die Daten zum Vertrag wie Trasche, Laufzeit, Zahlungsintervall usw. ein. 
 
 Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt (siehe *Vermittler → Provisionen*).
 
 Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche  für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichen Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
 
-Über den Karteireiter: *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
+Über den Reiter: *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-Der Karteireiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
+Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
 
 *OPOS* 
 
@@ -30,7 +30,6 @@ Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten a
 In dem Bereich *Ziel-Verträge / Rechtsnachfolger* können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Dialog *Kunden auswählen*. Hier können Sie einen bestimmten Kunde aussuchen und durch Doppel-Klick auswählen.
 
 Die Reiter *Vorgänger* und *Nachfolger* dienen dazu um zu zeigen ob einen Vertrag Vorgänger oder Rechtsnachfolger hat.
- 
 Nachdem der Übertrag durchgeführt würde, wird ein neuer Vertrag angelegt. Der Vertrag-Status ändert sich danach automatisch auf übertragen.
 
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
@@ -42,11 +41,11 @@ Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt we
 
 ![](http://xpecto.github.io/docs/img/img_1438587897527.png)
 
-Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
+Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
 
 ![](http://xpecto.github.io/docs/img/img_1438588004842.png)
 
-Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+Auf dem Reiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag sowie die zugehörige Dokumente festgehalten. Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 Beispiel: Bericht Kontoauszug.
 
 ![](http://xpecto.github.io/docs/img/img_1438588077244.png)
