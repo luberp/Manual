@@ -4,7 +4,8 @@ Kunden sind Investoren die Produktbeteiligungen kaufen. Die werden als Verträge
 
 Um einen Vertrag anzulegen markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neuen Vertrag anzulegen über *Menü → Neu → Vertrag*, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426508800812.png).
 
-Es erscheint die Eingabeaufforderung *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
+Es erscheint die Eingabeaufforderung *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und einen Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. 
+Es wird einen Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
 ![](http://xpecto.github.io/docs/img/img_1438334207283.png)
 
@@ -15,7 +16,7 @@ Der neue Vertrag wird nachdem Speichern unter Beteiligung angezeigt.
 Der Karteireiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
 Geben Sie die Daten zum Vertrag wie Trasche, Laufzeit, Zahlungsintervall usw. ein. 
 
-Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Vermittleliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt (siehe *Vermittler → Provisionen*).
+Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt (siehe *Vermittler → Provisionen*).
 
 Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche  für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichen Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
 
@@ -36,11 +37,10 @@ Nachdem der Übertrag durchgeführt würde, wird ein neun Vertrag angelegt. Der 
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
 
 
-*Buchungsdaten*
-Diese Tabelle zeigt eine Übersicht der Buchungsdaten. Die Feldgruppen sind in GoBS-Modus. Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme (GoBS). Um eine neue Buchung anzulegen siehe *Bearbeiten → Vertragsbuchungen.*
+Der Reiter Buchungsdaten zeigt eine Übersicht der Buchungsdaten. Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen siehe *Bearbeiten → Beteiligungs-/Vertragsbuchungen.*
 
 
-Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende moantliche Rate wird hier automatisch (siehe *Berechnungen → Sollstellung*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
+Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe *Berechnungen → Zahlungsverkehr*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
 Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
 
 Der Karteireiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
