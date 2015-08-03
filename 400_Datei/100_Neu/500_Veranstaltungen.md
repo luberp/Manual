@@ -2,7 +2,7 @@ Mit xpectoPro können Sie Veranstaltungen wie z.B.  Gesellschafterversammlungen,
 Über Veranstaltungen haben Sie die Möglichkeit die vollständige Abwicklung der Gesellschafterversammlungen. Hierbei können Vollmachten ebenso wie die Anwesenheit und Bevollmächtigung, 
 Abstimmungen zu einzelnen Tagesordnungspunkten verwaltet werden. Die Abstimmunsergebnisse können per Barcode eingelesen und archiviert werden. Jeder Stimmzettel hat seinen vordefinierten Platz und kann automatisch über den Scanmanager abgelegt werden.
 
-Als Stimmbasis gelten Ja, Nein, Enthalten, Ungültig, ohne Weisung.
+Als Stimmbasis gelten: Ja, Nein, Enthalten, Ungültig, ohne Weisung.
 
 
 ![](http://xpecto.github.io/docs/img/img_1430841673284.png)
