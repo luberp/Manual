@@ -36,8 +36,6 @@ Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.
 Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Reiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
 
 Unter dem Reiter *Legitimationsdaten* können Sie die Dokumente erfassen womit sich der Kunde legitimiert.
-Der Reiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. 
-Der Unterkarteireiter *Auslands-Steuer* ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.
 
 Der Reiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. 
 
