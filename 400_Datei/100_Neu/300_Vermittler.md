@@ -4,9 +4,9 @@ Ein Vermittler kann ein Verkäufer, Mitarbeiter oder Betreuer sein. Um einen neu
  
 ![](http://xpecto.github.io/docs/img/img_1438595956872.png)
 
-Unter dem Reiter *Adressen* können Sie die Adressen anlegen. xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen anzulegen z.B. Meldeadresse, Post, Lieferadresse usw. durch betätigen von der Schaltfläche [Bild]. Unter dem Reiter Eigenschaften können vordefinierte Eigenschaften erfasst werden.
+Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.
 
-Reiter *Eigenschaften*
+Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Vermittler erfasst werden
 
 Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und optional einen Tarif. 
 
