@@ -13,7 +13,7 @@ Der Reiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hi
 Um eine Rolle anzulegen klicken Sie in dem Reiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). 
 
 In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
-                                                   
+                                                                                                                                       
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
 Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Maske:
