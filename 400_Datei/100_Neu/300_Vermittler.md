@@ -62,7 +62,6 @@ Definition des Vermittler-Strukturbaums: bei den Vermittlern muss untere Struktu
 
 ![](http://xpecto.github.io/docs/img/img_1438602553303.png)
 
-
 In der Vermittler-Ansicht auf dem Reiter *Buchungen* werden Vermittler-Buchungen zu dem aktuell ausgewählten Vermittler verwaltet.
 Vermittler-Buchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum und einen Betrag definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung.
 Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf ![](http://xpecto.github.io/docs/img/img046.png) , wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
@@ -80,7 +79,9 @@ Reiter *Belege*
 
 Reiter *Umsätze* 
 
-Reiter *Auswertungen* 
+Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
+Unter dem Unterkarteireiter *Links* haben Sie Zugang zu Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
+Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die Kunden und die Struktur des Vermittlers auf der Karte zu sehen.
 Links: xpectoWebPortal, lokalisieren mit Maps Google.com
 Google Maps: Kunden anzeigen, Struktur anzeigen
 
