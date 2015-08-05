@@ -4,7 +4,7 @@ Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, die eigen
 
 Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* dienen der Anmeldung des Vermittlers am xpecto Webportal. 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein.  Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
-Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe Kapitel "Tabellen synchronisieren") automatisch frei geschalten.
+Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch frei geschalten.
 
 In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten).
 
