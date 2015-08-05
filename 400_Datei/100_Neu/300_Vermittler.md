@@ -67,8 +67,7 @@ Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgew�
 
 ![](http://xpecto.github.io/docs/img/img_1438594393957.png)
 
-
-Reiter *Belege*
+In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden
 
 ![](http://xpecto.github.io/docs/img/img_1438594583641.png)
 
