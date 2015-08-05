@@ -23,7 +23,7 @@ Die Eingabefelder <em>Benutzer</em> und <em>Passwort</em> dienen der Anmeldung d
 
 <p>Der Unterkarteireiter <em>Allgemein</em> beinhaltet die Stammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter <em>Allgemein</em> zu sehen sind.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438074679880.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1438761904085.png" alt="" title=""></p>
 
 <p>Der Unterkarteireiter <em>Rollen</em> beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen.  <br>
 Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf die Schaltfläche:  <img src="http://xpecto.github.io/docs/img/img046.png" alt="" title="">. </p>
