@@ -18,6 +18,7 @@ Reiter Salden
 
 Bearbeiten → Beteiligungs-/Vertragsbuchungen
 
+Suchen / Ändern
 ![](http://xpecto.github.io/docs/img/img_1438780690613.png)
-
+Stapel-Erfassung
 ![](http://xpecto.github.io/docs/img/img_1438782147484.png)
