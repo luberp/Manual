@@ -82,8 +82,7 @@ Reiter *Umsätze*
 Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
 Unter dem Unterkarteireiter *Links* haben Sie Zugang zu Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
 Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die Kunden und die Struktur des Vermittlers auf der Karte zu sehen.
-Links: xpectoWebPortal, lokalisieren mit Maps Google.com
-Google Maps: Kunden anzeigen, Struktur anzeigen
+
 
 **Provisionierung** 
 Bei den in xpectoPro verwaltete Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
