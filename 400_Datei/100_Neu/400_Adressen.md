@@ -16,7 +16,7 @@ In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine
                                                                                                                                        
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Maske:
+Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich der folgende Maske:
 
 ![](http://xpecto.github.io/docs/img/img_1438775743467.png)
 
