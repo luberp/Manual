@@ -1,8 +1,12 @@
 Ein Vermittler kann ein Verkäufer, Mitarbeiter oder Betreuer sein. Um einen neune Vermittler anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431437056167.png) oder das Menü *Datei → Neu → Vermittler*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.  Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben bestätigen Sie mit *OK*. 
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. 
+
+Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* dienen der Anmeldung des Vermittlers am xpecto Webportal. 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein.  Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
-Die Eingabefelder *Benutzer* und *Passwort* dienen der Anmeldung des Vermittlers am xpecto Webportal. Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe Kapitel "Tabellen synchronisieren") automatisch frei geschalten.
+Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe Kapitel "Tabellen synchronisieren") automatisch frei geschalten.
+
+In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten).
 
 ![](http://xpecto.github.io/docs/img/img_1438761789522.png)
 
@@ -34,7 +38,6 @@ In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Roll
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. 
 
 ![](http://xpecto.github.io/docs/img/img_1438074994809.png)
-
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
 Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
@@ -78,7 +81,6 @@ Der Reiter *Umsätze* zeigt die Summe aller Einnahmen die durch abschließen ein
 Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
 Unter dem Unterkarteireiter *Links* haben Sie Zugang zu Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
 Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die Kunden und die Struktur des Vermittlers auf der Karte zu sehen.
-
 
 **Provisionierung** 
 
