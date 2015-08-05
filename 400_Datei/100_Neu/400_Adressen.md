@@ -28,7 +28,6 @@ xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzule
 
 ![](http://xpecto.github.io/docs/img/img_1438775670724.png)
 
-
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
 Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
 Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1438089018212.png).
