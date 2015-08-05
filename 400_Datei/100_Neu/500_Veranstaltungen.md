@@ -60,3 +60,6 @@ Unter dem Karteireiter: *Bevollmächtigte* können die bevollmächtigte Personen
 ![](http://xpecto.github.io/docs/img/img_1430842006511.png)
 
 Bei Einsatz des Vertriebspartner-Portals können sich Vertriebspartner direkt online zu einer Veranstaltung anmelden.
+
+
+----------
