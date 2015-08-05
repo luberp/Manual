@@ -82,7 +82,7 @@ Reiter *Belege*
 
 Reiter *Umsätze* 
 
-Reiter *Auswertungen*
+Reiter *Auswertungen* 
 Links: xpectoWebPortal, lokalisieren mit Maps Google.com
 Google Maps: Kunden anzeigen, Struktur anzeigen
 
@@ -96,24 +96,12 @@ Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und di
 **individuelle Provisionen - die flexible Methode** Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif. Die Provisionsmodelle sind der wichtigste Bestandteile bei der Provisionsabrechnung Diese Provisionsmodelle bestehen aus einem Stück Programmcode (VB.net) und kann daher eine sehr umfangreiche Logik  aufnehmen. 
 Die Provisionssätze legen die Höhe der Provisionen fest. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vermittler getrennt hinterlegt werden. Die Pflege über die Karrierestufen ermöglicht dabei eine einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vermittler oder auch alle Vermittler individuell festlegen möchten, so ist es auch dies möglich. Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
      
- **Karriere-System - die einfache Methode (Default)** Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über der die Firmen, Produkte und Gesellschaften verwaltet werden.  In dem Ansicht *Produkte* auf dem Reiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
-
-
-
+ **Karriere-System - die einfache Methode (Default)** Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über der die Firmen, Produkte und Gesellschaften verwaltet werden.  
+ 
 ![](http://xpecto.github.io/docs/img/img_1438603327829.png)
 
+In dem Ansicht *Produkte* auf dem Reiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
+
 ![](http://xpecto.github.io/docs/img/img_1438596753690.png)
-
-![](http://xpecto.github.io/docs/img/img_1426067509382.png)
-
-
-
-
-
-Reiter *Auswertungen*: Links, Google Maps
-
-Auf den Reiter *Eigenschaften* werden zusätzliche Infos wie Adressherkunft oder Bemerkungen zum Vermittler festgehalten.
-
-
 
 
