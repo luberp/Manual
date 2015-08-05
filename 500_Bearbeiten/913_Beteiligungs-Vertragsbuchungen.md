@@ -17,6 +17,7 @@ Reiter Salden
 
 
 Bearbeiten → Beteiligungs-/Vertragsbuchungen
+
 ![](http://xpecto.github.io/docs/img/img_1438780690613.png)
 
 
