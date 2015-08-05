@@ -1,8 +1,7 @@
 Adressen können Kunden, Vermittler oder Interessenten sein.  Der Baum Personen beinhaltet alle Kunden, Vermittler und Personen die im System hinterlegt sind.
 Deswegen haben Sie die Möglichkeit über die Schaltfläche bei Kunden und Vermittler ![](http://xpecto.github.io/docs/img/img_1438766827501.png), direkt zu  Personen Eingabemaske zu gelangen.
 
-Um eine neue Adresse anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431524686794.png), oder Menü *Datei → Neu → Adressen*  
-
+Um eine neue Adresse anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431524686794.png), oder Menü *Datei → Neu → Adressen*.
 Die Eingabemaske enthält folgende Reiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer*.
 
 ![](http://xpecto.github.io/docs/img/img_1438773575377.png)
