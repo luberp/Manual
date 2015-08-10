@@ -34,12 +34,11 @@ Der Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet folgende Reiter: *Rückmeldu
 
 ![](http://xpecto.github.io/docs/img/img_1432887691419.png)
 
-Scandialog dient dazu um die Stimmzettel abzulegen.	
+Der Ansicht *Scandialog* dient dazu um die Stimmzettel abzulegen.	
 
 ![](http://xpecto.github.io/docs/img/img_1432887789278.png)
-
 										 									 
-Unter dem Karteireiter *Teilnehmer* können die Teilnehmer angelegt  und individuell verwaltet werden.
+Unter dem Reiter *Teilnehmer* können die Teilnehmer angelegt  und individuell verwaltet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1430841952667.png)
 
@@ -54,7 +53,7 @@ Um ein neuer Bevollmächtigter auszuwählen  wird  hier der Dialog *Person ausw�
 
 Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz angelegt werden.
 
-Unter dem Karteireiter: *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
+Unter dem Reiter: *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1430842006511.png)
 
