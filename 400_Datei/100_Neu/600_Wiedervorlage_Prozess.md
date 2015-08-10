@@ -20,8 +20,6 @@ Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet 
 
 Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Detail der Wiedervorlage werden angezeigt in der Wiedervorlage Seitenleiste. 
 
-
-
 Sie haben hier mehrere  Optionen für den Mahnprozess. 
 
 |  Schaltfläche            |    Beschreibung  |   
