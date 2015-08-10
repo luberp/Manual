@@ -5,7 +5,6 @@ Als Stimmbasis gelten: *Ja, Nein, Enthalten, Ungültig, ohne Weisung*.
 
 ![](http://xpecto.github.io/docs/img/img_1430841673284.png)
 
-
 Nehmen wir an Sie wollen eine neue Gesellschafsversammlung anlegen. 
 Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie in der Symbol-und Funktionsleiste auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1429027370695.png). 
 
@@ -28,10 +27,10 @@ Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfl
 ![](http://xpecto.github.io/docs/img/img_1432885282511.png)
 
 Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen.
-Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe Stimmabgabe, eröffnet sich der Dialog *Teilnehmer Veranstaltungen*. 
+Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe Stimmabgabe, eröffnet sich die Maske *Teilnehmer Veranstaltungen*. 
 
-Dialog-*Teilnehmer  Veranstaltungen*
-Ansicht: *Veranstaltungs-Teilnehmer* → Karteireiter: Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import.
+Maske *Teilnehmer  Veranstaltungen*
+Der Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet folgende Reiter: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
 
 ![](http://xpecto.github.io/docs/img/img_1432887691419.png)
 
