@@ -42,6 +42,7 @@ Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teiln
 
 ![](http://xpecto.github.io/docs/img/img_1439205986640.png)
 
+Um einen neuen Teilnehmer einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png), dann wählen Sie unter Kunde, Vermittler, Interessent oder Person und Speichern Sie dann die einzufügende Person.
  In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler, Interessent oder Person.
 In der Feldgruppe *Meldedaten* kann der Status, Einstellungen zu den Bevollmächtigter und die Anzahl der Teilnehmer festgelegt werden. 
 
@@ -53,6 +54,6 @@ Um ein neuer Bevollmächtigter auszuwählen  wird  hier der Dialog *Person ausw�
 
 Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz angelegt werden.
 
-Unter dem Reiter: *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
+Unter dem Reiter *Bevollmächtigte* können die bevollmächtigte Personen zu angelegt und individuell verwaltet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1430842006511.png).
