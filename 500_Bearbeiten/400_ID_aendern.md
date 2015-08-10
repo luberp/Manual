@@ -1,4 +1,4 @@
-Über diesen Menüpunkt kann die Vermittler -, Kunden- oder Vertrags-ID geändert werden.  
+Über diesen Menüpunkt kann die Vermittler-, Kunden- oder Vertrags-ID geändert werden.  
 Um eine ID zu ändern wählen Sie das *Menü → ID ändern*. Sie werden aufgefordert eine Nummer einzugeben. 
 
 ![](http://xpecto.github.io/docs/img/img_1421233957681.png)
