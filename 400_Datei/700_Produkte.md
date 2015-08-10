@@ -4,7 +4,6 @@ Sie finden die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durc
 
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
 
-
 Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen  Hier werden allgemeine Daten zum Produkt erfasst. 
  
 Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
@@ -24,7 +23,9 @@ Unter Karteireiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler
 
 Karteireiter *Transchen* dient zum  Verteilung von Beträge in Teilen.
 
-Karteireiter *Kosten*
+Karteireiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
+
+Neben den Investmentrichtlinien sind im Fondsprospekt auch die Kosten bzw. Gebühren, die ein Fonds verlangen darf definiert. Zu den wichtigsten Kosten gehören: das Agio (Aufgeld, Ausgabeaufschlag). Dies ist jener Prozentsatz, den der Investor bezahlt, um in den Fonds einzusteigen.
 
 Karteireiter *Buchungsdaten*
 
