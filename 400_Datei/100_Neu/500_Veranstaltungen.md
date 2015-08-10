@@ -45,7 +45,7 @@ Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teiln
  In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler, Interessent oder Person.
 In der Feldgruppe *Meldedaten* kann der Status, Einstellungen zu den Bevollmächtigter und die Anzahl der Teilnehmer festgelegt werden. 
 
-Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439206980898.png). Speichern Sie Ihre neuen Teilnehmer mit ![](http://xpecto.github.io/docs/img/img_1439207060262.png) betätigen oder durch die Tastenkombination Str + S.
+Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439206980898.png). Speichern Sie Ihre neuen Teilnehmer mit ![](http://xpecto.github.io/docs/img/img_1439207060262.png) betätigen oder durch die Tastenkombination *Strg + S.*
 
 Um ein neuer Bevollmächtigter auszuwählen  wird  hier der Dialog *Person auswählen* aufgemacht. 
 
