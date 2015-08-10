@@ -38,14 +38,14 @@ Der Ansicht *Scandialog* dient dazu um die Stimmzettel abzulegen.
 
 ![](http://xpecto.github.io/docs/img/img_1432887789278.png)
 										 									 
-Unter dem Reiter *Teilnehmer* können die Teilnehmer angelegt  und individuell verwaltet werden.
+Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teilnehmer, neue Teilnehmer angelegt und individuell verwaltet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1439205986640.png)
 
  In der Feldgruppe *Zuweisung* werden die Teilnehmer gesucht unter Kunde, Vermittler, Interessent oder Person.
 In der Feldgruppe *Meldedaten* kann der Status, Einstellungen zu den Bevollmächtigter und die Anzahl der Teilnehmer festgelegt werden. 
 
-Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).
+Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png). 
 
 Um ein neuer Bevollmächtigter auszuwählen  wird  hier der Dialog *Person auswählen* aufgemacht. 
 
