@@ -20,7 +20,7 @@ Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet 
 
 Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Detail der Wiedervorlage werden angezeigt in der Wiedervorlage Seitenleiste. 
 
-![](http://xpecto.github.io/docs/img/img_1434095789852.png)
+
 
 Sie haben hier mehrere  Optionen für den Mahnprozess. 
 |  Schaltfläche            |    Beschreibung     |  
@@ -41,6 +41,4 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen drücken Sie auf die Schaltfl
 
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
-![](http://xpecto.github.io/docs/img/img_1434096802280.png) druckt der vorgegebener Bericht.
-
-![](http://xpecto.github.io/docs/img/img_1434096840070.png) beendet die Wiedervorlage.
+Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
