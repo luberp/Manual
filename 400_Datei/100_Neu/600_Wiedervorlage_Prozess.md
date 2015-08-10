@@ -23,6 +23,7 @@ Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der ents
 
 
 Sie haben hier mehrere  Optionen für den Mahnprozess. 
+
 |  Schaltfläche            |    Beschreibung  |   
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1434096550097.png)      | Öffnet die Bearbeitung für diesen Prozessschritt| 
