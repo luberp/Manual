@@ -14,7 +14,7 @@ Bedingungszeilen sind in Blöcken zusammengefasst. Am oberen Rand eines Blocks w
 
 Über die Schaltfläche “*Feld hinzufügen*” wird einem Block eine Bedingung hinzugefügt. Über die Schaltfläche “*Block hinzufügen*” wird einem Block ein Unterblock hinzugefügt. Auf diese Weise kann für einen Teil der Bedingungen ein anderer Gruppierungstyp verwendet werden.
 
-Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419329462773.png) löscht eine Bedingungszeile oder .
+Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419329462773.png) löscht eine Bedingungszeile oder einen Block.
 
 Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepasst werden. Ein Klick auf den Feldnamen öffnet ein Kontextmenü zur Auswahl des gewünschten Feldnamens. Per Klick auf den Bedingungstyp kann der Typ ausgewählt werden. Folgende Bedingungstypen stehen zur  Verfügung:
 
@@ -33,6 +33,7 @@ Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepas
 Schließlich werden in den Eingabefeldern die Vergleichswerte der jeweiligen Bedingung eingetragen.
 
  Beispiel: Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 bis 31.12.2014 Verträge des Produkts “TRI1, Top Return Invest I” abgeschlossen hat.
+ 
 
 Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile folgendermaßen an: Klicken Sie auf den Feldnamen Vertrags-Nr und wählen im darauf folgenden Kontextmenü das Feld Vertriebspartner Betreuer-Nr. Tragen Sie in das Eingabefeld die Vermittlernummer ein.
 
@@ -40,7 +41,7 @@ Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile fol
 
 Legen Sie über “*Feld hinzufügen*” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder Produkte Produktname und Vertragsdaten  Abschlussdatum und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.
 
-Klicken sie nun auf Weiter. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch anhaken ausgewählt werden.
+Klicken sie nun auf *Weiter*. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch anhaken ausgewählt werden.
 
 
 ![](http://xpecto.github.io/docs/img/img_1431933240955.png)
