@@ -25,8 +25,6 @@ Karteireiter *Transchen* dient zum  Verteilung von Beträge in Teilen.
 
 Karteireiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
-Neben den Investmentrichtlinien sind im Fondsprospekt auch die Kosten bzw. Gebühren, die ein Fonds verlangen darf definiert. Zu den wichtigsten Kosten gehören: das Agio (Aufgeld, Ausgabeaufschlag). Dies ist jener Prozentsatz, den der Investor bezahlt, um in den Fonds einzusteigen.
-
 Karteireiter *Buchungsdaten*
 
 Karteireiter *Belege*
