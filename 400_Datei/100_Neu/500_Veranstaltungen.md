@@ -57,7 +57,7 @@ Der Ansicht: <em>Veranstaltungs-Teilnehmer</em> beinhaltet folgende Reiter: <em>
 <p>Um ein neuer Bevollmächtigter einzufügen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439208928813.png" alt="" title=""> - <em>neuen Datensatz hinzufügen</em>  oder die Tastenkombination <em>Strg + N</em>. <br>
 Tippen Sie in das Eingabefeld Person der Name. Falls der Name nicht angezeigt wird klicken Sie auf die Schaltfläche neben das Eingabefeld <img src="http://xpecto.github.io/docs/img/img_1439210074824.png" alt="" title="">. Hier wird dann der Dialog <em>Adressen</em> aufgemacht. Um Ihre Suche zu erweitern klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439209854957.png" alt="" title="">.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439210367227.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1439210969105.png" alt="" title=""></p>
 
 <p>Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz <img src="http://xpecto.github.io/docs/img/img_1439209764662.png" alt="" title=""> angelegt werden.</p>
 
