@@ -11,7 +11,6 @@ Um einen neuen Kunde anzulegen betätigen die Schaltfläche <img src="http://xpe
 
 Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit *OK*. 
 
-
 Auf der linke Seite oben in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse*.
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. 
