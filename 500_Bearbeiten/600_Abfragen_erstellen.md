@@ -1,7 +1,7 @@
 xpectoPro bietet einen anwenderfreundlichen Abfrageeditor für Datenbankabfragen, der auch weniger geübten Anwendern die Möglichkeit gibt, eigene Datenbankabfragen bzw. Auswertungen zu erstellen.
 Sie erreichen den Abfrageeditor über den Menüpunkt *Bearbeiten → Abfragen erstellen*.
 
-Nach dem öffnen des Abfrageeditors wird der Bedingungs-Assistent mit einem Bedingungsblock angezeigt, der bereits eine Bedingung enthält. Bewegen Sie die Maus über Teile des Bedingungsblocks, um Tipps zu erhalten. Eine Bedingung ist definiert durch einen Feldnamen (links), einen Bedingungstyp (mitte) und einem vom Anwender einzugebende Vergleichswert. 
+Nach dem öffnen des Abfrageeditors wird der Bedingungs-Assistent mit einem Bedingungsblock angezeigt, der bereits eine Bedingung enthält. Eine Bedingung ist definiert durch einen Feldnamen (links), einen Bedingungstyp (mitte) und einem vom Anwender einzugebende Vergleichswert. 
 
 ![](http://xpecto.github.io/docs/img/img_1433862305916.png)
 
@@ -18,13 +18,17 @@ Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1419329462773.png) l�
 
 Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepasst werden. Ein Klick auf den Feldnamen öffnet ein Kontextmenü zur Auswahl des gewünschten Feldnamens. Per Klick auf den Bedingungstyp kann der Typ ausgewählt werden. Folgende Bedingungstypen stehen zur  Verfügung:
 
-
- - entspricht einem der folgenden Werte 
- - endet mit 
- - beginnt mit 
- - ist leer
- - ist nicht leer
-
+|  Bedingungstypen           | 
+| ------------- |
+|   entspricht einem der folgenden Werte     | 
+|    endet mit   | 
+|beginnt mit|
+|ist leer|
+|entspricht keinem der folgenden Werte|
+|enthält nicht|
+|endet nicht mit |
+|beginnt nicht mit|
+|ist nicht leer|
 
 Schließlich werden in den Eingabefeldern die Vergleichswerte der jeweiligen Bedingung eingetragen.
 
