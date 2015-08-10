@@ -21,7 +21,7 @@ Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung 
 
 Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
+Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell  für eine Kategorie, die Verbuchungsvorschriften zu definieren siehe (*Neu → Produkte → Wertarten*). 
 
 *OPOS* 
 
