@@ -20,7 +20,7 @@ Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermi
 
 Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche  für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichen Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
 
-Über den Reiter: *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
+Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
 Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung.
 
@@ -51,6 +51,6 @@ Beispiel: Bericht Kontoauszug.
 ![](http://xpecto.github.io/docs/img/img_1438588077244.png)
 
 In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
-*Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.*  
+Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
 Unter *Drittrechte* stehen die Ansprüche eines Dritten auf dem Vertrag. 
