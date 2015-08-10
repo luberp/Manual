@@ -1,12 +1,11 @@
 Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Diese Wiedervorlagen werden per Hand angelegt und ermöglichen so eine strukturierte Bearbeitung von Aufgaben. 
 
-Die Wiedervorlagen können mehr Funktionen enthalten und werden so zu Prozessen. Der Mitarbeiter enthält z.B. zu Mahnprozesse der Zeichnungsverlauf oder andere Dinge im Auge und das  ohne selbst geführte Listen.
+Die Wiedervorlagen können mehr Funktionen enthalten und werden so zu Prozessen. Der Mitarbeiter enthält z.B. zu Mahnprozesse der Zeichnungsverlauf oder andere Dinge im Auge und das ohne selbst geführte Listen.
 
-Jeder Prozess kann eine Reihe unterschiedlicher Komponenten aufweisen, je nachdem welche Anforderungen im Einzelnen für den Prozess und innerhalb Ihrer Organisation gelten. 
-
-Jeder Prozess hat ein eigener Design der sehr komplex sein kann (siehe *Extras → Anpassen → Prozesse Rechte und Batchjobs*). 
+ Ein Prozess kann unterschiedliche Komponenten je nach Anforderung haben, und ein eigener Design der sehr komplex sein kann (siehe *Extras → Anpassen → Prozesse Rechte und Batchjobs*). 
 
 Nachdem das Prozess angelegt würde, kann jeder Benutzer eigenen Wiedervorlagen erstellen.
+
 Dazu kann  im dem entsprechenden Kunde oder Vertriebspartner unter Menü *Datei → Neu → Wiedervorlage/Prozess* oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png) ausgewählt werden.
 
 Als nächstes müssen Sie die Art des Prozesses auswählen. 
