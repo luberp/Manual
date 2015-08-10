@@ -3,4 +3,4 @@ Um eine ID zu ändern wählen Sie das *Menü → ID ändern*. Sie werden aufgefo
 
 ![](http://xpecto.github.io/docs/img/img_1421233957681.png)
 
-Es wird vom Programm die nächste freie Nummer vorgeschlagen. Ansonsten vergeben Sie eine freie Nummer. Nachdem Sie die gewünschte neue Nummer eingegeben haben, bestätigen Sie mit *OK*. Damit wird die neue ID für den Datensatz gespeichert.
+Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. Nachdem Sie die gewünschte neue Nummer eingegeben haben, bestätigen Sie mit *OK*. Damit wird die neue ID für den Datensatz gespeichert.
