@@ -55,6 +55,4 @@ Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Perso
 
 Unter dem Reiter: *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
 
-![](http://xpecto.github.io/docs/img/img_1430842006511.png)
-
-Bei Einsatz des Vertriebspartner-Portals können sich Vertriebspartner direkt online zu einer Veranstaltung anmelden.
+![](http://xpecto.github.io/docs/img/img_1430842006511.png).
