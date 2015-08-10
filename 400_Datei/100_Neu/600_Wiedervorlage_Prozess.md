@@ -23,6 +23,12 @@ Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der ents
 ![](http://xpecto.github.io/docs/img/img_1434095789852.png)
 
 Sie haben hier mehrere  Optionen für den Mahnprozess. 
+|  Schaltfläche            |    Beschreibung     |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/img/img_1434096550097.png)      | Öffnet die Bearbeitung für diesen Prozessschritt| 
+|  ![](http://xpecto.github.io/docs/img/img_1434097634985.png)     | Massenaktion: Startet die Wiedervorlagesteuerung für diesen Prozesszustand| 
+| ![](http://xpecto.github.io/docs/img/img_1434096802280.png)      | Druckt den vorgegebenen Bericht. | 
+| ![](http://xpecto.github.io/docs/img/img_1434096840070.png)    | beendet die Wiedervolage | 
 
 Wenn Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434096550097.png) drucken dann haben Sie die Möglichkeit  die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
 In die Eingabefelder können Sie den Betreff und Beschreibung eingeben bspw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
