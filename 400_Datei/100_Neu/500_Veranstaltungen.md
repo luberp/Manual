@@ -1,5 +1,5 @@
 Mit xpectoPro können Sie Veranstaltungen wie z.B.  Gesellschafterversammlungen, Vertriebsveranstaltungen oder Onlinemeetings planen, verwalten und auswerten. 
-Über Veranstaltungen haben Sie die Möglichkeit die vollständige Abwicklung der Gesellschafterversammlungen. Hierbei können Vollmachten, Anwesenheit, Bevollmächtigung, Abstimmungen zu einzelnen Tagesordnungspunkten, verwaltet werden. Die Abstimmunsergebnisse können per Barcode eingelesen und archiviert werden. Jeder Stimmzettel hat seinen vordefinierten Platz und kann automatisch über den Scanmanager abgelegt werden.
+Hierbei können Vollmachten, Anwesenheit, Bevollmächtigung, Abstimmungen zu einzelnen Tagesordnungspunkten, verwaltet werden. Die Abstimmunsergebnisse können per Barcode eingelesen und archiviert werden. Jeder Stimmzettel hat seinen vordefinierten Platz und kann automatisch über den Scanmanager abgelegt werden.
 
 Als Stimmbasis gelten: *Ja, Nein, Enthalten, Ungültig, ohne Weisung*.
 
@@ -19,7 +19,7 @@ In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend
 
 Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter *Teilnehmer*.
 
-Danach erstellen Sie noch die Einladungsschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*).
+Dann erstellen Sie noch die Einladungsschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*).
 Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe Massendruck Einladungen zu drucken oder Stimmzettel zu drucken.
 
 Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433144034768.png). 
@@ -27,7 +27,7 @@ Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfl
 
 ![](http://xpecto.github.io/docs/img/img_1432885282511.png)
 
-Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer Reaktion auf die Einladung.
+Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen.
 Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe Stimmabgabe, eröffnet sich der Dialog *Teilnehmer Veranstaltungen*. 
 
 Dialog-*Teilnehmer  Veranstaltungen*
