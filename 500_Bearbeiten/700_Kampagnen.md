@@ -1,44 +1,54 @@
-Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen durch die  Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700_Kampagnen.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen durch die  Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck.</p>
 
-Sie können die Maske „Kampagnen und Massendruck"  über *Bearbeiten → Kampagnen* oder über *Bearbeiten → Abfrage erstellen → Kampagne* erreichen. Die Maske „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck* erreicht werden.
+<p>Sie können die Maske „Kampagnen und Massendruck”  über <em>Bearbeiten → Kampagnen</em> oder über <em>Bearbeiten → Abfrage erstellen → Kampagne</em> erreichen. Die Maske „Kampagnen und Massendruck” kann auch unter <em>Veranstaltungen → Allgemein</em> → Feldgruppe <em>Massendruck</em> erreicht werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1439291391925.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1439291391925.png" alt="" title=""></p>
 
-Um eine neue Kampagne anzulegen klicken Sie in der Maske *Kampagnen und Massendruck* auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1421833044056.png).
+<p>Um eine neue Kampagne anzulegen klicken Sie in der Maske <em>Kampagnen und Massendruck</em> auf die Schaltfläche: <img src="http://xpecto.github.io/docs/img/img_1421833044056.png" alt="" title="">.</p>
 
-Auf der linke Seite wird eine Übersicht der bereits bestehenden Kampagnen dargestellt.
-![](http://xpecto.github.io/docs/img/img_1434112012527.png)
+<p>Auf der linke Seite wird eine Übersicht der bereits bestehenden Kampagnen dargestellt. <br>
+<img src="http://xpecto.github.io/docs/img/img_1434112012527.png" alt="" title=""></p>
 
-Auf der rechte Seite in der Eingabemaske stehen die Reiter *Allgemein* und *Kampagne*.
+<p>Auf der rechte Seite in der Eingabemaske stehen die Reiter <em>Allgemein</em> und <em>Kampagne</em>.</p>
 
-Der Reiter *Allgemein* beinhaltet der Name,  die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.
+<p>Der Reiter <em>Allgemein</em> beinhaltet der Name,  die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.</p>
 
-Der Karteireiter *Kampagne* ist in mehrere Feldgruppen unterteilt.
+<p>Der Karteireiter <em>Kampagne</em> ist in mehrere Feldgruppen unterteilt.</p>
 
-![](http://xpecto.github.io/docs/img/img_1426689870428.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1426689870428.png" alt="" title=""></p>
 
-In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *vordefinierter Verteiler* und *individuelle Abfrage* zu wählen.
+<p>In der Feldgruppe <em>Datenquelle wählen</em> ergibt sich die Möglichkeit zwischen <em>vordefinierter Verteiler</em> und <em>individuelle Abfrage</em> zu wählen.</p>
 
-*Vordefinierter Verteiler* ist ein spezieller Bericht der als Verteiler für Kampagnen ausgewählt würde (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*). 
+<p><em>Vordefinierter Verteiler</em> ist ein spezieller Bericht der als Verteiler für Kampagnen ausgewählt würde (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>). </p>
 
-![](http://xpecto.github.io/docs/img/img_1439293172987.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1439293172987.png" alt="" title=""></p>
 
-Die *individuelle Abfrage* gibt Ihnen die Möglichkeit eine schon erstellte Abfrage (siehe *Bearbeiten → Abfragen erstellen → Kampagne*) zu bearbeiten. 
+<p>Die <em>individuelle Abfrage</em> gibt Ihnen die Möglichkeit eine schon erstellte Abfrage (siehe <em>Bearbeiten → Abfragen erstellen → Kampagne</em>) zu bearbeiten. </p>
 
-Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Editor „Abfrage editieren für Kampagne".
+<p>Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1435065913280.png" alt="" title="">. Es eröffnet sich der Editor „Abfrage editieren für Kampagne”.</p>
 
-![](http://xpecto.github.io/docs/img/img_1433863956586.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1439298144966.png" alt="" title=""></p>
 
-Hier können Sie die schon hinterlegte Abfrage in den Editor „Abfrage editieren für Kampagne" bearbeiten und an Ihre Kampagne anpassen. 
-Wenn Sie aber kein Abfrage  hinterlegt haben dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen → Kampagne*). 
-Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png) werden Sie sofort zu den „Kampagnen und Massendruck" Dialog weitergeleitet.
+<p>Hier können Sie die schon hinterlegte Abfrage in den Editor „Abfrage editieren für Kampagne” bearbeiten und an Ihre Kampagne anpassen.  <br>
+Wenn Sie aber kein Abfrage  hinterlegt haben dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen” zu erstellen (siehe <em>Bearbeiten → Abfragen erstellen → Kampagne</em>).  <br>
+Durch die Betätigung von der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1433864762504.png" alt="" title=""> werden Sie sofort zu den „Kampagnen und Massendruck” Dialog weitergeleitet.</p>
 
-Feldgruppe *Aktion wählen*:
-Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
+<p>Feldgruppe <em>Aktion wählen</em>: <br>
+Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.</p>
 
-Feldgruppe  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden.
-![](http://xpecto.github.io/docs/img/img_1426685469516.png)
+<p>Feldgruppe  <em>Gruppe von Daten für Aktionen</em> zeigt die Daten die von Datenquellen geliefert wurden. <br>
+<img src="http://xpecto.github.io/docs/img/img_1426685469516.png" alt="" title=""></p>
 
-Bereich *Auswahl der Empfänger* bietet die Möglichkeit alle Datensätze auswählen, alle abwählen,  auswählen von bis.
+<p>Bereich <em>Auswahl der Empfänger</em> bietet die Möglichkeit alle Datensätze auswählen, alle abwählen,  auswählen von bis.</p>
 
-Beispiel
+<p>Beispiel</p></div></body>
+</html>
