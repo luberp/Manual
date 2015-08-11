@@ -44,17 +44,17 @@ Klicken sie nun auf *Weiter*. Auf der nächsten Seite können die Datenbankfelde
 
 ![](http://xpecto.github.io/docs/img/img_1431933240955.png)
 
-In diesem Beispiel sind Bezeichner, Kundennummer, Abschlussdatum, Produkt, Tarif, Vertragsnummer, Betreuernummer, Produktname ausgewählt.
+In diesem Beispiel sind *Bezeichner, Kundennummer, Abschlussdatum, Produkt, Tarif, Vertragsnummer, Betreuernummer, Produktname* ausgewählt.
 
 Klicken sie nun erneut auf *Weiter*, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
 
 ![](http://xpecto.github.io/docs/img/img_1439281607237.png)
 
-Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  CSV, SQL oder Excel weitergegeben werden. 
-Die Weitergabe der Daten ist  einfach. Ein Klick auf *Excel* oder *CSV* öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
+Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  *CSV*, *SQL* oder *Excel* weitergegeben werden. Die Weitergabe der Daten ist  einfach. Ein Klick auf *Excel* oder *CSV* öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
+
 Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche *Kampagne* kann eine Kampagne gestartet werden (siehe *Bearbeiten → Kampagnen*). 
 
-Über SQL Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder Aktion abbrechen. Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefügt. 
+Über die *SQL* Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder die Aktion abbrechen. Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefügt. 
 
 ![](http://xpecto.github.io/docs/img/img_1431933091869.png)
 
