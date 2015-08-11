@@ -25,20 +25,36 @@ In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *v
 
 Die *individuelle Abfrage* gibt Ihnen die Möglichkeit eine schon erstellte Abfrage (siehe *Bearbeiten → Abfragen erstellen → Kampagne*) zu bearbeiten. 
 
-Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Editor „Abfrage editieren für Kampagne".
+Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Dialog „Abfrage editieren für Kampagne".
 
 ![](http://xpecto.github.io/docs/img/img_1439298144966.png)
 
-Hier können Sie die schon hinterlegte Abfrage in den Editor „Abfrage editieren für Kampagne" bearbeiten und an Ihre Kampagne anpassen. 
-Wenn Sie aber kein Abfrage  hinterlegt haben dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen → Kampagne*). 
-Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png) werden Sie sofort zu den „Kampagnen und Massendruck" Dialog weitergeleitet.
+Hier können Sie die schon hinterlegte Abfrage in dem Dialog „Abfrage editieren für Kampagne" bearbeiten und an Ihre Kampagne anpassen. 
+Wenn Sie aber kein Abfrage  hinterlegt haben dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen*).  Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png) werden Sie sofort zu den „Kampagnen und Massendruck" Maske weitergeleitet.
 
-Feldgruppe *Aktion wählen*:
-Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
+Feldgruppe *Auswahl der Empfänger* bietet die Möglichkeit die Datensätze zu filtern.
 
-Feldgruppe  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden.
+Die  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden. Falls die Abfrage mehrere Gruppen liefert 
+
 ![](http://xpecto.github.io/docs/img/img_1426685469516.png)
 
-Bereich *Auswahl der Empfänger* bietet die Möglichkeit alle Datensätze auswählen, alle abwählen,  auswählen von bis.
+![](http://xpecto.github.io/docs/img/img_1439300061171.png)
+
+Feldgruppe *Aktion wählen* bietet die Möglichkeit die weitere Aktionen
+Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
+
+![](http://xpecto.github.io/docs/img/img_1439300124949.png)
+
+Beispiel
+
+Es sollen neue Kunden gefunden werden und zwar aus dem Adressbestand sollen alle potentielle Kunden  mit einem Email über neue Produkte informiert werden. 
+
+Starten Sie hier über *Bearbeiten → Kampagnen* die *Kampagnen und Massendruck* Maske. 
+
+
+
+Nachdem die Veranstaltung angelegt würde, und unter der Teilnehmerkreis die Abfrage erstellt.
+Erzeugen Sie mit xpectoPro eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. Anschließend schreiben Sie alle Teilnehmer der Kampagne per Email, Brief an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
+
 
 Beispiel
