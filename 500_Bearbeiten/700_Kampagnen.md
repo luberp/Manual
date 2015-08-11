@@ -40,16 +40,3 @@ Feldgruppe  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquelle
 ![](http://xpecto.github.io/docs/img/img_1426685469516.png)
 
 Bereich *Auswahl der Empfänger* bietet die Möglichkeit alle Datensätze auswählen, alle abwählen,  auswählen von bis.
-
-Beispiel: 
-Es sollen neue Vertriebspartner gefunden werden. Zu diesem Zweck wurde ein Adressbestand mit potentiellen Vertriebspartnern angelegt. Diese sollen Sie mit einem Mailing informieren. Desweiteren werden Anzeigen geschaltet, die den Weg zu unbekanntem Potential öffnen sollen. 
-
-Sie erzeugen eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. Anschließend schreiben Sie alle Teilnehmer der Kampagne per email, Brief oder Fax an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
-
-Der erste Teilnehmer meldet sich kurze Zeit nach dem Mailing telefonisch bei Ihnen und bittet um Zusendung von Vertriebsunterlagen. Beim ersten Klingeln des Telefons sehen Sie bereits, dass der Anrufer Teilnehmer der Kampagne ist. Sie rufen die Detailmaske auf, tragen die Reaktion dort ein und gleichen noch kurz die Stammdaten ab.  xpectoPro kümmert sich automatisch darum, dass Ihr Kollege die gewünschten Unterlagen versendet und legt dem Vertriebsbetreuer den Vorgang rechtzeitig zum telefonischen Nachfassen automatisch wieder vor.
-
-Ein neuer Vertriebsinteressent meldet sich wenige Tage später auf Ihre Anzeige. Sie erfassen die Daten des Teilnehmers und fügen ihn einfach der Kampagne hinzu und übernimmt für Sie wieder den Rest.
-
-Teilnehmer aus dem aktuellen Adressbestand fügen Sie zielgruppenorientiert über den Filter  hinzu. 
-
-Eine ideale Kombination ist der abschließende Druck der Daten über einen Druckdienstleister.
