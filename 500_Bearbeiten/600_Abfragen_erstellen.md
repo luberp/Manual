@@ -12,16 +12,16 @@ Sie erreichen den Abfrageeditor über den Menüpunkt <em>Bearbeiten → Abfragen
 
 <p>Nach dem öffnen des Abfrageeditors wird der Bedingungs-Assistent mit einem Bedingungsblock angezeigt, der bereits eine Bedingung enthält. Eine Bedingung ist definiert durch einen Feldnamen (links), einen Bedingungstyp (mitte) und einem vom Anwender einzugebende Vergleichswert. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439278459783.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1439279198546.png" alt="" title=""></p>
 
 <p>Bedingungszeilen sind in Blöcken zusammengefasst. Am oberen Rand eines Blocks wird der verwendete Gruppierungstyp angezeigt. Mögliche Typen sind:</p>
 
 <ul>
 <li>jede der Bedingungen trifft zu (AND)  </li>
-<li><p>eine oder mehrere Bedingungen treffen zu (OR)</p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1419329260261.png" alt="" title=""> </p></li>
+<li>eine oder mehrere Bedingungen treffen zu (OR)</li>
 </ul>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1439278901176.png" alt="" title=""></p>
 
 <p>Über die Schaltfläche “<em>Feld hinzufügen</em>” wird einem Block eine Bedingung hinzugefügt. Über die Schaltfläche “<em>Block hinzufügen</em>” wird einem Block ein Unterblock hinzugefügt. Auf diese Weise kann für einen Teil der Bedingungen ein anderer Gruppierungstyp verwendet werden.</p>
 
