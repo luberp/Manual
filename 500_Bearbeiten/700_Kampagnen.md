@@ -47,14 +47,14 @@ Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
 
 Beispiel
 
-Es sollen neue Kunden gefunden werden und zwar aus dem Adressbestand sollen alle potentielle Kunden  mit einem Email über neue Produkte informiert werden. 
+Es sollen neue Kunden gefunden werden und zwar aus dem Adressbestand sollen alle potentielle Kunden  mit einem Email über neue Produkte informiert werden. schreiben Sie alle Teilnehmer der Kampagne per Email, Brief an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
 
 Starten Sie hier über *Bearbeiten → Kampagnen* die *Kampagnen und Massendruck* Maske. 
 
 
+Erzeugen Sie mit xpectoPro eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. 
 
-Nachdem die Veranstaltung angelegt würde, und unter der Teilnehmerkreis die Abfrage erstellt.
-Erzeugen Sie mit xpectoPro eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. Anschließend schreiben Sie alle Teilnehmer der Kampagne per Email, Brief an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
+Anschließend klicken Sie auf Start um die Kampagne zu starten.
 
 
 Beispiel
