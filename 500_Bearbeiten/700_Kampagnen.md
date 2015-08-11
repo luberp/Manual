@@ -51,10 +51,6 @@ Es sollen neue Kunden gefunden werden und zwar aus dem Adressbestand sollen alle
 
 Starten Sie hier über *Bearbeiten → Kampagnen* die *Kampagnen und Massendruck* Maske. 
 
-
 Erzeugen Sie mit xpectoPro eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. 
 
 Anschließend klicken Sie auf Start um die Kampagne zu starten.
-
-
-Beispiel
