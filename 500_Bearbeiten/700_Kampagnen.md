@@ -19,7 +19,7 @@ Der Karteireiter *Kampagne* ist in mehrere Feldgruppen unterteilt.
 
 In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *vordefinierter Verteiler* und *individuelle Abfrage* zu wählen.
 
-*Vordefinierter Verteiler* ist ein spezieller Bericht der als Verteiler für Kampagnen ausgewählt würde (siehe *Berichte und Adressmuster → Berichte → Kategorien*).
+*Vordefinierter Verteiler* ist ein spezieller Bericht der als Verteiler für Kampagnen ausgewählt würde (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
 
 Die *individuelle Abfrage* gibt Ihnen die Möglichkeit eine schon erstellte Abfrage ( siehe *Bearbeiten → Abfragen erstellen*) zu bearbeiten.
 Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Editor „Abfragen editieren für Kampagne".
