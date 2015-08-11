@@ -40,3 +40,5 @@ Feldgruppe  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquelle
 ![](http://xpecto.github.io/docs/img/img_1426685469516.png)
 
 Bereich *Auswahl der Empfänger* bietet die Möglichkeit alle Datensätze auswählen, alle abwählen,  auswählen von bis.
+
+Beispiel
