@@ -74,4 +74,4 @@ Nachdem Sie die folgende Meldung mit *OK* bestätigt haben sind die angezeigten 
 
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
 
-Durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1431935009760.png)  können Sie den Abfrageeditor beenden.
+Durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1431935009760.png)  wird der Abfrageeditor beendet.
