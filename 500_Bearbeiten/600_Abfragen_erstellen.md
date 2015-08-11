@@ -32,7 +32,7 @@ Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepas
 
 Schließlich werden in den Eingabefeldern die Vergleichswerte der jeweiligen Bedingung eingetragen.
 
-Beispiel: Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 bis 31.12.2014 Verträge des Produkts *TRI1, Top Return Invest I* abgeschlossen hat.
+Beispiel: Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 bis 01.01.2015 Verträge des Produkts *TRI1, Top Return Invest I* abgeschlossen hat.
  
 Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile folgendermaßen an: Klicken Sie auf den Feldnamen *Vertrags-Nr* und wählen im darauf folgenden Kontextmenü das Feld *Vertriebspartner → Betreuer-Nr.* Tragen Sie in das Eingabefeld die Vermittlernummer ein.
 
