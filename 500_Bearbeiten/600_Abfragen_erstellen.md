@@ -32,9 +32,8 @@ Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepas
 
 Schließlich werden in den Eingabefeldern die Vergleichswerte der jeweiligen Bedingung eingetragen.
 
- Beispiel: Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 bis 31.12.2014 Verträge des Produkts “TRI1, Top Return Invest I” abgeschlossen hat.
+Beispiel: Sie wollen wissen, welche Kunden des Vermittlers VP0001 im Zeitraum 01.12.2014 bis 31.12.2014 Verträge des Produkts “TRI1, Top Return Invest I” abgeschlossen hat.
  
-
 Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile folgendermaßen an: Klicken Sie auf den Feldnamen Vertrags-Nr und wählen im darauf folgenden Kontextmenü das Feld Vertriebspartner Betreuer-Nr. Tragen Sie in das Eingabefeld die Vermittlernummer ein.
 
 ![](http://xpecto.github.io/docs/img/img_1431932441285.png)
@@ -42,7 +41,6 @@ Starten Sie den Abfrageeditor und passen Sie die vorgegebene Bedingungszeile fol
 Legen Sie über “*Feld hinzufügen*” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder Produkte Produktname und Vertragsdaten  Abschlussdatum und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.
 
 Klicken sie nun auf *Weiter*. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch anhaken ausgewählt werden.
-
 
 ![](http://xpecto.github.io/docs/img/img_1431933240955.png)
 
@@ -59,7 +57,6 @@ Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Scha
 Mit Hilfe von Insert Statements werden neue Datensätze in eine Tabelle eingefügt. 
 
 ![](http://xpecto.github.io/docs/img/img_1431933091869.png)
-
 
 Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank oder zwischen Datenbanken. 
 
