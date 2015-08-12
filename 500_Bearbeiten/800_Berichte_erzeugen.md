@@ -15,13 +15,10 @@ Sie werden aufgefordert einen Produkt für die Berichterstellung auszuwählen.
 
 FFIDs 
 
-
 Berichte 
 Bericht erzeugen: generiert nur den Bericht. 
 Bericht bearbeiten: Vorlage generiert und bearbeitet. ![](http://xpecto.github.io/docs/img/img_1429027648565.png)
 Integrierter Berichtsgenerator: Active Reports. 
-
-
 
 Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. 
 Adressmuster, Textbausteine, individuelle Schreiben. 
