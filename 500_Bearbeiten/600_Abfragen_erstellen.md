@@ -38,7 +38,7 @@ Starten Sie den Abfrage-Editor und passen Sie die vorgegebene Bedingungszeile fo
 
 ![](http://xpecto.github.io/docs/img/img_1431932441285.png)
 
-Legen Sie über “*Feld hinzufügen*” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder: Produkte → Produktname und Vertragsdaten → Abschlussdatum und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.
+Legen Sie über “*Feld hinzufügen*” zwei weitere Bedingungszeilen an, wählen Sie mit der oben beschriebenen Methode die Felder: *Produkte → Produktname* und *Vertragsdaten → Abschlussdatum* und tragen Sie die entsprechenden Werte in die zugehörigen Eingabefelder ein.
 
 Klicken sie nun auf *Weiter*. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch anhaken ausgewählt werden.
 
@@ -74,4 +74,4 @@ Nachdem Sie die folgende Meldung mit *OK* bestätigt haben sind die angezeigten 
 
 ![](http://xpecto.github.io/docs/img/img_1421160002075.png)
 
-Durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1431935009760.png)  wird der Abfrageeditor beendet.
+Durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1431935009760.png)  wird der Abfrage-Editor beendet.
