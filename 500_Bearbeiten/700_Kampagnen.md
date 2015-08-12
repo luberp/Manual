@@ -30,26 +30,26 @@ Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![]
 ![](http://xpecto.github.io/docs/img/img_1439298144966.png)
 
 Hier können Sie die schon hinterlegte Abfrage in dem Dialog „Abfrage editieren für Kampagne" bearbeiten und an Ihre Kampagne anpassen. 
-Wenn Sie aber kein Abfrage  hinterlegt haben dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen*).  Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png) werden Sie sofort zu den „Kampagnen und Massendruck" Maske weitergeleitet.
+Wenn Sie aber keine Abfrage hinterlegt haben, dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen*).  Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png) werden Sie sofort zu den „Kampagnen und Massendruck" Maske weitergeleitet.
 
-Feldgruppe *Auswahl der Empfänger* bietet die Möglichkeit die Datensätze zu filtern.
-
-Die  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden. Falls die Abfrage mehrere Gruppen liefert 
-
-![](http://xpecto.github.io/docs/img/img_1426685469516.png)
+Die  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden. Falls die Abfrage mehrere Gruppen liefert.
 
 ![](http://xpecto.github.io/docs/img/img_1439300061171.png)
 
-Feldgruppe *Aktion wählen* bietet die Möglichkeit die weitere Aktionen
-Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
+Feldgruppe *Auswahl der Empfänger* bietet die Möglichkeit die Datensätze zu filtern.
+
+In der Feldgruppe *Aktion wählen* können Sie die Funktion die für Ihre Kampagne  ausgeführt werden soll, wählen: Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres.
 
 ![](http://xpecto.github.io/docs/img/img_1439300124949.png)
 
-Beispiel
+Beispiel: Es sollen neue Kunden gefunden werden und zwar aus dem Adressbestand sollen alle potentielle Kunden  mit einem Email über neue Produkte informiert werden. Schreiben Sie alle Teilnehmer der Kampagne per Email, Brief an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
 
-Es sollen neue Kunden gefunden werden und zwar aus dem Adressbestand sollen alle potentielle Kunden  mit einem Email über neue Produkte informiert werden. schreiben Sie alle Teilnehmer der Kampagne per Email, Brief an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
+Als erstes erstellen Sie die Abfrage um die Kunden auszuwählen. Starten Sie hier über Bearbeiten → Abfragen erstellen der Abfragen und Listen Editor. 
 
-Starten Sie hier über *Bearbeiten → Kampagnen* die *Kampagnen und Massendruck* Maske. 
+Starten Sie hier über *Bearbeiten → Kampagnen* die *Kampagnen und Massendruck* Maske.  Legen Sie hier über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421833044056.png) eine neue Kampagne an.
+
+In dem Reiter Allgemein geben Sie der Name und eine beliebige Beschreibung für Ihre Kampagne an.
+
 
 Erzeugen Sie mit xpectoPro eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. 
 
