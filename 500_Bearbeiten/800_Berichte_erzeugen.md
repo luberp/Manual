@@ -1,98 +1,63 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>800_Berichte_erzeugen.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. </p>
+Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. 
 
-<p>Über den Menüpunkt  <em>Bearbeiten → Berichte erzeugen</em>  oder über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1429027617646.png" alt="" title=""> wird  die <em>Berichterstellung</em> Fenster aufgerufen. </p>
+Über den Menüpunkt  *Bearbeiten → Berichte erzeugen*  oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) wird  die *Berichterstellung* Fenster aufgerufen. 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439379073314.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1439379073314.png)
 
-<p>Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden die dazu passende Berichte vorgeschlagen. </p>
+Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden die dazu passende Berichte vorgeschlagen. 
 
-<table>
-<thead>
-<tr>
-  <th>Schaltfläche</th>
-  <th align="left">Beschreibung</th>
-</tr>
-</thead>
-<tbody><tr>
-  <td></td>
-  <td align="left">Druckvorschau/Seitenansicht</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1439381184713.png" alt="" title=""></td>
-  <td align="left">neuen Vertrag anlegen</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1439381119609.png" alt="" title=""></td>
-  <td align="left">neuen Vermittler anlegen</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1429027337842.png" alt="" title=""></td>
-  <td align="left">Adresse neu anlegen</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1429027370695.png" alt="" title=""></td>
-  <td align="left">Veranstaltungen neu anlegen</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1429027405943.png" alt="" title=""></td>
-  <td align="left">Speichern</td>
-</tr>
-</tbody></table>
+|  Schaltfläche            |    Beschreibung     |  
+| ------------- |:-------------| 
+|       | Druckvorschau/Seitenansicht| 
+| ![](http://xpecto.github.io/docs/img/img_1439381184713.png) | neuen Vertrag anlegen| 
+| ![](http://xpecto.github.io/docs/img/img_1439381119609.png)     | neuen Vermittler anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027337842.png)      | Adresse neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027370695.png)      | Veranstaltungen neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | 
 
+Wenn die Felder ausgefüllt sind dann drucken Sie die Druckvorschau/Seitenansicht  ![](http://xpecto.github.io/docs/img/img_1435072419471.png). 
 
-<p>Wenn die Felder ausgefüllt sind dann drucken Sie die Druckvorschau/Seitenansicht  <img src="http://xpecto.github.io/docs/img/img_1435072419471.png" alt="" title="">. </p>
+Sie werden aufgefordert einen Produkt für die Berichterstellung auszuwählen.
+![](http://xpecto.github.io/docs/img/img_1435072508917.png)
 
-<p>Sie werden aufgefordert einen Produkt für die Berichterstellung auszuwählen. <br>
-<img src="http://xpecto.github.io/docs/img/img_1435072508917.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1435071898992.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1435071898992.png" alt="" title=""></p>
+FFIDs 
 
-<p>FFIDs </p>
+Berichte 
+Bericht erzeugen: generiert nur den Bericht. 
+Bericht bearbeiten: Vorlage generiert und bearbeitet. ![](http://xpecto.github.io/docs/img/img_1429027648565.png)
+Integrierter Berichtsgenerator: Active Reports. 
 
-<p>Berichte  <br>
-Bericht erzeugen: generiert nur den Bericht.  <br>
-Bericht bearbeiten: Vorlage generiert und bearbeitet. <img src="http://xpecto.github.io/docs/img/img_1429027648565.png" alt="" title=""> <br>
-Integrierter Berichtsgenerator: Active Reports. </p>
+Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. 
+Adressmuster, Textbausteine, individuelle Schreiben. 
+Speichern, Berichtgruppe neu anlegen, Berichte neu anlegen, Adressmuster neu anlegen, Textbausteine neu anlegen, Individuelle Schreiben neu anlegen, Aktuellen Datensatz löschen, Bericht importieren, Bericht exportieren. 
 
-<p>Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet.  <br>
-Adressmuster, Textbausteine, individuelle Schreiben.  <br>
-Speichern, Berichtgruppe neu anlegen, Berichte neu anlegen, Adressmuster neu anlegen, Textbausteine neu anlegen, Individuelle Schreiben neu anlegen, Aktuellen Datensatz löschen, Bericht importieren, Bericht exportieren. </p>
+Ordnerstruktur. 
+Das Muster ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurückliefern kann. Der Parameter @ID wird mit der KundenNr oder einer anderen ID an die Abfrage übergeben.
 
-<p>Ordnerstruktur.  <br>
-Das Muster ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurückliefern kann. Der Parameter @ID wird mit der KundenNr oder einer anderen ID an die Abfrage übergeben.</p>
+Platzhalter für Vermittler-, Kunden- und Vertragsdaten werden dabei automatisch mit den Werten des in eAgentur aktuell ausgewählten Datensatzes befüllt.
 
-<p>Platzhalter für Vermittler-, Kunden- und Vertragsdaten werden dabei automatisch mit den Werten des in eAgentur aktuell ausgewählten Datensatzes befüllt.</p>
+Mehrseitige Listen oder Auswertungen werden mit den Schaltflächen  durchblättert.
 
-<p>Mehrseitige Listen oder Auswertungen werden mit den Schaltflächen  durchblättert.</p>
+Der erstellte Bericht kann nun über die Schaltfläche gedruckt, oder über die Schaltflächen Word, Excel, PDF und TIFF als Datei im gleichnamigen Format exportiert werden. Soll ein bestimmtes Schreiben vor dem Druck noch nachbearbeitet werden, so bietet es sich z.B. an, den Bericht als Word-Datei zu exportieren, in Microsoft Word die gewünschten Änderungen vorzunehmen und dann direkt von Word aus zu drucken.
 
-<p>Der erstellte Bericht kann nun über die Schaltfläche gedruckt, oder über die Schaltflächen Word, Excel, PDF und TIFF als Datei im gleichnamigen Format exportiert werden. Soll ein bestimmtes Schreiben vor dem Druck noch nachbearbeitet werden, so bietet es sich z.B. an, den Bericht als Word-Datei zu exportieren, in Microsoft Word die gewünschten Änderungen vorzunehmen und dann direkt von Word aus zu drucken.</p>
+Berichte, die von Ihrem Ersteller entsprechend parametrisiert sind, werden zusätzlich als so genannte Favoriten-Berichte in der Hauptmaske von eAgentur auf der Werkzeugleiste angeboten. Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Das kann unter dem Reiter *Kategorien* eingestellt werden.
 
-<p>Berichte, die von Ihrem Ersteller entsprechend parametrisiert sind, werden zusätzlich als so genannte Favoriten-Berichte in der Hauptmaske von eAgentur auf der Werkzeugleiste angeboten. Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Das kann unter dem Reiter <em>Kategorien</em> eingestellt werden.</p>
+Mit der Schaltfläche wird der selektierte Favoriten-Bericht auf den in der nebenstehenden Druckerauswahl gewählten Drucker gedruckt. Ist die Schaltfläche aktiviert, so wird der Bericht beim Druck automatisch als PDF-Datei gespeichert und eine Verknüpfung unter den Ereignissen des aktuell ausgewählten Vermittlers, Kunden oder Vertrags hinterlegt.
 
-<p>Mit der Schaltfläche wird der selektierte Favoriten-Bericht auf den in der nebenstehenden Druckerauswahl gewählten Drucker gedruckt. Ist die Schaltfläche aktiviert, so wird der Bericht beim Druck automatisch als PDF-Datei gespeichert und eine Verknüpfung unter den Ereignissen des aktuell ausgewählten Vermittlers, Kunden oder Vertrags hinterlegt.</p>
+Hinweis: Dies dient lediglich der Arbeitserleichterung durch schnelles Wiederfinden gedruckter Dokumente, genügt jedoch nicht den Anforderungen einer ordnungsgemäßen EDV-gestützten Archivierung.
 
-<p>Hinweis: Dies dient lediglich der Arbeitserleichterung durch schnelles Wiederfinden gedruckter Dokumente, genügt jedoch nicht den Anforderungen einer ordnungsgemäßen EDV-gestützten Archivierung.</p>
+Funktionen und Abläufe - Briefversand über Dienstleister 
+Anbindung an die Großkundenschnittstellen der PIN AG. Diese Schnittstelle ermöglicht den Versand von Briefen ohne diese selbst auszufrucken. Diese einfache Integration ermöglicht den Massenversand von Briefen auf eine sehr komfortable Weise. Als Beispiel dient ein Werbeschreiben das wir an den Kunden in den PLZ Gebiete 1 und 2 versenden möchten. Das Schreiben würde als Wordbericht in xpectoPro angelegt und kann über die Favoritenleiste   direkt erstellt und angezeigt werden. Für den Massenversand wird ein Verteiler benötigt. Die einfachste Möglichkeit zur Erstellung eines Verteilers wird in dem Dialog Abfragen erstellen angeboten.  
+Wir benötigen jeweils eine Filterbedingung für jeden gewünschten PLZ. In dem nächsten Schritt werden die gewünschten Felder gewählt. Das System schlägt schon hier die typischen Felder vor, eine weitere Auswahl ist nicht nötig. Der nächste Dialog zeigt nun das Ergebnis an. Der Verteiler umfasst die Kunden die jetzt in eine Kampagne (Massendruck) verwendet werden. Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1429266575881.png) wird die Kampagne gestartet. Die Kunden werden hier als Empfänger angezeigt. Als nächstes wird das gewünschte Schreiben ausgewählt.  
+Es geht hier um Massendruck durch einen externer Dienstleister.
+Wenn den Drucker: Briefversand nicht angezeigt wird dann bitte an Support wenden da ein Vertrag abgeschlossen werden muss mit dem PIN AG, und dann der Support die Einrichtungen vornehmen kann. 
 
-<p>Funktionen und Abläufe - Briefversand über Dienstleister  <br>
-Anbindung an die Großkundenschnittstellen der PIN AG. Diese Schnittstelle ermöglicht den Versand von Briefen ohne diese selbst auszufrucken. Diese einfache Integration ermöglicht den Massenversand von Briefen auf eine sehr komfortable Weise. Als Beispiel dient ein Werbeschreiben das wir an den Kunden in den PLZ Gebiete 1 und 2 versenden möchten. Das Schreiben würde als Wordbericht in xpectoPro angelegt und kann über die Favoritenleiste   direkt erstellt und angezeigt werden. Für den Massenversand wird ein Verteiler benötigt. Die einfachste Möglichkeit zur Erstellung eines Verteilers wird in dem Dialog Abfragen erstellen angeboten. <br>
-Wir benötigen jeweils eine Filterbedingung für jeden gewünschten PLZ. In dem nächsten Schritt werden die gewünschten Felder gewählt. Das System schlägt schon hier die typischen Felder vor, eine weitere Auswahl ist nicht nötig. Der nächste Dialog zeigt nun das Ergebnis an. Der Verteiler umfasst die Kunden die jetzt in eine Kampagne (Massendruck) verwendet werden. Mit einem Klick auf <img src="http://xpecto.github.io/docs/img/img_1429266575881.png" alt="" title=""> wird die Kampagne gestartet. Die Kunden werden hier als Empfänger angezeigt. Als nächstes wird das gewünschte Schreiben ausgewählt. <br>
-Es geht hier um Massendruck durch einen externer Dienstleister. <br>
-Wenn den Drucker: Briefversand nicht angezeigt wird dann bitte an Support wenden da ein Vertrag abgeschlossen werden muss mit dem PIN AG, und dann der Support die Einrichtungen vornehmen kann. </p>
+Durch Auswählen des Checkboxes Berichte archivieren werden die Schreiben an an die Kunden archiviert. Der Klick auf Start werden die einzelne Scheiben erstellt und die Dokumente werden in dem Zwischenspeicher des Briefversandes abgelegt. Die Schreiben sind damit erstellt und müssen nur noch an die PIN AG übertragen werden. Die Kampagne kann damit abgeschlossen werden.
 
-<p>Durch Auswählen des Checkboxes Berichte archivieren werden die Schreiben an an die Kunden archiviert. Der Klick auf Start werden die einzelne Scheiben erstellt und die Dokumente werden in dem Zwischenspeicher des Briefversandes abgelegt. Die Schreiben sind damit erstellt und müssen nur noch an die PIN AG übertragen werden. Die Kampagne kann damit abgeschlossen werden.</p>
+Um ein neues Bericht zu erstellen wählen Sie unter *Extras → Anpassen → Berichte und Adressmuster* oder in der Symbol- und Funktionsleiste die Schaltfläche![](http://xpecto.github.io/docs/img/img_1429027648565.png).  Sie gelangen in der Maske *Berichte und Adressmuster*.
 
-<p>Um ein neues Bericht zu erstellen wählen Sie unter <em>Extras → Anpassen → Berichte und Adressmuster</em> oder in der Symbol- und Funktionsleiste die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1429027648565.png" alt="" title="">.  Sie gelangen in der Maske <em>Berichte und Adressmuster</em>.</p>
+Auf der linke Seite wird einen Übersicht 
 
-<p>Auf der linke Seite wird einen Übersicht </p>
-
-<p>Die Navigation beinhaltet folgende Bäume: Berichte, Adressmuster, Textbausteine, individuelle Schreiben. Jeder Baum enthält sein eigener Ansicht und die entsprechende Eingabemaske auf der rechte Seite.</p></div></body>
-</html>
+Die Navigation beinhaltet folgende Bäume: Berichte, Adressmuster, Textbausteine, individuelle Schreiben. Jeder Baum enthält sein eigener Ansicht und die entsprechende Eingabemaske auf der rechte Seite.
