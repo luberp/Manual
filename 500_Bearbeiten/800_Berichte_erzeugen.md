@@ -23,21 +23,10 @@ verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
 ![](http://xpecto.github.io/docs/img/img_1439389795642.png)
 
 **Favoriten**
-Direkt in das Hauptfenster von xpectoPro haben Sie die Möglichkeit die Berichterstellung zu starten. 
+Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können.
 Dazu muss der Bericht als *Allgemeiner Bericht*  für Favoriten markiert werden. (siehe *Extras → Anpassen → Berichte und Adressmuster → Berichte → Kategorien*).
 ![](http://xpecto.github.io/docs/img/img_1439387898787.png)
 Um ein Bericht direkt in das Hauptfenster zu generieren, wählen Sie dazu den gewünschten Datensatz in dem Kunden- oder Vermittleransicht, und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
-
 ![](http://xpecto.github.io/docs/img/img_1439388275964.png)
-
-![](http://xpecto.github.io/docs/img/img_1439387318023.png)
-
-
-Berichte, die von Ihrem Ersteller entsprechend parametrisiert sind, werden zusätzlich als so genannte Favoriten-Berichte in der Hauptmaske von eAgentur auf der Werkzeugleiste angeboten. Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können.
-
- 
-
-Mit der Schaltfläche   wird der selektierte Favoriten-Bericht auf den in der nebenstehenden Druckerauswahl gewählten Drucker gedruckt. Ist die Schaltfläche   aktiviert, so wird der Bericht beim Druck automatisch als PDF-Datei gespeichert und eine Verknüpfung unter den Ereignissen des aktuell ausgewählten Vermittlers, Kunden oder Vertrags hinterlegt.
-Hinweis: Dies dient lediglich der Arbeitserleichterung durch schnelles Wiederfinden gedruckter Dokumente, genügt jedoch nicht den Anforderungen einer ordnungsgemäßen EDV-gestützten Archivierung.
 
