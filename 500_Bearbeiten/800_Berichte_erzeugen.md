@@ -8,12 +8,10 @@ Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müss
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
-|        
-| ![](http://xpecto.github.io/docs/img/img_1439381184713.png) | Druckvorschau/Seitenansicht| 
-| ![](http://xpecto.github.io/docs/img/img_1439381119609.png)     | neuen Vermittler anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1439381347699.png)      | Adresse neu anlegen | 
-|   ![](http://xpecto.github.io/docs/img/img_1439381384906.png)  | Veranstaltungen neu anlegen | 
-
+|![](http://xpecto.github.io/docs/img/img_1439381184713.png)| Druckvorschau/Seitenansicht|
+|![](http://xpecto.github.io/docs/img/img_1439381119609.png) |Dokumente archivieren ein/aus|
+|![](http://xpecto.github.io/docs/img/img_1439381347699.png)  |Bericht bearbeiten|
+|![](http://xpecto.github.io/docs/img/img_1439381384906.png)|FFIDs|
 
 Wenn die Felder ausgefüllt sind dann drucken Sie die Druckvorschau/Seitenansicht  ![](http://xpecto.github.io/docs/img/img_1435072419471.png). 
 
