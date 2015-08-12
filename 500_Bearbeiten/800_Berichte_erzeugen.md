@@ -4,7 +4,8 @@ Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro e
 
 ![](http://xpecto.github.io/docs/img/img_1439379073314.png)
 
-Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und die dazu passende Berichte werden vorgeschlagen. Hier kann zwischen verschiedene Dateiausgaben ausgewählt werden. 
+
+Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden die dazu passende Berichte vorgeschlagen. 
 
 Wenn die Felder ausgefüllt sind dann drucken Sie die Druckvorschau/Seitenansicht  ![](http://xpecto.github.io/docs/img/img_1435072419471.png). 
 
