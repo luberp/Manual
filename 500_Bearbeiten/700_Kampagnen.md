@@ -55,6 +55,8 @@ Starten Sie eine neue Kampagne über die Schaltfläche ![](http://xpecto.github.
 Es wird eine neue Kampagne angelegt mit einen von xpectoPro automatisch generierter Name.
 In dem Reiter Allgemein geben Sie  *Informationskampagne* für den Namen und eine optionale Beschreibung für Ihre Kampagne an. Speichern Sie Ihre Änderungen.
 
+In dem Reiter *Kampagne* wählen Sie unter Aktion Berichte drucken als Bericht die Infoschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*), 
+
 ![](http://xpecto.github.io/docs/img/img_1439374542325.png)
 
 Anschließend klicken Sie auf *Start* um die Kampagne zu starten.
