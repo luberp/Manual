@@ -54,8 +54,8 @@ Starten Sie eine neue Kampagne über die Schaltfläche ![](http://xpecto.github.
 
 Starten Sie hier über *Bearbeiten → Kampagnen* die *Kampagnen und Massendruck* Maske.  Legen Sie hier über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1421833044056.png) eine neue Kampagne an.
 
-
-In dem Reiter Allgemein geben Sie der Name und eine beliebige Beschreibung für Ihre Kampagne an.
+Es wird eine neue Kampagne angelegt mit einen von xpectoPro automatisch generierter Name.
+In dem Reiter Allgemein geben Sie  *Informationskampagne* und eine optionale Beschreibung für Ihre Kampagne an. Speichern Sie Ihre Änderungen.
 
 
 Erzeugen Sie mit xpectoPro eine neue Kampagne. Sie filtern über den Personenfilter alle Personen aus dem angelegten Adressbestand und fügen diese per Massenzuweisung der Kampagne hinzu. 
