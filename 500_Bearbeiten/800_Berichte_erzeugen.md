@@ -19,4 +19,3 @@ Sie werden aufgefordert einen Produkt für die Berichterstellung auszuwählen.
 ![](http://xpecto.github.io/docs/img/img_1435072508917.png)
 
 ![](http://xpecto.github.io/docs/img/img_1435071898992.png)
-
