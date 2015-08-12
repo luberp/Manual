@@ -23,7 +23,7 @@ verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
 ![](http://xpecto.github.io/docs/img/img_1439389795642.png)
 
 Direkt in das Hauptfenster von xpectoPro haben Sie die Möglichkeit die Berichterstellung zu starten. 
-Dazu muss der Bericht als *Allgemeiner Bericht* markiert werden. (siehe Extras → Berichte und Adressmuster → Berichte → Kategorien).
+Dazu muss der Bericht als *Allgemeiner Bericht* markiert werden. (siehe *Extras → Anpassen → Berichte und Adressmuster → Berichte → Kategorien*).
 
 Um ein Bericht direkt in das Hauptfenster zu generieren wählen Sie dazu den gewünschten Datensatz in dem Kunden- oder Vermittleransicht und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
