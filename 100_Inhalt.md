@@ -37,7 +37,7 @@
 * 5.5. [Aktualisieren](http://help.xpecto.de/Bearbeiten/Aktualisieren)
 * 5.6. [Abfragen erstellen](http://help.xpecto.de/Bearbeiten/Abfragen_erstellen)
 * 5.7. [Kampagnen](http://help.xpecto.de/Bearbeiten/Kampagnen)
-* 5.8. [Berichten erzeugen](http://help.xpecto.de/Bearbeiten/Berichten_erzeugen)
+* 5.8. [Berichten erzeugen](http://help.xpecto.de/Bearbeiten/Berichte_erzeugen)
 * 5.9. [Erweiterte Suche](http://help.xpecto.de/Bearbeiten/Erweiterte_Suche)
 * 5.10. [Duplikate finden](http://help.xpecto.de/Bearbeiten/Duplikate_finden)
 * 5.11. [Belege verwalten](http://help.xpecto.de/Bearbeiten/Belege_verwalten)
