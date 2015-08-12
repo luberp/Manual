@@ -13,14 +13,19 @@ Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müss
 |![](http://xpecto.github.io/docs/img/img_1439381347699.png)  |Bericht bearbeiten. Es kann eine neue Vorlage generiert und bearbeitet|
 |![](http://xpecto.github.io/docs/img/img_1439381384906.png)|FFIDs|
 
-Wenn die Felder ausgefüllt sind dann drucken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435072419471.png). 
+Wenn die Felder ausgefüllt sind dann drucken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
 ![](http://xpecto.github.io/docs/img/img_1439387007944.png)
 
+Nachdem Sie den Bericht erstellt haben, können Sie weiter bearbeiten. Nutzen Sie dazu der Bericht-Editor.
+
 Direkt in das Hauptfenster von xpectoPro haben Sie die Möglichkeit die Berichterstellung zu starten. 
-Dafür 
+Dafür . Dazu muss der Bericht als Allgemeiner Bericht markiert werden. (siehe Extras → Berichte und Adressmuster → Berichte → Kategorien).
+
+Um ein Bericht direkt in das Hauptfenster zu generieren wählen Sie dazu der gewünschten Datensatz in dem Kunden- oder Vermittleransicht und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
+
 ![](http://xpecto.github.io/docs/img/img_1439387898787.png)
 
-![](http://xpecto.github.io/docs/img/img_1439388123655.png)
+![](http://xpecto.github.io/docs/img/img_1439388275964.png)
 
 ![](http://xpecto.github.io/docs/img/img_1439387318023.png)
