@@ -11,7 +11,7 @@ Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müss
 |![](http://xpecto.github.io/docs/img/img_1439381184713.png)| Druckvorschau/Seitenansicht|
 |![](http://xpecto.github.io/docs/img/img_1439381119609.png) |Dokumente archivieren ein/aus|
 |![](http://xpecto.github.io/docs/img/img_1439381347699.png)  |Bericht bearbeiten. Es kann eine neue Vorlage generiert und bearbeitet|
-|![](http://xpecto.github.io/docs/img/img_1439381384906.png)|FFIDs|
+|![](http://xpecto.github.io/docs/img/img_1439381384906.png)| Filter Fields IDs|
 
 Wenn die Felder ausgefüllt sind dann drucken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
