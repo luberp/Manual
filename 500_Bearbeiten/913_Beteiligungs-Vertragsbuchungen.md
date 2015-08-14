@@ -16,7 +16,7 @@ Reiter Salden
 ![](http://xpecto.github.io/docs/img/img_1438781157005.png)
 
 
-Bearbeiten → Beteiligungs-/Vertragsbuchungen
+*Bearbeiten → Beteiligungs-/Vertragsbuchungen*
 
 Suchen / Ändern
 ![](http://xpecto.github.io/docs/img/img_1438780690613.png)
