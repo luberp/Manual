@@ -6,8 +6,6 @@ Um das Werkzeug zu benutzen wählen Sie *Bearbeiten → Duplikate finden*.
 
 Sie wählen nun die Datenbasis wie z.B. Kundendaten. Das System listet nach kurzer Wartezeit die gefundenen Duplikate auf und zeigt die Unterschiede der beiden Datensätze an. Sie können nun die entsprechenden Daten verändern oder die zu übernehmenden Datenfelder auswählen. 
 
-![](http://xpecto.github.io/docs/img/img_1439546284557.png)
-
 ![](http://xpecto.github.io/docs/img/img_1439546407890.png)
 
 Bitte klicken Sie auf die jeweiligen Werte, die in den neuen Datensatz übernehmen werden sollen.
