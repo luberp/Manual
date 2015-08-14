@@ -1,37 +1,29 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>913_Beteiligungs-Vertragsbuchungen.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Beteiligungen <br>
-Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Ein Kunde der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen.</p>
+Beteiligungen
+Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Ein Kunde der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438780567378.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1438780567378.png)
 
-<p>Reiter: <em>Allgemein, OPOS, Salden, Konten-Verwendung, Handelsregister, Dauervollmachten.</em></p>
+Reiter: *Allgemein, OPOS, Salden, Konten-Verwendung, Handelsregister, Dauervollmachten.*
 
-<p>Reiter Salden</p>
+Reiter Salden
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438781236373.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1438781236373.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438781052382.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1438781052382.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438781118895.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1438781118895.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438781157005.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1438781157005.png)
 
-<p>Bearbeiten → Beteiligungs-/Vertragsbuchungen</p>
 
-<p>Suchen / Ändern <br>
-<img src="http://xpecto.github.io/docs/img/img_1438780690613.png" alt="" title=""> <br>
-Stapel-Erfassung <br>
-<img src="http://xpecto.github.io/docs/img/img_1438782147484.png" alt="" title=""></p>
+Bearbeiten → Beteiligungs-/Vertragsbuchungen
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439551104647.png" alt="" title=""></p>
+Suchen / Ändern
+![](http://xpecto.github.io/docs/img/img_1438780690613.png)
+Stapel-Erfassung
+![](http://xpecto.github.io/docs/img/img_1438782147484.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439551070655.png" alt="" title=""></p></div></body>
-</html>
+
+![](http://xpecto.github.io/docs/img/img_1439551104647.png)
+
+![](http://xpecto.github.io/docs/img/img_1439551070655.png)
