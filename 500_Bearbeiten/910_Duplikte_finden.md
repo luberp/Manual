@@ -1,4 +1,4 @@
-xpectoPro bietet Ihnen die Auflösung der Duplikate. Unter *Duplikate finden* können Duplikate in der Datenbank gesucht und aufgelöst, damit kann die Genauigkeit Ihrer Daten erhöht werden. Duplikate sind identische Datensätze, die entstehen wenn mehrere Benutzer Daten eingeben und die Datenbank zunimmt.
+xpectoPro bietet Ihnen die Auflösung der Duplikate. Unter *Duplikate finden* können Duplikate in der Datenbank gesucht und aufgelöst werden, um die Genauigkeit der Daten zu erhöhen. Duplikate sind identische Datensätze, die entstehen wenn mehrere Benutzer Daten eingeben.
 Es gibt die Möglichkeit nach Duplikate in Kundendaten, Vertriebspartner und Kontoverbindungen zu suchen.
 
 ![](http://xpecto.github.io/docs/img/img_1421242451087.png)
