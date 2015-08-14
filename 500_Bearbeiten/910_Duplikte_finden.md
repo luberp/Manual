@@ -17,6 +17,8 @@ Um das Werkzeug zu benutzen wählen Sie <em>Bearbeiten → Duplikate finden</em>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439546284557.png" alt="" title=""></p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1439546407890.png" alt="" title=""></p>
+
 <p>Bitte klicken Sie auf die jeweiligen Werte, die in den neuen Datensatz übernehmen werden sollen. <br>
 Mit einem Klick auf <img src="http://xpecto.github.io/docs/img/img_1421247414670.png" alt="" title=""> wird ein Datensatz entfernt und der verbleibende Datensatz aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den neuen Kunden übertragen.</p></div></body>
 </html>
