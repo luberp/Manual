@@ -17,18 +17,19 @@ Die Stapelbuchungs-Maske kann jeweils für ein bestimmtes Produkt geöffnet werd
 
  Jeder Funktionsbereich der Stapelbuchungs-Maske definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist eine Buchungsliste sowie eine Berarbeitungs-Maske zum Anzeigen bzw. Bearbeiten einer Buchung. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. 
 
-Die Bearbeitungs-Maske zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder Valutadatum, Vertrag, Ust-Kennz. und Bemerkung. 
+Die Feldgruppe *Buchung bearbeiten* zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder *Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer* sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder *Valutadatum, Vertrag, Ust-Kennz.* und *Bemerkung.* Die Pflichtfelder sind gelb hinterlegt. 
 
 ![](http://xpecto.github.io/docs/img/img_1439798971081.png)
 
-Valutadatum oder Wertstellung bezeichnet das Datum, ab dem Kontobewegungen wirksam werden. Valuta und Wertstellung bedeuten das gleiche, sie unterscheiden sich aber von der Buchung. Das Valutadatum ist das Datum, an dem eine Gutschrift oder Belastung wirksam wird. Das Buchungsdatum informiert nur über Kontobewegungen, während die Valuta den echten Kontostand anzeigt. 
+*Valutadatum* bezeichnet das Datum, ab dem Kontobewegungen wirksam werden. Valuta und Wertstellung bedeuten das gleiche, sie unterscheiden sich aber von der Buchung. Das *Valutadatum* ist das Datum, an dem eine Gutschrift oder Belastung wirksam wird. Das Buchungsdatum informiert nur über Kontobewegungen, während die Valuta den echten Kontostand anzeigt. 
 
-Unter Valutadatum wird das Datum erfasst, zu dem der Datensatz bei Berechnungen (wie z.B. Gebührenberechnung) berücksichtigt wird. Dieses kann unter Umständen vom Belegdatum abweichen. Unter Vertrag kann eine Vertrags-Nr. erfasst werden, der die selektierte Buchungen zugeordnet werden soll. Unter USt-Kennz. (Umsatzsteuer-Kennzeichen) kann ein Umsatzsteuer-Satz erfasst werden, der bei Berechnungen verwendet werden soll. Dieses Feld enthält nicht die Umsatzsteuer zu der selektierten Buchung. 
-Die in der Software geführte Nebenbuchhaltung unterstützt generell keine USt Behandlung!
-Die Pflichtfelder werden gelbhinterlegt. 
+Unter *Valutadatum* wird das Datum erfasst, zu dem der Datensatz bei Berechnungen (wie z.B. Gebührenberechnung) berücksichtigt wird. Dieses kann unter Umständen vom Belegdatum abweichen. Unter *Vertrag* kann eine Vertrags-Nr. erfasst werden, der die selektierte Buchungen zugeordnet werden soll. 
+Unter *USt-Kennz.* (Umsatzsteuer-Kennzeichen) kann ein Umsatzsteuer-Satz erfasst werden, der bei Berechnungen verwendet werden soll. Dieses Feld enthält nicht die Umsatzsteuer zu der selektierten Buchung. 
+Unter Bemerkung können Bearbeiter-Hinweise zu der selektierten Buchungen eingegeben werden.
+Unter Betrag ist zum eingegebenen Betrag zusätzlich die Währung auszuwählen. Dabei fließen nur Datensätze mit der beim Produkt hinterlegten Währung in die Buchhaltung ein (siehe *Produkt → Währung*).
+Unter bestimmte Voraussetzungen (z.B. *Buchungen exportieren* gewählt oder *Buchungen festschreiben*) ist die Feldgruppe *Buchung bearbeiten* in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme). GOBS-Modus ist ein Read-Only-Modus Änderungsschutz, keine Änderungen möglich.
 
 
-GOBS Modus - Damit man nichts mehr ändern kann.
  
 Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind. 
 Festschreiben damit nichts mehr geändert wird.
@@ -36,16 +37,17 @@ Wenn eine festgeschriebene Buchung gelöscht wird, wird sie einfach nur stornier
 1.Festschreiben 2.Schließen 3. Exportieren.
 
 Stapelbuchungen sind alle Buchungsdaten pro Fond.
-Buchungen festschreiben ist ein Änderungsschutz.
+
 Buchungen exportieren von Nebenbuchhaltung zur Hauptbuchhaltung.
 
 
-
-
-Schritte
-
+Reiter *Stapel-Erfassung* dient der Ersterfassung von Buchungen. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden alle Buchungen angezeigt, die von dem aktuell angemeldeten Benutzer am selben Tag bereits erfasst wurden. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439801023332.png) wird ein neuer Datensatz angelegt. Die Details des Buchungssatzes werden über die Feldgruppe *Buchung bearbeiten* eingegeben und dann 
+![](http://xpecto.github.io/docs/img/img_1439801999354.png)
 
 ![](http://xpecto.github.io/docs/img/img_1439799333097.png)
+
+
+
 
 ![](http://xpecto.github.io/docs/img/img_1439799522434.png)
 
