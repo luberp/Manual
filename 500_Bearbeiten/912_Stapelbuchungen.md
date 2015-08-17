@@ -29,7 +29,7 @@ Unter *Valutadatum* wird das Datum erfasst, zu dem der Datensatz bei Berechnunge
 Unter *USt-Kennz.* (Umsatzsteuer-Kennzeichen) kann ein Umsatzsteuer-Satz erfasst werden, der bei Berechnungen verwendet werden soll. Dieses Feld enthält nicht die Umsatzsteuer zu der selektierten Buchung. 
 Unter Bemerkung können Bearbeiter-Hinweise zu der selektierten Buchungen eingegeben werden.
 Unter Betrag ist zum eingegebenen Betrag zusätzlich die Währung auszuwählen. Dabei fließen nur Datensätze mit der beim Produkt hinterlegten Währung in die Buchhaltung ein (siehe *Produkt → Währung*).
-Unter bestimmte Voraussetzungen (z.B. *Buchungen exportieren* gewählt oder *Buchungen festschreiben*) ist die Feldgruppe *Buchung bearbeiten* in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme). GOBS-Modus ist ein Read-Only-Modus Änderungsschutz, keine Änderungen möglich.
+Unter bestimmte Voraussetzungen (z.B. *Buchungen exportieren* gewählt oder *Buchungen festschreiben*) ist die Feldgruppe *Buchung bearbeiten* in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme). GOBS-Modus ist ein Read-Only-Modus Darstellung, Sie können diese Buchungen nicht ändern.
 
  
 Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind. 
