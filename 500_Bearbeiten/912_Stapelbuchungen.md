@@ -26,7 +26,11 @@
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439547282677.png" alt="" title=""></p>
 
-<p>Jeder Funktionsbereich der Stapelbuchungs-Maske definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist eine Buchungsliste sowie eine Berarbeitungs-Maske zum Anzeigen bzw. Bearbeiten einer Buchung. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. </p>
+<p>Jeder Funktionsbereich der Stapelbuchung definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist eine Buchungsliste sowie eine Berarbeitungs-Maske zum Anzeigen bzw. Bearbeiten einer Buchung. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1439805428630.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1439805515568.png" alt="" title=""></p>
 
 <p>Die Feldgruppe <em>Buchung bearbeiten</em> zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder <em>Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer</em> sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder <em>Valutadatum, Vertrag, Ust-Kennz.</em> und <em>Bemerkung.</em> Die Pflichtfelder sind gelb hinterlegt. </p>
 
@@ -40,8 +44,9 @@ Unter Bemerkung können Bearbeiter-Hinweise zu der selektierten Buchungen eingeg
 Unter Betrag ist zum eingegebenen Betrag zusätzlich die Währung auszuwählen. Dabei fließen nur Datensätze mit der beim Produkt hinterlegten Währung in die Buchhaltung ein (siehe <em>Produkt → Währung</em>). <br>
 Unter bestimmte Voraussetzungen (z.B. <em>Buchungen exportieren</em> gewählt oder <em>Buchungen festschreiben</em>) ist die Feldgruppe <em>Buchung bearbeiten</em> in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme). GOBS-Modus ist ein Read-Only-Modus Änderungsschutz, keine Änderungen möglich.</p>
 
-<p>Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind.  <br>
-Festschreiben damit nichts mehr geändert wird. <br>
+<p>Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind. </p>
+
+<p>Festschreiben damit nichts mehr geändert wird. <br>
 Wenn eine festgeschriebene Buchung gelöscht wird, wird sie einfach nur storniert. <br>
 1.Festschreiben 2.Schließen 3. Exportieren.</p>
 
