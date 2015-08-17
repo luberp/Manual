@@ -48,13 +48,13 @@ Bereits festgeschriebene Buchungen (erkennbar durch eingetragene Buchungs-Nr) k�
 
 ![](http://xpecto.github.io/docs/img/img_1439799522434.png)
 
-Reiter *Buchungen festschreiben* dient der Übertragung von Buchungssätze in das Buchungsjournal.
+Reiter *Buchungen festschreiben* dient der Übertragung von Buchungssätze in das Buchungsjournal. 
+Im Buchungsjournal werden alle Buchungen eines gewählten Zeitraums tabellarisch aufgelistet. Die Kriterien zur Auswahl 
 ![](http://xpecto.github.io/docs/img/img_1439799558194.png)
 
 Festschreiben bedeutet dass eine Buchung dann nur noch durch eine Storno/Korrekturbuchung korrigiert werden kann. Damit werden die nachträgliche Manipulationen erschwert.
 
 ![](http://xpecto.github.io/docs/img/img_1439799593743.png)
-
 
 Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind. 
 
