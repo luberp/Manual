@@ -21,7 +21,7 @@ Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle 
 
 Unter Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
-Reiter *Transchen* dient zum  Verteilung von Beträge in Teilen.
+Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
 
 Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
