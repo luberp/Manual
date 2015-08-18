@@ -6,13 +6,11 @@ Beteiligungen werden in dem Kundensicht ![](http://xpecto.github.io/docs/img/img
 Jede Beiteiligung enthält  eine Eingabemaske mit eigene Reiter. 
 ![](http://xpecto.github.io/docs/img/img_1438780567378.png)
 
-Reiter: *Allgemein*
-Der Reiter *Allgemein*  wird einen Vertragsübersicht dargestellt. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.
+Unter dem Reiter *Allgemein*  wird einen Vertragsübersicht dargestellt. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. So werden die Zahlungstermine und Verzugstermine überwacht.
 
-
-
+Der Reiter Salden beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter Produkte vorkonfigurierte Salden.
 
 Salden, Konten-Verwendung, Handelsregister, Dauervollmachten.
 
