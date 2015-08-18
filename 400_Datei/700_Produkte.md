@@ -54,4 +54,4 @@ Unter dem Reiter *Salden* können Sie die Salden konfigurieren. Neben den schon 
 
 *im Saldo enthaltene Gruppen* damit ist der Ausweis der Gruppe von Konten, die in diesen Bilanzpositionen zusammengefaßt ist, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
 
-Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinnhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
+Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
