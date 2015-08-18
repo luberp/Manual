@@ -52,5 +52,4 @@ Unter dem Reiter *Salden* können Sie die Salden konfigurieren. Neben den schon 
 
 ![](http://xpecto.github.io/docs/img/img_1439909195399.png)
 
-
 Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinnhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
