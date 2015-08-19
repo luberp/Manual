@@ -65,5 +65,3 @@ Der Reiter *Buchungen exportieren* dient der Übergabe von Buchungssätze an das
 
 Die Reihenfolge der Bearbeitungsschritte in der Stapelbuchung ist: Festschreiben, Schließen, Exportieren.
 
-
-Das sind die Buchungsschlüssel die bei Produkt hinterlegt sind. 
