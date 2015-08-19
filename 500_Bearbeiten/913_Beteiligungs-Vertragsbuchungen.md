@@ -24,7 +24,7 @@ Falls Sie eine andere Einstellung wünschen, dann klicken Sie auf die Schaltflä
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439988547192.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439991020159.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1439991361575.png" alt="" title=""></p>
 
 <p>Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen. <br>
 Eine Beteiligung an einen Produkt wird in dem Dialog <em>neuen Vertrag erstellen</em> (siehe <em>Datei → Neu → Vertrag</em>) festgelegt.</p>
