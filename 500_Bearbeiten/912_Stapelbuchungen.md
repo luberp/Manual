@@ -60,7 +60,7 @@ Im Buchungsjournal werden alle Buchungen eines gewählten Zeitraums tabellarisch
 
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439820230811.png) wird eine Buchungsperiode geschlossen. Eine Buchungsperiode entspricht einem Kalendermonat. In einer bereits geschlossenen Buchungsperiode kann nicht mehr gebucht werden. Um das Buchen in einer geschlossenen Buchungsperiode zu ermöglichen, muss die Periode über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439820257578.png) wieder geöffnet werden. Das wieder öffnen einer Buchungsperiode hebt jedoch nicht die Festschreibung der Buchungen in dieser Periode auf.
-Um Ihre Arbeit zu erleichtern ![](http://xpecto.github.io/docs/img/img_1439975955612.png) Historie zum öffnen und schließen von Buchungsperioden.
+Um eine Übersicht über die schon geschlossene und geöffnete Buchungsperioden klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439975955612.png) - *Historie zum öffnen und schließen von Buchungsperioden*.
 
 Der Reiter *Buchungen exportieren* dient der Übergabe von Buchungssätze an das Buchhaltungssystem des Fonds bzw. eines Steuerberaters. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden nur Buchungen angezeigt, die bereits festgeschrieben sind. Dadurch ist sichergestellt, dass keine Buchungssätze die sich noch nicht im Buchungsjournal befinden, an externe Buchhaltungssysteme übergeben werden können. 
 
