@@ -1,6 +1,6 @@
 Die Funktion *Beteiligungs-/Vertragsbuchungen* dient der manuellen Buchungen und Korrekturen, für eine Vertrag oder Beteiligung.
 
-Um eine neue Buchung für einen Vertrag anzulegen, klicken Sie unter Bearbeiten → Beteiligungs-/Vertragsbuchungen. Falls Sie in dem Vertragsansicht noch kein Vertrag ausgewählt ist, werden Sie aufgefordert einen Vertrag auszuwählen.
+Um eine neue Buchung für einen Vertrag anzulegen, klicken Sie unter *Bearbeiten → Beteiligungs-/Vertragsbuchungen*. Falls Sie in dem Vertragsansicht noch kein Vertrag ausgewählt ist, werden Sie aufgefordert einen Vertrag auszuwählen.
 
 ![](http://xpecto.github.io/docs/img/img_1439988459598.png)
 
