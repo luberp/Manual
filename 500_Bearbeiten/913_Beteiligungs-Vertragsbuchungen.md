@@ -20,12 +20,11 @@ Eine Beteiligung an einen Produkt wird in dem Dialog <em>neuen Vertrag erstellen
 
 <p>xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter <em>OPOS</em> wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. </p>
 
-<p>Der Reiter <em>Salden</em> beinhaltet eine <em>Saldenkonfiguration</em> und eine <em>Summen und Salden</em>-Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden. <br>
-<img src="http://xpecto.github.io/docs/img/img_1439903745722.png" alt="" title=""></p>
+<p>Der Reiter <em>Salden</em> beinhaltet eine <em>Saldenkonfiguration</em> und eine <em>Summen und Salden</em> Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden.</p>
 
-<p>In der Summen und Salden Liste werden die Inhalte der Konten tabelarisch dargestellt. <br>
-Die Summen- und Saldenliste ist eine Übersicht der bebuchten Konten mit den jeweiligen Summen und  <br>
-Konten-Verwendung, Handelsregister, Dauervollmachten.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1439903745722.png" alt="" title=""></p>
+
+<p>In der <em>Summen und Salden</em> Liste werden die Inhalte der bebuchten Konten mit jeweiligen Summen, tabellarisch dargestellt.</p>
 
 <p>Die einzelnen Spalten sind: <br>
 Konto: interne Kontonummer <br>
