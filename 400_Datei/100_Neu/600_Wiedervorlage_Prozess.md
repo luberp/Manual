@@ -15,12 +15,12 @@ In unseren Fall erstellen wir einen Mahnprozess für einen Vertrag. Die Details 
 
 ![](http://xpecto.github.io/docs/img/img_1434095731925.png)
 
-Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste. 
-Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet sich direkt in der Hauptmaske unten im linken Bereich als Wiedervorlage Liste. 
+Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste (siehe *Bearbeiten → Wiedervorlage Seitenleiste*). 
+Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet sich direkt in der Hauptmaske unten im linken Bereich als Wiedervorlage Liste (siehe *Bearbeiten → Wiedervorlage Liste*). 
 
-Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Detail der Wiedervorlage werden angezeigt in der Wiedervorlage Seitenleiste. 
+Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Details der Wiedervorlage werden angezeigt. 
 
-Sie haben hier mehrere  Optionen für den Mahnprozess. 
+Sie haben hier mehrere Optionen für den Mahnprozess. 
 
 |  Schaltfläche            |    Beschreibung  |   
 | ------------- |:-------------| 
