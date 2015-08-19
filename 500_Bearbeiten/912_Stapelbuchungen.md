@@ -58,7 +58,6 @@ Im Buchungsjournal werden alle Buchungen eines gewählten Zeitraums tabellarisch
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439820973695.png) werden alle aufgelisteten Erfassungen in das Buchungsjournal übertragen, und in jeden betroffenen Buchungssatz der Festschreibungs-Zeitpunkt, der ausführende Benutzer und eine fortlaufenden Buchungsnummer eingetragen. Die Festschreibung einer einmal in das Journal übertragenen Buchung kann nachträglich nicht mehr aufgehoben werden. Die Buchung kann dann nur noch über *Suchen / Ändern* ![](http://xpecto.github.io/docs/img/img_1439816158639.png) storniert werden.
 
-
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439820230811.png) wird eine Buchungsperiode geschlossen. Eine Buchungsperiode entspricht einem Kalendermonat. In einer bereits geschlossenen Buchungsperiode kann nicht mehr gebucht werden. Um das Buchen in einer geschlossenen Buchungsperiode zu ermöglichen, muss die Periode über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439820257578.png) wieder geöffnet werden. Das wieder öffnen einer Buchungsperiode hebt jedoch nicht die Festschreibung der Buchungen in dieser Periode auf.
 Um eine Übersicht über die schon geschlossene und geöffnete Buchungsperioden zu haben,  klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439975955612.png) - *Historie zum öffnen und schließen von Buchungsperioden*.
 
