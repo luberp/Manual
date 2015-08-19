@@ -11,7 +11,9 @@ Als nächstes müssen Sie die Art des Prozesses auswählen.
 
 ![](http://xpecto.github.io/docs/img/img_1427125664097.png)
 
-In unseren Fall erstellen wir einen Mahnprozess für einen Vertrag. Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden.
+In unseren Fall erstellen wir einen Mahnprozess für einen Vertrag. 
+
+Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden.
 
 ![](http://xpecto.github.io/docs/img/img_1434095731925.png)
 
@@ -42,3 +44,17 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen drücken Sie auf die Schaltfl
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
 Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
+
+
+Der Überblick über die Vielzahl von Einzelaufgaben kann schnell zu einem Problem in der Verwaltung werden. Unsere Wiedervorlagen unterstützen Sie bei ihrer Arbeit.
+
+Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppen hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten. In der einfachsten Form können Sie nur die Angelegenheit als "erledigt" markieren. Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
+
+Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die Möglichen Optionen werden mehr. Ein Mahnprozess könnte so folgende Optionen anbieten:
+
+Schreiben erstellen und zusenden
+14 Tage auf Einzahlung warten
+auf Klärung durch Vertriebspartner warten
+Weiterleitung an Inkasso
+schließen des Mahnprozesses
+Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so sehr leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
