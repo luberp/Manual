@@ -1,84 +1,50 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>913_Beteiligungs-Vertragsbuchungen.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen. <br>
-Eine Beteiligung an einen Produkt wird in dem Dialog <em>neuen Vertrag erstellen</em> (siehe <em>Datei → Neu → Vertrag</em>) festgelegt.</p>
+*Bearbeiten → Beteiligungs-/Vertragsbuchungen*
 
-<p>Beteiligungen werden in dem Kundensicht unter Kunde, mit der Symbol <img src="http://xpecto.github.io/docs/img/img_1439978235195.png" alt="" title="">, dargestellt.  </p>
+Stapel-Erfassung
+![](http://xpecto.github.io/docs/img/img_1439905500008.png)
 
-<p>Klicken Sie auf eine Beteiligung, um in die Eingabemaske zu gelangen.</p>
+Suchen / Ändern
+![](http://xpecto.github.io/docs/img/img_1439905532327.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438780567378.png" alt="" title=""></p>
+Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen.
+Eine Beteiligung an einen Produkt wird in dem Dialog *neuen Vertrag erstellen* (siehe *Datei → Neu → Vertrag*) festgelegt.
 
-<p>Unter dem Reiter <em>Allgemein</em>  erhalten Sie eine Vertragsübersicht. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.</p>
+Beteiligungen werden in dem Kundensicht unter Kunde, mit der Symbol ![](http://xpecto.github.io/docs/img/img_1439978235195.png), dargestellt.  
 
-<p>xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter <em>OPOS</em> wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. </p>
+Klicken Sie auf eine Beteiligung, um in die Eingabemaske zu gelangen.
 
-<p>Der Reiter <em>Salden</em> beinhaltet eine <em>Saldenkonfiguration</em> und eine <em>Summen und Salden</em> Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden.</p>
+![](http://xpecto.github.io/docs/img/img_1438780567378.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439903745722.png" alt="" title=""></p>
+Unter dem Reiter *Allgemein*  erhalten Sie eine Vertragsübersicht. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.
 
-<p>In der <em>Summen und Salden</em> Liste werden die Inhalte der bebuchten Konten mit jeweiligen Summen, tabellarisch dargestellt.</p>
+xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
-<p>Die einzelnen Spalten sind:</p>
+Der Reiter *Salden* beinhaltet eine *Saldenkonfiguration* und eine *Summen und Salden* Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden.
 
-<table>
-<thead>
-<tr>
-  <th>Spalte</th>
-  <th align="left">Beschreibung</th>
-</tr>
-</thead>
-<tbody><tr>
-  <td>Konto</td>
-  <td align="left">interne Kontonummer</td>
-</tr>
-<tr>
-  <td>Bezeichnung</td>
-  <td align="left">Name des Kontos</td>
-</tr>
-<tr>
-  <td>Eröffnungsbilanz</td>
-  <td align="left">Saldo zum Jahresbeginn, Summe der Bewegungen auf dem Konto</td>
-</tr>
-<tr>
-  <td>Monat S / H</td>
-  <td align="left">Veränderungen im betrachteten Monat</td>
-</tr>
-<tr>
-  <td>Kum. S / H</td>
-  <td align="left">Veränderungen vom Beginn des Jahres bis einschließlich des betrachteten Monats</td>
-</tr>
-<tr>
-  <td>Saldo</td>
-  <td align="left">Saldo zum Ende des betrachteten Monats</td>
-</tr>
-</tbody></table>
+![](http://xpecto.github.io/docs/img/img_1439903745722.png)
+
+In der *Summen und Salden* Liste werden die Inhalte der bebuchten Konten mit jeweiligen Summen, tabellarisch dargestellt.
+
+Die einzelnen Spalten sind:
+
+|  Spalte            |    Beschreibung     |  
+| ------------- |:-------------| 
+| Konto     | interne Kontonummer| 
+| Bezeichnung    | Name des Kontos| 
+| Eröffnungsbilanz     | Saldo zum Jahresbeginn, Summe der Bewegungen auf dem Konto   | 
+|Monat S / H |Veränderungen im betrachteten Monat|
+|Kum. S / H |Veränderungen vom Beginn des Jahres bis einschließlich des betrachteten Monats|
+|Saldo|Saldo zum Ende des betrachteten Monats|
 
 
-<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439980233293.png" alt="" title=""> können Sie sehen welche Buchungen zum Saldo bzw. zum Konto gemacht würden.</p>
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439980233293.png) können Sie sehen welche Buchungen zum Saldo bzw. zum Konto gemacht würden.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439905236293.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1439905236293.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1439905104073.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1439905104073.png)
 
-<p>Unter dem Reiter <em>Konto-Verwendung</em> können die Bankkonten (siehe <em>Kunden → Adressen → Kontoverbindungen</em>) für unterschiedliche Verwendungszwecke eingesetzt.</p>
+Unter dem Reiter *Konto-Verwendung* können die Bankkonten (siehe *Kunden → Adressen → Kontoverbindungen*) für unterschiedliche Verwendungszwecke eingesetzt.
 
-<p>xpectoPro bietet mehrere Möglichkeiten sich an einen Produkt zu beteiligen.  Um alle Beteiligungsformen abzudecken, gibt hier die Beteiligung als Direktkommanditist, dafür ist eine Eintragung ins Handelsregister nötig. </p>
+xpectoPro bietet mehrere Möglichkeiten sich an einen Produkt zu beteiligen.  Um alle Beteiligungsformen abzudecken, gibt hier die Beteiligung als Direktkommanditist, dafür ist eine Eintragung ins Handelsregister nötig. 
 
-<p>Unter der Reiter <em>Dauervollmachten</em> können Sie eine Vollmacht für eine bestimmte Person anlegen.</p>
-
-<p><em>Bearbeiten → Beteiligungs-/Vertragsbuchungen</em></p>
-
-<p>Stapel-Erfassung <br>
-<img src="http://xpecto.github.io/docs/img/img_1439905500008.png" alt="" title=""></p>
-
-<p>Suchen / Ändern <br>
-<img src="http://xpecto.github.io/docs/img/img_1439905532327.png" alt="" title=""></p></div></body>
-</html>
+Unter der Reiter *Dauervollmachten* können Sie eine Vollmacht für eine bestimmte Person anlegen.
