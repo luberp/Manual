@@ -1,6 +1,5 @@
-Beteiligungen
-Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Ein Kunde der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen.
-Eine Beteiligung an einen Produkt wird in dem Dialog *neuen Vertrag erstellen* (siehe *Datei → Neu → Vertrag*).
+Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen.
+Eine Beteiligung an einen Produkt wird in dem Dialog *neuen Vertrag erstellen* (siehe *Datei → Neu → Vertrag*) festgelegt.
 
 Beteiligungen werden in dem Kundensicht ![](http://xpecto.github.io/docs/img/img_1439895004298.png), dargestellt. 
 Jede Beiteiligung enthält  eine Eingabemaske mit eigene Reiter. 
@@ -11,7 +10,6 @@ Unter dem Reiter *Allgemein*  wird einen Vertragsübersicht dargestellt. Das sin
 Die Reiter OPOS und Salden dienen der betriebswirtschaftlichen Auswertung. 
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
-
 
 Der Reiter *Salden* beihaltet eine Saldenkonfiguration und eine Summen und Salden-Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkte vorkonfigurierte Salden.
 ![](http://xpecto.github.io/docs/img/img_1439903745722.png)
