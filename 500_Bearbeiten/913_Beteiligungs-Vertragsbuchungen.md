@@ -1,42 +1,51 @@
-Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen.
-Eine Beteiligung an einen Produkt wird in dem Dialog *neuen Vertrag erstellen* (siehe *Datei → Neu → Vertrag*) festgelegt.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>913_Beteiligungs-Vertragsbuchungen.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Teile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen. <br>
+Eine Beteiligung an einen Produkt wird in dem Dialog <em>neuen Vertrag erstellen</em> (siehe <em>Datei → Neu → Vertrag</em>) festgelegt.</p>
 
-Beteiligungen werden in dem Kundensicht ![](http://xpecto.github.io/docs/img/img_1439895004298.png), dargestellt. 
-Jede Beiteiligung enthält  eine Eingabemaske mit eigene Reiter. 
-![](http://xpecto.github.io/docs/img/img_1438780567378.png)
+<p>Beteiligungen werden in dem Kundensicht unter Kunde, mit der Symbol <img src="http://xpecto.github.io/docs/img/img_1439978235195.png" alt="" title="">, dargestellt.  </p>
 
-Unter dem Reiter *Allgemein*  wird einen Vertragsübersicht dargestellt. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.
+<p>Klicken Sie auf eine Beteiligung, um in die Eingabemaske zu gelangen.</p>
 
-Die Reiter OPOS und Salden dienen der betriebswirtschaftlichen Auswertung. 
+<p><img src="http://xpecto.github.io/docs/img/img_1438780567378.png" alt="" title=""></p>
 
-xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
+<p>Unter dem Reiter <em>Allgemein</em>  erhalten Sie eine Vertragsübersicht. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.</p>
 
-Der Reiter *Salden* beihaltet eine Saldenkonfiguration und eine Summen und Salden-Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkte vorkonfigurierte Salden.
-![](http://xpecto.github.io/docs/img/img_1439903745722.png)
+<p>xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter <em>OPOS</em> wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. </p>
 
-In der Summen und Salden Liste werden die Inhalte der Konten tabelarisch dargestellt.
-Die Summen- und Saldenliste ist eine Übersicht der bebuchten Konten mit den jeweiligen Summen und 
-Konten-Verwendung, Handelsregister, Dauervollmachten.
+<p>Der Reiter <em>Salden</em> beinhaltet eine <em>Saldenkonfiguration</em> und eine <em>Summen und Salden</em>-Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden. <br>
+<img src="http://xpecto.github.io/docs/img/img_1439903745722.png" alt="" title=""></p>
 
-Die einzelnen Spalten sind:
-Konto: interne Kontonummer
-Bezeichnung: Name des Kontos
-EB-Wert: "Eröffnungsbilanz-Wert", also der Saldo zum Beginn des Jahres, dies ist (außer evtl. bei den Finanzkonten) auch die Summe der Bewegungen auf dem Konto seit Beginn der Buchhaltung
-Monatswert Soll/Haben: Veränderungen im betrachteten Monat
-kumulierter Wert Soll/Haben: Veränderungen vom Beginn des Jahres (EB-Wert) bis einschließlich des betrachteten Monats
-Saldo: Saldo zum Ende des betrachteten Monats
+<p>In der Summen und Salden Liste werden die Inhalte der Konten tabelarisch dargestellt. <br>
+Die Summen- und Saldenliste ist eine Übersicht der bebuchten Konten mit den jeweiligen Summen und  <br>
+Konten-Verwendung, Handelsregister, Dauervollmachten.</p>
 
-![](http://xpecto.github.io/docs/img/img_1438781052382.png)
+<p>Die einzelnen Spalten sind: <br>
+Konto: interne Kontonummer <br>
+Bezeichnung: Name des Kontos <br>
+EB-Wert: “Eröffnungsbilanz-Wert”, also der Saldo zum Beginn des Jahres, dies ist (außer evtl. bei den Finanzkonten) auch die Summe der Bewegungen auf dem Konto seit Beginn der Buchhaltung <br>
+Monatswert Soll/Haben: Veränderungen im betrachteten Monat <br>
+kumulierter Wert Soll/Haben: Veränderungen vom Beginn des Jahres (EB-Wert) bis einschließlich des betrachteten Monats <br>
+Saldo: Saldo zum Ende des betrachteten Monats</p>
 
-![](http://xpecto.github.io/docs/img/img_1439905236293.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1438781052382.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1439905104073.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1439905236293.png" alt="" title=""></p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1439905104073.png" alt="" title=""></p>
 
-*Bearbeiten → Beteiligungs-/Vertragsbuchungen*
+<p><em>Bearbeiten → Beteiligungs-/Vertragsbuchungen</em></p>
 
-Stapel-Erfassung
-![](http://xpecto.github.io/docs/img/img_1439905500008.png)
+<p>Stapel-Erfassung <br>
+<img src="http://xpecto.github.io/docs/img/img_1439905500008.png" alt="" title=""></p>
 
-Suchen / Ändern
-![](http://xpecto.github.io/docs/img/img_1439905532327.png)
+<p>Suchen / Ändern <br>
+<img src="http://xpecto.github.io/docs/img/img_1439905532327.png" alt="" title=""></p></div></body>
+</html>
