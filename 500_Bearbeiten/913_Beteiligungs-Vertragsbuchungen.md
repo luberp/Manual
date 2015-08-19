@@ -70,9 +70,9 @@ Eine Beteiligung an einen Produkt wird in dem Dialog <em>neuen Vertrag erstellen
 
 <p>Unter dem Reiter <em>Konto-Verwendung</em> können die Bankkonten (siehe <em>Kunden → Adressen → Kontoverbindungen</em>) für unterschiedliche Verwendungszwecke eingesetzt.</p>
 
-<p>Um alle Beteiligungsformen abzudecken wie ein Kunde sich beteiligen möchte, bittet hier xpectoPro die Möglichkeit neben die Möglichkeit eine Eintragung als Kommanditist, dafür ist eine Eintragung ins Handelsregister nötig, und ist wirtschaftlich Eigentümer seiner Beteiligung.</p>
+<p>xpectoPro bietet mehrere Möglichkeiten sich an einen Produkt zu beteiligen.  Um alle Beteiligungsformen abzudecken, gibt hier die Beteiligung als Direktkommanditist, dafür ist eine Eintragung ins Handelsregister nötig. </p>
 
-<p>Dauervollmachten</p>
+<p>Unter der Reiter <em>Dauervollmachten</em> können Sie eine Vollmacht für eine bestimmte Person anlegen.</p>
 
 <p><em>Bearbeiten → Beteiligungs-/Vertragsbuchungen</em></p>
 
