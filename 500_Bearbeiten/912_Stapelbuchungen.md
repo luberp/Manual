@@ -12,10 +12,11 @@ Die Stapelbuchungs-Maske ist das zentrale Werkzeug zur Verwaltung von Buchungsda
  -  Buchungen exportieren
  
 Die Stapelbuchung kann jeweils für ein bestimmtes Produkt samt seinen Buchungen, geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der Stapelbuchungs-Maske ein Produkt-Auswahl-Dialog angezeigt. Das gewählte Produkt wird in der Titelzeile des Stapelbuchungs-Dialog angezeigt. Solange der Dialog geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
+Um in die Stapelbuchung zu gelangen, klicken Sie in Menü *Bearbeiten → Stapelbuchung*.
 
 ![](http://xpecto.github.io/docs/img/img_1439547282677.png)
 
- Jeder Funktionsbereich der Stapelbuchung definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Berarbeitungsbereich sowie Buchungsliste sowie einemit  zum Anzeigen bzw. Bearbeiten einer Buchung. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. 
+ Jeder Funktionsbereich der Stapelbuchung definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Bearbeitungsbereich mit den Feldgruppen: *Buchung bearbeiten, Fremdwährung* und *Verarbeitungsinfos* - zum Anzeigen bzw. Bearbeiten einer Buchung, und eine Buchungsliste. Die jeweiligen von Anwender konfigurierten Filter bestimmen, welche Buchungen in der Buchungsliste angezeigt werden. 
  
 ![](http://xpecto.github.io/docs/img/img_1439810233436.png)
 
