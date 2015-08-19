@@ -48,7 +48,7 @@ Unter bestimmte Voraussetzungen (z.B. <em>Buchungen exportieren</em> gewählt od
 
 <p>Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439974064694.png" alt="" title=""> um Vorlagen für Ihre Buchungssätze anzulegen oder zu bearbeiten. <br>
 Über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439801023332.png" alt="" title=""> wird ein neuer Datensatz angelegt. Die Details des Buchungssatzes werden über die Feldgruppe <em>Buchung bearbeiten</em> eingegeben und dann über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439804594653.png" alt="" title=""> gespeichert. <br>
-Die Gültigkeit des eingegebenen Belegdatums und des Betrags wird direkt beim Verlassen des jeweiligen Feldes geprüft. Vor dem Speichern wird außerdem geprüft, ob die Pflichtfelder <em>Belegdatum, Konto, Gegenkonto, Betrag</em> und <em>Buchungstext</em> befüllt sind. </p>
+Die Gültigkeit des eingegebenen Belegdatums und des Betrags wird direkt beim Verlassen des jeweiligen Feldes geprüft. Vor dem Speichern wird außerdem geprüft, ob die Pflichtfelder <em>Betrag, Belegdatum, Konto, Gegenkonto</em> und <em>Buchungstext</em> befüllt sind. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439812810573.png" alt="" title=""></p>
 
