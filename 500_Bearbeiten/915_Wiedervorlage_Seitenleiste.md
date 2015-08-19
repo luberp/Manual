@@ -1,1 +1,1 @@
-Über diese Funktion wird die Anzeige der Wiedervorlage Seitenleiste in das Hauptfenster, ein- oder ausgeschaltet.
+Über diese Funktion wird die Anzeige der Wiedervorlage Seitenleiste im Hauptfenster, ein- oder ausgeschaltet.
