@@ -20,7 +20,7 @@ Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet 
 
 Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Details der Wiedervorlage werden angezeigt. 
 
-Sie haben hier mehrere Optionen für den Mahnprozess. 
+Sie haben hier mehrere Details für den Mahnprozess. 
 
 |  Schaltfläche            |    Beschreibung  |   
 | ------------- |:-------------| 
@@ -31,7 +31,7 @@ Sie haben hier mehrere Optionen für den Mahnprozess.
 |![](http://xpecto.github.io/docs/img/img_1439219672662.png)|spezielle Aktion: Die gewählten Wiedervorlagen werden geschlossen.|
 
 Wenn Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434096550097.png) drucken dann haben Sie die Möglichkeit  die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
-In die Eingabefelder können Sie den Betreff und Beschreibung eingeben bspw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
+In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
 
 ![](http://xpecto.github.io/docs/img/img_1434095854447.png)
 
