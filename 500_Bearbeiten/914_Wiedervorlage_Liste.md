@@ -1,4 +1,4 @@
-Über diese Funktion wird die Anzeige der Wiedervorlage Liste in der Hauptfenster, ein- oder ausgeschaltet. 
+Über diese Funktion wird die Anzeige der Wiedervorlage Liste im Hauptfenster, ein- oder ausgeschaltet. 
 
 ![](http://xpecto.github.io/docs/img/img_1439993705072.png)
 
