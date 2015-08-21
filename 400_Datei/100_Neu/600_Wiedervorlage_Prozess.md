@@ -4,7 +4,7 @@ Ein Prozess kann unterschiedliche Komponenten je nach Anforderung haben, und ein
 
 Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die Möglichen Optionen werden mehr. 
 Nachdem das Prozess angelegt würde, kann jeder Benutzer seiner eigenen Wiedervorlagen erstellen. 
-
+ 
 Wiedervorlagen können zu Kunden, Verträge und Vermittler erzeugt werden.
 Wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorlage angelegt werden soll. 
 Eine neue Wiedervorlage legen Sie an, indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* klicken oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png).
@@ -20,7 +20,6 @@ Ist der Fälligkeitszeitpunkt erreicht, öffnen Sie die Wiedervorlage mit der Au
 ![](http://xpecto.github.io/docs/img/img_1434095731925.png)
 
 Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste (siehe *Bearbeiten → Wiedervorlage Seitenleiste*). 
-
 
 Ein Mahnprozess könnte so folgende Optionen anbieten:
 Schreiben erstellen und zusenden
@@ -57,7 +56,3 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen drücken Sie auf die Schaltfl
 
 Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
 
-
-So lassen sich alle Vorgänge bezüglich Ihrer Vertriebsaktivitäten am besten überwachen und nachvollziehen. 
-
-Die Erstellung der Wiedervorlage selber erfolgt intuitiv über ein Eingabefenster. Sie beschreiben im Betreff bzw. in den Notizen die Aufgabe zu diesem Kontakt und legen ein Fälligkeitsdatum an. Ist der Fälligkeitszeitpunkt erreicht, öffnen Sie die Wiedervorlage mit der Aufgabe, können nach der Kontaktaufnahme direkt das Ergebnis der Kontaktaufnahme festhalten und bei Bedarf eine neue Wiedervorlage erstellen. 
