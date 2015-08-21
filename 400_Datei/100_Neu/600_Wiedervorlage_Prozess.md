@@ -6,8 +6,8 @@ Ein Prozess kann unterschiedliche Komponenten je nach Anforderung haben, und ein
 Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die Möglichen Optionen werden mehr. 
 Nachdem das Prozess angelegt würde, kann jeder Benutzer seiner eigenen Wiedervorlagen erstellen. 
  
-Da die Wiedervorlagen zu Kunden, Verträge und Vermittler erzeugt werden können,
-wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorlage angelegt werden soll. 
+Die Wiedervorlagen können zu Kunden, Verträge, Vermittler, Personen und Veranstaltungen erzeugt werden. 
+
 Eine neue Wiedervorlage legen Sie an, indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* klicken oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png).
 
 Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen.  
