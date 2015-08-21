@@ -22,13 +22,6 @@ Ist der Fälligkeitszeitpunkt erreicht, öffnet sich die Wiedervorlage mit der A
 
 Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste (siehe *Bearbeiten → Wiedervorlage Seitenleiste*). 
 
-Ein Mahnprozess könnte so folgende Optionen anbieten:
-Schreiben erstellen und zusenden
-14 Tage auf Einzahlung warten
-auf Klärung durch Vertriebspartner warten
-Weiterleitung an Inkasso
-schließen des Mahnprozesses
-
 Die Aktionen für den Mahnprozess sind:
 |  Aktion            |    Beschreibung  |   
 | ------------- |:-------------| 
