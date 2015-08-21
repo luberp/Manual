@@ -9,7 +9,7 @@ Wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorla
 Eine neue Wiedervorlage legen Sie an, indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* klicken oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png).
 
 Als nächstes müssen Sie die Art des Prozesses, für Ihre Wiedervorlage, auswählen.  
-Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die  Art des Prozesses Mahnprozess.
+Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art des Prozesses Mahnprozess.
 
 ![](http://xpecto.github.io/docs/img/img_1427125664097.png)
 
