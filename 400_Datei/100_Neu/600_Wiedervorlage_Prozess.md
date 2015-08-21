@@ -1,9 +1,12 @@
-Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Diese Wiedervorlagen werden per Hand angelegt und ermöglichen so eine strukturierte Bearbeitung von Aufgaben. 
+Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. 
+Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppen hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten. In der einfachsten Form können Sie nur die Angelegenheit als "erledigt" markieren. Umfangreichere Wiedervorlagen die mehrere Funktionen enthalten, werden so zu Prozessen.
+Ein Prozess kann unterschiedliche Komponenten je nach Anforderung haben, und ein eigener Design der sehr komplex sein kann (siehe *Extras → Anpassen → Prozesse Rechte und Batchjobs*). 
 
-Die Wiedervorlagen können mehr Funktionen enthalten und werden so zu Prozessen. Der Mitarbeiter enthält z.B. zu Mahnprozesse der Zeichnungsverlauf oder andere Dinge im Auge und das ohne selbst geführte Listen.
-
- Ein Prozess kann unterschiedliche Komponenten je nach Anforderung haben, und ein eigener Design der sehr komplex sein kann (siehe *Extras → Anpassen → Prozesse Rechte und Batchjobs*). 
+Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die Möglichen Optionen werden mehr. 
 Nachdem das Prozess angelegt würde, kann jeder Benutzer seiner eigenen Wiedervorlagen erstellen. 
+Der Mitarbeiter enthält z.B. zu Mahnprozesse der Zeichnungsverlauf oder andere Dinge im Auge und das ohne selbst geführte Listen.
+
+
 
 Wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorlage angelegt werden soll. 
 Eine neue Wiedervorlage legen Sie an, indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* klicken oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png).
@@ -50,7 +53,8 @@ Der Überblick über die Vielzahl von Einzelaufgaben kann schnell zu einem Probl
 
 Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppen hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten. In der einfachsten Form können Sie nur die Angelegenheit als "erledigt" markieren. Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
 
-Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die Möglichen Optionen werden mehr. Ein Mahnprozess könnte so folgende Optionen anbieten:
+
+Ein Mahnprozess könnte so folgende Optionen anbieten:
 
 Schreiben erstellen und zusenden
 14 Tage auf Einzahlung warten
