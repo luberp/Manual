@@ -1,21 +1,22 @@
-Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. 
-Sie können Wiedervorlagen für sich selbst oder für ganze Arbeitsgruppen hinterlegen. Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten. In der einfachsten Form können Sie nur die Angelegenheit als "erledigt" markieren. Umfangreichere Wiedervorlagen die mehrere Funktionen enthalten, werden so zu Prozessen.
+Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Sie können für ein Benutzer oder für eine Arbeitsgruppe hiterlegt werden.
+Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten. In der einfachsten Form können Sie nur die Angelegenheit als "erledigt" markieren. 
+Umfangreichere Wiedervorlagen die mehrere Funktionen enthalten, werden so zu Prozessen.
 Ein Prozess kann unterschiedliche Komponenten je nach Anforderung haben, und ein eigener Design der sehr komplex sein kann (siehe *Extras → Anpassen → Prozesse Rechte und Batchjobs*). 
 
 Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die Möglichen Optionen werden mehr. 
 Nachdem das Prozess angelegt würde, kann jeder Benutzer seiner eigenen Wiedervorlagen erstellen. 
  
-Wiedervorlagen können zu Kunden, Verträge und Vermittler erzeugt werden.
-Wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorlage angelegt werden soll. 
+Da die Wiedervorlagen zu Kunden, Verträge und Vermittler erzeugt werden können,
+wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorlage angelegt werden soll. 
 Eine neue Wiedervorlage legen Sie an, indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* klicken oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png).
 
 Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen.  
-Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art Mahnprozess.
+Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art: Mahnprozess.
 
 ![](http://xpecto.github.io/docs/img/img_1427125664097.png)
 
-Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden.  Sie beschreiben im Betreff die Aufgabe zu diesem Kontakt und legen ein Fälligkeitsdatum an, und der Verantwortlicher Mitarbeiter.
-Ist der Fälligkeitszeitpunkt erreicht, öffnen Sie die Wiedervorlage mit der Aufgabe.
+Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden.  Sie beschreiben im Betreff die Aufgabe zu diesem Kontakt, legen ein Fälligkeitsdatum an, und der Verantwortlicher Mitarbeiter.
+Ist der Fälligkeitszeitpunkt erreicht, öffnet sich die Wiedervorlage mit der Aufgabe.
 
 ![](http://xpecto.github.io/docs/img/img_1434095731925.png)
 
