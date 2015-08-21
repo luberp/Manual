@@ -9,7 +9,7 @@ Wiedervorlagen können zu Kunden, Verträge und Vermittler erzeugt werden.
 Wählen Sie zuerst den Kunde, den Vertrag oder Vermittler zu dem die Wiedervorlage angelegt werden soll. 
 Eine neue Wiedervorlage legen Sie an, indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* klicken oder auf das Zahnradsymbol ![](http://xpecto.github.io/docs/img/img_1427124269211.png).
 
-Als nächstes müssen Sie die Art des Prozesses, für Ihre Wiedervorlage, auswählen.  
+Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen.  
 Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art Mahnprozess.
 
 ![](http://xpecto.github.io/docs/img/img_1427125664097.png)
@@ -21,10 +21,6 @@ Ist der Fälligkeitszeitpunkt erreicht, öffnen Sie die Wiedervorlage mit der Au
 
 Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste (siehe *Bearbeiten → Wiedervorlage Seitenleiste*). 
 
-
-Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet sich direkt in der Hauptmaske unten im linken Bereich als Wiedervorlage Liste (siehe *Bearbeiten → Wiedervorlage Liste*). 
-
-Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Details der Wiedervorlage werden angezeigt. 
 
 Ein Mahnprozess könnte so folgende Optionen anbieten:
 Schreiben erstellen und zusenden
@@ -44,8 +40,7 @@ Die Aktionen für den Mahnprozess sind:
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434096550097.png) um die Wiedervorlage zu bearbeiten. 
 
-
- dann haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
+In dem Detailansicht haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
 In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
 
 ![](http://xpecto.github.io/docs/img/img_1440157885470.png)
