@@ -26,17 +26,25 @@ Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie h
 
 <p><img src="http://xpecto.github.io/docs/img/img_1434095731925.png" alt="" title=""></p>
 
-<p>Mit einem Klick auf <em>OK</em> wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste (siehe <em>Bearbeiten → Wiedervorlage Seitenleiste</em>).  <br>
-Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet sich direkt in der Hauptmaske unten im linken Bereich als Wiedervorlage Liste (siehe <em>Bearbeiten → Wiedervorlage Liste</em>). </p>
+<p>Mit einem Klick auf <em>OK</em> wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Seitenleiste (siehe <em>Bearbeiten → Wiedervorlage Seitenleiste</em>). </p>
+
+<p>Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet sich direkt in der Hauptmaske unten im linken Bereich als Wiedervorlage Liste (siehe <em>Bearbeiten → Wiedervorlage Liste</em>). </p>
 
 <p>Durch Doppelklick auf die Wiedervorlage in der Wiedervorlage Liste wird der entsprechende Kunde geladen und die Details der Wiedervorlage werden angezeigt. </p>
 
-<p>Die Optionen für den Mahnprozess sind:</p>
+<p>Ein Mahnprozess könnte so folgende Optionen anbieten: <br>
+Schreiben erstellen und zusenden <br>
+14 Tage auf Einzahlung warten <br>
+auf Klärung durch Vertriebspartner warten <br>
+Weiterleitung an Inkasso <br>
+schließen des Mahnprozesses</p>
+
+<p>Die Aktionen für den Mahnprozess sind:</p>
 
 <table>
 <thead>
 <tr>
-  <th>Option</th>
+  <th>Aktion</th>
   <th align="left">Beschreibung</th>
 </tr>
 </thead>
@@ -63,7 +71,9 @@ Die Anzahl der fälligen Wiedervorlagen für den angemeldeten Benutzer befindet 
 </tbody></table>
 
 
-<p>Um die Wiedervorlage zu bearbeiten <img src="http://xpecto.github.io/docs/img/img_1434096550097.png" alt="" title=""> drucken dann haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen. <br>
+<p>Um die Wiedervorlage zu bearbeiten klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1434096550097.png" alt="" title=""> </p>
+
+<p>dann haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen. <br>
 In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1440154781209.png" alt="" title=""></p>
@@ -76,13 +86,5 @@ In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. änd
 
 <p><img src="http://xpecto.github.io/docs/img/img_1434095945225.png" alt="" title=""></p>
 
-<p>Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf <em>Start</em>.</p>
-
-<p>Ein Mahnprozess könnte so folgende Optionen anbieten:</p>
-
-<p>Schreiben erstellen und zusenden <br>
-14 Tage auf Einzahlung warten <br>
-auf Klärung durch Vertriebspartner warten <br>
-Weiterleitung an Inkasso <br>
-schließen des Mahnprozesses</p></div></body>
+<p>Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf <em>Start</em>.</p></div></body>
 </html>
