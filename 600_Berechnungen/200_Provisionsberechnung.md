@@ -8,8 +8,10 @@ Provisionsansprüche erzeugen: Bei der Vertragserfassung werden aus den Modellen
 
 ![](http://xpecto.github.io/docs/img/img_1432631898157.png)
 
-Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*.
-![](http://xpecto.github.io/docs/img/img_1432632034967.png)
+Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
+
+![](http://xpecto.github.io/docs/img/img_1424767790694.png)
+
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png)
 
@@ -41,7 +43,8 @@ Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt
 
 ----------
 
-![](http://xpecto.github.io/docs/img/img_1424767790694.png)
+
+
 
 Links oben wird der Abrechnungszeitraum angezeigt. Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen.
 
