@@ -6,7 +6,6 @@ In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können täglich
 
 Provisionsansprüche erzeugen: Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
 
-
 ![](http://xpecto.github.io/docs/img/img_1432631898157.png)
 
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*.
@@ -86,4 +85,4 @@ Um die erstellten Auszahlungen als DTAUS-Datei auszugeben, klicken Sie auf
 Soll die Provisionsabrechnung ausgedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig "Provisionsabrechnung") und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. (PDF, Excel, Word...). Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img114.jpg)
 .
 
-Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit _Nein_, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit _Ja_, so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnungsgemäße EDV-gestüzte Archivierung. Die archivierten Belege können in der Vermittler-Maske auf dem Karteireiter_Belege_ aufgerufen und jederzeit wieder im PDF-Format ausgegeben werden.	[[TS9]](C:/src/EAWin/Docu/eAgentur.NET%20Handbuch/Handbuch_Neu_2.htm#_msocom_9)
+Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit _Nein_, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit _Ja_, so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnungsgemäße EDV-gestüzte Archivierung. Die archivierten Belege können in der Vermittler-Maske auf dem Karteireiter_Belege_ aufgerufen und jederzeit wieder im PDF-Format ausgegeben werden.
