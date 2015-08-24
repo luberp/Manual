@@ -40,11 +40,11 @@ In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. änd
 
 ![](http://xpecto.github.io/docs/img/img_1440406662263.png)
 
-Bei Wiedervorlagen die eine Prüfung enthalten können Sie zwischen Prüfung OK oder nicht OK wählen.
+Bei Wiedervorlagen die eine Prüfung enthalten können Sie zwischen *Prüfung OK* oder *nicht OK* wählen.
 
-Um den *Wiedervorlage Steuerung* Dialog zu öffnen drücken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434097634985.png). Der Dialog dient dazu für einen Prozess mit einen bestimmte Prozessschritt eine gewünschte Aktion zu wählen und durchzuführen. Z.B. *Neuem Benutzer zuweisen* es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
+Der Dialog *Steuerung* dient dazu für einen Prozess mit einen bestimmte Prozessschritt eine gewünschte Aktion, gleichzeitig für mehrere Wiedervorlagen, zu wählen und durchzuführen.
+Um den *Steuerung* Dialog zu öffnen drücken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434097634985.png).  Sie können z.B. alle fällige Mahnprozesse mit der Mahnstuffe 1 *Neuem Benutzer zuweisen*,  es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
 
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
 Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
-
