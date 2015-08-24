@@ -36,7 +36,7 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14340
 
 ![](http://xpecto.github.io/docs/img/img_1440406744560.png)
 
-In dem Detailansicht haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
+In dem *Detailansicht* haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
 In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
 
 ![](http://xpecto.github.io/docs/img/img_1440406662263.png)
