@@ -12,7 +12,7 @@ Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Pr
 
 ![](http://xpecto.github.io/docs/img/img_1424767790694.png)
 
-
+Hier haben Sie die Möglichkeit 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png)
 
 Ausgewählte Provisionen verbuchen ![](http://xpecto.github.io/docs/img/img_1432632280997.png)Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Sie werden anschließend automatisch zum Belegdruck weiter geleitet.
@@ -85,7 +85,6 @@ Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläc
 Um die erstellten Auszahlungen als DTAUS-Datei auszugeben, klicken Sie auf
 ![](http://xpecto.github.io/docs/img/img112.jpg). Die erstellte Datei ist im Temp-Verzeichnis (Unter Menü _Extras-&gt;Einstellungen-&gt;"Temp Pfad"_) zu finden und mühelos in Ihre E-Banking-Software einzulesen.
 
-Soll die Provisionsabrechnung ausgedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig "Provisionsabrechnung") und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. (PDF, Excel, Word...). Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img114.jpg)
-.
+Soll die Provisionsabrechnung ausgedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig "Provisionsabrechnung") und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. (PDF, Excel, Word...). Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img114.jpg).
 
 Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit _Nein_, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit _Ja_, so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnungsgemäße EDV-gestüzte Archivierung. Die archivierten Belege können in der Vermittler-Maske auf dem Karteireiter_Belege_ aufgerufen und jederzeit wieder im PDF-Format ausgegeben werden.
