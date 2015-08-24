@@ -51,7 +51,7 @@
 *  6.2. [Provisionsberechnung](http://help.xpecto.de/Berechnungen/Provisionsberechnung)
 *  6.3. [verbuchte Provisionen, Belege und Auszahlungen](http://help.xpecto.de/Berechnungen/verbuchte_Provisionen_Belege_und_Auszahlungen)
 *  6.4. [Berechnungen und Transaktionen](http://help.xpecto.de/Berechnungen/Berechnungen_und_Transaktionen)
-* 6.5. [Offene Posten](http://help.xpecto.de/Berechnungen/Offene Posten)
+* 6.5. [Offene Posten](http://help.xpecto.de/Berechnungen/Offene_Posten)
 *  6.6. [Zahlungsverkehr](http://help.xpecto.de/Berechnungen/Zahlungsverkehr)
 *  6.7. [Probeberechnung](http://help.xpecto.de/Berechnungen/Probeberechnung)
      *  6.7.1. [Provisionstest](http://help.xpecto.de/Berechnungen/Probeberechnung/Provisionstest)
