@@ -45,7 +45,6 @@ Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt
 
 
 
-
 Links oben wird der Abrechnungszeitraum angezeigt. Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen.
 
 Rechts oben wird der Stichtag als Datum ausgegeben. Soll z.B.: eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler erstellt werden, muss die Checkbox Einschränkungen der Berechnung gesetzt werden.
