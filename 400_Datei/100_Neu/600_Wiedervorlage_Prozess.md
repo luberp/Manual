@@ -23,6 +23,7 @@ Ist der Fälligkeitszeitpunkt erreicht, öffnet sich die Wiedervorlage mit der A
 Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Liste  oder Wiedervorlage Seitenleiste, falls aktiv (siehe *Bearbeiten → Wiedervorlage Seitenleiste*). 
 
 Die  weitere Aktionen für den Mahnprozess sind:
+
 |  Aktion            |    Beschreibung  |   
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1434096550097.png)      | Öffnet die Bearbeitung für diesen Prozessschritt| 
