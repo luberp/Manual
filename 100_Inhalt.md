@@ -44,7 +44,7 @@
 *  5.12. [Stapelbuchungen](http://help.xpecto.de/Bearbeiten/Stapelbuchungen)
 * 5.13. [Beteiligungs-/Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Beteiligungs-Vertragsbuchungen)
 * 5.14. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
-* 5.15. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenliste)
+* 5.15. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenleiste)
 * 5.16.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuereung)
 6. [Menü: Berechnungen](http://help.xpecto.de/Berechnungen) 
 *  6.1. [Abrechungszeitraum festlegen](http://help.xpecto.de/Berechnungen/Abrechnungszeitraum_festlegen)
