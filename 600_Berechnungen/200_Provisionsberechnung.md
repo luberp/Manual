@@ -32,7 +32,6 @@ Entfernt die getroffenen Auswahl.
 
 ![](http://xpecto.github.io/docs/img/img_1432633098564.png)
 
-
 Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
 
@@ -40,10 +39,7 @@ Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt
 
 ![](http://xpecto.github.io/docs/img/img_1432633334049.png)
 
-
 ----------
-
-
 
 Links oben wird der Abrechnungszeitraum angezeigt. Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen.
 
@@ -65,7 +61,6 @@ Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie bit
 ![](http://xpecto.github.io/docs/img/img100.png)
 
 ![](http://xpecto.github.io/docs/img/img102.jpg)
-
 
 In unserem Beispiel wird nun eine fällige Provisionszahlung in Euro und der Gegenwert in oftmals verwendeten firmeninternen Options- oder Bonussystemen angezeigt.
 
