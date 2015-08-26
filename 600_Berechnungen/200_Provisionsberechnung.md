@@ -1,6 +1,8 @@
 Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. Um eine Provisionsberechnung zu starten, klicken Sie im Menü auf	*Berechnungen → Provisionsberechnung*.
 
-In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
+In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe *Berechnungen → Abrechnungszeitraum festlegen*).
+
+Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
 
 
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
