@@ -1,7 +1,8 @@
 Das Modul Zahlungsverkehr berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten.
 
-Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Markieren Sie die abzurechnenden Verträge (Häkchen setzen) und erstellen Sie die gewünschte Ausgabedatei. Als Ausgabeformate stehen DTAUS (Standardformat deutscher Banken für den Zahlungsverkehr)
-oder EDIFACT (internationales Standardformat für den Zahlungsverkehr) zur Auswahl.
+Wählen Sie das abzurechnende Produkt und den Stichtag. (fällige Raten bis zum Stichtag werden in der Berechnung berücksichtigt). 
+
+Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. Als Ausgabeformate stehen DTAUS (Standardformat deutscher Banken für den Zahlungsverkehr) oder EDIFACT (internationales Standardformat für den Zahlungsverkehr) zur Auswahl.
 
 Nach Auswahl eines entsprechenden Berichts kann über den Button "Abrechnung drucken" eine Abrechnungs-Liste zu dem erstellten Sollbuchungslauf ausgegeben werden.
 
@@ -19,3 +20,4 @@ Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug rele
 
 Über Berechnungen  Sollstellung soll das Sollstellungsfenster geöffnet. Sie können hier direkt mit dem Berechnungslauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.
 xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese nach verschiedene Kriterien zu eine Datei zusammen. Mit einem Klick auf „Datenprüfung" wird die Plausibilitätsprüfung der einzelne Daten gestartet. Falls Sie wünschen können Sie sich die Details der einzelne Einzüge anzeigen durch einen Klick auf „Details anzeigen". Hier sehen Sie welche Daten fehlerhaft sind, diese werden automatisch rot markiert. Das System enthält ein komplexes Regelwerk, welches automatisch viele Problemfälle im Vorfeld erkennt. Existiert die BLZ, passt die Kontonummer zum Schema der zugehörigen Bank. Mit Dateien erzeugen werden die Zahlungsverkehrsdateien erzeugt. Zusätzlich wird ein übersichtlicher Begleitzettel für jede Datei erstellt. Das System kann Lastschriften in vier verschiedene Formate ausgeben: DTA, DTAUS, EDIFACT, SEPA für europäischen Kunden und CSV für alle andere. Die Dateien können jetzt über die entsprechende Banksysteme eingereicht werden. Bei der einzelne Verträge würde der Zahlplan (Sollbuchungen) um diese Rate ergänzt. Der Status dieser Einzug steht auf belastet da er zu Bank weitergegeben würde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszug-Manager. Das System erkennt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt springt der Status auf bezahlt und der Vorgang wird somit abgeschlossen. 
+
