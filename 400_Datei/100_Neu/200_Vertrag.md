@@ -15,9 +15,13 @@ Der neue Vertrag wird nachdem Speichern unter Beteiligung angezeigt.
 Der Reiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
 Geben Sie die Daten zum Vertrag wie Trasche, Laufzeit, Zahlungsintervall usw. ein. 
 
-Ein entscheidendes Feld ist der Verkäufer. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt (siehe *Vermittler → Provisionen*).
+Eine entscheidende Feldgruppe  ist *Status, Provision*. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt.
+![](http://xpecto.github.io/docs/img/img_1432631850462.png)
 
-Bei der Vertragserfassung werden aus den Modellen und den Sätzen in Verbindung mit den Daten des Vertrags/Umsatzes die zukünftigen Provisionsansprüche  für diesen Vertrag berechnet. Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichen Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden.
+Provisionsansprüche werden aus den Modellen und den Provisionsätzen, in Verbindung mit den Daten des Vertrages, erzeugt. 
+Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können dann manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden (siehe *Vermittler → Provisionen*).
+
+![](http://xpecto.github.io/docs/img/img_1432631898157.png)
 
 Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
