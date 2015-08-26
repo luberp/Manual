@@ -11,7 +11,7 @@
 
 <p><img src="http://xpecto.github.io/docs/img/img_1431936837532.png" alt="" title=""></p>
 
-<p>In dem Dialog <em>Zeitraum wählen</em> gibt verschiedene Möglichkeiten eine Abrechnunszeitraum zu wählen.</p>
+<p>In dem Dialog <em>Zeitraum wählen</em> gibt verschiedene Möglichkeiten eine Abrechnungszeitraum zu wählen.</p>
 
 <table>
 <thead>
