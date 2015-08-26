@@ -61,5 +61,5 @@
 
 <p>Der neu ausgewählte Zeitraum wird dann in der <em>Symbol -und Funktionsleiste</em> angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum sich gerade handelt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440598845382.png" alt="" title=""></p></div></body>
+<p><img src="http://xpecto.github.io/docs/img/img_1440598940441.png" alt="" title=""></p></div></body>
 </html>
