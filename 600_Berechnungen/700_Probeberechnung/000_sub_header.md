@@ -1,11 +1,4 @@
-xpectoPro bietet eine Reihe von frei anpassbaren Berechnungen und damit verknüpften Berichten in Abhängigkeit der Bedürfnisse Ihres Unternehmens. Eine ausführliche Analyse Ihrer Vertriebs- und Abrechnungsstruktur zusammen mit dem xpecto Kundensupport ist daher unumgänglich. Die individuelle Anpassung der Oberflächen, Berechnungsprozeduren sowie der gewünschten Berichte wird vom xpecto Kundensupport erstellt.
-Das Menüpunkt Berechnungen umfasst drei Bereiche: Provisionsbuchungen, Anlegerbuchungen und Probeberechung.
-
-Provisionsbuchungen
-
-Anlegerbuchungen
-
-Probeberechnung
+Über Menü *Bearbeiten → Probeberechnungen* sind verschiedene Testberechnungen zu den vorgenannten Berechnungs-Modulen aufrufbar. Diese dienen der Fehlersuche in Berechnungsskripten durch den xpecto Kundensupport. Bei den Testberechnungen werden dieselben Berechnungen durchgeführt, wie bei den realen Berechnungsläufen, jedoch werden nur die Log-Ausgaben der Berechnungsscripte angezeigt, aber keine Datensätze in der Datenbank erzeugt. Der Aufruf einer beliebigen Testberechnung durch den Anwender ist daher unschädlich.
 
 
 
