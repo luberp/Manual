@@ -4,7 +4,6 @@ In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können täglich
 
 Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
 
-
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
 
 ![](http://xpecto.github.io/docs/img/img_1424767790694.png)
@@ -24,7 +23,7 @@ Entfernt die getroffenen Auswahl.
 ![](http://xpecto.github.io/docs/img/img_1432632668979.png)
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
-
+bla
 ![](http://xpecto.github.io/docs/img/img_1432632934567.png)
 
 ![](http://xpecto.github.io/docs/img/img_1432633098564.png)
@@ -55,9 +54,6 @@ Mögliche Einschränkungen sind:
 „Schwelle für die Auswahl von höhere Provisionen. Bitte geben Sie den entsprechenden Betrag ein."
 Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie bitte auf _PROVISION BERECHNEN_.
 
-![](http://xpecto.github.io/docs/img/img100.png)
-
-![](http://xpecto.github.io/docs/img/img102.jpg)
 
 In unserem Beispiel wird nun eine fällige Provisionszahlung in Euro und der Gegenwert in oftmals verwendeten firmeninternen Options- oder Bonussystemen angezeigt.
 
@@ -65,11 +61,11 @@ Im markiertem Eingabefenster kann noch ein weiterer Filter gesetzt werden. Hier 
 
 Nachdem Sie Ihre Auswahl getroffen haben klicken Sie auf weiter und bestätigen Sie die folgende Maske mit![](http://xpecto.github.io/docs/img/img104.jpg).
 
-![](http://xpecto.github.io/docs/img/img106.jpg)
+
 
 Markieren Sie die Provisionszahlungen, für die eine Abrechnung erzeugt werden sollen durch "Haken setzen" und klicken Sie dann auf Auszahlung erstellen. Es wird eine Auszahlung erstellt, in der in unserem Beispiel die auszuzahlende Provision mit anfallenden Bürokosten verrechnet wird und somit nur reale Ansprüche des Vermittlers gegenüber der Zahlfirma berücksichtigt werden.
 
-![](http://xpecto.github.io/docs/img/img108.jpg)
+
 
 Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img110.jpg) wieder gelöscht werden.
 
