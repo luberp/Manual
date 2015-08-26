@@ -2,28 +2,41 @@ Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. Um ein
 
 In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe *Berechnungen → Abrechnungszeitraum festlegen*).
 
-Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
-
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
+Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 
+Die Dropdownliste: 1 Alle Provisionen 2 Vertrags-Provisionen 3 restliche Provisionen.
+
+Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
+Wenn alle Werte richtig gesetzt sind dann die Schaltfläche Start betätigen.
 ![](http://xpecto.github.io/docs/img/img_1424767790694.png)
 
 Hier haben Sie die Möglichkeit 
-![](http://xpecto.github.io/docs/img/img_1432632082918.png)
+![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
+Wenn Sie hier auf Ja klicken werden die fehlende Provisionen in die Verträge eingefügt. Klicken Sie auf  Nein, um in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
 
+![](http://xpecto.github.io/docs/img/img_1432632612036.png)
+
+
+Nur markierte Provisionszahlungen (gesetzter Haken) werden bei der Abrechnungserstellung berücksichtigt.
 Ausgewählte Provisionen verbuchen ![](http://xpecto.github.io/docs/img/img_1432632280997.png)Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Sie werden anschließend automatisch zum Belegdruck weiter geleitet.
+
+
+Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
+
+
 
 Alle Provisionen auswählen.
 Alle Provisionen über die nebenstehende Schwelle auswählen.
 Schwelle für die Auswahlt von höheren Provisionen. Bitte geben Sie den entsprechenden Betrag ein.
 Entfernt die getroffenen Auswahl. 
 
-![](http://xpecto.github.io/docs/img/img_1432632612036.png)
+
 
 ![](http://xpecto.github.io/docs/img/img_1432632668979.png)
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
-bla
+
 ![](http://xpecto.github.io/docs/img/img_1432632934567.png)
 
 ![](http://xpecto.github.io/docs/img/img_1432633098564.png)
