@@ -4,7 +4,8 @@ In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können täglich
 
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
 Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
-
+Berechnungslauf starten
+Berechnungslauf anzeigen und verbuchen
 Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Provisionen, 2 Vertrags-Provisionen 3 restliche Provisionen, durchzuführen. 
 
 |  Berechnung           |    Beschreibung     |  
@@ -13,13 +14,12 @@ Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Pro
 | 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
-Wählen Sie 1 wenn Sie die Berechnung für alle Provisionen starten möchten
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
-Wenn alle Werte richtig gesetzt sind dann die Schaltfläche Start betätigen.
+Wenn alle Werte richtig gesetzt sind dann die Schaltfläche *Start* betätigen.
 
 ![](http://xpecto.github.io/docs/img/img_1424767790694.png)
 
-Hier haben Sie die Möglichkeit 
+
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 Wenn Sie hier auf Ja klicken werden die fehlende Provisionen in die Verträge eingefügt. Klicken Sie auf  Nein, um in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
 
