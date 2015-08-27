@@ -26,11 +26,26 @@ Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in di
 
 ![](http://xpecto.github.io/docs/img/img_1432632612036.png)
 
-Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img_1432632280997.png). Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese Buchungen werden dann bei Vermittler unter dem Reiter *Buchungen*, und bei Vertrag unter dem Reiter *Buchungsdaten*.
+Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img_1432632280997.png). 
+
+![](http://xpecto.github.io/docs/img/img_1432632668979.png)
+
+Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese Buchungen werden dann bei Vermittler unter dem Reiter *Buchungen*, und bei Vertrag unter dem Reiter *Buchungsdaten*.
+
+![](http://xpecto.github.io/docs/img/img_1432632479268.png)
 
 Sie werden anschließend automatisch zum Belegdruck weiter geleitet.
 
-Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
+![](http://xpecto.github.io/docs/img/img_1432632934567.png)
+
+![](http://xpecto.github.io/docs/img/img_1432633098564.png)
+
+
+![](http://xpecto.github.io/docs/img/img_1432633243287.png)
+
+![](http://xpecto.github.io/docs/img/img_1432633334049.png)
+
+
 
 
 
@@ -41,39 +56,17 @@ Entfernt die getroffenen Auswahl.
 
 
 
-![](http://xpecto.github.io/docs/img/img_1432632668979.png)
-
-![](http://xpecto.github.io/docs/img/img_1432632479268.png)
-
-![](http://xpecto.github.io/docs/img/img_1432632934567.png)
-
-![](http://xpecto.github.io/docs/img/img_1432633098564.png)
 
 Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
 
-![](http://xpecto.github.io/docs/img/img_1432633243287.png)
 
-![](http://xpecto.github.io/docs/img/img_1432633334049.png)
 
 ----------
 
 Links oben wird der Abrechnungszeitraum angezeigt. Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen.
 
-Rechts oben wird der Stichtag als Datum ausgegeben. Soll z.B.: eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler erstellt werden, muss die Checkbox Einschränkungen der Berechnung gesetzt werden.
 
-Mögliche Einschränkungen sind:
-
-*   Nach Produkt
-*   Nach Tarif
-*   Nach Vertragsnummer
-*   Nach Betreuernummer
-*   Nach Zahlfirma
-*   Nach Provisionsart
-*   Nach Transaktionsnummer
-
-„Schwelle für die Auswahl von höhere Provisionen. Bitte geben Sie den entsprechenden Betrag ein."
-Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie bitte auf _PROVISION BERECHNEN_.
 
 In unserem Beispiel wird nun eine fällige Provisionszahlung in Euro und der Gegenwert in oftmals verwendeten firmeninternen Options- oder Bonussystemen angezeigt.
 
