@@ -9,7 +9,7 @@ Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Pro
 
 |  Berechnung           |    Beschreibung     |  
 | ------------- |:-------------| 
-| 1 Alle Provisionen      | es werden alle Vertrags- und Vermittler-Struktur Provisionen berechnet.| 
+| 1 Alle Provisionen      | es werden alle Vertrags- und Vermittlerstruktur Provisionen berechnet.| 
 | 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
