@@ -23,9 +23,8 @@ Wenn Sie hier auf Ja klicken werden die fehlende Provisionen in die Verträge ei
 
 ![](http://xpecto.github.io/docs/img/img_1432632612036.png)
 
-
 Nur markierte Provisionszahlungen (gesetzter Haken) werden bei der Abrechnungserstellung berücksichtigt.
-Ausgewählte Provisionen verbuchen ![](http://xpecto.github.io/docs/img/img_1432632280997.png)Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Sie werden anschließend automatisch zum Belegdruck weiter geleitet.
+Ausgewählte Provisionen verbuchen ![](http://xpecto.github.io/docs/img/img_1432632280997.png). Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Sie werden anschließend automatisch zum Belegdruck weiter geleitet.
 
 
 Beim Abrechnungsverlauf errrechnet xpectoPro die fällige Provisionszahlung für jeden Vertrag auf Basis der hinterlegten Ansprüche. Die errechneten Daten werden dem Benutzer angezeigt. Der Benutzer kann die gewünschten Vertriebspartner oder Verträge markieren und diese dann endgültig abrechnen. Die kumulierten Zahlungen fließen nun in die Buchhaltung für die Vertriebspartner. 
