@@ -7,9 +7,11 @@ Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle
 
 Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Provisionen, 2 Vertrags-Provisionen 3 restliche Provisionen, durchzuführen. 
 
-1 Alle Provisionen: es werden alle Vertrags- und Vermittler-Struktur Provisionen berechnet
-2 Vertrags-Provisionen: es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.
-3 restliche Provisionen: es werden die Provisionen für die Vermittler-Struktur berechnet
+|  Berechnung           |    Beschreibung     |  
+| ------------- |:-------------| 
+| 1 Alle Provisionen      | es werden alle Vertrags- und Vermittler-Struktur Provisionen berechnet.| 
+| 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
+| 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
 Wählen Sie 1 wenn Sie die Berechnung für alle Provisionen starten möchten
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
