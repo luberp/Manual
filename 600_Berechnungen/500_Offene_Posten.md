@@ -11,7 +11,8 @@
 
 <p><img src="http://xpecto.github.io/docs/img/img_1440766846084.png" alt="" title=""></p>
 
-<p>Die Offenen Posten Maske</p>
+<p>Sie erreichen die Offene Posten Maske über Berechnungen Offene Posten oder unter Zahlungsverkehr OPOS berechnen. <br>
+Die Offenen Posten Maske</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1440768426702.png" alt="" title=""></p>
 
