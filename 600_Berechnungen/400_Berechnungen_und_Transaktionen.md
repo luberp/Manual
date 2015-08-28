@@ -15,6 +15,7 @@ Sollstellung Datenprüfung Lastenschriften Daten für die Bank.
 Unter Konfiguration wird ein Profil angelegt. 
 
 ![](http://xpecto.github.io/docs/img/img_1423564583240.png)
+
 Berechnungs-Parmeter Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
 
 
