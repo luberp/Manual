@@ -23,6 +23,7 @@ Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wi
 
 ![](http://xpecto.github.io/docs/img/img_1440769418756.png)
 
-Zahlungsverkehrmaske und dann ![](http://xpecto.github.io/docs/img/img_1440769513355.png)
+Zahlungsverkehrmaske und dann
+ ![](http://xpecto.github.io/docs/img/img_1440769513355.png)
 
 ![](http://xpecto.github.io/docs/img/img_1440769254212.png)
