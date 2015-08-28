@@ -34,6 +34,7 @@ Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
 
 Der Filter dient zum markieren von  Provisionsauszahlungen die verbucht werden sollen. Die gesetzte Checkboxen in der Reihenfolge:
+
 |  Checkbox           |    Beschreibung     |  
 | ------------- |:-------------| 
 |   ![](http://xpecto.github.io/docs/img/img_1440753874370.png)  | Alle Provisionen auswählen| 
