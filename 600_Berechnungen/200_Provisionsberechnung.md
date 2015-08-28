@@ -16,6 +16,7 @@ Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Pro
 | 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
+
 ![](http://xpecto.github.io/docs/img/img_1440767716626.png)
 
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
