@@ -1,55 +1,56 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>500_Offene_Posten.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Offene Posten Liste dient als Nebenbuch der Buchuführung. Mit Hilfe von xpectoPro erhalten Sie vom  eine vollständige Liste aller offener Rechnungen. Innerhalb dieser Maske können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440766846084.png" alt="" title=""></p>
+Offene Posten Liste dient als Nebenbuch der Buchuführung. Mit Hilfe von xpectoPro erhalten Sie vom  eine vollständige Liste aller offener Rechnungen. Innerhalb dieser Maske können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
-<p>Sie erreichen die Offene Posten Maske über Berechnungen Offene Posten oder unter Zahlungsverkehr OPOS berechnen. <br>
-Die Offenen Posten Maske</p>
+![](http://xpecto.github.io/docs/img/img_1440766846084.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440772574042.png" alt="" title=""></p>
+Sie erreichen die Offene Posten Maske über Berechnungen Offene Posten oder unter Zahlungsverkehr OPOS berechnen.
+Die Offenen Posten Maske
 
-<p>Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von unten Produkte Konto angelegter Konto. <br>
-Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. </p>
+![](http://xpecto.github.io/docs/img/img_1440772574042.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769189875.png" alt="" title=""></p>
+Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von unten Produkte Konto angelegter Konto.
+Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769218414.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1440769189875.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769342773.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1440769218414.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769392486.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1440769342773.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769418756.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1440769392486.png)
 
-<p>Zahlungsverkehrmaske  <br>
-<img src="http://xpecto.github.io/docs/img/img_1440772506395.png" alt="" title=""> <br>
-<img src="http://xpecto.github.io/docs/img/img_1440772638410.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1440769418756.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440771677497.png" alt="" title=""> und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv. dann auf Details <img src="http://xpecto.github.io/docs/img/img_1440771513947.png" alt="" title=""></p>
+Zahlungsverkehrmaske 
+![](http://xpecto.github.io/docs/img/img_1440772506395.png)
+![](http://xpecto.github.io/docs/img/img_1440772638410.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440772783601.png" alt="" title=""></p>
+ ![](http://xpecto.github.io/docs/img/img_1440771677497.png) und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv. dann auf Details ![](http://xpecto.github.io/docs/img/img_1440771513947.png)
 
-<p>Dateien erzeugen <img src="http://xpecto.github.io/docs/img/img_1440771590046.png" alt="" title="">.   Dann werden eine CSV, PDF und XML.</p>
+ 
+![](http://xpecto.github.io/docs/img/img_1440772783601.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769254212.png" alt="" title=""></p>
+ 
+ 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440772902738.png" alt="" title=""></p>
+ 
+ Dateien erzeugen ![](http://xpecto.github.io/docs/img/img_1440771590046.png).   Dann werden eine CSV, PDF und XML.
 
-<p>Überweisung</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440773727879.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440773653998.png" alt="" title=""></p>
 
-<p>CSV, PDF, XML</p>
+![](http://xpecto.github.io/docs/img/img_1440769254212.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440773806090.png" alt="" title=""></p></div></body>
-</html>
+
+![](http://xpecto.github.io/docs/img/img_1440772902738.png)
+
+Überweisung
+
+![](http://xpecto.github.io/docs/img/img_1440773727879.png)
+
+
+![](http://xpecto.github.io/docs/img/img_1440773653998.png)
+
+CSV, PDF, XML
+
+![](http://xpecto.github.io/docs/img/img_1440773806090.png)
