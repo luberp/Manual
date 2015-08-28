@@ -31,11 +31,7 @@ Zahlungsverkehrmaske
 ![](http://xpecto.github.io/docs/img/img_1440772783601.png)
 
  
- 
-
- 
  Dateien erzeugen ![](http://xpecto.github.io/docs/img/img_1440771590046.png).   Dann werden eine CSV, PDF und XML.
-
 
 
 
