@@ -56,7 +56,7 @@ Wenn Sie hier auf Weiter zu Belegdruck klicken dann werden Sie anschließend aut
 
 ![](http://xpecto.github.io/docs/img/img_1440748640999.png)
 
-DTAUS/SEPA erstellen
+DTAUS/SEPA erstellen, damit wird ein Begleitzettel erstellt und der Bank eingereicht.
 
 ![](http://xpecto.github.io/docs/img/img_1440748885165.png)
 
@@ -66,7 +66,7 @@ Um die erstellten Auszahlungen als DTAUS-Datei auszugeben, klicken Sie auf
 Provisionen löschen
 Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751219341.png) wieder gelöscht werden.
 
-Belege löschen
+Belege löschen damit werden die erzeugte Belege gelöscht.
 
 Abrechnungen drücken
 Soll die Provisionsabrechnung ausgedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig "Provisionsabrechnung") und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. (PDF, Excel, Word...). Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img_1440751272141.png).
@@ -75,7 +75,7 @@ Soll die Provisionsabrechnung ausgedruckt oder per E-Mail zugestellt werden, so 
 
 Testdruck: Es wird dann für jeden  Vermittler in der Liste eine Provisionsabrechnung erzeugt.
 
-Belegdruck: Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit _Nein_, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit _Ja_, so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnungsgemäße EDV-gestüzte Archivierung. Die archivierten Belege können in der Vermittler-Maske auf dem Karteireiter_Belege_ aufgerufen und jederzeit wieder im PDF-Format ausgegeben werden.
+Belegdruck: Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit _Nein_, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit , so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnungsgemäße EDV-gestüzte Archivierung. Die archivierten Belege können in der Vermittler-Maske auf dem Karteireiter_Belege_ aufgerufen und jederzeit wieder im PDF-Format ausgegeben werden.
 
 ![](http://xpecto.github.io/docs/img/img_1440749157838.png)
 
