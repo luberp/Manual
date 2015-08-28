@@ -1,17 +1,8 @@
-Über diesen Menüpunkt wird der aktuell ausgewählte Kunde, Vertrag oder Vermittler gelöscht. Nach Bestätigung der Warnmeldung
-"Wollen Sie den Datensatz ....wirklich löschen?" mit _Ja_ wird der Datensatz aus der Datenbank gelöscht. Es können nur neu
-erfasste Datensätze, bzw. Datensätze, auf die noch nicht von anderen Datensätzen verwiesen wird, gelöscht werden. Im speziellen
-heißt dies z.B., dass ein Vermittler, der bereits einen Vertrag verkauft hat, ein Kunde, zu dem bereits ein Vertrag erfasst ist, oder ein Vertrag, zu
-dem bereits Buchungen erfasst sind, nicht gelöscht werden kann. Der Zweck dieses Menüpunkts ist lediglich die zeitnahe Löschung von
-Falscherfassungen.
-
-Aus Gründen der Historisierung und Nachvollziehbarkeit werden Datensätze, die bereits mit anderen Datensätzen verknüpft sind, nicht aus
-der Datenbank gelöscht, sondern nur durch einen entsprechenden Status (wie z.B. Storno oder ausgeschieden) gekennzeichnet.
-Zahlfirmen sind die Firmen die Provisionen zahlen an Vertriebspartner. 
-Vetriebspartner können Provisionen von meherere Firmen bekommen deswegen hier die zwei Reiter.
+Über Berechungen → verbuchte Provisionen, Belege und Auszahlungen gelangen Sie in die Maske Belegdruck und Auszahlungen.
 
 ![](http://xpecto.github.io/docs/img/img_1423816637524.png)
 
+siehe da
 DTAUS/SEPA erstellen.
 Viele Produkte haben einen monatlichen Zahlplan. Diese Zahlungen sind oft per Lastschrift vom Konto des Kunde einzuziehen. Für den Einzug der Lastschrift gibt es unterschiedliche Standards. 
 In Deutschland gibt es das bisherige Verfahren von Einzugsermächtigung und Abbuchungsauftrag, meist in Verbindung mit dem Dateiformat DTA oder DTAUS. In Östereich findet sich das Format EDIFACT DirDeb, auf europäische Ebenen (incl. Schweiz und andere) hat man sich für den neunen Standard SEPA entscheiden.
