@@ -1,4 +1,3 @@
-
 Offene Posten Liste dient als Nebenbuch der Buchuführung. Mit Hilfe von xpectoPro erhalten Sie vom  eine vollständige Liste aller offener Rechnungen. Innerhalb dieser Maske können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
 ![](http://xpecto.github.io/docs/img/img_1440774472016.png)
@@ -27,13 +26,9 @@ Zahlungsverkehrmaske
 
  ![](http://xpecto.github.io/docs/img/img_1440771677497.png) und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv. dann auf Details ![](http://xpecto.github.io/docs/img/img_1440771513947.png)
 
- 
 ![](http://xpecto.github.io/docs/img/img_1440772783601.png)
 
- 
  Dateien erzeugen ![](http://xpecto.github.io/docs/img/img_1440771590046.png).   Dann werden eine CSV, PDF und XML.
-
-
 
 ![](http://xpecto.github.io/docs/img/img_1440769254212.png)
 
