@@ -6,6 +6,8 @@ Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Pr
 Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 Berechnungslauf starten
 Berechnungslauf anzeigen und verbuchen
+Belegdruck und auszahlung
+
 Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Provisionen, 2 Vertrags-Provisionen 3 restliche Provisionen, durchzuführen. 
 
 |  Berechnung           |    Beschreibung     |  
@@ -15,21 +17,27 @@ Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Pro
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
-Wenn alle Werte richtig gesetzt sind dann die Schaltfläche *Start* betätigen.
+Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie auf *Start*.
 
 ![](http://xpecto.github.io/docs/img/img_1440747566222.png)
 
+Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in die Verträge eingefügt werden sollten. 
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
-Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert. Klicken Sie auf  *Nein*, um in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
+Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert, dann werden Sie in dem *Berechnungslauf anzeigen und verbuchen*.  Klicken Sie auf  *Nein*, um direkt in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
 
 ![](http://xpecto.github.io/docs/img/img_1440748523514.png)
 
+Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern
+
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
+
+Der Filter dient zum markieren von  Provisionsauszahlungen die verbucht werden sollen. Die gesetzte Checkboxen in der Reihenfolge:
 
 Alle Provisionen auswählen
 Alle Provisionen über der nebenstehenden Schwelle auswählen
+
 Entfernt die getroffene Auswahl
 Berechnugslauf verwerfen
 
