@@ -43,7 +43,6 @@ Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese Buchungen
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
 
-
 Wenn Sie hier auf Weiter zu Belegdruck klicken dann werden Sie anschließend automatisch zum Belegdruck weiter geleitet.
 
 ![](http://xpecto.github.io/docs/img/img_1440748640999.png)
@@ -55,7 +54,6 @@ DTAUS/SEPA erstellen
 Um die erstellten Auszahlungen als DTAUS-Datei auszugeben, klicken Sie auf
 ![](http://xpecto.github.io/docs/img/img_1440751324468.png). Die erstellte Datei ist im Temp-Verzeichnis (Unter Menü _Extras-&gt;Einstellungen-&gt;"Temp Pfad"_) zu finden und mühelos in Ihre E-Banking-Software einzulesen.
 
-
 Provisionen löschen
 Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751219341.png) wieder gelöscht werden.
 
@@ -64,25 +62,14 @@ Belege löschen
 Abrechnungen drücken
 Soll die Provisionsabrechnung ausgedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig "Provisionsabrechnung") und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. (PDF, Excel, Word...). Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img_1440751272141.png).
 
-
  ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
 
 Testdruck: Es wird dann für jeden  Vermittler in der Liste eine Provisionsabrechnung erzeugt.
 
 Belegdruck: Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit _Nein_, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit _Ja_, so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnungsgemäße EDV-gestüzte Archivierung. Die archivierten Belege können in der Vermittler-Maske auf dem Karteireiter_Belege_ aufgerufen und jederzeit wieder im PDF-Format ausgegeben werden.
 
-
-
 ![](http://xpecto.github.io/docs/img/img_1440749157838.png)
 
 Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
 
-----------
-Links oben wird der Abrechnungszeitraum angezeigt. Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen.
-
-In unserem Beispiel wird nun eine fällige Provisionszahlung in Euro und der Gegenwert in oftmals verwendeten firmeninternen Options- oder Bonussystemen angezeigt.
-
-Nachdem Sie Ihre Auswahl getroffen haben klicken Sie auf weiter und bestätigen Sie die folgende Maske mit![](http://xpecto.github.io/docs/img/img104.jpg).
-
-Markieren Sie die Provisionszahlungen, für die eine Abrechnung erzeugt werden sollen durch "Haken setzen" und klicken Sie dann auf Auszahlung erstellen. Es wird eine Auszahlung erstellt, in der in unserem Beispiel die auszuzahlende Provision mit anfallenden Bürokosten verrechnet wird und somit nur reale Ansprüche des Vermittlers gegenüber der Zahlfirma berücksichtigt werden.
