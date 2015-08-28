@@ -68,23 +68,23 @@ Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie auf
 </tr>
 </thead>
 <tbody><tr>
-  <td></td>
+  <td><img src="http://xpecto.github.io/docs/img/img_1440753874370.png" alt="" title=""></td>
   <td align="left">Alle Provisionen auswählen</td>
 </tr>
 <tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1429021853043.png" alt="" title=""></td>
+  <td><img src="http://xpecto.github.io/docs/img/img_1440753891145.png" alt="" title=""></td>
   <td align="left">Alle Provisionen über der nebenstehenden Schwelle auswählen</td>
 </tr>
 <tr>
-  <td></td>
+  <td><img src="http://xpecto.github.io/docs/img/img_1440753923716.png" alt="" title=""></td>
   <td align="left">Schwelle</td>
 </tr>
 <tr>
-  <td></td>
+  <td><img src="http://xpecto.github.io/docs/img/img_1440753950213.png" alt="" title=""></td>
   <td align="left">Entfernt die getroffene Auswahl</td>
 </tr>
 <tr>
-  <td></td>
+  <td><img src="http://xpecto.github.io/docs/img/img_1440753976766.png" alt="" title=""></td>
   <td align="left">Berechnugslauf verwerfen</td>
 </tr>
 </tbody></table>
