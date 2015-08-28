@@ -9,6 +9,7 @@ Aus Gründen der Historisierung und Nachvollziehbarkeit werden Datensätze, die 
 der Datenbank gelöscht, sondern nur durch einen entsprechenden Status (wie z.B. Storno oder ausgeschieden) gekennzeichnet.
 Zahlfirmen sind die Firmen die Provisionen zahlen an Vertriebspartner. 
 Vetriebspartner können Provisionen von meherere Firmen bekommen deswegen hier die zwei Reiter.
+
 ![](http://xpecto.github.io/docs/img/img_1423816637524.png)
 
 DTAUS/SEPA erstellen.
