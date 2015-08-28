@@ -14,7 +14,7 @@
 <p>Sie erreichen die Offene Posten Maske über Berechnungen Offene Posten oder unter Zahlungsverkehr OPOS berechnen. <br>
 Die Offenen Posten Maske</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440768426702.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1440772574042.png" alt="" title=""></p>
 
 <p>Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von unten Produkte Konto angelegter Konto. <br>
 Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. </p>
@@ -29,13 +29,27 @@ Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wi
 
 <p><img src="http://xpecto.github.io/docs/img/img_1440769418756.png" alt="" title=""></p>
 
-<p>Zahlungsverkehrmaske und dann auf <img src="http://xpecto.github.io/docs/img/img_1440771513947.png" alt="" title=""></p>
+<p>Zahlungsverkehrmaske  <br>
+<img src="http://xpecto.github.io/docs/img/img_1440772506395.png" alt="" title=""> <br>
+<img src="http://xpecto.github.io/docs/img/img_1440772638410.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769513355.png" alt="" title=""> </p>
+<p><img src="http://xpecto.github.io/docs/img/img_1440771677497.png" alt="" title=""> und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv. dann auf Details <img src="http://xpecto.github.io/docs/img/img_1440771513947.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440771677497.png" alt="" title=""> und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1440772783601.png" alt="" title=""></p>
 
 <p>Dateien erzeugen <img src="http://xpecto.github.io/docs/img/img_1440771590046.png" alt="" title="">.   Dann werden eine CSV, PDF und XML.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440769254212.png" alt="" title=""></p></div></body>
+<p><img src="http://xpecto.github.io/docs/img/img_1440769254212.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1440772902738.png" alt="" title=""></p>
+
+<p>Überweisung</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1440773727879.png" alt="" title=""></p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1440773653998.png" alt="" title=""></p>
+
+<p>CSV, PDF, XML</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1440773806090.png" alt="" title=""></p></div></body>
 </html>
