@@ -1,3 +1,9 @@
+Die Berechnung der Buchungen wird über den Dialog *Berechnungen →Berechnungen und Transaktionen*
+durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. 
+Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnnahme), ein Ausführungsinterall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung oder eine Verzinsung der monatlichen Endstände). Diese Einstellungen werden unter *Berechnungs-Parameter* Dialog.
+ Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
+
+
 Berechnung Reiter Konfiguration
 Berechnungen Reiter Berechnung
 ![](http://xpecto.github.io/docs/img/img_1423558893524.png)
@@ -46,7 +52,7 @@ Löscht die markierte Berechnung.
 Erstellt eine neue Berechnung.
 xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.
 
-Die Berechnung der Buchungen wird über den Dialog "Berechnungen"/"Berechnungen und Transaktionen" durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnahme) ein Ausführungsintervall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung oder eine Verzinsung der monatlichen Endstände). Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte elegant durchführbar.
+Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte elegant durchführbar.
 
 Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen. Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf "Start" wird die Berechnung für alle Verträge der gewählten Produkte durchgeführt. Nach erfolgter Berechnung sehen wir das Ergebnis für jedes Produkt. Von hier aus können wir die abschließenden Schritte durchführen:
 
@@ -69,19 +75,8 @@ Sollstellung Datenprüfung Lastenschriften Daten für die Bank.
 
 Zinsen und Gewinne
 
-xpecto eAgentur ermöglicht vielfältige Berechnungen und Ausschüttungen. Die
-Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern
-wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können
-sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und
-Freistellungsaufträge werden berücksichtigt.
+xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.
 
-Die Berechnung der Buchungen wird über den Dialog "Berechnungen"/"Berechnungen und Transaktionen"
-durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden.
-Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnnahme)
-ein Ausführungsinterall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung
-oder eine Verzinsung der monatlichen Endstände). Jedes Produkt wird intern als eigener Mandant mit einer
-eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden
-oder Zinsen ist somit auch für viele Produkte elegant durchführbar.
 
 Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
 Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf "Start"
