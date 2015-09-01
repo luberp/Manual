@@ -50,13 +50,17 @@ Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur 
 Um eine bestehende Buchung zu ändern klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können eine neue Buchung wie z.B. einen Vorschuss, einfügen durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png).
 
 Um die erstellten Auszahlungen als DTAUS-Datei auszugeben, klicken Sie auf
-![](http://xpecto.github.io/docs/img/img_1440751324468.png). Damit wird ein Begleitzettel erstellt und der Bank eingereicht. Die erstellte Datei ist im Temp-Verzeichnis (Unter Menü *Extras → Einstellungen → Temp Pfad*) zu finden und mühelos in Ihre E-Banking-Software einzulesen.
+![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
+
+In der Maske *Zahlungdatei erstellen* kann zwischen mehrere Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen festlegen und ob ein Begleitzettel erstellt werden soll.
 
 ![](http://xpecto.github.io/docs/img/img_1440748885165.png)
 
+Wählen Sie hier *SEPA* um eine SEPA Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier Zahlungsverkehr - Begleitzettel erstellt und gespeichert.
+
 Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751219341.png) wieder gelöscht werden.
 
-Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig "Provisionsabrechnung") und den gewünschten Drucker bzw. das gewünschte Ausgabeformat.  Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img_1440751272141.png).
+Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, so wählen Sie den zugehörigen Bericht (Häufig *Provisionsabrechnung*) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat.  Bestätigen Sie mit ![](http://xpecto.github.io/docs/img/img_1440751272141.png).
 
  ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
 
