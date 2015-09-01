@@ -1,21 +1,15 @@
-Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. Um eine Provisionsberechnung zu starten, klicken Sie im Menü auf	*Berechnungen → Provisionsberechnung*.
-
-In bestimmten Abständen erfolgt eine Provisionsabrechnung. Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe *Berechnungen → Abrechnungszeitraum festlegen*).
+Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. 
+Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe *Berechnungen → Abrechnungszeitraum festlegen*).
+Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
-Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
-Berechnungslauf starten
-Berechnungslauf anzeigen und verbuchen
-Belegdruck und auszahlung
-
-Die Dropdownliste bietet Ihnen die Möglichkeit die Berechnung für : 1 Alle Provisionen, 2 Vertrags-Provisionen 3 restliche Provisionen, durchzuführen. 
+In der Maske *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen, wie  die Berechnung durchgeführt wird.
 
 |  Berechnung           |    Beschreibung     |  
 | ------------- |:-------------| 
 | 1 Alle Provisionen      | es werden alle Vertrags- und Vermittlerstruktur Provisionen berechnet.| 
 | 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
-
 
 ![](http://xpecto.github.io/docs/img/img_1440767716626.png)
 
@@ -25,7 +19,7 @@ Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in d
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
-Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert, dann werden Sie in dem *Berechnungslauf anzeigen und verbuchen*.  Klicken Sie auf  *Nein*, um direkt in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
+Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert, dann werden Sie zu dem *Berechnungslauf anzeigen und verbuchen* weitergeleitet.  Klicken Sie auf  *Nein*, um direkt in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
 
 ![](http://xpecto.github.io/docs/img/img_1440748523514.png)
 
@@ -84,3 +78,7 @@ Hinweis: Die Archivierungsfunktion genügt nicht den Anforderungen an eine ordnu
 Bereitstellung Abrechnung
 Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
 
+
+Berechnungslauf starten
+Berechnungslauf anzeigen und verbuchen
+Belegdruck und auszahlung
