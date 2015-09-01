@@ -9,9 +9,11 @@
 </head>
 <body><div class="container"><p>Über <em>Berechungen → verbuchte Provisionen, Belege und Auszahlungen</em> gelangen Sie in die Maske <em>Belegdruck und Auszahlungen</em>.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441106642829.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1441107222772.png" alt="" title=""></p>
 
 <p>Es wird hier für den unter <em>Abrechnungszeitraum festlegen</em>, der Zeitraum die Abrechnungen angezeigt. Sie können hier jederzeit zwischen der vorherigen Zeitraum und der nächsten Zeitraum wechseln.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441106666858.png" alt="" title=""></p></div></body>
+<p><img src="http://xpecto.github.io/docs/img/img_1441106666858.png" alt="" title="">.</p>
+
+<p>Sie habe hier die unter Provisionsabrechnung </p></div></body>
 </html>
