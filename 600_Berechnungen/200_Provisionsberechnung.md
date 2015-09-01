@@ -43,7 +43,7 @@ Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese verbuchte
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
 
-Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall.
+Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt..
 
 ![](http://xpecto.github.io/docs/img/img_1440748640999.png)
 
