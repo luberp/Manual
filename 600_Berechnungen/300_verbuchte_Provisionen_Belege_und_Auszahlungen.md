@@ -7,6 +7,3 @@
 ![](http://xpecto.github.io/docs/img/img_1441106666858.png).
 
 Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter *Berechnungen → Provisionsabrechnung* beschriebene Maske.
-
-
-
