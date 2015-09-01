@@ -1,3 +1,5 @@
+Berechnung Reiter Konfiguration
+Berechnungen Reiter Berechnung
 ![](http://xpecto.github.io/docs/img/img_1423558893524.png)
 
 
@@ -89,3 +91,5 @@ Von hier aus können wir die abschließenden Schritte durchführen:
 Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen
 Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von
 Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.
+
+Berechnungen Transaktionen
