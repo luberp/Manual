@@ -2,7 +2,7 @@
 
 ![](http://xpecto.github.io/docs/img/img_1441107222772.png)
 
- Sie können hier jederzeit zwischen der vorherigen Zeitraum und der nächsten Zeitraum wechseln.
+ Sie können hier jederzeit zwischen der vorherigen Zeitraum und der nächsten Zeitraum wechseln. Mit Hilfe der Pfeile können Sie nun einen anderen Zeitraum wählen.
 
 ![](http://xpecto.github.io/docs/img/img_1441106666858.png).
 
