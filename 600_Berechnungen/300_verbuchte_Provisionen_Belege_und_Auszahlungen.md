@@ -1,4 +1,4 @@
-Über *Berechungen → verbuchte Provisionen, Belege und Auszahlungen* gelangen Sie in die Maske *Belegdruck und Auszahlungen*.
+Über *Berechungen → verbuchte Provisionen, Belege und Auszahlungen* gelangen Sie in die Maske *Belegdruck und Auszahlungen*. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1441107222772.png)
 
