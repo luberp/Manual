@@ -47,6 +47,7 @@ Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, dann werden Sie
 
 ![](http://xpecto.github.io/docs/img/img_1440748640999.png)
 
+![](http://xpecto.github.io/docs/img/img_1441095989354.png)
 
 DTAUS/SEPA erstellen, damit wird ein Begleitzettel erstellt und der Bank eingereicht.
 
