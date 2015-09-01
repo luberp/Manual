@@ -68,16 +68,4 @@ Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechn
 
  ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
  
-
-![](http://xpecto.github.io/docs/img/img_1440749157838.png)
-
-
-![](http://xpecto.github.io/docs/img/img_1441103301118.png)
-
-Bereitstellung Abrechnung
-Die Abrechnungen werden zum Abschluss erstellt und in den meisten Fällen direkt als PDF in unserem Vertriebspartnerportal zum Download für die Vermittler bereitgestellt. Die Bereitstellung ist dabei direkt in die Software integriert und sehr einfach. Die Empfänger erhalten eine E-Mail oder eine SMS als Benachrichtigung und Hiweis. Natürlich können die Abrechnungen auch direkt gedruckt werden. Das Layout der Abrechnung kann frei angepasst werden und soll modern un in Ihrem Style erfolgen.
-
-
-Berechnungslauf starten
-Berechnungslauf anzeigen und verbuchen
-Belegdruck und Auszahlung
+Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
