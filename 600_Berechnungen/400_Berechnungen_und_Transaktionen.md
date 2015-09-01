@@ -15,18 +15,13 @@ Um eine neue Berechnung anzulegen klicken Sie auf das Symbol: ![](http://xpecto.
 
 ![](http://xpecto.github.io/docs/img/img_1441108798517.png) erstellt eine neue Berechnung
 
-
-Berechnungen und Transaktionen
-
-Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt. 
-
-Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. 
-Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
-Transaktionen sind Sammlung von Werte und Buchungen.
-Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.
 Werte einbuchen resultieren Buchhaltungsdaten.
-Wenn Buchungsdaten vorhanden dann resultiert Transaktionen.
-Unter Konfiguration wird ein Profil angelegt. 
+
+
+Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
+Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. 
+
+Wenn Buchungsdaten vorhanden dann resultiert Transaktionen. Unter Konfiguration wird ein Profil angelegt. 
 
 ![](http://xpecto.github.io/docs/img/img_1423564583240.png)
 
@@ -42,17 +37,16 @@ Unter Druck und Ausgabe kann eingestellt werden ob jeder einzelnen Beteiligten e
 Einzelschreiben
 Listen
 
-![](http://xpecto.github.io/docs/img/img_1423565283935.png)
-Löscht die Liste der Werte.
+![](http://xpecto.github.io/docs/img/img_1423565283935.png) löscht die Liste der Werte.
 
 ![](http://xpecto.github.io/docs/img/img_1423565546161.png)
 
 Kopiert die markierte Berechnung.
 Löscht die markierte Berechnung.
 Erstellt eine neue Berechnung.
+
 xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.
 
-Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte elegant durchführbar.
 
 Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen. Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf "Start" wird die Berechnung für alle Verträge der gewählten Produkte durchgeführt. Nach erfolgter Berechnung sehen wir das Ergebnis für jedes Produkt. Von hier aus können wir die abschließenden Schritte durchführen:
 
