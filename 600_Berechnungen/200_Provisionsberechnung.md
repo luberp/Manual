@@ -57,7 +57,7 @@ In der Maske *Zahlungdatei erstellen* kann zwischen mehrere Verfahren zur Durchf
 
 ![](http://xpecto.github.io/docs/img/img_1440748885165.png)
 
-Wählen Sie hier *SEPA* um eine SEPA-Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und gespeichert. 
+Wählen Sie hier *SEPA* aus, um eine SEPA-Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und gespeichert. 
 
 Nun kehren Sie  zur Maske *Belegdruck und Auszahlungen*  zurück.
 
