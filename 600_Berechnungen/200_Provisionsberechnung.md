@@ -43,7 +43,7 @@ Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese verbuchte
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
 
-Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, dann werden Sie zum *Belegdruck und Auszahlung* weitergeleitet.
+Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall.
 
 ![](http://xpecto.github.io/docs/img/img_1440748640999.png)
 
@@ -63,7 +63,6 @@ Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, so wä
 Testdruck: Es wird dann für jeden  Vermittler  eine Provisionsabrechnung erzeugt, ohne Belegnummer.
 
 Belegdruck: Sie werden gefragt, ob Sie Belegnummern erzeugen wollen. Beantworten Sie diese Frage mit *Nein*, wird lediglich eine Testabrechnung gedruckt. Beantworten Sie die Frage mit *Ja*, so werden Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern (nach geltendem USt-Recht) gedruckt und zusätzlich in der Datenbank archiviert. 
-
 
 ![](http://xpecto.github.io/docs/img/img_1440749157838.png)
 
