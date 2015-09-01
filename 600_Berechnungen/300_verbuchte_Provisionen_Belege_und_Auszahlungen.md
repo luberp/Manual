@@ -2,11 +2,11 @@
 
 ![](http://xpecto.github.io/docs/img/img_1441107222772.png)
 
-Es wird hier für den unter *Abrechnungszeitraum festlegen*, der Zeitraum die Abrechnungen angezeigt. Sie können hier jederzeit zwischen der vorherigen Zeitraum und der nächsten Zeitraum wechseln.
+ Sie können hier jederzeit zwischen der vorherigen Zeitraum und der nächsten Zeitraum wechseln.
 
 ![](http://xpecto.github.io/docs/img/img_1441106666858.png).
 
-Sie habe hier die unter Provisionsabrechnung 
+Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter *Berechnungen → Provisionsabrechnung* beschriebene Maske.
 
 
 
