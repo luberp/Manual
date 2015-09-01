@@ -19,7 +19,7 @@ Eine entscheidende Feldgruppe  ist *Status, Provision*. Wählen Sie den entsprec
 ![](http://xpecto.github.io/docs/img/img_1432631850462.png)
 
 Provisionsansprüche werden aus den Modellen und den Provisionsätzen, in Verbindung mit den Daten des Vertrages, erzeugt. 
-Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können dann manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden (siehe *Vermittler → Provisionen*).
+Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können dann manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden (siehe *Vermittler → Provisionen*). Falls für diesen Vertrag die Provisionsberechnung durchgeführt würde, dann werden für jede Provision die Felder *Ausbezahlt* und *letzte Zahlung* ausgefüllt (siehe *Berechnung → Provisionsberechnung*).
 
 ![](http://xpecto.github.io/docs/img/img_1440763968478.png)
 
@@ -37,7 +37,7 @@ Nachdem der Übertrag durchgeführt würde, wird ein neuer Vertrag angelegt. Der
 
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
 
-Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten. Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
+Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen. Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
 
 ![](http://xpecto.github.io/docs/img/img_1440764279816.png)
 
