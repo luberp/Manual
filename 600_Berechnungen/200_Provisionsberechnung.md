@@ -23,7 +23,7 @@ Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in di
 
 ![](http://xpecto.github.io/docs/img/img_1440748523514.png)
 
-Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. Im markiertem Eingabefenster kann noch ein weiterer Filter gesetzt werden. Hier im Beispiel 100, das heißt nur Provisionszahlungen über 100,00 € werden abgerechnet. Nur markierte Provisionszahlungen (gesetzter Haken) werden bei der Abrechnungserstellung berücksichtigt.
+Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. 
 
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
 
@@ -39,7 +39,7 @@ Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt
 
 ![](http://xpecto.github.io/docs/img/img_1440748563962.png)
 
-Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese Buchungen werden dann bei Vermittler unter dem Reiter *Buchungen*, und bei Vertrag unter dem Reiter *Buchungsdaten*.
+Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese verbuchte Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
 
