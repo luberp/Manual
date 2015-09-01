@@ -11,8 +11,7 @@
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441106642829.png" alt="" title=""></p>
 
-<p>Es wird hier für den unter <em>Abrechnungszeitraum festlegen</em>, der Zeitraum die Abrechnungen angezeigt. Sie können hier jederzeit zwischen der  <br>
-vorherigen Zeitraum und der nächsten Zeitraum wechseln.</p>
+<p>Es wird hier für den unter <em>Abrechnungszeitraum festlegen</em>, der Zeitraum die Abrechnungen angezeigt. Sie können hier jederzeit zwischen der vorherigen Zeitraum und der nächsten Zeitraum wechseln.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441106666858.png" alt="" title=""></p></div></body>
 </html>
