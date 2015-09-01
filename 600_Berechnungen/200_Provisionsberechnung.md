@@ -23,21 +23,17 @@ Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in di
 
 ![](http://xpecto.github.io/docs/img/img_1440748523514.png)
 
-Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern
+Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. Im markiertem Eingabefenster kann noch ein weiterer Filter gesetzt werden. Hier im Beispiel 100, das heißt nur Provisionszahlungen über 100,00 € werden abgerechnet. Nur markierte Provisionszahlungen (gesetzter Haken) werden bei der Abrechnungserstellung berücksichtigt.
 
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
-
-Der Filter dient zum markieren von  Provisionsauszahlungen die verbucht werden sollen. Die gesetzte Checkboxen in der Reihenfolge:
 
 |  Checkbox           |    Beschreibung     |  
 | ------------- |:-------------| 
 |   ![](http://xpecto.github.io/docs/img/img_1440753874370.png)  | Alle Provisionen auswählen| 
 | ![](http://xpecto.github.io/docs/img/img_1440753891145.png)    | Alle Provisionen über der nebenstehenden Schwelle auswählen| 
-|![](http://xpecto.github.io/docs/img/img_1440753923716.png)|Schwelle|
+|![](http://xpecto.github.io/docs/img/img_1440753923716.png)|Nur Provisionsauszahlungen über die Schwelle werden abgerechnet|
 |![](http://xpecto.github.io/docs/img/img_1440753950213.png)|Entfernt die getroffene Auswahl|
-|![](http://xpecto.github.io/docs/img/img_1440753976766.png)|Berechnugslauf verwerfen|
-
-Im markiertem Eingabefenster kann noch ein weiterer Filter gesetzt werden. Hier im Beispiel 100, das heißt nur Provisionszahlungen über 100,00 € werden abgerechnet. Nur markierte Provisionszahlungen (gesetzter Haken) werden bei der Abrechnungserstellung berücksichtigt.
+|![](http://xpecto.github.io/docs/img/img_1440753976766.png)|Berechnugslauf verwerfen. Es kann eine neue Berechnung gestartet werden.|
 
 Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img_1432632280997.png). 
 
