@@ -35,7 +35,7 @@ Berechnungs-Parmeter Dialog ermöglicht Ihnen spezielle Einstellungen für die B
 Wenn die Berechnung gestartet wird dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt.
 Schaltflächen:  
 Berechnung
-![](http://xpecto.github.io/docs/img/img_1441121273470.png) Berechnung starten 
+
 ![](http://xpecto.github.io/docs/img/img_1441121301685.png) Werte einbuchen
 ![](http://xpecto.github.io/docs/img/img_1441121332594.png)Testberechnung für aktuellen  Vertrag
 Zahlungsverkehr
