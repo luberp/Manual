@@ -17,12 +17,11 @@ Mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1441188262764.png) gelan
 
 ![](http://xpecto.github.io/docs/img/img_1423564583240.png)
 
-Nachdem Sie hier den Produkt ausgewählt haben, und den Zeitintervall klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png). 
+Nachdem Sie hier die gewünschten Einstellungen festgelegt haben, wählen Sie noch den Zeitintervall, und  klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png). 
 
- erstellt eine neue Berechnung
+Es wird eine Werte-Liste erstellt. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten.
 
 Werte einbuchen resultieren Buchhaltungsdaten.
-
 
 Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
 Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. 
@@ -30,15 +29,11 @@ Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltun
 Wenn Buchungsdaten vorhanden dann resultiert Transaktionen. Unter Konfiguration wird ein Profil angelegt. 
 
 
-
-
-
-
 Wenn die Berechnung gestartet wird dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt.
 Schaltflächen:  
 Berechnung
 
-![](http://xpecto.github.io/docs/img/img_1441187895311.png) Werte einbuchen
+Werte einbuchen
 ![](http://xpecto.github.io/docs/img/img_1441187929472.png) Testberechnung für aktuellen  Vertrag
 Zahlungsverkehr
 ![](http://xpecto.github.io/docs/img/img_1441187959011.png) 
