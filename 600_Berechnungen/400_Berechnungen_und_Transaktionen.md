@@ -30,12 +30,12 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14411
 
 ![](http://xpecto.github.io/docs/img/img_1441199916775.png)
 
-Um einen Datensatz in der Werte-Liste zu berbeiten.
+Um einen Datensatz in der Werte-Liste zu bearbeiten.
 ![](http://xpecto.github.io/docs/img/img_1441204665555.png)
 
 Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten. Die Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter 
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten. Die Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. 
 
 Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. 
 
