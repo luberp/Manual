@@ -21,15 +21,12 @@ Nachdem Sie hier die gewünschten Einstellungen festgelegt haben, wählen Sie no
 
 Es wird eine Werte-Liste erstellt. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten.
 
-Werte einbuchen resultieren Buchhaltungsdaten.
-
 Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
 Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. 
 
-Wenn Buchungsdaten vorhanden dann resultiert Transaktionen. Unter Konfiguration wird ein Profil angelegt. 
+Wenn Buchungsdaten vorhanden dann resultiert Transaktionen. 
 
-
-Wenn die Berechnung gestartet wird dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt.
+Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. 
 Schaltflächen:  
 Berechnung
 
