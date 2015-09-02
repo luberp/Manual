@@ -3,6 +3,10 @@ durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt w
 Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnnahme), ein Ausführungsinterall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung oder eine Verzinsung der monatlichen Endstände). Diese Einstellungen werden unter *Berechnungs-Parameter* Dialog.
  Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
 
+Um einen neuen Berechnungsprofil anzulegen klicken Sie auf das Symbol: ![](http://xpecto.github.io/docs/img/img_1441117511245.png). 
+In der Reiter *Konfiguration* werden die Allgemeine Daten eingegeben.
+Wechseln Sie in der Reiter *Berechnung*. 
+Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png) erstellen Sie eine neue Berechnung. Nachdem Sie hier den Produkt ausgewählt haben, und den Zeitintervall klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png). 
 
 Berechnung Reiter Konfiguration
 Berechnungen Reiter Berechnung
@@ -13,7 +17,7 @@ Um eine neue Berechnung anzulegen klicken Sie auf das Symbol: ![](http://xpecto.
 ![](http://xpecto.github.io/docs/img/img_1440776131894.png)
 
 
-![](http://xpecto.github.io/docs/img/img_1441108798517.png) erstellt eine neue Berechnung
+ erstellt eine neue Berechnung
 
 Werte einbuchen resultieren Buchhaltungsdaten.
 
