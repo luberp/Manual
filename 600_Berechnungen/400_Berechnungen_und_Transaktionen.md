@@ -13,7 +13,7 @@ Wechseln Sie in der Reiter *Berechnung*.
 Über die Schaltfläche können Sie ein Berechnung ![](http://xpecto.github.io/docs/img/img_1441197372050.png), falls eine vorhanden ist.
 Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png), kopieren Sie eine markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197418881.png), kann eine markierte Berechnung gelöscht werden.
 
-Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png) erstellen Sie eine neue Berechnung. Wählen Sie aus, den Produkt für den die Berechnung laufen soll.
+Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png) erstellen Sie eine neue Berechnung. Wählen Sie aus, das Produkt für das die Berechnung laufen soll.
 
 Mit Hilfe des  Symbols ![](http://xpecto.github.io/docs/img/img_1441188262764.png) können Sie in dem *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
 
