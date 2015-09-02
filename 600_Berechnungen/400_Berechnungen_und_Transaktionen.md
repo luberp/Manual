@@ -1,6 +1,6 @@
 Die Berechnung der Buchungen wird über den Dialog *Berechnungen →Berechnungen und Transaktionen*
 durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. 
-Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnnahme), ein Ausführungsinterall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung oder eine Verzinsung der monatlichen Endstände). Diese Einstellungen werden unter *Berechnungs-Parameter* Dialog.
+
  Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
 
 Um einen neuen Berechnungsprofil anzulegen klicken Sie auf das Symbol: ![](http://xpecto.github.io/docs/img/img_1441117511245.png). 
@@ -13,10 +13,11 @@ Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png) erste
 
 ![](http://xpecto.github.io/docs/img/img_1440776131894.png)
 
-Mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1441188262764.png) gelangen Sie in dem Berechnungs-Parameter Dialog. Berechnungs-Parmeter Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
+Mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1441188262764.png) gelangen Sie in dem *Berechnungs-Parameter* Dialog. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
 
 ![](http://xpecto.github.io/docs/img/img_1423564583240.png)
 
+Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. *Gebührenabrechnung, Gewinnverteilung, Zinsberechnung, Entnnahmeberechnung, Forderungsberechnung, Anteilskauf, Vertragsübertragung*), eine grundsätzliche Berechnungsmethode (wie z.B. *Tägliche Verzinsung*), Einschränkungen,  und unter *Zeitraum* einen Ausführungsintervall. 
 Nachdem Sie hier die gewünschten Einstellungen festgelegt haben, wählen Sie noch den Zeitintervall, und  klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png). 
 
 Es wird eine Werte-Liste erstellt. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten.
