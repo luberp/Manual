@@ -11,7 +11,7 @@ In der Reiter *Konfiguration* werden die Allgemeine Daten eingegeben, wie der Na
 Wechseln Sie in der Reiter *Berechnung*. 
 
 Über die Schaltfläche können Sie ein Berechnung ![](http://xpecto.github.io/docs/img/img_1441197372050.png), falls eine vorhanden ist.
-Mir der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png), kopieren Sie eine markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197418881.png), kann eine markierte Berechnung gelöscht werden.
+Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png), kopieren Sie eine markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197418881.png), kann eine markierte Berechnung gelöscht werden.
 
 Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png) erstellen Sie eine neue Berechnung. Wählen Sie aus, den Produkt für den die Berechnung laufen soll.
 
