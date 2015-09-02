@@ -30,13 +30,12 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14411
 
 ![](http://xpecto.github.io/docs/img/img_1441199916775.png)
 
-
 Um einen Datensatz in der Werte-Liste zu berbeiten.
 ![](http://xpecto.github.io/docs/img/img_1441204665555.png)
 
 Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten. Die Buchhaltungsdaten werden dann bei 
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten. Die Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter 
 
 Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. 
 
@@ -63,7 +62,7 @@ Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls e
 Einzelschreiben für jeden Anleger erstellen und versenden
 Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.
 
-Datei erstellen
+
 
 Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.
 Werte einbuchen rezultiert Buchhaltungsdaten
