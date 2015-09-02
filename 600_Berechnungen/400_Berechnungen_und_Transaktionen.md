@@ -75,8 +75,7 @@ Zinsen und Gewinne
 xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.
 
 Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
-Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf "Start"
-wird die Berechnung für alle Verträge der gewählten Produkte durchgeführt.
+Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf "Berechnung starten" wird die Berechnung für alle Verträge der gewählten Produkte durchgeführt.
 Nach erfolgter Berechnung sehen wir das Ergebnis für jedes Produkt.
 Von hier aus können wir die abschließenden Schritte durchführen:
 
