@@ -30,35 +30,24 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14411
 
 ![](http://xpecto.github.io/docs/img/img_1441199916775.png)
 
-Diese Werte-Liste kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) gelöscht werden, in der Daten-Spalte.
+Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten.
 
-Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
-Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. 
-
-Wenn Buchungsdaten vorhanden dann resultiert Transaktionen. 
-
 Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. 
-Schaltflächen:  
-Berechnung
 
 Werte einbuchen
 ![](http://xpecto.github.io/docs/img/img_1441187929472.png) Testberechnung für aktuellen  Vertrag
 
 ![](http://xpecto.github.io/docs/img/img_1441199681398.png)
 
-Zahlungsverkehr
-![](http://xpecto.github.io/docs/img/img_1441187959011.png) 
-Druck und Ausgabe
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png)  werden Sie zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet. 
+
+Unter *Druck und Ausgabe* kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.
 ![](http://xpecto.github.io/docs/img/img_1441187997984.png)
 
 ![](http://xpecto.github.io/docs/img/img_1441188040541.png)
-Datei erstellen
 
-Unter Druck und Ausgabe kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.
-Einzelschreiben
-Listen
 
 
 xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.
@@ -96,4 +85,9 @@ Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzel
 Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von
 Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.
 
+Transaktion: ist eine Kennzeichnung der Berechnung um die enthalten Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
+
 Berechnungen Transaktionen Eine Transaktion ist eine von der Anwendung definierte Arbeitseinheit. Eine Transaktion sorgt dafür, dass eine logisch zusammengehörige Folge von Operationen ohne negative Begleiterscheinungen auf der Datenbank ausgeführt werden kann. Folge zusammengehöriger Operationen  auf der Datenbank für die gewisse Eigenschaften gelten sollen.
+
+Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
+Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. 
