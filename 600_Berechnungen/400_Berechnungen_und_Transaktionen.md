@@ -48,7 +48,8 @@ Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie a
 
 <p>Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. </p>
 
-<p>Sie können eine Testberechnung durchführen. Markieren Sie dafür in der xpectoPro Hauptfenster Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441205184520.png" alt="" title=""> </p>
+<p>Sie können eine Testberechnung durchführen. Markieren Sie dafür in der xpectoPro Hauptfenster Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche <br>
+ <img src="http://xpecto.github.io/docs/img/img_1441205184520.png" alt="" title=""> </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441204831222.png" alt="" title=""></p>
 
