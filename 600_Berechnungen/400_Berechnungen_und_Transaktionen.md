@@ -69,14 +69,6 @@ Datei erstellen</p>
 Einzelschreiben <br>
 Listen</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1423565283935.png" alt="" title=""> löscht die Liste der Werte.</p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1423565546161.png" alt="" title=""></p>
-
-<p>Kopiert die markierte Berechnung. <br>
-Löscht die markierte Berechnung. <br>
-Erstellt eine neue Berechnung.</p>
-
 <p>xpectoPro ermöglicht vielfältige Berechnungen und Ausschüttungen. Die Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und Freistellungsaufträge werden berücksichtigt.</p>
 
 <p>Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen. Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf “Start” wird die Berechnung für alle Verträge der gewählten Produkte durchgeführt. Nach erfolgter Berechnung sehen wir das Ergebnis für jedes Produkt. Von hier aus können wir die abschließenden Schritte durchführen:</p>
