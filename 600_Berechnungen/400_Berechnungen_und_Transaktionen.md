@@ -64,10 +64,6 @@ Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls e
 Einzelschreiben für jeden Anleger erstellen und versenden
 Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.
 
-Berechnung starten
-Werte einbuchen 
-Testberechnung für aktuellen Vertrag
-
 Datei erstellen
 
 Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.
