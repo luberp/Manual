@@ -1,10 +1,10 @@
-Die Berechnung der Buchungen wird über den Dialog *Berechnungen →Berechnungen und Transaktionen*
+Die Berechnung der Buchungen wird über den Dialog *Berechnungen → Berechnungen und Transaktionen*
 durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. 
 
  Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
 
 Um einen neuen Berechnungsprofil anzulegen klicken Sie auf das Symbol: ![](http://xpecto.github.io/docs/img/img_1441117511245.png). 
-In der Reiter *Konfiguration* werden die Allgemeine Daten eingegeben.
+In der Reiter *Konfiguration* werden die Allgemeine Daten eingegeben, wie der Name und der Zeitintervall.
 
 ![](http://xpecto.github.io/docs/img/img_1423558893524.png)
 
