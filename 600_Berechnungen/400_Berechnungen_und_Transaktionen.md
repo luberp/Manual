@@ -36,7 +36,7 @@ Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus 
 
 ![](http://xpecto.github.io/docs/img/img_1441204665555.png)
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten. Die Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchung (siehe *Bearbeiten → Stapelbuchung*).
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultiert die Buchungen-Liste. Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchung (siehe *Bearbeiten → Stapelbuchung*).
 
 Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. 
 
