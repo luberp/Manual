@@ -10,8 +10,7 @@ offenen Posten für alle Beteiligungen, und unten die Details.
 
 Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden. Rechnung mit einer Gutschrift ausgleichen.
 
-
-Öffnen Sie die Offene Posten und markieren Sie 
+Öffnen Sie die OPOS Verarbeitung Maske  und markieren Sie alle offene Posten oder nur die für die 
 
 Produkt Konto OPOS - Konto
 
