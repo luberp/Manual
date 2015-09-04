@@ -13,10 +13,9 @@
 
 <p>Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.</p>
 
-<p>Die Berechnung der Buchungen wird über den Dialog <em>Berechnungen → Berechnungen und Transaktionen</em> <br>
-durchgeführt. </p>
-
-<p>Um einen neuen <em>Berechnungsprofil</em> anzulegen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1441197553235.png" alt="" title="">. <br>
+<p>Die Berechnung der Buchungen wird über die Maske <em>xpectoPro Berechnungen und Transaktionen</em> <br>
+durchgeführt. Die kann erreicht werden unter Menüleiste <em>Berechnungen → Berechnungen und Transaktionen</em>. <br>
+Um einen neuen <em>Berechnungsprofil</em> anzulegen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1441197553235.png" alt="" title="">. <br>
 In der Reiter <em>Konfiguration</em> werden die Allgemeine Daten eingegeben, wie der Name und das Zeitintervall.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441196703230.png" alt="" title=""></p>
