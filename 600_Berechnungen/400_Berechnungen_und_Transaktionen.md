@@ -56,7 +56,7 @@ Von hier aus können Sie abschließenden Schritte durchführen:
 *Zahlungsverkehr* Überweisung/Zahlungsdateien und Belege erstellen 
 *Druck und Ausgabe* Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen.
 
-Um Zahlungsdateien und Belege zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png) werden Sie zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe *Berechnungen → Offene Posten*). 
+Um Zahlungsdateien und Belege zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png). Sie werden zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe *Berechnungen → Offene Posten*). 
 
 Unter *Druck und Ausgabe* kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.
 
