@@ -10,6 +10,8 @@
 <body><div class="container"><p>Die Berechnung der Buchungen wird über den Dialog <em>Berechnungen → Berechnungen und Transaktionen</em> <br>
 durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. </p>
 
+<p>Der komplette Ablauf ist automatisiert und kann für die einzelnen Anwendungsfälle genauestens konfiguriert werden, und dient der regelmäßige Berechnung von Zinsen, Dividenden, Basisdividenden oder Überschüssen.</p>
+
 <p>Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.</p>
 
 <p>Um einen neuen <em>Berechnungsprofil</em> anzulegen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1441197553235.png" alt="" title="">. <br>
@@ -92,10 +94,7 @@ Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit
 Nach erfolgter Berechnung sehen wir das Ergebnis für jedes Produkt. <br>
 Von hier aus können wir die abschließenden Schritte durchführen:</p>
 
-<p>Überweisung/Zahlungsdateien und Belege erstellen Übersichtslisten für die komplette Berechnung erstellen Einzelschreiben für jeden Anleger erstellen und versenden <br>
-Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen <br>
-Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von <br>
-Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.</p>
+<p>Überweisung/Zahlungsdateien und Belege erstellen Übersichtslisten für die komplette Berechnung erstellen Einzelschreiben für jeden Anleger erstellen und versenden.</p>
 
 <p>Transaktion: ist eine Kennzeichnung der Berechnung um die enthalten Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.</p>
 
