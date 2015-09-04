@@ -1,88 +1,85 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>400_Berechnungen_und_Transaktionen.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>xpectoPro ermöglicht die Berechnung von Gewinnverteilung, Verlustverteilung, Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung, auf dem Konto des Anlegers.</p>
+xpectoPro ermöglicht die Berechnung von Gewinnverteilung, Verlustverteilung, Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung, auf dem Konto des Anlegers.
 
-<p>Diese Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.</p>
+Diese Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
 
-<p>Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.</p>
+ Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
+ 
+ Die Berechnung der Buchungen wird über die Maske *xpectoPro Berechnungen und Transaktionen*
+durchgeführt. Die kann erreicht werden unter Menüleiste *Berechnungen → Berechnungen und Transaktionen*.
+Um einen neuen *Berechnungsprofil* anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1441197553235.png).
+In der Reiter *Konfiguration* werden die Allgemeine Daten eingegeben, wie der Name und das Zeitintervall.
 
-<p>Die Berechnung der Buchungen wird über die Maske <em>xpectoPro Berechnungen und Transaktionen</em> <br>
-durchgeführt. Die kann erreicht werden unter Menüleiste <em>Berechnungen → Berechnungen und Transaktionen</em>. <br>
-Um einen neuen <em>Berechnungsprofil</em> anzulegen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1441197553235.png" alt="" title="">. <br>
-In der Reiter <em>Konfiguration</em> werden die Allgemeine Daten eingegeben, wie der Name und das Zeitintervall.</p>
+![](http://xpecto.github.io/docs/img/img_1441196703230.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441196703230.png" alt="" title=""></p>
+Wechseln Sie in dem Reiter *Berechnung*. 
 
-<p>Wechseln Sie in dem Reiter <em>Berechnung</em>. </p>
+![](http://xpecto.github.io/docs/img/img_1441198492709.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441198492709.png" alt="" title=""></p>
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441197372050.png), können Sie eine Berechnung aus vorheriger Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist.
+Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png), kopieren Sie eine markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197418881.png), kann eine markierte Berechnung gelöscht werden.
 
-<p>Über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441197372050.png" alt="" title="">, können Sie eine Berechnung aus vorheriger Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist. <br>
-Mit der Symbol <img src="http://xpecto.github.io/docs/img/img_1441197398657.png" alt="" title="">, kopieren Sie eine markierte Berechnung, und mit der Symbol <img src="http://xpecto.github.io/docs/img/img_1441197418881.png" alt="" title="">, kann eine markierte Berechnung gelöscht werden.</p>
+Um eine neue Berechnung anzulegen klicken Sie auf dem Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png). Wählen Sie dann  aus, das Produkt für das die Berechnung laufen soll.
 
-<p>Um eine neue Berechnung anzulegen klicken Sie auf dem Symbol <img src="http://xpecto.github.io/docs/img/img_1441108798517.png" alt="" title="">. Wählen Sie dann  aus, das Produkt für das die Berechnung laufen soll.</p>
+![](http://xpecto.github.io/docs/img/img_1441198576702.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441198576702.png" alt="" title=""></p>
+Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441188262764.png) können Sie in dem *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
 
-<p>Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols <img src="http://xpecto.github.io/docs/img/img_1441188262764.png" alt="" title=""> können Sie in dem <em>Berechnungs-Parameter</em> Dialog gelangen. Der <em>Berechnungs-Parmeter</em> Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. </p>
+![](http://xpecto.github.io/docs/img/img_1441198751659.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441198751659.png" alt="" title=""></p>
+Die Berechnungen haben dabei eine Art (wie z.B. *Gebührenabrechnung, Gewinnverteilung, Zinsberechnung, Entnnahmeberechnung, Forderungsberechnung, Anteilskauf, Vertragsübertragung*), eine grundsätzliche Berechnungsmethode (wie z.B. *Tägliche Verzinsung*), Einschränkungen, Ergebnisse,  und Druck-Einstellungen. 
+Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie auf *OK*.
 
-<p>Die Berechnungen haben dabei eine Art (wie z.B. <em>Gebührenabrechnung, Gewinnverteilung, Zinsberechnung, Entnnahmeberechnung, Forderungsberechnung, Anteilskauf, Vertragsübertragung</em>), eine grundsätzliche Berechnungsmethode (wie z.B. <em>Tägliche Verzinsung</em>), Einschränkungen, Ergebnisse,  und Druck-Einstellungen.  <br>
-Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie auf <em>OK</em>.</p>
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png), um die Werte-Liste zu erstellen. 
 
-<p>Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441121273470.png" alt="" title="">, um die Werte-Liste zu erstellen. </p>
+![](http://xpecto.github.io/docs/img/img_1441199916775.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441199916775.png" alt="" title=""></p>
+Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
 
-<p>Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols <img src="http://xpecto.github.io/docs/img/img_1441197139978.png" alt="" title=""> in der Daten-Spalte, gelöscht werden.</p>
+Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. 
 
-<p>Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. </p>
+![](http://xpecto.github.io/docs/img/img_1441204665555.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441204665555.png" alt="" title=""></p>
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultiert die Buchungen-Liste. Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe *Bearbeiten → Stapelbuchung*).
 
-<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187895311.png" alt="" title=""> resultiert die Buchungen-Liste. Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter <em>Buchungsdaten</em> automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe <em>Bearbeiten → Stapelbuchung</em>).</p>
+Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen erstellt. 
 
-<p>Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen erstellt. </p>
 
-<p>Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske <em>xpectoPro Berechnungen und Transaktionen</em> minimieren, oder verkleinern.  <br>
-Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441205184520.png" alt="" title="">. </p>
+Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske *xpectoPro Berechnungen und Transaktionen* minimieren, oder verkleinern. 
+Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441205184520.png). 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441199681398.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1441199681398.png)
 
-<p>In dem <em>Testdialog für Fondsberechnung</em> erhalten Sie die Werte und Buchungen die dem ausgewählten Vertrag zugeordnet sind. </p>
+In dem *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungen die dem ausgewählten Vertrag zugeordnet sind. 
 
-<p>Schließen Sie das Dialog um zurück zur <em>xpectoPro Berechnungen und Transaktionen</em> zu kehren.</p>
+Schließen Sie das Dialog um zurück zur *xpectoPro Berechnungen und Transaktionen* zu kehren.
 
-<p>Von hier aus können Sie abschließenden Schritte durchführen: <br>
-<em>Zahlungsverkehr</em> Überweisung/Zahlungsdateien und Belege erstellen  <br>
-<em>Druck und Ausgabe</em> Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen.</p>
+Von hier aus können Sie abschließenden Schritte durchführen:
+*Zahlungsverkehr* Überweisung/Zahlungsdateien und Belege erstellen 
+*Druck und Ausgabe* Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen.
 
-<p>Um Zahlungsdateien und Belege zu erstellen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187959011.png" alt="" title=""> werden Sie zum  <em>xpectoPro OPOS Verarbeitung</em> Dialog weitergeleitet (siehe <em>Berechnungen → Offene Posten</em>). </p>
 
-<p>Unter <em>Druck und Ausgabe</em> kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird. <br>
-Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187997984.png" alt="" title=""> um Einzelschreiben für jeden Anleger zu erstellen und versenden.</p>
+Um Zahlungsdateien und Belege zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png) werden Sie zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe *Berechnungen → Offene Posten*). 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441360646363.png" alt="" title=""></p>
+Unter *Druck und Ausgabe* kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden.
 
-<p>Um eine Übersichtliste für die komplette Berechnung können Sie durch klicken auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441188040541.png" alt="" title=""> erstellen.</p>
+![](http://xpecto.github.io/docs/img/img_1441360646363.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441360701050.png" alt="" title=""></p>
+Um eine Übersichtliste für die komplette Berechnung können Sie durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen.
 
-<p>Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.</p>
+![](http://xpecto.github.io/docs/img/img_1441360701050.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441364859005.png" alt="" title="">.</p>
+Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
 
-<p>Markieren Sie eine Transaktion um eine der folgende Aktionen durchzuführen:</p>
+![](http://xpecto.github.io/docs/img/img_1441364859005.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441366232699.png" alt="" title=""> kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist. <br>
-<img src="http://xpecto.github.io/docs/img/img_1441366314917.png" alt="" title=""> <br>
-Über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441366201137.png" alt="" title=""> kann eine komplette Abrechnung wieder gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind.</p></div></body>
-</html>
+Markieren Sie eine Transaktion um eine der folgende Aktionen durchzuführen:
+
+| Aktion           |    Beschreibung     |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/img/img_1441366232699.png)     |  Kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist| 
+| ![](http://xpecto.github.io/docs/img/img_1441366314917.png)   |  Es wird eine Liste der enthaltene Buchungen angezeigt| 
+| ![](http://xpecto.github.io/docs/img/img_1441366201137.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind | 
+
+
+
