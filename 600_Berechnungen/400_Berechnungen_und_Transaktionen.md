@@ -61,7 +61,11 @@ Von hier aus können Sie abschließenden Schritte durchführen:
 Um Zahlungsdateien und Belege zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png) werden Sie zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe *Berechnungen → Offene Posten*). 
 
 Unter *Druck und Ausgabe* kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden.
+
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht
+Dazu muss der Bericht als Verteiler für Kampagne markiert werden. (siehe Extras → Berichte und Adressmuster → Berichte → Kategorien).
+Sie können einen Testdruck, um für jeden Vermittler einen Anschreiben erzeugen ohne Belegnummer, oder Belegdruck, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen.
+gedruckt oder per E-Mail zugestellt werden klicken Sie auf die Schaltfläche , so wählen Sie den zugehörigen Bericht (Häufig Provisionsabrechnung) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat.
 
 ![](http://xpecto.github.io/docs/img/img_1441360646363.png)
 
