@@ -41,8 +41,7 @@ Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus 
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultiert die Buchungen-Liste. Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe *Bearbeiten → Stapelbuchung*).
 
-Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen erstellt. 
-
+Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen enthält. 
 
 Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske *xpectoPro Berechnungen und Transaktionen* minimieren, oder verkleinern. 
 Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441205184520.png). 
@@ -57,19 +56,19 @@ Von hier aus können Sie abschließenden Schritte durchführen:
 *Zahlungsverkehr* Überweisung/Zahlungsdateien und Belege erstellen 
 *Druck und Ausgabe* Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen.
 
-
 Um Zahlungsdateien und Belege zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png) werden Sie zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe *Berechnungen → Offene Posten*). 
 
 Unter *Druck und Ausgabe* kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.
 
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht
-Dazu muss der Bericht als *Spezieller Bericht* für *Berechungen Einzelschreiben* markiert werden. (siehe Extras → Berichte und Adressmuster → Berichte → Kategorien).
-Sie können einen Testdruck, um für jeden Vermittler einen Anschreiben erzeugen ohne Belegnummer, oder Belegdruck, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen.
-gedruckt oder per E-Mail zugestellt werden klicken Sie auf die Schaltfläche , so wählen Sie den zugehörigen Bericht (Häufig Provisionsabrechnung) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat.
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht,
+dafür muss der Bericht als Bericht für *Berechungen Einzelschreiben* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
+Sie können einen *Testdruck*, um für jeden Anleger einen Anschreiben zu erzeugen ohne Belegnummer, oder *Belegdruck*, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen.
 
 ![](http://xpecto.github.io/docs/img/img_1441360646363.png)
 
-Um eine Übersichtliste für die komplette Berechnung können Sie durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen.
+Um eine Übersichtliste für die komplette Berechnung, können Sie durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen.
+Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
+Sie können einen *Testdruck*, um für jeden Anleger einen Anschreiben zu erzeugen ohne Belegnummer, oder *Belegdruck*, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen.
 
 ![](http://xpecto.github.io/docs/img/img_1441360701050.png)
 
