@@ -67,7 +67,7 @@ dafür muss der Bericht als Bericht für *Berechungen Einzelschreiben* markiert 
 
 Sie können einen *Testdruck*, um für jeden Anleger einen Anschreiben zu erzeugen ohne Belegnummer, oder *Belegdruck*, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen.
 
-Um eine Übersichtliste für die komplette Berechnung, können Sie durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
+Um eine Übersichtliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
 
 ![](http://xpecto.github.io/docs/img/img_1441360701050.png)
 
