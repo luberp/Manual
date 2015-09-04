@@ -40,10 +40,20 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png
 
 Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt die die Werte und Buchungen erstellt. 
 
-Sie können eine Testberechnung durchführen. Markieren Sie dafür in der xpectoPro Hauptfenster Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche
- ![](http://xpecto.github.io/docs/img/img_1441205184520.png) 
+Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske *xpectoPro Berechnungen und Transaktionen* minimieren, oder verkleinern. 
+Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche
+ ![](http://xpecto.github.io/docs/img/img_1441205184520.png). 
 
 ![](http://xpecto.github.io/docs/img/img_1441199681398.png)
+
+In dem *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungen die dem ausgewählten Vertrag zugeordnet sind. 
+
+Schließen Sie das Dialog um zurück zur *xpectoPro Berechnungen und Transaktionen* zu kehren.
+
+In der Vertrags-Ansicht auf dem Karteireiter Buchungsdaten werden Buchungssätze der Fondsbuchhaltung angezeigt, die dem ausgewählten Vertrag zugeordnet sind (z.B. Einzahlungen des Kunden auf einen Sparvertrag). Solche Buchungen werden auch häufig als Kunden-Buchungen bezeichnet. In dieser Maske können Buchungssätze nicht geändert, gelöscht oder erfasst werden.
+In der Produkt-Ansicht (erreichbar über Datei->Produkte) auf dem Karteireiter Buchungsdaten werden Buchungssätze der Fondsbuchhaltung angezeigt, die keinem Vertrag zugeordnet sind. Solche Buchungen werden auch häufig als Produkt-Buchungen bezeichnet. In dieser Maske können ebenfalls keine Buchungssätze geändert, gelöscht oder erfasst werden.
+
+
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png)  werden Sie zum  *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet. 
 
