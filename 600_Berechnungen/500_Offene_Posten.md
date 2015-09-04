@@ -15,25 +15,29 @@ Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wi
 ![](http://xpecto.github.io/docs/img/img_1440769189875.png)
 
 ![](http://xpecto.github.io/docs/img/img_1440769218414.png)
-
+ Ausführungsdatum
 ![](http://xpecto.github.io/docs/img/img_1440769342773.png)
 
-![](http://xpecto.github.io/docs/img/img_1440769392486.png)
 
+![](http://xpecto.github.io/docs/img/img_1440769392486.png)
+Das abgehende Bankkonto des Fonds 
 ![](http://xpecto.github.io/docs/img/img_1440769418756.png)
 
 Zahlungsverkehrmaske 
-![](http://xpecto.github.io/docs/img/img_1440772506395.png)
+Wenn keine weiteren offenen Posten im Dialog übrig bleiben, öffnet sich automatisch der Dialog Zahlungsverkehr (früherer Name Sollstellung, Menu Bearbeiten - Zahlungsverkehr).
+Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
+
+
 ![](http://xpecto.github.io/docs/img/img_1440772638410.png)
+
+Mit den bekannten Funktionen „Datenprüfung“ und „Dateien erzeugen“ können die Dateien dann wirklich erzeugt werden. Es werden die Sollbuchungen zu einer Transaktion zusammengefasst (SB_Transaction) und zugleich wird ein Datensatz für den Zahlungsverkehr (ZV, incl. ZV_FileName und ZV_FileNamePDF, Join über den Key ZV_Transaction) erzeugt. 
+
 
  ![](http://xpecto.github.io/docs/img/img_1440771677497.png) und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv. dann auf Details ![](http://xpecto.github.io/docs/img/img_1440771513947.png)
 
 ![](http://xpecto.github.io/docs/img/img_1440772783601.png)
 
  Dateien erzeugen ![](http://xpecto.github.io/docs/img/img_1440771590046.png).   Dann werden eine CSV, PDF und XML.
-
-![](http://xpecto.github.io/docs/img/img_1440769254212.png)
-
 
 ![](http://xpecto.github.io/docs/img/img_1440772902738.png)
 
@@ -45,5 +49,5 @@ Zahlungsverkehrmaske
 ![](http://xpecto.github.io/docs/img/img_1440773653998.png)
 
 CSV, PDF, XML
-
+Die erzeugte Dateien werden dann in der Liste angezeigt. 
 ![](http://xpecto.github.io/docs/img/img_1440773806090.png)
