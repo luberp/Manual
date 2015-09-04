@@ -1,14 +1,16 @@
-Offene Posten Liste dient als Nebenbuch der Buchuführung. Mit Hilfe von xpectoPro erhalten Sie vom  eine vollständige Liste aller offener Rechnungen. Innerhalb dieser Maske können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
+Offene Posten Liste dient als Nebenbuch der Buchführung. Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Innerhalb dieser Maske können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
-![](http://xpecto.github.io/docs/img/img_1440774472016.png)
 
-Sie erreichen die Offene Posten Maske über Berechnungen Offene Posten oder unter Zahlungsverkehr OPOS berechnen.
-Die Offenen Posten Maske
+Sie erreichen die *xpectoPro OPOS Verarbeitung* Maske über *Berechnungen → Offene Posten* oder unter *Berechnungen →Zahlungsverkehr → Werte berechnen*.
 
-![](http://xpecto.github.io/docs/img/img_1440772574042.png)
+Produkt Konto OPOS - Konto
 
 Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von unten Produkte Konto angelegter Konto.
 Es geht haupsächlich um außgehender Zahlungsverkehr. Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. 
+
+![](http://xpecto.github.io/docs/img/img_1440772574042.png)
+
+
 
 ![](http://xpecto.github.io/docs/img/img_1440769189875.png)
 
