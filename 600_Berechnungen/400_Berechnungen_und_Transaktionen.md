@@ -30,7 +30,8 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14411
 
 ![](http://xpecto.github.io/docs/img/img_1441199916775.png)
 
-Um einen Datensatz in der Werte-Liste zu bearbeiten.
+Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. 
+
 ![](http://xpecto.github.io/docs/img/img_1441204665555.png)
 
 Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
@@ -61,8 +62,6 @@ Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls e
 Übersichtslisten für die komplette Berechnung erstellen 
 Einzelschreiben für jeden Anleger erstellen und versenden
 Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.
-
-
 
 Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.
 Werte einbuchen rezultiert Buchhaltungsdaten
