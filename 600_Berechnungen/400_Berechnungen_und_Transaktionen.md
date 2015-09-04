@@ -30,11 +30,11 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14411
 
 ![](http://xpecto.github.io/docs/img/img_1441199916775.png)
 
+Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
+
 Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. 
 
 ![](http://xpecto.github.io/docs/img/img_1441204665555.png)
-
-Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultieren die Buchhaltungsdaten. Die Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. 
 
@@ -42,7 +42,6 @@ Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erste
 
 Sie können eine Testberechnung durchführen. Markieren Sie dafür in der xpectoPro Hauptfenster Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche
  ![](http://xpecto.github.io/docs/img/img_1441205184520.png) 
-
 
 ![](http://xpecto.github.io/docs/img/img_1441199681398.png)
 
