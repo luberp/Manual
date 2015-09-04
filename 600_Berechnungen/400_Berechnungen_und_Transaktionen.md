@@ -43,7 +43,6 @@ Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erste
 Sie können eine Testberechnung durchführen. Markieren Sie dafür in der xpectoPro Hauptfenster Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche
  ![](http://xpecto.github.io/docs/img/img_1441205184520.png) 
 
- ![](http://xpecto.github.io/docs/img/img_1441204831222.png)
 
 ![](http://xpecto.github.io/docs/img/img_1441199681398.png)
 
