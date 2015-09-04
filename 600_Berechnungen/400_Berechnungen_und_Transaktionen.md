@@ -7,12 +7,14 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Die Berechnung der Buchungen wird über den Dialog <em>Berechnungen → Berechnungen und Transaktionen</em> <br>
-durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. </p>
+<body><div class="container"><p>xpectoPro ermöglicht die Berechnung von Gewinnverteilung, Verlustverteilung, Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung, auf dem Konto des Anlegers.</p>
 
-<p>Der komplette Ablauf ist automatisiert und kann für die einzelnen Anwendungsfälle genauestens konfiguriert werden, und dient der regelmäßige Berechnung von Zinsen, Dividenden, Basisdividenden oder Überschüssen.</p>
+<p>Diese Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  </p>
 
 <p>Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.</p>
+
+<p>Die Berechnung der Buchungen wird über den Dialog <em>Berechnungen → Berechnungen und Transaktionen</em> <br>
+durchgeführt. </p>
 
 <p>Um einen neuen <em>Berechnungsprofil</em> anzulegen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1441197553235.png" alt="" title="">. <br>
 In der Reiter <em>Konfiguration</em> werden die Allgemeine Daten eingegeben, wie der Name und das Zeitintervall.</p>
@@ -78,9 +80,7 @@ Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img
 
 <p>Übersichtslisten für die komplette Berechnung erstellen </p>
 
-<p>Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.</p>
-
-<p>Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.</p>
+<p>Massenaktion auf Buchhaltungsdaten. Verteilung von Kapital auf Einzelanleger.</p>
 
 <p>Wenn Buchungsdaten vorhanden dann rezultiert Transaktionen. Provisionen einfügen Ansprüche berechnen. <br>
 Sollstellung Datenprüfung Lastenschriften Daten für die Bank.</p>
@@ -101,5 +101,33 @@ Von hier aus können wir die abschließenden Schritte durchführen:</p>
 <p>Berechnungen Transaktionen Eine Transaktion ist eine von der Anwendung definierte Arbeitseinheit. Eine Transaktion sorgt dafür, dass eine logisch zusammengehörige Folge von Operationen ohne negative Begleiterscheinungen auf der Datenbank ausgeführt werden kann. Folge zusammengehöriger Operationen  auf der Datenbank für die gewisse Eigenschaften gelten sollen.</p>
 
 <p>Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger. <br>
-Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. </p></div></body>
+Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger. </p>
+
+<p>xpecto eAgentur ermöglicht vielfältige Berechnungen und Ausschüttungen. Die <br>
+Berechnungen werden exakt nach ihren Vorgaben erstellt. Etwaige Steuern <br>
+wie Kapitalertragssteuer, Solidaritätszuschlag oder EU-Quellensteuer können <br>
+sehr einfach integriert werden. Thesaurierungen, Auszahlungssperren und <br>
+Freistellungsaufträge werden berücksichtigt.</p>
+
+<p>Die Berechnung der Buchungen wird über den Dialog “Berechnungen”/”Berechnungen und Transaktionen” <br>
+durchgeführt. Hier können alle laufenden Berechnungen als Vorlage hinterlegt werden. <br>
+Die Berechnungen haben dabei eine Art der Berechnung (wie z.B. Gewinnverteilung, Verzinsung, Entnnahme) <br>
+ein Ausführungsinterall und eine grundsätzliche Berechnungsmethode (wie z.B. 30/360 Tage Regelung <br>
+oder eine Verzinsung der monatlichen Endstände). Jedes Produkt wird intern als eigener Mandant mit einer <br>
+eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden <br>
+oder Zinsen ist somit auch für viele Produkte elegant durchführbar.</p>
+
+<p>Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen. <br>
+Der Buchungssatz und der Buchungstext können individuell verändert werden. Mit einem Klick auf “Start” <br>
+wird die Berechnung für alle Verträge der gewählten Produkte durchgeführt. <br>
+Nach erfolgter Berechnung sehen wir das Ergebnis für jedes Produkt. <br>
+Von hier aus können wir die abschließenden Schritte durchführen:</p>
+
+<p>Überweisung/Zahlungsdateien und Belege erstellen  <br>
+Übersichtslisten für die komplette Berechnung erstellen  <br>
+Einzelschreiben für jeden Anleger erstellen und versenden</p>
+
+<p>Der komplette Ablauf ist sehr gut automatisiert und wird von uns für die einzelnen <br>
+Anwendungsfälle genauestens konfiguriert. Die regelmäßige Berechnung von <br>
+Zinsen, Dividenden, Basisdividenden oder Überschüssen ist damit eine leichte Übung.</p></div></body>
 </html>
