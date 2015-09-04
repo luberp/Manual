@@ -54,8 +54,6 @@ Mit den bekannten Funktionen „Datenprüfung“ und „Dateien erzeugen“ kön
 
 ![](http://xpecto.github.io/docs/img/img_1440772902738.png)
 
-
-
 ![](http://xpecto.github.io/docs/img/img_1440773653998.png)
 
 CSV, PDF, XML
