@@ -69,22 +69,14 @@ Um eine Übersichtliste für die komplette Berechnung können Sie durch klicken 
 
 ![](http://xpecto.github.io/docs/img/img_1441360701050.png)
 
-
-Eine Transaktion ist eine Kennzeichnung der Berechnung um die enthalten Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
-
-Eine Transaktion ist eine von der Anwendung definierte Arbeitseinheit. Eine Transaktion sorgt dafür, dass eine logisch zusammengehörige Folge von Operationen ohne negative Begleiterscheinungen auf der Datenbank ausgeführt werden kann. Folge zusammengehöriger Operationen  auf der Datenbank für die gewisse Eigenschaften gelten sollen.
-
-Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger.
-
+Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
 
 ![](http://xpecto.github.io/docs/img/img_1441364859005.png).
 
-Transaktion: ist eine Kennzeichnung der Berechnung um die enthalten Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
+Aktionen: Buchungen eines Vertrags aus Transaktion löschen
+Buchungen dieser Transaktion anzeigen
+Komplete Transaktion löschen.
 
-Berechnungen Transaktionen Eine Transaktion ist eine von der Anwendung definierte Arbeitseinheit. Eine Transaktion sorgt dafür, dass eine logisch zusammengehörige Folge von Operationen ohne negative Begleiterscheinungen auf der Datenbank ausgeführt werden kann. Folge zusammengehöriger Operationen auf der Datenbank für die gewisse Eigenschaften gelten sollen.
-
-Transaktionen sind Massenaktionen auf Buchhaltungsdaten, z.B. Verteilung Kapital auf Einzelanleger. 
-Transaktionen sind Sammlung von Werte und Buchungen. Massenaktion auf Buchhaltungsdaten. Verteilung Kapital auf Einzelanleger.
 
 
 
