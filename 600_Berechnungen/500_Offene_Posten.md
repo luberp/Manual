@@ -5,15 +5,17 @@ Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rech
 
 Wenn Sie aber vorher eine Beteiligung ![](http://xpecto.github.io/docs/img/img_1441372403820.png) oder einen Vertrag ![](http://xpecto.github.io/docs/img/img_1441373565478.png) markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
 
-Sie erreichen die *xpectoPro OPOS Verarbeitung* Maske über *Berechnungen → Offene Posten* oder unter *Berechnungen →Zahlungsverkehr → Werte berechnen*.
+Sie erreichen die *xpectoPro OPOS Verarbeitung* Maske über *Berechnungen → Offene Posten*, unter *Berechnungen →Zahlungsverkehr → Werte berechnen* oder unter *Zahlungsverkehr → OPOS berechnen*.
+
 Die *OPOS Verarbeitung* Maske enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
 Posten für alle Beteiligungen, und unten die Details der Buchungen.
 
 Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden. Rechnung mit einer Gutschrift ausgleichen.
 
+Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von einen OPOS-Konto. Der OPOS-Konto muss unter *Produkte → Konten*  als  OPOS-Konto angelegt werden. 
 
-Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von unten *Produkte → Konto* angelegter Konto. 
-Es geht haupsächlich um außgehender Zahlungsverkehr. 
+Die *OPOS Verarbeitung* Maske enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
+Posten für alle Beteiligungen, und unten die Details der Buchungen.
 
 ![](http://xpecto.github.io/docs/img/img_1441702035355.png)
 
@@ -29,13 +31,13 @@ Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet 
 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
-Mit den Funktionen „Datenprüfung“ und „Dateien erzeugen“ können die Dateien dann wirklich erzeugt werden. Es werden die Sollbuchungen zu einer Transaktion zusammengefasst und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
- ![](http://xpecto.github.io/docs/img/img_1440771677497.png) und wenn die geprüfte Daten in Ordnung sind dann werden die Dateien erzeugen aktiv. dann auf Details ![](http://xpecto.github.io/docs/img/img_1440771513947.png)
+Mit den Funktionen *Datenprüfung* und *Dateien erzeugen* können die Dateien dann wirklich erzeugt werden. Es werden die Sollbuchungen zu einer Transaktion zusammengefasst und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann werden die *Dateien erzeugen* Schaltfläche aktiv. 
+Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls die vorhanden sind.
 
 ![](http://xpecto.github.io/docs/img/img_1441702289501.png)
 
-
- Dateien erzeugen ![](http://xpecto.github.io/docs/img/img_1440771590046.png).   Dann werden eine CSV, PDF und XML.
+Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Dann werden eine CSV, PDF und XML.
  
 ![](http://xpecto.github.io/docs/img/img_1441702499437.png)
 
