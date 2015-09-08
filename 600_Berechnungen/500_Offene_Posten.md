@@ -27,7 +27,9 @@ Wählen Sie in dem folgenden Dialog das Ausführungsdatum an.
 
 ![](http://xpecto.github.io/docs/img/img_1441702086158.png)
 
-Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich die *Zahlungsverkehr*-Maske.
+Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich die *Zahlungsverkehr*-Maske. 
+
+Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
 ![](http://xpecto.github.io/docs/img/img_1441702135963.png)
 
@@ -41,19 +43,9 @@ Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440
 
 Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Dafür werden eine CSV-, PDF- und XML-Datei erstellt, in einem unter *Extras → Einstellungen → Bank Pfad*, angegebener Ordner. 
  
-![](http://xpecto.github.io/docs/img/img_1441702499437.png)
+![](http://xpecto.github.io/docs/img/img_1441702499437.png).
 
 
-
-Zahlungsverkehrmaske 
-Wenn keine weiteren offenen Posten im Dialog übrig bleiben, öffnet sich automatisch der Dialog Zahlungsverkehr (früherer Name Sollstellung, Menu Bearbeiten - Zahlungsverkehr).
-Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. 
-
-Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
-
-![](http://xpecto.github.io/docs/img/img_1440772638410.png)
-
-Mit den bekannten Funktionen „Datenprüfung“ und „Dateien erzeugen“ können die Dateien dann wirklich erzeugt werden. Es werden die Sollbuchungen zu einer Transaktion zusammengefasst (SB_Transaction) und zugleich wird ein Datensatz für den Zahlungsverkehr (ZV, incl. ZV_FileName und ZV_FileNamePDF, Join über den Key ZV_Transaction) erzeugt. 
 
 
 
