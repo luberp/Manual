@@ -37,7 +37,7 @@ Nachdem der Übertrag durchgeführt würde, wird ein neuer Vertrag angelegt. Der
 
 ![](http://xpecto.github.io/docs/img/img_1418993023788.png)
 
-Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen. Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
+Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen (siehe *Berechungen → Berechnungen und Transaktionen*). Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
 
 ![](http://xpecto.github.io/docs/img/img_1440764279816.png)
 
