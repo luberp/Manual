@@ -37,10 +37,9 @@ Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440
 
 ![](http://xpecto.github.io/docs/img/img_1441702289501.png)
 
-Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Dann werden eine CSV, PDF und XML.
+Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Dafür werden eine CSV-, PDF- und XML-Datei erstellt, in einem unter *Extras → Einstellungen → Bank Pfad*, angegebener Ordner. 
  
 ![](http://xpecto.github.io/docs/img/img_1441702499437.png)
-
 
 Eine Lastschrift ist gewissermaßen die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank  den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.
 ![](http://xpecto.github.io/docs/img/img_1440769218414.png)
