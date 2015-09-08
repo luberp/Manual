@@ -41,13 +41,7 @@ Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/i
  
 ![](http://xpecto.github.io/docs/img/img_1441702499437.png)
 
-Eine Lastschrift ist gewissermaßen die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank  den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.
-![](http://xpecto.github.io/docs/img/img_1440769218414.png)
-
-
-![](http://xpecto.github.io/docs/img/img_1440769392486.png)
-Das abgehende Bankkonto des Fonds 
-![](http://xpecto.github.io/docs/img/img_1440769418756.png)
+Eine Lastschrift ist gewissermaßen die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank  den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.![](http://xpecto.github.io/docs/img/img_1440769218414.png)
 
 Zahlungsverkehrmaske 
 Wenn keine weiteren offenen Posten im Dialog übrig bleiben, öffnet sich automatisch der Dialog Zahlungsverkehr (früherer Name Sollstellung, Menu Bearbeiten - Zahlungsverkehr).
