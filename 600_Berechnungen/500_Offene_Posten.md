@@ -43,7 +43,7 @@ Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440
 
 Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Dafür werden eine CSV-, PDF- und XML-Datei erstellt, in einem unter *Extras → Einstellungen → Bank Pfad*, angegebener Ordner. 
  
-![](http://xpecto.github.io/docs/img/img_1441702499437.png).
+![](http://xpecto.github.io/docs/img/img_1441702499437.png)
 
 
 
