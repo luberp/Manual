@@ -79,9 +79,9 @@ Markieren Sie eine Transaktion um eine der folgende Aktionen durchzuführen:
 
 | Aktion           |    Beschreibung     |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1441366232699.png)     |  Kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist| 
-| ![](http://xpecto.github.io/docs/img/img_1441366314917.png)   |  Es wird eine Liste der enthaltene Buchungen angezeigt| 
-| ![](http://xpecto.github.io/docs/img/img_1441366201137.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind | 
+| ![](http://xpecto.github.io/docs/img/img_1441366232699.png)     |  Kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist.| 
+| ![](http://xpecto.github.io/docs/img/img_1441366314917.png)   |  Es wird eine Liste der enthaltene Buchungen angezeigt.| 
+| ![](http://xpecto.github.io/docs/img/img_1441366201137.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind. | 
 
 
 
