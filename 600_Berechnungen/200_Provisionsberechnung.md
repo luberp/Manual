@@ -35,7 +35,7 @@ Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern. Der Filte
 |![](http://xpecto.github.io/docs/img/img_1440753950213.png)|Entfernt die getroffene Auswahl|
 |![](http://xpecto.github.io/docs/img/img_1440753976766.png)|Berechnugslauf verwerfen. Es kann eine neue Berechnung gestartet werden.|
 
-Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img_1432632280997.png). 
+Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432632280997.png). 
 
 ![](http://xpecto.github.io/docs/img/img_1440748563962.png)
 
