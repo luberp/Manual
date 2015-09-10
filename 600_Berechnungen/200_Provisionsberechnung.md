@@ -50,8 +50,7 @@ Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur 
 Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können eine neue Buchung wie z.B. einen Vorschuss, einfügen durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png).
 Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441108231660.png), um die Liste der Abrechnungen zu aktualisieren.
 
-Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf
-![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
+Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
 
 In der Maske *Zahlungdatei erstellen* kann zwischen mehrere Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen und den Speicherort festlegen und ob ein Begleitzettel erstellt werden soll.
 
