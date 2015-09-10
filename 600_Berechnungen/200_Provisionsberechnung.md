@@ -58,14 +58,16 @@ In der Maske *Zahlungdatei erstellen* kann zwischen mehrere Verfahren zur Durchf
 
 Wählen Sie hier *SEPA* aus, um eine SEPA-Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und gespeichert. 
 
-Nun kehren Sie  zur Maske *Belegdruck und Auszahlungen*  zurück.
+Nun kehren Sie zur Maske *Belegdruck und Auszahlungen* zurück.
 
 Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751219341.png) wieder gelöscht werden.
 
-Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751272141.png), so wählen Sie den zugehörigen Bericht (Häufig *Provisionsabrechnung*) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. 
+Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
+
+Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751272141.png), so wählen Sie den zugehörigen Bericht (häufig *Provisionsabrechnung*) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. 
 
 Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechnung erzeugen ohne Belegnummer, oder *Belegdruck*, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen. 
 
  ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
- 
-Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
+
+
