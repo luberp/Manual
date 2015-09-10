@@ -69,5 +69,3 @@ Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, klicke
 Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechnung erzeugen ohne Belegnummer, oder *Belegdruck*, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen. 
 
  ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
-
-
