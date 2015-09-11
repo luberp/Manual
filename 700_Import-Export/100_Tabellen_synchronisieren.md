@@ -4,5 +4,4 @@ Das Einrichten des Synchronisations-Moduls (z.B. Definition der zu übertragende
 
 ![](http://xpecto.github.io/docs/img/img_1421748051531.png).
 
-Hier können die Daten gefiltert werden, wie z.B. nach Produkt.
-Sie können auch ein Profil anlegen z.B. nur für bestimmte Daten.
+In dem Dialog Synchronisation können die Daten gefiltert werden. 
