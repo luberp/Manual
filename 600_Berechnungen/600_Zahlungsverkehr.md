@@ -7,20 +7,20 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Das Modul Zahlungsverkehr berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten.</p>
+<body><div class="container"><p>Das Modul Zahlungsverkehr berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. Über <em>Berechnungen → Zahlungsverkehr</em> soll das <em>Zahlungsverkehr</em>-Maske geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  <br>
+xpectoPro ermittelt nun alle fällige Bankeinzüge zu diesem Datum. <br>
+Starten Sie die Berechnung mit einem Klick auf <img src="http://xpecto.github.io/docs/img/img_1441715573070.png" alt="" title="">. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441985519757.png" alt="" title=""></p>
 
-<p>Über Berechnungen Zahlungsverkehr soll das Zahlungsverkehr-Maske geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  <br>
-xpectoPro ermittelt nun alle fällige Bankeinzüge zu diesem Datum.  </p>
+<p>Wenn auf Datenprüfung klicken:</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441717900163.png" alt="" title=""></p>
 
 <p>Klicken Sie auf Ja um die Zahlungsaufträge zusammenzufassen.  <br>
 Um die Details der einzelne Einzüge anzeigen zu lassen klicken Sie auf <img src="http://xpecto.github.io/docs/img/img_1441717792618.png" alt="" title="">. Hier sehen Sie welche Daten fehlerhaft sind, diese werden automatisch markiert. </p>
 
-<p>Starten Sie die Berechnung mit einem Klick auf <img src="http://xpecto.github.io/docs/img/img_1441715573070.png" alt="" title="">. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei.  <br>
-Als Ausgabeformate stehen DTAUS (Standardformat deutscher Banken für den Zahlungsverkehr) oder EDIFACT (internationales Standardformat für den Zahlungsverkehr) zur Auswahl.</p>
+<p>Als Ausgabeformate stehen DTAUS (Standardformat deutscher Banken für den Zahlungsverkehr) oder EDIFACT (internationales Standardformat für den Zahlungsverkehr) zur Auswahl.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441716256692.png" alt="" title=""></p>
 
