@@ -58,7 +58,7 @@
      * 6.7.2. [Sollstellungstest](http://help.xpecto.de/Berechnungen/Probeberechnung/Sollstellungstest)
 7.   [Menü: Import/Export](http://help.xpecto.de/Import-Export)
 *  7.1. [Tabellen synchronisieren](http://help.xpecto.de/Import-Export/Tabellen_synchronisieren)
-*  7.2. [Scanmanager](http://help.xpecto.de/Einleitung/Import-Export/Scanmanger)
+*  7.2. [Scanmanager](http://help.xpecto.de/Import-Export/Scanmanager)
 *  7.3. [Kontodaten importieren](http://help.xpecto.de/Import-Export/Kontodaten_importieren)
 * 7.4. [Kontodaten zuweisen](http://help.xpecto.de/Import-Export/Kontodaten_zuweisen)
 * 7.5. [Kunden- und Vertragsdaten importieren](http://help.xpecto.de/Import-Export/Kunden-_und_Vertragsdaten_importieren)
