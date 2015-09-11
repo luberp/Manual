@@ -1,7 +1,7 @@
-Das Synchronisations-Modul dient dem Export von Datensätzen an das xpecto Webportal sowie dem Import von Daten aus anderen Standorten über das xpecto Webportal.
+Eine von xpectoPro Eingenschaften ist die Mehrstandortfähigkeit. Das Synchronisations-Modul dient dem Export von Datensätzen an das xpecto Webserver sowie dem Import von Daten aus anderen Standorten über das xpecto Webserver. 
 
-Das Einrichten des Synchronisations-Moduls (z.B. Definition der zu übertragenden Tabellen sowie die Freischaltung der Übertragung am xpecto Webserver) ist eine administrative Aufgabe und wird vom xpecto Kundensupport vorgenommen. Dieses Modul kann erst nach Einrichtung durch den xpecto Kundensupport verwendet werden (vorher wird die Übertragung durch den xpecto Webserver blockiert).
+Welche Tabellen Sie synchronisieren wollen, kann durch die Optionen die den Filter anbietet, gesteuert werden.
 
 ![](http://xpecto.github.io/docs/img/img_1421748051531.png).
 
-In dem Dialog Synchronisation können die Daten gefiltert werden. 
+Dazu kann ein Profil angelegt werden, wenn Sie z.B. nur die Tabellen die einen Produkt betreffen, synchronisieren wollen.
