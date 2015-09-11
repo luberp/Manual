@@ -61,7 +61,7 @@
 *  7.2. [Scanmanager](http://help.xpecto.de/Einleitung/Import_Export/Scanmanger)
 *  7.3. [Kontodaten importieren](http://help.xpecto.de/Import_Export/Kontodaten_importieren)
 * 7.4. [Kontodaten zuweisen](http://help.xpecto.de/Import_Export/Kontodaten_zuweisen)
-* 7.5. [Kunden- und Vertragsdaten importieren](http://help.xpecto.de/Import_Export/Kunden-_und_Vertragsdaten_importieren)
+* 7.5. [Kunden- und Vertragsdaten importieren](http://help.xpecto.de/Import-Export/Kunden-_und_Vertragsdaten_importieren)
 * 7.6. [Allgemeiner Import](http://help.xpecto.de/Import_Export/Allgemeiner_Import)
 *  7.7. [Buchungsexport](http://help.xpecto.de/Import_Export/Buchungsexport)
 8.   [Menü: Extras](http://help.xpecto.de/Extras)
