@@ -1,26 +1,40 @@
-Das Modul *Zahlungsverkehr* berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. Über *Berechnungen → Zahlungsverkehr* soll das *Zahlungsverkehr*-Maske geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>600_Zahlungsverkehr.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p><em>Zahlungsverkehr</em> ist ein zentrales Modul mit dem Sie Zahlungsaufträge (Überweisungen, Lastschriften) übernehmen oder selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. Das Modul <em>Zahlungsverkehr</em> berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. </p>
 
-![](http://xpecto.github.io/docs/img/img_1441985519757.png)
+<p>Sie haben hier die folgende Funktionalitäten: <em>Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen</em>.</p>
 
-Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441715573070.png).  xpectoPro ermittelt nun alle fällige Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
+<p>Über <em>Berechnungen → Zahlungsverkehr</em> soll das <em>Zahlungsverkehr</em> geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  </p>
 
-Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441720924595.png) wird die Plausibilitätsprüfung der einzelne Daten gestartet. 
+<p><img src="http://xpecto.github.io/docs/img/img_1441985519757.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1441717900163.png)
+<p>Starten Sie die Berechnung mit einem Klick auf <img src="http://xpecto.github.io/docs/img/img_1441715573070.png" alt="" title="">.  xpectoPro ermittelt nun alle fällige Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. </p>
 
-Klicken Sie auf *Ja* um die Zahlungsaufträge zusammenzufassen. 
+<p>Mit einem Klick auf <img src="http://xpecto.github.io/docs/img/img_1441720924595.png" alt="" title=""> wird die Plausibilitätsprüfung der einzelne Daten gestartet. </p>
 
-![](http://xpecto.github.io/docs/img/img_1441716256692.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1441717900163.png" alt="" title=""></p>
 
-Um die Details der einzelne Sollstellungen anzeigen zu lassen klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1441717792618.png). Hier sehen Sie welche Daten fehlerhaft sind, diese werden automatisch markiert. 
+<p>Klicken Sie auf <em>Ja</em> um die Zahlungsaufträge zusammenzufassen. </p>
 
-Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten  eingetragen. Im Vertrag erfassen Sie die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs.
+<p><img src="http://xpecto.github.io/docs/img/img_1441716256692.png" alt="" title=""></p>
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien in PDF- und CSV - Format erzeugt. 
+<p>Um die Details der einzelne Sollstellungen anzeigen zu lassen klicken Sie auf <img src="http://xpecto.github.io/docs/img/img_1441717792618.png" alt="" title="">. Hier sehen Sie welche Daten fehlerhaft sind, diese werden automatisch markiert. </p>
 
-![](http://xpecto.github.io/docs/img/img_1440769740999.png)
+<p>Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten  eingetragen. Im Vertrag erfassen Sie die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs.</p>
 
-Noch dazu werden die verschiedene Ausgabeformate: PDF, CSV und XML in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordnersymbol, können Sie ihn offenen. Die Dateien können dann über die entsprechende Banksysteme eingereicht werden.
-Bei der einzelne Verträge würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieser Einzug steht auf belastet da er zu Bank weitergegeben würde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszug-Manager. Das System erkannt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang wird somit abgeschlossen.
+<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441718401250.png" alt="" title=""> werden die Zahlungsverkehrsdateien in PDF- und CSV - Format erzeugt. </p>
 
-In dem Zahlungsverkehr-Dialog können Sie Offene Posten berechnen über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) (siehe *Berechnungen → Offenen Posten*), oder Sie können die markierte Sollstellung löschen. 
+<p><img src="http://xpecto.github.io/docs/img/img_1440769740999.png" alt="" title=""></p>
+
+<p>Noch dazu werden die verschiedene Ausgabeformate: PDF, CSV und XML in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordnersymbol, können Sie ihn offenen. Die Dateien können dann über die entsprechende Banksysteme eingereicht werden. <br>
+Bei der einzelne Verträge würde dann der Zahlplan (Reiter <em>Sollbuchungen</em>) um diese Rate ergänzt. Der Status dieser Einzug steht auf belastet da er zu Bank weitergegeben würde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszug-Manager. Das System erkannt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang wird somit abgeschlossen.</p>
+
+<p>In dem Zahlungsverkehr-Dialog können Sie Offene Posten berechnen über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442241462845.png" alt="" title=""> (siehe <em>Berechnungen → Offenen Posten</em>), oder Sie können die markierte Sollstellung löschen. </p></div></body>
+</html>
