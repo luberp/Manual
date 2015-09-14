@@ -12,5 +12,5 @@ Klicken Sie auf *Start* um automatisch die Dokumente zuzuweisen. Die Dokumente k
 Über dem Reiter Zuweisung können Sie die Dokumente die kein Barcode enthalten zuweisen.
 ![](http://xpecto.github.io/docs/img/img_1441965548893.png)
 
-Drücken Sie über die xpectoPro Symbolleiste einen Barcode 
+Drücken Sie über die xpectoPro Symbolleiste einen Barcode. Wählen Sie hier eine Art, und klicken Sie auf *OK* um den Barcode zu drucken.
 ![](http://xpecto.github.io/docs/img/img_1441971165729.png)
