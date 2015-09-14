@@ -5,7 +5,7 @@ Klicken Sie auf Start um automatisch die Dokumente zuzuweisen. Die Dokumente kö
 
 Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441970891993.png), kann der Barcode manuell eingegeben werden.
 
-Geben Sie hier die Scanquelle an. 
+Geben Sie hier die Scanquelle an, wo die gescannte Dokumente gespeichert sind.
 
 ![](http://xpecto.github.io/docs/img/img_1441965444877.png)
 
