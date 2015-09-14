@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p><em>Zahlungsverkehr</em> ist ein zentrales Modul mit dem Sie Zahlungsaufträge (Überweisungen, Lastschriften) übernehmen oder selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. Das Modul <em>Zahlungsverkehr</em> berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. </p>
+<body><div class="container"><p><em>Zahlungsverkehr</em> ist ein zentrales Modul von xpectoPro, mit dem Sie Zahlungsaufträge (Überweisungen, Lastschriften) übernehmen oder selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. Das Modul <em>Zahlungsverkehr</em> berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. </p>
 
 <p>Sie haben hier die folgende Funktionalitäten: <em>Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen</em>.</p>
 
