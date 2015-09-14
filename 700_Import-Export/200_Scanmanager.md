@@ -5,6 +5,7 @@ In dem Reiter *Scans* können Sie eine Scanquelle auswählen. Geben Sie hier die
 ![](http://xpecto.github.io/docs/img/img_1441965444877.png)
 
 Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441970891993.png), kann der Barcode manuell eingegeben werden.
+
 ![](http://xpecto.github.io/docs/img/img_1421750317812.png)
 
 Klicken Sie auf *Start* um automatisch die Dokumente zuzuweisen. Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesene Daten automatisch zugewiesen werden. 
