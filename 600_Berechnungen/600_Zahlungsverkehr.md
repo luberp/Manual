@@ -4,7 +4,6 @@ Das Modul Zahlungsverkehr berechnet für ratierliche Verträge die notwendigen D
 
 Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441715573070.png).  xpectoPro ermittelt nun alle fällige Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
 
-
 Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441720924595.png) wird die Plausibilitätsprüfung der einzelne Daten gestartet. 
 Wenn auf Datenprüfung klicken:
 
@@ -17,7 +16,6 @@ Klicken Sie auf *Ja* um die Zahlungsaufträge zusammenzufassen.
 Um die Details der einzelne Einzüge anzeigen zu lassen klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1441717792618.png). Hier sehen Sie welche Daten fehlerhaft sind, diese werden automatisch markiert. 
 
 Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten  eingetragen. Im Vertrag erfassen Sie die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs.
-
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien  in PDF und CSV erzeugt. 
 
