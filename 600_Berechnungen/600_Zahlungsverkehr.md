@@ -16,11 +16,11 @@ Um die Details der einzelne Sollstellungen anzeigen zu lassen klicken Sie auf ![
 
 Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten  eingetragen. Im Vertrag erfassen Sie die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien  in PDF- und CSV - Format erzeugt. 
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien in PDF- und CSV - Format erzeugt. 
 
 ![](http://xpecto.github.io/docs/img/img_1440769740999.png)
 
-Noch dazu werden die verschiedene Ausgabeformate: PDF, CSV und XML in einen Ordner gespeichert. Die Dateien können dann über die entsprechende Banksysteme eingereicht werden.
+Noch dazu werden die verschiedene Ausgabeformate: PDF, CSV und XML in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordner-Symbol, können Sie ihn offenen. Die Dateien können dann über die entsprechende Banksysteme eingereicht werden.
 Bei der einzelne Verträge würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieser Einzug steht auf belastet da er zu Bank weitergegeben würde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszug-Manager. Das System erkannt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang wird somit abgeschlossen.
 
 In dem Zahlungsverkehr-Dialog können Sie Offene Posten berechnen über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) (siehe *Berechnungen → Offenen Posten*), oder Sie können die markierte Sollstellung löschen. 
