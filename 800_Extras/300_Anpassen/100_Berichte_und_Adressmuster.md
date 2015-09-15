@@ -15,7 +15,20 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png
 ![](http://xpecto.github.io/docs/img/img_1442319951175.png)
 
 Ein neuer Bericht kann entweder ein leerer Bericht, eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage. In jedem Fall muss der Name für den neuen Bericht angegeben werden, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis dazu. Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrage generiert und im Bericht hinterlegt. 
+
+|  Art           |    Beschreibung     |  
+| ------------- |:-------------| 
+| Microsoft Word      | Word-Bericht| 
+| integrierter Berichtsgenerator  | Active Reports| 
+| Datenexport     | Excel-Bericht in Tabellenform | 
+| HTML Mail    | Adresse neu anlegen | 
+| PDF Formular     | Veranstaltungen neu anlegen | 
+| Meta-Bericht     | Fasst mehrere Berichte zusammen | 
+| Einfaches RTF oder Docx    | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | 
+| Festes Seiten Layout    | geht zum zuletzt ausgewählten Datensatz zurück | 
+
 Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf *OK* wird der Bericht angelegt.
+
 
 ![](http://xpecto.github.io/docs/img/img_1442317569556.png)
 
@@ -44,7 +57,8 @@ Beleg, Spezieller Bericht, Erweiterte Berechtigungen Drucksystem.
 Die Optionen unter spezieller Bericht sind für weitere geplante Funktionen vorgesehen.
 Erweiterte Berechtigungen Drucksystem.
 
-Versandoptionen sind SMS  E-Mail eBrief.  EBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet.
+Versandoptionen sind SMS  E-Mail eBrief.  EBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. Text für Archiv Bestätigung per E-Mail dient für das E-Service Upload in VP-Portal und Kundenportal.
+
 Unter dem Karteireiter Abfrage kann die dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden. 
 Benutzer benötigen hierzu Grundkenntnisse SQL.
 
