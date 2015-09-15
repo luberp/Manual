@@ -1,4 +1,6 @@
-Mit dem xpectoPro ScanManager haben Sie die Möglichkeit eingescannte Dokumente, manuell oder automatisch zuweisen. 
+xpectoPro bietet Ihnen ein Dokumentenmanagementsystem (DMS),  um Ihre Dokumente zu digitalisieren,  archivieren und strukturiert zuweisen.
+
+Mit dem xpecto ScanManager haben Sie die Möglichkeit eingescannte Dokumente, manuell oder automatisch zuweisen. 
 
 In dem Reiter *Scans* können Sie eine Scanquelle auswählen. Geben Sie hier die Scanquelle an, wo die gescannte Dokumente gespeichert sind.
 
