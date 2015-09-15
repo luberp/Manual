@@ -59,7 +59,7 @@ Erweiterte Berechtigungen Drucksystem.
 
 Versandoptionen sind SMS  E-Mail eBrief.  EBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. Text für Archiv Bestätigung per E-Mail dient für das E-Service Upload in VP-Portal und Kundenportal.
 
-Unter dem Karteireiter Abfrage kann die dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden. 
+Unter dem Reiter *Abfrage* kann die dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden. 
 Benutzer benötigen hierzu Grundkenntnisse SQL.
 
 Individuelle Schreiben können aus Textbausteine gebaut werden.
