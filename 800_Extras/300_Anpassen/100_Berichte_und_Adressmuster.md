@@ -24,10 +24,9 @@ Unter dem Reiter *Allgemein* können der Name und die Gruppe des Berichts geäde
 Filter Field-IDs zeigt an der zuletzt ausgewählten Wert in eine Tabelle und kann als WHERE-Bedingung gebaut werden.
 Allgemein, Entwurf, Abfrage, Zusatzdaten, Kategorien, Versandoptionen.
 
-Unter dem Reiter *Entwurf* wird das Layout des Berichts erstellt. Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor  oder der Berichtseditor von Data Dynamics zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word. Der Editor sollte nur von Benutzer mit Erfahrung in Microsoft-Word verwendet werden, die Bedienung ist dann selbsterklärend. Hilfe zur Bedienung des Layout-Editors von Data Dynamics erhalten Sie im Internet unter der Adresse http://www.datadynamics.com  http://www.componentone.com/ oder vom xpecto Kundensupport.
+Unter dem Reiter *Entwurf* wird das Layout des Berichts erstellt. Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor oder der Berichtseditor von Data Dynamics zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word. Der Editor sollte nur von Benutzer mit Erfahrung in Microsoft-Word verwendet werden, die Bedienung ist dann selbsterklärend. Hilfe zur Bedienung des Layout-Editors von Data Dynamics erhalten Sie im Internet unter der Adresse http://www.datadynamics.com  http://www.componentone.com/ oder vom xpecto Kundensupport.
 
-ActiveReports ist sind Komponenten und Tools um Daten in Dokumente und web basierte Formate anzuzeigen.
-Neben den Komponenten mit ActiveReports können die Dateien in Formate wie PDF, Excel, RTF und TIFF exportiert werden.
+ActiveReports ist sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und web basierte Formate anzuzeigen. Neben den Komponenten mit ActiveReports können die Dateien in Formate wie PDF, Excel, RTF und TIFF exportiert werden.
 
 Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile, oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind.
 
