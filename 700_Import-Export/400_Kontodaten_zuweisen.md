@@ -40,8 +40,3 @@ Kontodaten importieren
 Kontodaten zuweisen oben sind die Bankbuchungen die noch nicht verbucht sind.
 
 Kontodaten zuweisen unten Vorschlag wie die Buchungen verbucht werden sollen.
-
-
-Alle Buchungen speichern verbucht alle automatisiert an.
-Buchung ohne Vertrag.
-
