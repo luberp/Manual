@@ -34,7 +34,6 @@ Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bz
 
 ![](http://xpecto.github.io/docs/img/img_1442317999574.png)
  
-
 *Kategorien* sind die Einstellungen für die Hauptfenster. Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Werkzeugleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
 
 ![](http://xpecto.github.io/docs/img/img_1424100723603.png)
