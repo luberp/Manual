@@ -10,7 +10,7 @@ Neben der Möglichkeit eine neue Buchung anlegen, können Sie eine Kontobewegung
 
 ![](http://xpecto.github.io/docs/img/img_1442309924813.png)
 
-Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442404617262.png) , werden Sie zu dem Stapelbuchung-Dialog weitergeleitet (siehe *Bearbeiten → Stapelbuchung*). 
+Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442404617262.png), werden Sie zu dem Stapelbuchung-Dialog weitergeleitet (siehe *Bearbeiten → Stapelbuchung*). 
 
 In der Feldgruppe *Buchung* sehen Sie den Absender, den Verwendungszweck und die Details der Buchung.
 ![](http://xpecto.github.io/docs/img/img_1442309100976.png)
