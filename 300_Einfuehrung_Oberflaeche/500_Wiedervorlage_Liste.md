@@ -2,8 +2,7 @@ Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung, und be
 
 Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten.  In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. 
 
-Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so sehr leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
-
+Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so, leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
 
 ![](http://xpecto.github.io/docs/img/img_1430827382092.png)
 
