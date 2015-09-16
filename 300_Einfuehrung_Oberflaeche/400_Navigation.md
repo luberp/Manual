@@ -10,11 +10,8 @@ Durch eine Beteiligung erwirbt der Anleger einen oder mehrere Anteile, an einem 
 
 ![](http://xpecto.github.io/docs/img/img_1430315934639.png)
 
-Der Baum *Vermittler* beinhaltet alle Vermittler die in System hinterlegt sind. Vermittler haben die wesentliche Aufgabe Produkte zu verkaufen und haben Ansprüche auf die Provisionen.
+Der Baum *Vermittler* beinhaltet alle Vermittler die in System hinterlegt sind. Vermittler haben die wesentliche Aufgabe Produkte zu verkaufen, und haben deswegen Ansprüche auf die Provisionen.
 
 Der Baum *Personen* beinhaltet alle Personen, Vermittler und Kunden die im System hinterlegt sind. 
 
-Der Baum *Veranstaltungen* enthält alle Veranstaltungen die im System hinterlegt sind. 
- Das Modul Veranstaltungen kann dabei für verschiedene Arten wie Gesellschaftsversammlungen, Vertriebsveranstaltungen oder Onlinemeetings verwendet werden. 
-
-
+Unter dem Baum *Veranstaltungen* finden Sie alle Veranstaltungen die im System hinterlegt sind. 
