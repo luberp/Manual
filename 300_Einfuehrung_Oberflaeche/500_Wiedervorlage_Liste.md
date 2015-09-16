@@ -12,7 +12,3 @@ Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die der
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1430827803341.png)      | Wiedervorlage-Historie anzeigen | 
 | ![](http://xpecto.github.io/docs/img/img_1430827829392.png)     |Daten neu laden | 
-
-Unter Menü *Bearbeiten →Wiedervorlage Liste* kann die Wiedervorlage Liste aus- oder eingeblendet werden.
-
-Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse. Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.
