@@ -14,7 +14,7 @@ Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1
 
 In der Feldgruppe *Buchung* sehen Sie den Absender, den Verwendungszweck und die Details der Buchung.
 ![](http://xpecto.github.io/docs/img/img_1442309100976.png)
- 
+
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. Das zu verwendende Konto wird auf der Produktmaske (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
 
  Hier können Sie direkt durch Buchungen blättern ![](http://xpecto.github.io/docs/img/img_1442309271825.png).
