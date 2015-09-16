@@ -5,7 +5,7 @@ In bestimmten Fällen ist es jedoch sinnvoll direkt Buchungen anzulegen oder zu 
 
 Sie erreichen die Stapelbuchung im Menü "Bearbeiten". Die Maske ermöglicht die Eingabe, die Änderung und die Suche von Buchungen. Für die Weitergabe der Buchungen und die Revisionssicherheit der Buchhaltung können Sie Buchungen festschreiben und in protokollierter Weise exportieren.
 
-Die Stapelbuchungs-Maske ist das zentrale Werkzeug zur Verwaltung von Buchungsdaten der Fondsbuchhaltung. Sie ist im wesentlichen in vier Funktionsbereiche untergliedert:
+Der Dialog *Stapelbuchung* ist das zentrale Werkzeug zur Verwaltung von Buchungsdaten der Fondsbuchhaltung. Sie ist im wesentlichen in vier Funktionsbereiche untergliedert:
  
  - Stapel-Erfassung
  -  Suchen / Ändern
