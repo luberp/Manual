@@ -46,5 +46,5 @@
 <p>Buchungen übertragen die Buchungen werden nach einen anderen Fond übertragen. Unter der Schaltfläche  <br>
 <img src="http://xpecto.github.io/docs/img/img_1442406481698.png" alt="" title="">, werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter <em>geparkte Buchungen anzeigen.</em></p>
 
-<p>Mit <img src="http://xpecto.github.io/docs/img/img_1442236615351.png" alt="" title="">, speichern Sie die zum Vertrag zugewiesenen Buchungen (das Speichern ist nur möglich, wenn die Summe der eingegebenen Split-Beträge exakt den Buchungsbetrag ergibt). Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt.</p></div></body>
+<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442236615351.png" alt="" title="">, speichern Sie die zum Vertrag zugewiesenen Buchungen (das Speichern ist nur möglich, wenn die Summe der eingegebenen Split-Beträge exakt den Buchungsbetrag ergibt). Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt.</p></div></body>
 </html>
