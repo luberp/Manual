@@ -38,7 +38,8 @@ Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsp
 <p>Der Unterkarteireiter <em>Rollen</em> beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die markierte Person hinzufügen.  <br>
 Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf die Schaltfläche:  <img src="http://xpecto.github.io/docs/img/img046.png" alt="" title="">. </p>
 
-<p>In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.</p>
+<p>In dem Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.  <br>
+In dem Dialog <em>Person oder Anschrift</em> haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438074839670.png" alt="" title=""></p>
 
@@ -47,11 +48,7 @@ Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf
 <p><img src="http://xpecto.github.io/docs/img/img_1442422955822.png" alt="" title=""></p>
 
 <p>Wählen Sie hier einen Typ für Ihre Verknüpfung.  <br>
-Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title="">, es eröffnet sich hier der Suchdialog (siehe <em>Einführung Oberfläche → Suche</em>). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1438327864939.png" alt="" title=""> eine neue Person anzulegen.</p>
-
-<p>In dem Dialog <em>Person oder Anschrift</em> haben Sie als zweite Möglichkeit die Rolle als  eine neue Anschrift ohne weitere Funktionen einzufügen. </p>
-
-<p>xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. </p>
+Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title="">, es eröffnet sich hier der Suchdialog (siehe <em>Bearbeiten → Erweiterte Suche</em>). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327864939.png" alt="" title="">, eine neue Person anzulegen.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438074994809.png" alt="" title=""></p>
 
