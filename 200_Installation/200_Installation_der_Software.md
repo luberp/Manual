@@ -14,10 +14,6 @@ Bestätigen Sie die Installation mit *Weiter*, um die Installation zu starten. x
 ![](http://xpecto.github.io/docs/img/img_1430134674440.png)
 
 Beenden Sie die Installation mit der Schaltfläche *Fertigstellen.* Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport.
-![](http://xpecto.github.io/docs/img/img_1430134706939.png)
 
 Zum Starten von xpectoPro klicken Sie im Startmenü auf dem Eintrag xpectoPro.
-
-![](http://xpecto.github.io/docs/img/img_1430136023754.png)
-
 
