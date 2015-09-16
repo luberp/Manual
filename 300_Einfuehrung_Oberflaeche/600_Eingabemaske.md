@@ -17,10 +17,9 @@ Um zwischen den Felder zu navigieren können Sie diese mit der Maus anklicken od
 | ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neuen Datensatz hinzufügen (Str + N)  | 
 | ![](http://xpecto.github.io/docs/img/img_1430731964269.png)    | Datensatz löschen (Entf)| 
 
-
-Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren*,  damit wird für jedes einzelne Feld die Historie angezeigt. Mit einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1430729940939.png) 
+xpectoPro bietet Ihnen die Möglichkeiten die *Feldspezifische Historie aktivieren* an,  damit wird für jedes einzelne Feld die Historie angezeigt. Mit einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1430729940939.png), öffnen Sie das Historie-Kontextmenü.
 
 ![](http://xpecto.github.io/docs/img/img_1431530946974.png)
 
-xpectoPro bietet Ihnen die Möglichkeit Ihre Arbeit effizient zu gestalten. Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen, wird Ihnen die Arbeit erleichtert, Sie können einfach durch Eingabe von *h* automatisch das heutige Datum eintragen, durch g für gestern, m für morgen, e für den ersten Tag im Monat, l für den letzten Tag im Monat. 
+Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen, wird Ihnen die Arbeit erleichtert, indem Sie  einfach durch Eingabe von *h* automatisch das heutige Datum eintragen, durch *g* für gestern, *m* für morgen, *e* für den ersten Tag im Monat, *l* für den letzten Tag im Monat. 
 Sie haben natürlich auch die Möglichkeit das Datum normal durch Eintippen einzugeben.
