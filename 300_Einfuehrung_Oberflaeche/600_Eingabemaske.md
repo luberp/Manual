@@ -21,5 +21,5 @@ xpectoPro bietet Ihnen die Möglichkeiten die *Feldspezifische Historie aktivier
 
 ![](http://xpecto.github.io/docs/img/img_1431530946974.png)
 
-Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen, wird Ihnen die Arbeit erleichtert, indem Sie  einfach durch Eingabe von *h* automatisch das heutige Datum eintragen, durch *g* für gestern, *m* für morgen, *e* für den ersten Tag im Monat, *l* für den letzten Tag im Monat. 
+Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen, wird Ihnen die Arbeit erleichtert, indem Sie einfach durch Eingabe von *h* automatisch das heutige Datum eintragen, durch *g* für gestern, *m* für morgen, *e* für den ersten Tag im Monat, *l* für den letzten Tag im Monat. 
 Sie haben natürlich auch die Möglichkeit das Datum normal durch Eintippen einzugeben.
