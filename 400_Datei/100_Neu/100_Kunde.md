@@ -38,8 +38,7 @@ Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsp
 <p>Der Unterkarteireiter <em>Rollen</em> beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die markierte Person hinzufügen.  <br>
 Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf die Schaltfläche:  <img src="http://xpecto.github.io/docs/img/img046.png" alt="" title="">. </p>
 
-<p>In dem Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.  <br>
-In dem Dialog <em>Person oder Anschrift</em> haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. </p>
+<p>In dem Dialog <em>Person oder Anschrift</em> kann eine neue Verknüpfung, oder einen neuen Anschrift erstellt werden. Als zweite Möglichkeit kann die Rolle als eine neue Anschrift ohne weitere Funktionen eingefügt. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438074839670.png" alt="" title=""></p>
 
@@ -50,37 +49,32 @@ In dem Dialog <em>Person oder Anschrift</em> haben Sie als zweite Möglichkeit d
 <p>Wählen Sie hier einen Typ für Ihre Verknüpfung.  <br>
 Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title="">, es eröffnet sich hier der Suchdialog (siehe <em>Bearbeiten → Erweiterte Suche</em>). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327864939.png" alt="" title="">, eine neue Person anzulegen.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438074994809.png" alt="" title=""></p>
+<p>Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf <em>OK</em>.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu <em>Strg + S</em> oder das Symbol<img src="http://xpecto.github.io/docs/img/img_1438089018212.png" alt="" title="">.</p>
 
-<p>Durch Betätigung von der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418999829813.png" alt="" title=""> kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen.  <br>
-Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf <em>OK</em>.  <br>
-Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu <em>Strg + S</em> oder  <img src="http://xpecto.github.io/docs/img/img_1438089018212.png" alt="" title="">.</p>
+<p>Um eine Rolle zu löschen wählen Sie das Symbol<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
 
-<p>Um eine Rolle zu löschen wählen Sie die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
+<p>Die Daten für mehrere Kontoverbindungen können unter dem Unterkarteireiter <em>Kontoverbindungen</em> erfasst.</p>
 
-<p>Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Unterkarteireiter <em>Kontoverbindungen</em>, für einen Kunde mehrere Kontoverbindungen anzulegen.</p>
+<p>Unter dem Unterkarteireiter <em>Legitimationsdaten</em> können Sie die Dokumente erfassen, womit sich der Kunde legitimiert.</p>
 
-<p>Unter dem Unterkarteireiter <em>Legitimationsdaten</em> können Sie die Dokumente erfassen womit sich der Kunde legitimiert.</p>
+<p>Der Unterkarteireiter <em>Kirchensteuer</em> dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. </p>
 
-<p>Der Unterkarteireiter <em>Kirchensteuer</em> dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. </p>
-
-<p>Der Unterkarteireiter <em>Auslands-Steuer</em> ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.</p>
+<p>Der Unterkarteireiter <em>Auslands-Steuer</em> ist relevant, wenn der Kunde Steuer im Ausland zahlt.</p>
 
 <p>Unter dem Reiter <em>Eigenschaften</em> können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.</p>
 
-<p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten.  <br>
-Die Ereignisse können auf mehrere Ebenen verteilt werden: <em>Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.</em> </p>
+<p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: <em>Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.</em> </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438076449296.png" alt="" title=""></p>
 
 <p>Beispiel: Sie haben einen Telefonat wegen einen Vertrag durchgeführt. <br>
-Wählen Sie dazu <img src="http://xpecto.github.io/docs/img/img_1438331776248.png" alt="" title=""></p>
+Wählen Sie dazu die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438331776248.png" alt="" title="">.</p>
 
 <p>Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438331893299.png" alt="" title=""></p>
 
-<p>Nachdem die eingegebenen Daten mit OK bestätigt haben, wird die Liste der Ereignisse angezeigt.</p>
+<p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438331969372.png" alt="" title=""></p>
 
