@@ -15,7 +15,11 @@
 
 <p>In der untere Hälfte sehen Sie die Liste der Buchungen mit der Vorschlag wie die Buchungen verbucht werden sollen. Mit einem Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442307719407.png" alt="" title=""> werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze zugewiesen und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. Das zu verwendende Konto wird auf der Produktmaske (<em>Datei → Produkte</em>) auf dem Reiter <em>Allgemein</em> unter <em>Konto RZ</em> eingetragen. </p>
 
-<p>Neben der Möglichkeit eine neue Buchung anlegen, können Sie eine Kontobewegung direkt bei der Bank abfragen, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442404114905.png" alt="" title="">.  Der folgende Dialog, informiert über den Anzahl der importierten Buchungen. Die werden dann in der Liste der Buchungen eingefügt.</p>
+<p>Neben der Möglichkeit eine neue Buchung anlegen, können Sie eine Kontobewegung direkt bei der Bank abfragen, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442404114905.png" alt="" title="">.  Der folgende Dialog, informiert über den Anzahl der importierten Buchungen. Die werden dann in der Liste der Buchungen die noch nicht verbucht sind, eingefügt. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1442407294300.png" alt="" title=""></p>
+
+<p>Hier können Sie direkt durch Buchungen blättern <img src="http://xpecto.github.io/docs/img/img_1442309271825.png" alt="" title="">.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442309924813.png" alt="" title=""></p>
 
@@ -23,10 +27,6 @@
 
 <p>In der Feldgruppe <em>Buchung</em> sehen Sie den Absender, den Verwendungszweck und die Details der Buchung. <br>
 <img src="http://xpecto.github.io/docs/img/img_1442309100976.png" alt="" title=""></p>
-
-<p>Hier können Sie direkt durch Buchungen blättern <img src="http://xpecto.github.io/docs/img/img_1442309271825.png" alt="" title="">.</p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1442309154128.png" alt="" title=""></p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442310151329.png" alt="" title=""></p>
 
