@@ -41,7 +41,7 @@
 
 <p>Markierte Buchungen, die nicht gespeichert werden sollen, können mit der Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1442237227264.png" alt="" title=""> gelöscht werden.</p>
 
-<p>Buchungen aufteilen teilt die Buchung in mehrere kleinere Beträge.</p>
+<p><em>Buchungen aufteilen</em> teilt die Buchung in mehrere kleinere Beträge.</p>
 
 <p>Buchungen übertragen die Buchungen werden nach einen anderen Fond übertragen. Unter der Schaltfläche  <br>
 <img src="http://xpecto.github.io/docs/img/img_1442406481698.png" alt="" title="">, werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter <em>geparkte Buchungen anzeigen.</em></p>
