@@ -6,4 +6,4 @@ Die Menüeinträge werden durch einen einfachen Klick ausgewählt. Die Menüeint
 
 ![](http://xpecto.github.io/docs/img/img_1437998669433.png)
 
-Im Verlauf dieses Handbuchs werden Ihnen alle Menü Punkte erklärt.
+Im Verlauf dieses Handbuchs werden Ihnen alle Menüpunkte erklärt.
