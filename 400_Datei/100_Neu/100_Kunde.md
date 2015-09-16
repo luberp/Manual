@@ -14,7 +14,7 @@ Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie 
 Auf der linke Seite oben in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse*.
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. 
-Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein.  Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
+Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein.  Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. 
 
 ![](http://xpecto.github.io/docs/img/img_1438083758737.png)
 
@@ -22,7 +22,7 @@ Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank-
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
 
 ![](http://xpecto.github.io/docs/img/img_1438074679880.png)
 
