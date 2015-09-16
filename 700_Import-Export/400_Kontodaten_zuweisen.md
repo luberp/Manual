@@ -19,7 +19,7 @@
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442309924813.png" alt="" title=""></p>
 
-<p>Mit einem Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442404617262.png" alt="" title=""> , werden Sie zu dem Stapelbuchung-Dialog weitergeleitet (siehe <em>Bearbeiten → Stapelbuchung</em>).</p>
+<p>Mit einem Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442404617262.png" alt="" title=""> , werden Sie zu dem Stapelbuchung-Dialog weitergeleitet (siehe <em>Bearbeiten → Stapelbuchung</em>), </p>
 
 <p>In der Feldgruppe <em>Buchung</em> sehen Sie den Absender, den Verwendungszweck und die Details der Buchung. <br>
 <img src="http://xpecto.github.io/docs/img/img_1442309100976.png" alt="" title=""></p>
