@@ -5,8 +5,8 @@ Jedes Element im Baum enthält sein eigener Ansicht und die entsprechende Eingab
 Der Baum *Kunden* beinhaltet alle Kunden die in System hinterlegt sind. 
 Wählen Sie einen Kunde ![](http://xpecto.github.io/docs/img/img_1430312462226.png)  um die entsprechende Informationen in der Eingabemaske angezeigt zu bekommen.
 
-Das Symbol ![](http://xpecto.github.io/docs/img/img_1430315424660.png) signalisiert, dass Untereinträge vorhanden sind. Diese Untereinträge ![](http://xpecto.github.io/docs/img/img_1430315521287.png) sind Beteiligungen die weitere Untereinträge in Form von Verträge enthalten. 
-Durch eine Beteiligung erwirbt der Anleger einen Anteil an einer Gesellschaft. Man beteiligt sich an einem oder mehrere (vorher festgelegte) Produkte mit einer zuvor begrenzen Summe.
+Das Symbol ![](http://xpecto.github.io/docs/img/img_1430315521287.png) signalisiert, dass Untereinträge vorhanden sind. Diese Untereinträge sind Beteiligungen die weitere Untereinträge in Form von Verträge enthalten. 
+Durch eine Beteiligung erwirbt der Anleger einen oder mehrere Anteile, an einem oder mehrere (vorher festgelegte) Produkte.
 
 ![](http://xpecto.github.io/docs/img/img_1430315934639.png)
 
