@@ -6,7 +6,7 @@ Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die 
 
 ![](http://xpecto.github.io/docs/img/img_1430827382092.png)
 
-Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die der Filter anbietet, gesteuert werden.
+Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die den Filter anbietet, gesteuert werden.
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
