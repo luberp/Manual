@@ -1,4 +1,4 @@
-Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung und befindet sich links unten. Mit Hilfe von Wiedervorlagen können sich einzelne Benutzer oder Arbeitsgruppen, bestimmten Aufgaben merken und strukturiert abarbeiten.
+Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung, und befindet sich in der Hauptfenster unten links. Mit Hilfe von Wiedervorlagen können sich einzelne Benutzer oder Arbeitsgruppen, bestimmten Aufgaben merken und strukturiert abarbeiten.
 
 Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem anbieten.  In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. 
 
