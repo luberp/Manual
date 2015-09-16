@@ -18,7 +18,7 @@ In der Feldgruppe *Buchung* sehen Sie den Absender, den Verwendungszweck und die
 
 ![](http://xpecto.github.io/docs/img/img_1442410642193.png)
  
-Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. Die 
+Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. 
 
  Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. Name um alle Verträge mit Vertragsbezeichner zu erhalten. Ordnen Sie nun anhand der Zahlungsdaten die importierten Buchungsdaten ihrem zugehörigen Vertrag zu. Die Zuordnung geschieht durch Selektieren eines Vertrags in der links unten angezeigten Vertragsliste.
  
