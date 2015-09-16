@@ -6,7 +6,7 @@ Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die 
 
 ![](http://xpecto.github.io/docs/img/img_1430827382092.png)
 
-Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die den Filter anbietet, gesteuert werden.
+Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die der Filter anbietet, gesteuert werden.
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -15,5 +15,4 @@ Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die den
 
 Unter Menü *Bearbeiten →Wiedervorlage Liste* kann die Wiedervorlage Liste aus- oder eingeblendet werden.
 
-Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse.
-Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.
+Umfangreichere Wiedervorlagen bezeichnen wir als Prozesse. Prozesse können wesentlich kompliziertere Abläufe verwalten wie den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.
