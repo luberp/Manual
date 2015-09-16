@@ -12,19 +12,15 @@ Um zwischen den Felder zu navigieren können Sie diese mit der Maus anklicken od
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung | 
 | ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung. Feld muss befüllt sein | 
-| ![](http://xpecto.github.io/docs/img/img_1430729543912.png)      | Datenvalidierung | 
-| ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie | 
+| ![](http://xpecto.github.io/docs/img/img_1430729543912.png)      | Datenvalidierung. Dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in den Eingabefeldern prüft. | 
+| ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie. Historie zeigt eine Liste der Einträge aller Änderungen die vorgenommen worden sind. | 
 | ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neuen Datensatz hinzufügen (Str + N)  | 
 | ![](http://xpecto.github.io/docs/img/img_1430731964269.png)    | Datensatz löschen (Entf)| 
 
-Datenvalidierung der Eingaben dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in den Eingabefeldern prüft.
 
-Historie zeigt eine Liste der Einträge aller Änderungen die vorgenommen worden sind.
-Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren* damit wird für jedes einzelne Feld die Historie angezeigt.
+Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren*,  damit wird für jedes einzelne Feld die Historie angezeigt. Mit einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1430729940939.png) 
 
 ![](http://xpecto.github.io/docs/img/img_1431530946974.png)
 
-
-xpectoPro bietet Ihnen die Möglichkeit Ihre Arbeit effizient zu gestalten. 
-Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen,  wird Ihnen die Arbeit erleichtert, Sie können einfach durch Eingabe von h automatisch das heutige Datum eintragen, durch g für gestern, m für morgen, e für den ersten Tag im Monat, l für den letzten Tag im Monat. 
+xpectoPro bietet Ihnen die Möglichkeit Ihre Arbeit effizient zu gestalten. Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen, wird Ihnen die Arbeit erleichtert, Sie können einfach durch Eingabe von *h* automatisch das heutige Datum eintragen, durch g für gestern, m für morgen, e für den ersten Tag im Monat, l für den letzten Tag im Monat. 
 Sie haben natürlich auch die Möglichkeit das Datum normal durch Eintippen einzugeben.
