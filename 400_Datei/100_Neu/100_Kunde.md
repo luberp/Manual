@@ -26,14 +26,12 @@ Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten, die Sie hier 
 
 ![](http://xpecto.github.io/docs/img/img_1438074679880.png)
 
-Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen. 
-Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). 
-
-In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
+Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die markierte Person hinzufügen. 
+Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
 
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Maske:
+Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich die folgende Maske:
 
 ![](http://xpecto.github.io/docs/img/img_1438084400120.png)
 
@@ -44,7 +42,6 @@ In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Roll
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. 
 
 ![](http://xpecto.github.io/docs/img/img_1438074994809.png)
-
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
 Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
