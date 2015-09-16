@@ -11,13 +11,13 @@ Um zwischen den Felder zu navigieren können Sie diese mit der Maus anklicken od
 |  Symbole            |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung | 
-| ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung Feld muss befüllt sein | 
+| ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung. Feld muss befüllt sein | 
 | ![](http://xpecto.github.io/docs/img/img_1430729543912.png)      | Datenvalidierung | 
 | ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie | 
 | ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neuen Datensatz hinzufügen (Str + N)  | 
 | ![](http://xpecto.github.io/docs/img/img_1430731964269.png)    | Datensatz löschen (Entf)| 
 
-Datenvalidierung der Eingaben dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in dem Eingabefelder prüft.
+Datenvalidierung der Eingaben dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in den Eingabefeldern prüft.
 
 Historie zeigt eine Liste der Einträge aller Änderungen die vorgenommen worden sind.
 Mit xpectoPro ergibt sich die Möglichkeit *Feldspezifische Historie aktivieren* damit wird für jedes einzelne Feld die Historie angezeigt.
