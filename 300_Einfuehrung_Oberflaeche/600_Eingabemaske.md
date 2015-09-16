@@ -8,7 +8,7 @@ Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar. Diese Felder 
 
 Um zwischen den Felder zu navigieren können Sie diese mit der Maus anklicken oder durch Betätigung der TAB-Taste.
 
-|  Schaltfläche            |    Beschreibung     |  
+|  Symbole            |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung | 
 | ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung Feld muss befüllt sein | 
