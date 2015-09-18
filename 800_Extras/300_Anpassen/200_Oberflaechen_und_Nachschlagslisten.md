@@ -13,41 +13,33 @@
 
 <p>In xpectoPro sind alle Eingabenmasken individuell anpassbar. Dies bezieht sich nicht nur auf das Layout der Masken, sondern erstreckt sich auch auf die damit verknüpfte Funktionalitäten. Während das Layout (Anzahl, Anordnung und Beschriftung der Eingabefelder) durchaus von erfahrenen Benutzern geändert werden kann, sollten Änderungen an der Funktionalität nur vom xpecto Kundensupport durchgeführt werden. </p>
 
-<p>Auf dem Reiter <em>Vorschau</em> wird eine Vorschau von der Oberfläche dargestellt, auch ohne die Änderungen vorher zu speichern.</p>
+<p>Auf dem Reiter <em>Vorschau</em> wird eine Vorschau von der Oberfläche dargestellt, auch ohne die Änderungen vorher zu speichern. Sowie die Tabelle aus der die Daten verwendet wurden, Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen, aktualisieren, vergleichen.</p>
 
-<p>Sowie die Tabelle aus der die Daten verwerdet wurden, Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen, aktualisieren, vergleichen.  <br>
-Unter die Schaltfläche Mustervorlage <img src="http://xpecto.github.io/docs/img/img_1424264077326.png" alt="" title=""> wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. Unter die Schaltfläche Mustervorlage wird die  <br>
-Vergleichen mit Standard-Form macht ein Vergleich mit dem Standardoberfläche. </p>
+<p>Unter die Schaltfläche <em>Mustervorlage</em> <img src="http://xpecto.github.io/docs/img/img_1424264077326.png" alt="" title=""> wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442575324950.png" alt="" title=""></p>
 
-<p>Auf dem Reiter <em>Designer</em> befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Oberfläche. Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild nach Ihren Wünschen angepasst werden.  <br>
+<p>Auf dem Reiter <em>Designer</em> befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Oberfläche.  <br>
+Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild nach Ihren Wünschen angepasst werden.  <br>
 Um ein bereits bestehendes Label oder Eingabefeld zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position.  <br>
-Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das markierte Icon in der Werkzeugleiste wird das Eingabefeld eingefügt.  <br>
-Speichern Sie die veränderte Oberfläche mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424252432208.png" alt="" title="">. </p>
+Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das  Icon <img src="http://xpecto.github.io/docs/img/img_1442578074569.png" alt="" title=""> in der Werkzeugleiste wird das Eingabefeld eingefügt. Speichern Sie die veränderte Oberfläche mit dem Symbol <img src="http://xpecto.github.io/docs/img/img_1442578440840.png" alt="" title=""> . </p>
 
-<p>Reichen in einer Tabelle die vorhandenen Felder nicht aus, so können weitere Felder angelegt werden. Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424252468984.png" alt="" title=""> wird ein neues Datenbankfeld angelegt.</p>
+<p>Reichen in einer Tabelle die vorhandenen Felder nicht aus, so können weitere Felder angelegt werden. Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1442580597049.png" alt="" title=""> wird ein neues Datenbankfeld angelegt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1424252729534.png" alt="" title="">.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1442580545253.png" alt="" title=""></p>
 
-<p>Über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424252792081.png" alt="" title=""> kann eine neue Tabelle in der Datenbank angelegt werden. </p>
+<p>Über das Symbol <img src="http://xpecto.github.io/docs/img/img_1442580639187.png" alt="" title="">, kann eine neue Tabelle in der Datenbank angelegt werden. </p>
 
-<p>Wählen Sie unter <em>1. Tabelle wählen</em> die Datenbanktabelle, dier erweitert werden soll. Geben Sie unter die Feldgruppe <em>2a. Feld anlegen</em> den gewünschten Feldname, Feldtyp. Der benötigten Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: Text, langer Text, Ja/Nein, Datum, Datum und Uhrzeit, Kommazahl, Ganzzahl.</p>
+<p>Wählen Sie unter <em>1. Tabelle wählen</em> die Datenbanktabelle, die erweitert werden soll. Geben Sie unter die Feldgruppe <em>2a. Feld anlegen</em> den gewünschten Feldname, Feldtyp und das Ausgabeformat. Der benötigten Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: Text, langer Text, Ja/Nein, Datum, Datum und Uhrzeit, Kommazahl, Ganzzahl.</p>
 
-<p>In dem Eingabefeld <em>Ausgabeformat</em> kann optional das Ausgabeformat des Datenfeldes angegeben werden, z.B. Wert #0.00.</p>
+<p>In dem Eingabefeld <em>Ausgabeformat</em> kann optional das Ausgabeformat des Datenfeldes angegeben werden, z.B.  #.##0,00. </p>
 
-<p>In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Feld angegeben werden. z.B. proxy, R0801 bei Einfügen des Feldes Beschreibung wird auf das Feld R0801 verwiesen, oder eine Unterabfrage sogenannten Subquery (SELECT US_FullName FROM Config_US_Users WHERE US_Group = UG_ContainedUser)).</p>
+<p>Durch Click auf den Button „Feld erstellen“ wird das Datenbankfeld angelegt. <br>
+In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Feld angegeben werden. </p>
 
-<p>Unter <em>2b. spezielle Felder anlegen</em>, werden falls gewünscht, spezielle Felder angelegt  wie Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz.</p>
+<p>Unter <em>2b. spezielle Felder anlegen</em>, werden falls gewünscht, spezielle Felder angelegt wie <em>Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz</em>.</p>
 
-<p>Auf dem Karteireiter Vorschau kann jederzeit eine Vorschau der bearbeiteten Maske angezeigt werden, auch ohne die Änderungen vorher zu speichern.</p>
-
-<p>Zum einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Click auf das markierte Icon in der Werkzeugleiste wird das Eingabefeld eingefügt. <br>
-Speichern Sie die veränderte Oberfläche mit der Schaltfläche  . <br>
-Reichen in einer Tabelle die vorhandenen Datenbankspalten nicht aus, so können weitere Spalten angelegt werden. Mit  der Schaltfläche    wird ein neues Datenbankfeld angelegt.</p>
-
-<p>Wählen Sie unter „1. Tabelle wählen“ die Datenbanktabelle, die erweitert werden soll. Geben Sie unter „2. Name eingeben“ den gewünschten Feldnamen ein und bestimmen sie unter „3. Feldtyp auswählen“ den Feldtypen. Der benötigte Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: „Text“, „Langer Text“, „Ja / Nein“, „Datum“, „Datum und Uhrzeit“, „Kommazahl“ und „Ganzzahl“. Unter „4. Ausgabeformat“ kann optional das Ausgabeformat des Datenfeldes in internationaler Notation angegeben werden (analog zu benutzerdefinierten Formaten z.B. in Microsoft Excel). Unter „zusätzliche Infos“ werden die generierte Feld-ID und der Spaltenname der erzeugten Datenbankspalte angezeigt. <br>
-Durch Click auf den Button „Feld erstellen“ wird das Datenbankfeld angelegt.</p>
+<p>Auf dem Karteireiter <em>Vorschau</em> kann jederzeit eine Vorschau der bearbeitete Oberfläche angezeigt werden, auch ohne die Änderungen vorher zu speichern.</p>
 
 <p>Die Karteireiter Editor, Layout und Code beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität der Masken. Änderungen sind dem xpecto Kundensupport vorbehalten.</p>
 
