@@ -23,14 +23,13 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrag
 | Microsoft Word      | Word-Bericht| 
 | integrierter Berichtsgenerator  | Active Reports| 
 | Datenexport     | Excel-Bericht in Tabellenform | 
-| HTML Mail    | Adresse neu anlegen | 
+| HTML Mail    | HTML Format | 
 | PDF Formular     | Veranstaltungen neu anlegen | 
 | Meta-Bericht     | Fasst mehrere Berichte zusammen | 
-| Einfaches RTF oder Docx    | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | 
-| Festes Seiten Layout    | geht zum zuletzt ausgewählten Datensatz zurück | 
+| Einfaches RTF oder Docx    | RTF oder Docx als Austauschformat| 
+| Festes Seiten Layout    | Seiten Layout vorgegeben| 
 
 Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf *OK* wird der Bericht angelegt.
-
 
 ![](http://xpecto.github.io/docs/img/img_1442317569556.png)
 
