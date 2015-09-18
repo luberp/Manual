@@ -1,22 +1,24 @@
-Alle Ausdrucke, die mit xpecto erstellt werden (wie z. B. Provisionsabrechnungen, Kundenanschreiben,c.), basieren auf gespeicherten Vorlagen, die entweder über die integrierte Berichtserstellungs-Komponente ActiveReports von Data Dynamics, oder über den Word-Editor erstellt werden. Die Vorlagen für Ausdrucke und Schreiben werden deshalb im folgenden (und auch bei der Kommunikation mit dem xpecto Kundensupport) als Berichte bezeichnet. Jeder Bericht besteht aus einem Layout, einer Datenbankabfrage sowie einigen Konfigurationsparametern. 
+Alle Ausdrucke, die mit xpecto erstellt werden (wie z. B. Provisionsabrechnungen, Kundenanschreiben,c.), basieren auf gespeicherten Vorlagen, die entweder über die integrierte Berichtserstellungs-Komponente ActiveReports, oder über den Word-Editor erstellt werden. Die Vorlagen für Ausdrucke und Schreiben werden deshalb im folgenden (und auch bei der Kommunikation mit dem xpecto Kundensupport) als Berichte bezeichnet. Jeder Bericht besteht aus einem Layout, einer Datenbankabfrage sowie einigen Konfigurationsparametern. 
 
-Neben Bericht können Sie auch Adressmuster, Textbausteine und individuelle Schreiben erstellen.
+Neben Berichte können Sie auch Adressmuster, Textbausteine und individuelle Schreiben erstellen.
 
-Über die Symbolleiste ![](http://xpecto.github.io/docs/img/img_1442245724286.png) oder über Menü *Extras → Anpassen → Berichte und Adressmuster* starten Sie den *Berichte und Textbausteine* -Dialog.
+Über die Symbolleiste ![](http://xpecto.github.io/docs/img/img_1442245724286.png) oder über Menü *Extras → Anpassen → Berichte und Adressmuster* starten Sie den *xpectoPro Berichte und Textbausteine* -Dialog.
 
-Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086630188.png) wird eine neue Gruppe angelegt. Markieren Sie dann *neue Gruppe anlegen*, und geben Sie hier den Name an.
+Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424086630188.png) um eine neue Gruppe anzulegen. 
 
 ![](http://xpecto.github.io/docs/img/img_1424086718173.png)
 
-Geben Sie den Namen für die neue Gruppe ein und bestätigen Sie mit *OK*.
+Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit *OK*.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png) wird ein neuer Bericht angelegt. Gleichzeitig können Sie auch eine neue Gruppe anlegen. durch Auswählen des Checkboxes *neue Gruppe anlegen.* 
 
 ![](http://xpecto.github.io/docs/img/img_1442415998478.png)
 
-Ein neuer Bericht kann entweder ein leerer Bericht, eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage. In jedem Fall muss der Name für den neuen Bericht angegeben werden, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis dazu. Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrage generiert und im Bericht hinterlegt. 
+Ein neuer Bericht kann entweder ein leerer Bericht, eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage angelegt werden. 
+In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden. 
+Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrage generiert und im Bericht hinterlegt. 
 
-|  Art           |    Beschreibung     |  
+| Bericht Art           |    Beschreibung     |  
 | ------------- |:-------------| 
 | Microsoft Word      | Word-Bericht| 
 | integrierter Berichtsgenerator  | Active Reports| 
