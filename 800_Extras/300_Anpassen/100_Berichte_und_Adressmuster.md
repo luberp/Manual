@@ -100,7 +100,7 @@ Benutzer benötigen hierzu Grundkenntnisse SQL. Das Eingabefeld <em>Filter Field
 <p><img src="http://xpecto.github.io/docs/img/img_1442570315303.png" alt="" title=""></p>
 
 <p>In dem Dialog <em>xpectoPro Berichte und Textbausteine</em> über die eigene Symbolleiste, können Sie ein ausgewählter Bericht löschen, exportierten oder importieren.  <br>
-Über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424865740751.png" alt="" title="">  wird der aktuell selektierte Bericht gelöscht. Bestätigen Sie danach der folgende Dialog mit <em>Ja</em> um den Bericht endgültig zu löschen.</p>
+Über das Symbol <img src="http://xpecto.github.io/docs/img/img_1424865740751.png" alt="" title="">  wird der aktuell selektierte Bericht gelöscht. Bestätigen Sie danach den folgenden Dialog mit <em>Ja</em> um den Bericht endgültig zu löschen.</p>
 
 <p><em>Adressmuster</em> ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.</p>
 
