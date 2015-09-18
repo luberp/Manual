@@ -41,15 +41,15 @@ Hilfe zur Bedienung des Layout-Editors von Data Dynamics erhalten Sie im Interne
 Unter dem Reiter *Abfrage* kann die dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden. 
 Benutzer benötigen hierzu Grundkenntnisse SQL. Das Eingabefeld *Filter Field-IDs* zeigt der zuletzt ausgewählten Wert in eine Tabelle an, und kann in der WHERE-Bedingung eingebaut werden.
 
-Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile, oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind.
+Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile, oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind. Unter dem Reiter *Kategorien*  Feldgruppe *Unterbericht* können die Einstellungen festgelegt.
 
 ![](http://xpecto.github.io/docs/img/img_1442317999574.png)
  
-*Kategorien* sind die Einstellungen für das Hauptfenster. Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Werkzeugleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
+*Kategorien* sind die Einstellungen für  . Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Werkzeugleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
 
 ![](http://xpecto.github.io/docs/img/img_1442415899299.png)
 
-Unter Unterbericht kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile, Fußzeile oder einen Briefpapier handelt. Der Bericht kann dann in anderen Berichten ausgewählt und verwendet werden.
+Unter *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile, Fußzeile oder einen Briefpapier handelt. Der Bericht kann dann in anderen Berichten ausgewählt und verwendet werden. 
 
 Die Optionen unter Beleg geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
 
