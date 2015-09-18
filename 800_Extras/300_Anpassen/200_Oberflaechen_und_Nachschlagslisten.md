@@ -13,6 +13,8 @@
 
 <p>In xpectoPro sind alle Eingabenmasken individuell anpassbar. Dies bezieht sich nicht nur auf das Layout der Masken, sondern erstreckt sich auch auf die damit verknüpfte Funktionalitäten. Während das Layout (Anzahl, Anordnung und Beschriftung der Eingabefelder) durchaus von erfahrenen Benutzern geändert werden kann, sollten Änderungen an der Funktionalität nur vom xpecto Kundensupport durchgeführt werden. </p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1442581131269.png" alt="" title=""></p>
+
 <p>Auf dem Reiter <em>Vorschau</em> wird eine Vorschau von der Oberfläche dargestellt, auch ohne die Änderungen vorher zu speichern. Sowie die Tabelle aus der die Daten verwendet wurden, Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen, aktualisieren, vergleichen.</p>
 
 <p>Unter die Schaltfläche <em>Mustervorlage</em> <img src="http://xpecto.github.io/docs/img/img_1424264077326.png" alt="" title=""> wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. </p>
@@ -28,8 +30,6 @@ Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten ober
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442580545253.png" alt="" title=""></p>
 
-<p>Über das Symbol <img src="http://xpecto.github.io/docs/img/img_1442580639187.png" alt="" title="">, kann eine neue Tabelle in der Datenbank angelegt werden. </p>
-
 <p>Wählen Sie unter <em>1. Tabelle wählen</em> die Datenbanktabelle, die erweitert werden soll. Geben Sie unter die Feldgruppe <em>2a. Feld anlegen</em> den gewünschten Feldname, Feldtyp und das Ausgabeformat. Der benötigten Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: Text, langer Text, Ja/Nein, Datum, Datum und Uhrzeit, Kommazahl, Ganzzahl.</p>
 
 <p>In dem Eingabefeld <em>Ausgabeformat</em> kann optional das Ausgabeformat des Datenfeldes angegeben werden, z.B.  #.##0,00. </p>
@@ -41,15 +41,13 @@ In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Fel
 
 <p>Auf dem Karteireiter <em>Vorschau</em> kann jederzeit eine Vorschau der bearbeitete Oberfläche angezeigt werden, auch ohne die Änderungen vorher zu speichern.</p>
 
-<p>Die Karteireiter Editor, Layout und Code beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität der Masken. Änderungen sind dem xpecto Kundensupport vorbehalten.</p>
+<p>Über das Symbol <img src="http://xpecto.github.io/docs/img/img_1442580639187.png" alt="" title="">, kann eine neue Tabelle in der Datenbank angelegt werden. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1424253034215.png" alt="" title=""> </p>
 
-<p>können neue Tabelle zu Vertriebstabellen oder für Produkt/Vertragstabellen angelegt werden.</p>
+<p>Die Karteireiter Editor, Layout und Code beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1424262589171.png" alt="" title=""></p>
-
-<p>Editor, Layout und Code beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität der Masken.</p>
 
 <p><strong>Nachschlagslisten</strong></p>
 
