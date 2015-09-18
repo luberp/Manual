@@ -59,7 +59,7 @@ Unter dem Reiter *Versandoptionen* werden die Parameter für die Online-Zustellu
 
 ![](http://xpecto.github.io/docs/img/img_1442570315303.png)
 
-In dem Dialog *xpectoPro Berichte und Textbausteine* über die  Symbolleiste, kan der aktuell selektierte Bericht gelöscht,  exportiert oder importiert. 
+In dem Dialog *xpectoPro Berichte und Textbausteine* über die Symbolleiste, kann der aktuell selektierte Bericht gelöscht, exportiert oder importiert. 
 
 *Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.
 
