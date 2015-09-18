@@ -45,13 +45,26 @@ Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bz
 
 ![](http://xpecto.github.io/docs/img/img_1442317999574.png)
  
-*Kategorien* sind die Einstellungen für  . Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Werkzeugleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
+Unter dem Reiter *Kategorien* kann der bearbeitete Bericht kategorisiert werden. 
+
+Mit den Optionen unter der Feldgruppe *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbol- und Funktionsleiste dem Hauptfenster angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
+
+ Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. 
+
+Die Optionen unter *Beleg* geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
+
+ Die Optionen unter „Spezieller Bericht“ haben keine Auswirkung, sie sind für geplante Funktionen vorgesehen.
+
+ 
+
+Unter dem Karteireiter „eService Archiv“ werden die Parameter für die Online-Zustellung von Ausdrucken definiert. Diese werden vom xpecto Kundensupport im Zuge der Einrichtung der Online-Zustellung eingerichtet.
+
 
 ![](http://xpecto.github.io/docs/img/img_1442415899299.png)
 
-Unter *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile, Fußzeile oder einen Briefpapier handelt. Der Bericht kann dann in anderen Berichten ausgewählt und verwendet werden. 
 
-Die Optionen unter Beleg geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
+
+
 
 Beleg, Spezieller Bericht, Erweiterte Berechtigungen Drucksystem.
 Die Optionen unter spezieller Bericht sind für weitere geplante Funktionen vorgesehen.
