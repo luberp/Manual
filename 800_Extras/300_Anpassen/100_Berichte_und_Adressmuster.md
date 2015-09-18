@@ -21,7 +21,7 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrag
 | Bericht Art           |    Beschreibung     |  
 | ------------- |:-------------| 
 | Microsoft Word      | Word-Bericht| 
-| integrierter Berichtsgenerator  | Active Reports| 
+| integrierter Berichtsgenerator  | Active Reports. ActiveReports ist sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und web basierte Formate anzuzeigen.| 
 | Datenexport     | Excel-Bericht in Tabellenform | 
 | HTML Mail    | HTML Format | 
 | PDF Formular     | PDF Format | 
@@ -33,20 +33,21 @@ Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick
 
 ![](http://xpecto.github.io/docs/img/img_1442317569556.png)
 
-Unter dem Reiter *Allgemein* können der Name und die Gruppe des Berichts geädert werden. Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben.
+Unter dem Reiter *Allgemein* können der Name und die Gruppe des Berichts geändert werden. Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben.
 
-Filter Field-IDs zeigt an der zuletzt ausgewählten Wert in eine Tabelle und kann als WHERE-Bedingung gebaut werden.
-Allgemein, Entwurf, Abfrage, Zusatzdaten, Kategorien, Versandoptionen.
+Entwurf, Abfrage, Zusatzdaten, Kategorien, Versandoptionen.
 
 Unter dem Reiter *Entwurf* wird das Layout des Berichts erstellt. Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor oder der Berichtseditor von Data Dynamics zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word. Der Editor sollte nur von Benutzer mit Erfahrung in Microsoft-Word verwendet werden, die Bedienung ist dann selbsterklärend. Hilfe zur Bedienung des Layout-Editors von Data Dynamics erhalten Sie im Internet unter der Adresse http://www.datadynamics.com  http://www.componentone.com/ oder vom xpecto Kundensupport.
 
-ActiveReports ist sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und web basierte Formate anzuzeigen. Neben den Komponenten mit ActiveReports können die Dateien in Formate wie PDF, Excel, RTF und TIFF exportiert werden.
+
+*Abfrage* 
+Filter Field-IDs zeigt an der zuletzt ausgewählten Wert in eine Tabelle und kann als WHERE-Bedingung eingebaut werden.
 
 Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile, oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind.
 
 ![](http://xpecto.github.io/docs/img/img_1442317999574.png)
  
-*Kategorien* sind die Einstellungen für die Hauptfenster. Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Werkzeugleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
+*Kategorien* sind die Einstellungen für das Hauptfenster. Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Werkzeugleiste der Hauptmaske angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
 
 ![](http://xpecto.github.io/docs/img/img_1442415899299.png)
 
@@ -58,7 +59,7 @@ Beleg, Spezieller Bericht, Erweiterte Berechtigungen Drucksystem.
 Die Optionen unter spezieller Bericht sind für weitere geplante Funktionen vorgesehen.
 Erweiterte Berechtigungen Drucksystem.
 
-Versandoptionen sind SMS  E-Mail eBrief.  EBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. Text für Archiv Bestätigung per E-Mail dient für das E-Service Upload in VP-Portal und Kundenportal.
+*Versandoptionen* sind SMS  E-Mail eBrief.  EBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. Text für Archiv Bestätigung per E-Mail dient für das E-Service Upload in VP-Portal und Kundenportal.
 
 Unter dem Reiter *Abfrage* kann die dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden. 
 Benutzer benötigen hierzu Grundkenntnisse SQL.
