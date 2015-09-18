@@ -13,7 +13,7 @@
 
 <p>In xpectoPro sind alle Eingabenmasken individuell anpassbar. Dies bezieht sich nicht nur auf das Layout der Masken, sondern erstreckt sich auch auf die damit verknüpfte Funktionalitäten. Während das Layout (Anzahl, Anordnung und Beschriftung der Eingabefelder) durchaus von erfahrenen Benutzern geändert werden kann, sollten Änderungen an der Funktionalität nur vom xpecto Kundensupport durchgeführt werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442581131269.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1442581431939.png" alt="" title=""></p>
 
 <p>Auf dem Reiter <em>Vorschau</em> wird eine Vorschau von der Oberfläche dargestellt, auch ohne die Änderungen vorher zu speichern. Sowie die Tabelle aus der die Daten verwendet wurden, Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen, aktualisieren, vergleichen.</p>
 
@@ -21,8 +21,7 @@
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442581226190.png" alt="" title=""></p>
 
-<p>Auf dem Reiter <em>Designer</em> befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Oberfläche.  <br>
-Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild nach Ihren Wünschen angepasst werden.  <br>
+<p>Auf dem Reiter <em>Designer</em> befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Oberfläche. Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild nach Ihren Wünschen angepasst werden.  <br>
 Um ein bereits bestehendes Label oder Eingabefeld zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position.  <br>
 Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das  Icon <img src="http://xpecto.github.io/docs/img/img_1442578074569.png" alt="" title=""> in der Werkzeugleiste wird das Eingabefeld eingefügt. Speichern Sie die veränderte Oberfläche mit dem Symbol <img src="http://xpecto.github.io/docs/img/img_1442578440840.png" alt="" title=""> . </p>
 
@@ -45,9 +44,7 @@ In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Fel
 
 <p><img src="http://xpecto.github.io/docs/img/img_1424253034215.png" alt="" title=""> </p>
 
-<p>Die Karteireiter Editor, Layout und Code beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität. </p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1424262589171.png" alt="" title=""></p>
+<p>Die Reiter <em>Editor</em>, <em>Layout</em> und <em>Code</em> beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität. </p>
 
 <p><strong>Nachschlagslisten</strong></p>
 
@@ -56,8 +53,5 @@ Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als
 „Anrede” selbst angepasst werden, ohne in die Skripte eingreifen zu müssen, die das Verhalten der Kundenmaske definieren. <br>
 Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede vermeidet Tippfehler bei der Eingabe der Anrede. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen vermieden, die dieses Feld enthalten. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.</p>
 
-<p>Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verbunden. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegrieffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache un mit Hilfe des xpecto Kundensupports angelegt, der auch das zugehörige Skript programmiert. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne Zuhilfenahme des xpecto Kundensupports vom Benutzer durchgeführt werden. </p>
-
-<p>lookup, propkunden <br>
-ComboBox, SerchBox,</p></div></body>
+<p>Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verbunden. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegrieffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache un mit Hilfe des xpecto Kundensupports angelegt, der auch das zugehörige Skript programmiert. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne Zuhilfenahme des xpecto Kundensupports vom Benutzer durchgeführt werden. </p></div></body>
 </html>
