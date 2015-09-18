@@ -19,7 +19,7 @@
 
 <p>Unter die Schaltfläche <em>Mustervorlage</em> <img src="http://xpecto.github.io/docs/img/img_1424264077326.png" alt="" title=""> wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442575324950.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1442581226190.png" alt="" title=""></p>
 
 <p>Auf dem Reiter <em>Designer</em> befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Oberfläche.  <br>
 Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild nach Ihren Wünschen angepasst werden.  <br>
