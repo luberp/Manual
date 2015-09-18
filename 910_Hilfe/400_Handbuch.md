@@ -1,1 +1,1 @@
-Menüpunkt Handbuch enthält ein Link auf dieses Handbuch.
+Menüpunkt *Handbuch* enthält einen Link auf dieses Handbuch.
