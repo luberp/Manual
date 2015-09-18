@@ -24,9 +24,9 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrag
 | integrierter Berichtsgenerator  | Active Reports| 
 | Datenexport     | Excel-Bericht in Tabellenform | 
 | HTML Mail    | HTML Format | 
-| PDF Formular     | Veranstaltungen neu anlegen | 
+| PDF Formular     |  | 
 | Meta-Bericht     | Fasst mehrere Berichte zusammen | 
-| Einfaches RTF oder Docx    | RTF oder Docx als Austauschformat| 
+| Einfaches RTF oder Docx    | RTF oder Docx Format| 
 | Festes Seiten Layout    | Seiten Layout vorgegeben| 
 
 Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf *OK* wird der Bericht angelegt.
