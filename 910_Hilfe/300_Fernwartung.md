@@ -2,4 +2,4 @@ Unter Fernwartung können Sie einen Fernzugriff starten für einen bestimmten Su
 
 ![](http://xpecto.github.io/docs/img/img_1421744904380.png)
 
-Unter Erweitert haben Sie die Möglichkeit einen Fernzugriff später neu starten.
+Unter *Erweitert* kann einen Fernzugriff später neu starten.
