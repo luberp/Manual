@@ -59,14 +59,13 @@ Erweiterte Berechtigungen Drucksystem.
 
 *Versandoptionen* sind SMS  E-Mail eBrief.  EBrief hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet. Text für Archiv Bestätigung per E-Mail dient für das E-Service Upload in VP-Portal und Kundenportal.
 
-
-Individuelle Schreiben können aus Textbausteine gebaut werden.
-
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424865740751.png)  wird der aktuell selektierte Bericht gelöscht. Bestätigen Sie danach der Dialog mit *Ja* ![](http://xpecto.github.io/docs/img/img_1424865976218.png).
 
-Bearbeiten Berichte erzeugen.
+*Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zürück liefern darf.
+, Textbausteine, Individuelle Schreiben
+Individuelle Schreiben können aus Textbausteine gebaut werden.
+
 Anpasssen: Berichte und Adressmuster → Berichte, Adressmuster, Textbausteine, individuelle Schreiben
 Symbolleiste: Speichern, Berichtsgruppen neu anlegen, Berichte neu anlegen, Adressmuster neu anlegen, Textbausteine neu anlegen, Individuelle Schreiben neu anlegen, Aktuellen Datensatz löschen, Bericht importieren, Bericht exportieren.
 Symbol: Bericht erzeugen: generiert nur den Bericht.
 Symbol: Bericht bearbeiten: generiert die Vorlage die man danach bearbeiten kann.
-integrierter Berichtsgenerator ist Active Report.
