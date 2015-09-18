@@ -33,8 +33,9 @@ Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten ober
 
 <p>In dem Eingabefeld <em>Ausgabeformat</em> kann optional das Ausgabeformat des Datenfeldes angegeben werden, z.B.  #.##0,00. </p>
 
-<p>Durch Click auf den Button „Feld erstellen“ wird das Datenbankfeld angelegt. <br>
-In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Feld angegeben werden. </p>
+<p>In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Feld angegeben werden. </p>
+
+<p>Durch einen Klick auf die Schaltfläche <em>Feld erstellen</em> wird das Datenbankfeld angelegt.</p>
 
 <p>Unter <em>2b. spezielle Felder anlegen</em>, werden falls gewünscht, spezielle Felder angelegt wie <em>Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz</em>.</p>
 
@@ -42,16 +43,16 @@ In dem Eingabefeld <em>Parameter</em> kann man bestimmten Parameter für das Fel
 
 <p>Über das Symbol <img src="http://xpecto.github.io/docs/img/img_1442580639187.png" alt="" title="">, kann eine neue Tabelle in der Datenbank angelegt werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1424253034215.png" alt="" title=""> </p>
-
 <p>Die Reiter <em>Editor</em>, <em>Layout</em> und <em>Code</em> beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität. </p>
 
 <p><strong>Nachschlagslisten</strong></p>
 
 <p>Das Modul Nachschlagslisten dient dem Hinterlegen von Listen und Tabellen mit Werten, auf die an verschiedenen Stellen in der Software von kundenspezifischen Masken und Skripten zurückgegriffen werden kann.  <br>
-Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als Auswahlfeld angelegt und so konfiguriert werden, dass die auswählbaren Werte aus einer Nachschlagsliste mit der Bezeichnung „Anrede” entnommen werden. Die verfügbaren Werte können somit vom Benutzer durch Bearbeiten der Nachschlagsliste  <br>
-„Anrede” selbst angepasst werden, ohne in die Skripte eingreifen zu müssen, die das Verhalten der Kundenmaske definieren. <br>
-Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede vermeidet Tippfehler bei der Eingabe der Anrede. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen vermieden, die dieses Feld enthalten. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.</p>
+Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als Auswahlfeld angelegt und so konfiguriert werden, dass die auswählbaren Werte aus einer Nachschlagsliste mit der Bezeichnung <em>Anrede</em> entnommen werden. Die verfügbaren Werte können somit vom Benutzer durch Bearbeiten der Nachschlagsliste  „Anrede” selbst angepasst werden, ohne in die Skripte eingreifen zu müssen, die das Verhalten der Kundenmaske definieren.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1442581536742.png" alt="" title=""></p>
+
+<p>Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede vermeidet Tippfehler bei der Eingabe der Anrede. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen vermieden, die dieses Feld enthalten. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.</p>
 
 <p>Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verbunden. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegrieffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache un mit Hilfe des xpecto Kundensupports angelegt, der auch das zugehörige Skript programmiert. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne Zuhilfenahme des xpecto Kundensupports vom Benutzer durchgeführt werden. </p></div></body>
 </html>
