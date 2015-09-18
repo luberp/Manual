@@ -24,7 +24,7 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrag
 | integrierter Berichtsgenerator  | Active Reports| 
 | Datenexport     | Excel-Bericht in Tabellenform | 
 | HTML Mail    | HTML Format | 
-| PDF Formular     |  | 
+| PDF Formular     | PDF Format | 
 | Meta-Bericht     | Fasst mehrere Berichte zusammen | 
 | Einfaches RTF oder Docx    | RTF oder Docx Format| 
 | Festes Seiten Layout    | Seiten Layout vorgegeben| 
