@@ -1,7 +1,7 @@
 **Prozesse: Allgemein, Designer**
 Unter Prozesse können Wiedervorlagen, Mahnprozesse, Zeichnung angelegt werden.
 xpectoPro ermöglicht die Integration von Ablaufprozessen in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse.
-Die Prozesse können über einen grafischen Designer erstellt werden. Die Steuerung der Prozesse erfolgt mit einer zentralen „Wiedervorlage-Steuerung" die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den Überblick über alle wichtigen Abläufe.
+Die Prozesse können über einen grafischen Designer erstellt werden. Die Steuerung der Prozesse erfolgt mit einer zentralen *Wiedervorlage-Steuerung* die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den Überblick über alle wichtigen Abläufe.
 Die Einbindung von externen Stellen zur Datenerfassung, zur Prüfung/Compliance oder zur Betreuung ist über Prozesse sehr gut möglich. 
 
 Beispiel Annahmeprozess:
