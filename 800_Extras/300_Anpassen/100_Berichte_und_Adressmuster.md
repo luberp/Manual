@@ -14,7 +14,7 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png
 
 ![](http://xpecto.github.io/docs/img/img_1442415998478.png)
 
-Ein neuer Bericht kann entweder ein leerer Bericht, eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage angelegt werden. 
+Ein neuer Bericht kann entweder als ein leerer Bericht, eine Kopie eines bestehenden Berichts, ein tabellarischer Bericht oder eine xpecto Vorlage angelegt werden. 
 In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden. 
 Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrage generiert und im Bericht hinterlegt. 
 
