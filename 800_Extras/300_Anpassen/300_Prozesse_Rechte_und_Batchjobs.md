@@ -48,7 +48,7 @@ Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/d
 **Batchjobs: Allgemein**
 
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
-
+Einen neuen 
 ![](http://xpecto.github.io/docs/img/img_1442583492464.png)
 
 
