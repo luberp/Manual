@@ -41,7 +41,7 @@ Spezielle Rechte: Die Rechte *Administrator* und *Poweruser* umfassen alle mögl
 Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und betätigen Sie die Schaltfläche 
  ![](http://xpecto.github.io/docs/img/img_1424439295301.png), um eine neue Berechtigungszeile einzufügen. In der Auswahlbox *Recht* wird das gewünschte Recht ausgewählt, und unter Wert die jeweilige Berechtigungsstufe *deny/verbieten*, *default* oder *allow/erlauben* gesetzt.
 
-Beschreiben die Vorteile von Gruppen-Rechte. Es bietet sich die Möglichkeit die Rechte für mehrere Benutzer über Gruppen zu verwalten.
+Gruppen-Rechte so dass Rechte die Sie dieser Gruppe geben grundsätzlich für alle Benutzer gelten. Beschreiben die Vorteile von Gruppen-Rechte. Es bietet sich die Möglichkeit die Rechte für mehrere Benutzer über Gruppen zu verwalten.
 
 Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1442583757418.png) holt alle Benutzer aus Active Directoy ab und speichert diese.
 
