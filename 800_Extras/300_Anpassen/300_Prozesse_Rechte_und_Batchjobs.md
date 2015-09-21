@@ -7,8 +7,9 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p><strong>Prozesse: Allgemein, Designer</strong> <br>
-Unter Prozesse können Wiedervorlagen, Mahnprozesse, Zeichnung angelegt werden. <br>
+<body><div class="container"><p><strong>Prozesse: Allgemein, Designer</strong></p>
+
+<p>Unter Prozesse können Wiedervorlagen, Mahnprozesse, Zeichnung angelegt werden. <br>
 xpectoPro ermöglicht die Integration von Ablaufprozessen in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse. <br>
 Die Prozesse können über einen grafischen Designer erstellt werden.  <br>
 Die Steuerung der Prozesse erfolgt mit einer zentralen <em>Wiedervorlage-Steuerung</em> (siehe <em>Bearbeiten → Wiedervorlage Steuerung</em>) die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den Überblick über alle wichtigen Abläufe. <br>
