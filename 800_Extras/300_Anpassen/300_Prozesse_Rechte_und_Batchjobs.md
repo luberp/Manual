@@ -27,7 +27,9 @@ Die Einbindung von externen Stellen zur Datenerfassung, zur Prüfung/Compliance 
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442842675187.png" alt="" title=""></p>
 
-<p>Unter dem Reiter <em>Designer</em> haben Sie dann die Möglichkeit der Prozess zu designen.</p>
+<p>Unter dem Reiter <em>Designer</em> haben Sie dann die Möglichkeit der Prozess zu designen. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1442842994942.png" alt="" title=""></p>
 
 <p><strong>Benutzer: Allgemein, Rechte, Gruppenmitglieder</strong></p>
 
