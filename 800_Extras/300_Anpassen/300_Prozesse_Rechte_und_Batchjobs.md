@@ -24,7 +24,7 @@ Unter dem Reiter *Designer* haben Sie dann die Möglichkeit der Prozess zu desig
 
 **Benutzer: Allgemein, Rechte, Gruppenmitglieder**
 
-In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandene Benutzer werden automatisch die in der Windows Domäne vorhandene Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an.
+In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandene Benutzer werden automatisch die in der Windows Domäne vorhandene Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an. 
 
 Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. 
 
@@ -43,14 +43,10 @@ Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und bet�
 
 Gruppen-Rechte so dass Rechte die Sie dieser Gruppe geben grundsätzlich für alle Benutzer gelten. Beschreiben die Vorteile von Gruppen-Rechte. Es bietet sich die Möglichkeit die Rechte für mehrere Benutzer über Gruppen zu verwalten.
 
-Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1442583757418.png) holt alle Benutzer aus Active Directoy ab und speichert diese.
-
-In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen Sie durch Klick auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an.
-Geben Sie einen Benutzername ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. Bei Windows Domänen-Benutzern setzt sich der Benutzername aus Domänenname\Benutzername zusammen. Sollte Ihre Benutzer also an einem Domänenkontroller angemeldet sein, so berücksichtigen Sie dies bitte bei der Erstellung des Benutzerkontos. Bestätigen Sie mit OK. Nachdem Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424428777473.png) speichern, wird der neue Benutzer in der linken Liste angezeigt. 
-
-Beispiel: Beim Benutzer „Default" sei das Recht zum Start von xpectoPro auf erlauben gesetzt. Bei einem bestimmten Benutzer sei jedoch zusätzlich das Recht zum Start von xpectoPro auf verbieten gesetzt. Dadurch ist allen Windows Benutzern grundsätzlich das starten der Software möglich. Der bestimmte kann jedoch xpectoPro nicht starten, obwohl beim Benutzer „Default" das Recht auf erlauben gesetzt ist.
+Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1442583757418.png) holt alle Benutzer aus Active Directoy ab und speichert diese.In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. 
 
 **Batchjobs: Allgemein**
+
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1442583492464.png)
