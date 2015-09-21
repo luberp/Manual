@@ -10,7 +10,7 @@ Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet. 
 
 Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit *OK*.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png) wird ein neuer Bericht angelegt. Gleichzeitig können Sie auch eine neue Gruppe anlegen, durch Auswählen des Checkboxes *neue Gruppe anlegen.* 
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png) wird ein neuer Bericht angelegt. Gleichzeitig können Sie auch eine neue Gruppe anlegen, durch anklicken des Checkboxes *neue Gruppe anlegen.* 
 
 ![](http://xpecto.github.io/docs/img/img_1442415998478.png)
 
