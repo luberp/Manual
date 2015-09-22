@@ -32,9 +32,10 @@ Im Bereich unten kann das Konto für den zu erzeugenden Buchungssatz ausgewählt
 
 Markierte Buchungen, die nicht gespeichert werden sollen, können mit der Schaltfläche![](http://xpecto.github.io/docs/img/img_1442237227264.png) gelöscht werden.
 
-*Buchungen aufteilen* teilt die Buchung in mehrere kleinere Beträge.
+*Buchungen aufteilen* teilt die Buchung in mehrere Beträge,  die Teilbuchungen werden dann in der Liste der Buchungen angezeigt.
 
 Buchungen übertragen die Buchungen werden nach einen anderen Fond übertragen. Unter der Schaltfläche 
 ![](http://xpecto.github.io/docs/img/img_1442406481698.png), werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter *geparkte Buchungen anzeigen.*
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442236615351.png), speichern Sie die zum Vertrag zugewiesenen Buchungen (das Speichern ist nur möglich, wenn die Summe der eingegebenen Split-Beträge exakt den Buchungsbetrag ergibt). Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt.
+
