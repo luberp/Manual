@@ -54,11 +54,11 @@ Die dargestellten Datensätze können über Betätigung der entsprechenden Schal
 
 Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche *Kampagne* kann eine Kampagne gestartet werden (siehe  Menüleiste *Bearbeiten → Kampagnen*). 
 
-Über die *SQL* Schaltfläche können Sie Insert Statement erstellen, Daten in Importdialog laden oder die Aktion abbrechen. 
+Über die *SQL* Schaltfläche können Sie *Insert Statements erstellen*, Daten in *Importdialog laden* oder die *Aktion abbrechen*. 
 
 ![](http://xpecto.github.io/docs/img/img_1431933091869.png)
 
-Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank. 
+Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank (siehe *Import/Export → Allgemeiner Import*). 
 
 ![](http://xpecto.github.io/docs/img/img_1439282833536.png)
 
