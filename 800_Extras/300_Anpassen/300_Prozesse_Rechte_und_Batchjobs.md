@@ -7,12 +7,12 @@ Die Steuerung der Prozesse erfolgt mit einer zentralen *Wiedervorlage-Steuerung*
 Die Einbindung von externen Stellen zur Datenerfassung, zur Prüfung/Compliance oder zur Betreuung ist über Prozesse sehr gut möglich. 
 
 Beispiel Mahnwesen:
- - Kunde erzeugt Rücklastschrift oder zahlt nicht innerhalb eines
-  - bestimmten Zeitraums Je nach Grund wird Callcenter oder
-   - Vertriebspartner aktiv Bearbeiter ergänzt weiteres Vorgehen erneute
- -   Wartezeit 
- - Kunde hat gezahlt → erledigt 
- - Kunde hat nicht gezahlt → nächste Mahnstufe
+- Kunde erzeugt Rücklastschrift oder zahlt nicht innerhalb eines
+- bestimmten Zeitraums Je nach Grund wird Callcenter oder
+- Vertriebspartner aktiv Bearbeiter ergänzt weiteres Vorgehen erneute
+- Wartezeit 
+- Kunde hat gezahlt → erledigt 
+- Kunde hat nicht gezahlt → nächste Mahnstufe
 
 Um einen Prozess neu anzulegen klicken Sie in dem Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442841693322.png). Geben Sie den Name für Ihren neuen Prozess und wie den Prozess erstellt werden soll. Bestätigen Sie dann Ihre Eingaben mit einen Klick auf *OK*. 
 
