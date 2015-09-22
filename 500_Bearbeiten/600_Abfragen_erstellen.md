@@ -58,17 +58,18 @@ Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Scha
 
 ![](http://xpecto.github.io/docs/img/img_1431933091869.png)
 
-Über dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank (siehe *Import/Export → Allgemeiner Import*). 
+In dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importieren in der Datenbank (siehe *Import/Export → Allgemeiner Import*). 
 
 ![](http://xpecto.github.io/docs/img/img_1439282833536.png)
 
 Um Datensätze zu importieren, wählen Sie das Produkt aus, zu dem die Datensätze importiert werden sollen. 
 
-Wenn Sie Tabellen in der Datenbank importieren wollen, dann klicken Sie auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1421152862771.png) um die zu importierende Datei auszuwählen.
+Wenn Sie Tabellen aus einer Datei, in der Datenbank importieren wollen, dann klicken Sie auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1421152862771.png) um die zu importierende Datei auszuwählen.
 
 Je nach Dateiformat der zu importierenden Daten müssen die Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. 
 Wahlweise können die Kopfzeile sowie die leeren Spalten angezeigt werden. 
-Durch betätigen von *Vorschau* werden die Importdaten als Tabelle angezeigt. Um den Import zu starten klicken Sie auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1421159892128.png).
+Durch betätigen von *Vorschau* werden die Importdaten als Tabelle angezeigt.
+ Um den Import zu starten klicken Sie auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1421159892128.png).
 
 Nachdem Sie die folgende Meldung mit *OK* bestätigt haben sind die angezeigten Daten importiert. 
 
