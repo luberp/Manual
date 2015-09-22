@@ -1,4 +1,4 @@
-Über diesen Menüpunkt wird der aktuell ausgewählte Kunde, Vertrag oder Vermittler gelöscht. Nach Bestätigung der Warnmeldung
+Über diesen Menüpunkt wird der aktuell ausgewählte Kunde, Vertrag oder Vermittler gelöscht. Nach Bestätigung der Warnmeldung:
 
 ![](http://xpecto.github.io/docs/img/img_1420450924589.png)
 
