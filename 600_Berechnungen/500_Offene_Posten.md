@@ -5,7 +5,7 @@ Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rech
 
 Wenn Sie aber vorher eine Beteiligung ![](http://xpecto.github.io/docs/img/img_1441372403820.png) oder einen Vertrag ![](http://xpecto.github.io/docs/img/img_1441373565478.png) markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
 
-Sie erreichen die *xpectoPro OPOS Verarbeitung* Maske über *Berechnungen → Offene Posten*, unter *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
+Sie erreichen den *xpectoPro OPOS Verarbeitung* Dialog über *Berechnungen → Offene Posten*, unter *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
 
 Die *OPOS Verarbeitung* Maske enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
 Posten für alle Beteiligungen, und unten die Details der Buchungen.
