@@ -2,7 +2,7 @@
 Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs erfasst.
 Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträge, die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. 
 
-Sie haben hier die folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen*.
+In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
 
 Über *Berechnungen → Zahlungsverkehr* kann das *Zahlungsverkehr*-Dialog geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
 
