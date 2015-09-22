@@ -4,7 +4,7 @@ Sie erreichen den Suchdialog über *Bearbeiten → Erweiterte Suche* oder über 
 ![](http://xpecto.github.io/docs/img/img_1437999785393.png)
  
  Starten Sie mit der Suche, indem Sie den gesuchten Name in das Suchfeld eingeben.
-Um nach mehrere Kriterien zu suchen klicken Sie auf die Schaltfläche Felder einblenden![](http://xpecto.github.io/docs/img/img_1438066313704.png), z.B. Suche nach alle Kunden die in Berlin wohnen und einen Vertrag des Produktes TRI1 haben.
+Um nach mehrere Kriterien zu suchen klicken Sie auf die Schaltfläche *Felder einblenden* ![](http://xpecto.github.io/docs/img/img_1438066313704.png), z.B. Suche nach alle Kunden die in Berlin wohnen und einen Vertrag des Produktes TRI1 haben.
 
 ![](http://xpecto.github.io/docs/img/img_1437999710660.png)
 
