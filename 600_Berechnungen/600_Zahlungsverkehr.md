@@ -2,7 +2,7 @@
 
 Sie haben hier die folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen*.
 
-Über *Berechnungen → Zahlungsverkehr* soll das *Zahlungsverkehr* geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
+Über *Berechnungen → Zahlungsverkehr* kann das *Zahlungsverkehr*-Dialog geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
 
 ![](http://xpecto.github.io/docs/img/img_1441985519757.png)
 
