@@ -1,5 +1,5 @@
 Offene Posten Liste dient als Nebenbuch der Buchführung. In der Nebenbuchhaltung wird eine nicht bezahlte Rechnungsposition auf dem Debitorenkonto bis zum Zeitpunkt der Zahlung (automatisch) als offener Posten geführt. 
-Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Innerhalb dieser Maske können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
+Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
  Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle  zugehörigen Konten berücksichtigt – also es  werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet.
 
@@ -27,7 +27,7 @@ Wählen Sie in dem folgenden Dialog das Ausführungsdatum an.
 
 ![](http://xpecto.github.io/docs/img/img_1441702086158.png)
 
-Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich die *Zahlungsverkehr*-Maske. 
+Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich der*Zahlungsverkehr*-Dialog. 
 
 Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
@@ -36,7 +36,7 @@ Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen.
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
 Mit den Funktionen *Datenprüfung* und *Dateien erzeugen* können die Dateien dann wirklich erzeugt werden. Es werden die Sollbuchungen zu einer Transaktion zusammengefasst und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann werden die *Dateien erzeugen* Schaltfläche aktiv. 
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
 Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls die vorhanden sind.
 
 ![](http://xpecto.github.io/docs/img/img_1441702289501.png)
