@@ -23,16 +23,16 @@ In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *v
 
 ![](http://xpecto.github.io/docs/img/img_1439293172987.png)
 
-Die *individuelle Abfrage* gibt Ihnen die Möglichkeit eine schon erstellte Abfrage (siehe *Bearbeiten → Abfragen erstellen → Kampagne*) zu bearbeiten. 
+Die *individuelle Abfrage* gibt Ihnen die Möglichkeit eine schon erstellte Abfrage (siehe *Bearbeiten → Abfragen erstellen → Kampagne*), zu bearbeiten. 
 
-Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Dialog „Abfrage editieren für Kampagne".
+Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Dialog *Abfrage editieren für Kampagne.*
 
 ![](http://xpecto.github.io/docs/img/img_1439298144966.png)
 
-Hier können Sie die schon hinterlegte Abfrage in dem Dialog „Abfrage editieren für Kampagne" bearbeiten und an Ihre Kampagne anpassen. 
-Wenn Sie aber keine Abfrage hinterlegt haben, dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen*).  Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png) werden Sie sofort zu den „Kampagnen und Massendruck" Maske weitergeleitet.
+Hier können Sie die schon hinterlegte Abfrage in dem Dialog *Abfrage editieren für Kampagne* bearbeiten und an Ihre Kampagne anpassen. 
+Wenn Sie aber keine Abfrage hinterlegt haben, dann bietet sich hier die Möglichkeit vorher eine Abfrage in den Dialog „Abfragen und Listen" zu erstellen (siehe *Bearbeiten → Abfragen erstellen*).  Durch die Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png), werden Sie direkt zu den *Kampagnen und Massendruck* Dialog weitergeleitet.
 
-Die  *Gruppe von Daten für Aktionen* zeigt die Daten die von Datenquellen geliefert wurden. Falls die Abfrage mehrere Gruppen liefert.
+Falls die Abfrage mehrere Gruppen liefert, werden die in die Feldgruppe *Gruppe von Daten für Aktionen* angezeigt. Sie können hier die gewünschte Gruppe für Ihre Kampagne markieren.
 
 ![](http://xpecto.github.io/docs/img/img_1439300061171.png)
 
