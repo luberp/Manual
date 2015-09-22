@@ -53,7 +53,7 @@ Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar. Diese Felder 
 
 <p>xpectoPro bietet Ihnen die Möglichkeiten die <em>Feldspezifische Historie aktivieren</em> an,  damit wird für jedes einzelne Feld die Historie angezeigt. Mit einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1430729940939.png" alt="" title="">, öffnen Sie das Historie-Kontextmenü.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1431530946974.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1442911128440.png" alt="" title=""></p>
 
 <p>Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müssen, wird Ihnen die Arbeit erleichtert, indem Sie einfach durch Eingabe von <em>h</em> automatisch das heutige Datum eintragen, durch <em>g</em> für gestern, <em>m</em> für morgen, <em>e</em> für den ersten Tag im Monat, <em>l</em> für den letzten Tag im Monat.  <br>
 Sie haben natürlich auch die Möglichkeit das Datum normal durch Eintippen einzugeben.</p></div></body>
