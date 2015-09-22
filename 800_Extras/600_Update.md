@@ -1,5 +1,4 @@
-Um die vorliegende Installation von xpectoPro stets auf dem neuesten Stand zu halten, kann über diese Funktion ein Online-Update der Software
-durchgeführt werden. Durch Klick auf *Update überprüfen* wird überprüft, ob auf dem xpecto Update-Server eine neuere Version, als die aktuell installierte, zur Verfügung steht.
+Um die vorliegende Installation von xpectoPro stets auf dem neuesten Stand zu halten, kann über diese Funktion ein Online-Update der Software durchgeführt werden. Durch Klick auf *Update überprüfen* wird überprüft, ob auf dem xpecto Update-Server eine neuere Version, als die aktuell installierte, zur Verfügung steht.
 
 Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*. Ist die aktuell installierte Version nicht mehr aktuell, so wird die installierte und die zur Verfügung stehende Version angezeigt.
 
