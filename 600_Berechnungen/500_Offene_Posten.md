@@ -27,7 +27,7 @@ Wählen Sie in dem folgenden Dialog das Ausführungsdatum an.
 
 ![](http://xpecto.github.io/docs/img/img_1441702086158.png)
 
-Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich der*Zahlungsverkehr*-Dialog. 
+Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich der *Zahlungsverkehr*-Dialog. 
 
 Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
