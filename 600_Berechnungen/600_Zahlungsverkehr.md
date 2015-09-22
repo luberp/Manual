@@ -1,4 +1,6 @@
-*Zahlungsverkehr* ist ein zentrales Modul von xpectoPro, mit dem Sie Zahlungsaufträge wie Überweisungen, Lastschriften übernehmen, oder selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. Das Modul *Zahlungsverkehr* berechnet für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. 
+*Zahlungsverkehr* ist ein zentrales Modul von xpectoPro, mit dem Sie Zahlungsaufträge wie Überweisungen, Lastschriften übernehmen, oder selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. 
+Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs erfasst.
+Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträge, die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. 
 
 Sie haben hier die folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen*.
 
@@ -17,9 +19,7 @@ Klicken Sie auf *Ja* um die Zahlungsaufträge zusammenzufassen.
 
 Um die Details der einzelne Sollstellungen anzeigen zu lassen klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1441717792618.png). Hier sehen Sie aus welche Zahlungsaufträge die Sollstellung enthält, und welche Daten fehlerhaft sind, diese werden automatisch markiert. 
 
-Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen. Im Vertrag erfassen Sie die Ratenhöhe, die Laufzeit, das Datum der erste Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs.
-
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien in PDF- und CSV - Format erzeugt. 
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien in PDF- und CSV-Format erzeugt. 
 
 ![](http://xpecto.github.io/docs/img/img_1440769740999.png)
 
