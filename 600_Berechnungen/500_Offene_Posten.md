@@ -5,16 +5,13 @@ Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rech
 
 Wenn Sie aber vorher eine Beteiligung ![](http://xpecto.github.io/docs/img/img_1441372403820.png) oder einen Vertrag ![](http://xpecto.github.io/docs/img/img_1441373565478.png) markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
 
-Sie erreichen den *xpectoPro OPOS Verarbeitung* Dialog über *Berechnungen → Offene Posten*, unter *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
-
-Die *OPOS Verarbeitung* Maske enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
-Posten für alle Beteiligungen, und unten die Details der Buchungen.
+Sie erreichen den *xpectoPro OPOS Verarbeitung* Dialog über *Berechnungen → Offene Posten*, oder unter *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
 
 Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden. Rechnung mit einer Gutschrift ausgleichen.
 
-Die Offenen Posten Maske berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von einen OPOS-Konto. Der OPOS-Konto muss unter *Produkte → Konten*  als  OPOS-Konto angelegt werden. 
+Der *OPOS Verarbeitung* Dialog berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von einen OPOS-Konto. Der OPOS-Konto muss unter *Produkte → Konten*  als  OPOS-Konto angelegt werden. 
 
-Die *OPOS Verarbeitung* Maske enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
+Der *OPOS Verarbeitung* Dialog enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
 Posten für alle Beteiligungen, und unten die Details der Buchungen.
 
 ![](http://xpecto.github.io/docs/img/img_1441702035355.png)
