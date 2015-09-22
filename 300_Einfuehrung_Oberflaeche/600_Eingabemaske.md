@@ -10,8 +10,8 @@ Um zwischen den Felder zu navigieren können Sie diese mit der Maus anklicken od
 
 |  Symbole            |    Beschreibung     |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung | 
-| ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung. Feld muss befüllt sein | 
+| ![](http://xpecto.github.io/docs/img/img_1430729578370.png)       | Adressprüfung. Datengültigkeit. | 
+| ![](http://xpecto.github.io/docs/img/img_1430729624073.png)      | Datenüberprüfung. Feld muss befüllt sein. | 
 | ![](http://xpecto.github.io/docs/img/img_1430729543912.png)      | Datenvalidierung. Dient der Vollständigkeit- und Fehlerprüfung zu, indem das System die Daten in den Eingabefeldern prüft. | 
 | ![](http://xpecto.github.io/docs/img/img_1430729940939.png)     | Historie. Historie zeigt eine Liste der Einträge aller Änderungen die vorgenommen worden sind. | 
 | ![](http://xpecto.github.io/docs/img/img_1430731908651.png)       | Neuen Datensatz hinzufügen (Str + N)  | 
