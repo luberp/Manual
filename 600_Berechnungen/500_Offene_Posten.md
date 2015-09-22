@@ -26,13 +26,12 @@ Wählen Sie in dem folgenden Dialog das Ausführungsdatum an.
 
 Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich der *Zahlungsverkehr*-Dialog. 
 
-Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
-
 ![](http://xpecto.github.io/docs/img/img_1441702135963.png)
 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
 Mit den Funktionen *Datenprüfung* und *Dateien erzeugen* können die Dateien dann wirklich erzeugt werden. Es werden die Sollbuchungen zu einer Transaktion zusammengefasst und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
+
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
 Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls die vorhanden sind.
 
