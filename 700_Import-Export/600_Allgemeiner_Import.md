@@ -1,4 +1,4 @@
-Dieses Modul dient dem Import beliebiger Datentabellen. Bei diesem Import ist bei der Konfiguration der Parameter sowie bei der Zuordnung der Spaltenanalog zum Kunden- und Vertragsdaten-Import (siehe vorstehendes Kapitel "Menüpunkt: Kunden- und Vertragsdaten importieren") zu verfahren.
+Dieses Modul dient dem Import beliebiger Datentabellen. Bei diesem Import ist bei der Konfiguration der Parameter sowie bei der Zuordnung der Spaltenanalog zum Kunden- und Vertragsdaten-Import (siehe vorstehendes Kapitel Menüpunkt: *Import/Export → Kunden- und Vertragsdaten importieren*) zu verfahren.
 
 ![](http://xpecto.github.io/docs/img/img_1441981332988.png)
 
