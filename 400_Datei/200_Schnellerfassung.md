@@ -20,6 +20,6 @@ Druckt Barcode-Aufkleber zur Registrierung eines Dokumentes.
 
 ![](http://xpecto.github.io/docs/img/img_1443000902734.png)
 
-Als Standard speichern gilt nur für Aufkleber.
+Über die Schaltfläche als Standard speichern werden die Einstellungen für den Aufkleber gespeichert. Diese können dann für alle weitere Eingaben von Daten als Standard angezeigt..
 
 Große Datenmengen für eine ganze Reihe von Mitarbeitern zu verarbeiten, kann ein zeitintensiver Prozeß sein. Sind die für die einzelnen Mitarbeiter zu erfassenden Informationen ähnlich, so ist es möglich, den Arbeitsaufwand durch die Verwendung der Schnellerfassungsfunktionalität zu reduzieren.
