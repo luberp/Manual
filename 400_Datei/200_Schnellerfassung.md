@@ -14,21 +14,41 @@ Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442999939016.png" alt="" title=""></p>
 
-<p>Der Dialog ist aus folgenden Eingabemasken zusammengesetzt:  <br>
-Vertrags-Nr.: hier wird die Vertrags-Nummer vorgeschlagen <br>
-Kunde suche: mit Doppelklick Kunde markieren und übernehmen <br>
-Kunde: neuer Kunde anlegen <br>
-Vertrag: Vertragsdaten  <br>
-Konto: Konto übernehmen oder neu anlegen <br>
-Dokumente: Grunddaten und Aufkleber angeben</p>
+<table>
+<thead>
+<tr>
+  <th>Eingabemasken</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td>Vertrags-Nr.</td>
+</tr>
+<tr>
+  <td>Kunde suche</td>
+</tr>
+<tr>
+  <td>Kunde</td>
+</tr>
+<tr>
+  <td>Vertrag</td>
+</tr>
+<tr>
+  <td>Konto</td>
+</tr>
+<tr>
+  <td>Dokumente</td>
+</tr>
+</tbody></table>
+
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443000322630.png" alt="" title=""></p>
 
-<p>Druckt Barcode-Aufkleber zur Registrierung eines Dokumentes.</p>
+<p>Speichern Sie dann Ihre Eingaben über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1443019951326.png" alt="" title="">.  <br>
+Falls in der Feldgruppe <em>Aufkleber</em> ein Checkbox markiert würde, dann wird durch die Betätigung der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1443019964944.png" alt="" title="">, der Barcode-Aufkleber zur Registrierung des Dokumentes gedruckt.</p>
 
 <p>Über die Schaltfläche: <em>vorerfasste Daten nutzen</em> werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern.</p>
 
-<p>Über die Schaltfläche: <em>Auftrag/Vertrag nur scannen</em>, wird der Vertrag eingescannt, dafür brauchen sie installierte Webcam.</p>
+<p>Über die Schaltfläche: <em>Auftrag/Vertrag nur scannen</em>, können Sie einen Vertrag eingescannen, dafür brauchen sie eine installierte Webcam.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443000902734.png" alt="" title=""></p>
 
