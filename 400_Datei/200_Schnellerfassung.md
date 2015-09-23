@@ -1,25 +1,38 @@
-Der Dialog *Schnellerfassung* wird eingesetzt um eine größe Menge an Stammdaten zu erfassen. Sind die zu erfassende Daten ähnlich so kann mit Hilfe der Schnellerfassung an Aufwand gespart.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>200_Schnellerfassung.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Der Dialog <em>Schnellerfassung</em> wird eingesetzt um eine große Menge an Stammdaten zu erfassen. Sind die zu erfassende Daten ähnlich so kann mit Hilfe der Schnellerfassung an Aufwand gespart.</p>
 
-Über die Schaltflächen *Daten manuell erfassen* und *vorerfasste Daten nutzen*, durchläuft der Dialog 6 Masken.
+<p>Der Dialog Schnellerfassung wird erreicht über <em>Datei → Schnellerfassung</em> oder Symbol-und Funktionsleiste <img src="http://xpecto.github.io/docs/img/img_1442999858597.png" alt="" title="">, und dient der schnelle Eingabe von Datenmengen, die am häufigsten verwendet werden. <br>
+Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1443018152604.png" alt="" title="">, um mit der manuellen Eingabe zu starten.</p>
 
-Klicken Sie auf die Schaltfläche um die manuelle Eingabe zu starten.
+<p><img src="http://xpecto.github.io/docs/img/img_1442999939016.png" alt="" title=""></p>
 
-Der Dialog Schnellerfassung wird erreicht über *Datei → Schnellerfassung* oder Symbol-und Funktionsleiste ![](http://xpecto.github.io/docs/img/img_1442999858597.png), und dient der schnelle Bearbeitung von Daten die am häufigsten verwendet werden.
+<p>Der Dialog ist aus folgenden Eingabemasken zusammengesetzt:  <br>
+Vertrags-Nr.: hier wird die Vertrags-Nummer vorgeschlagen <br>
+Kunde suche: mit Doppelklick Kunde markieren und übernehmen <br>
+Kunde: neuer Kunde anlegen <br>
+Vertrag: Vertragsdaten  <br>
+Konto: Konto übernehmen oder neu anlegen <br>
+Dokumente: Grunddaten und Aufkleber angeben</p>
 
-![](http://xpecto.github.io/docs/img/img_1442999939016.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1443000322630.png" alt="" title=""></p>
 
-Schaltfläche *Daten manuell erfassen*
+<p>Druckt Barcode-Aufkleber zur Registrierung eines Dokumentes.</p>
 
-![](http://xpecto.github.io/docs/img/img_1443000322630.png)
+<p>Über die Schaltfläche: <em>vorerfasste Daten nutzen</em> werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern.</p>
 
-Druckt Barcode-Aufkleber zur Registrierung eines Dokumentes.
+<p>Über die Schaltfläche: <em>Auftrag/Vertrag nur scannen</em>, wird der Vertrag eingescannt, dafür brauchen sie installierte Webcam.</p>
 
-Über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier nur die Daten auf Ihre Richtigkeit zu überprüfen und dann zu Speichern.
+<p><img src="http://xpecto.github.io/docs/img/img_1443000902734.png" alt="" title=""></p>
 
-Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, wird der Vertrag eingescannt, dafür brauchen sie installierte Webcam.
+<p>Über die Schaltfläche als Standard speichern werden die Einstellungen für den Aufkleber gespeichert. Diese können dann für alle weitere Eingaben von Daten als Standard angezeigt..</p>
 
-![](http://xpecto.github.io/docs/img/img_1443000902734.png)
-
-Über die Schaltfläche als Standard speichern werden die Einstellungen für den Aufkleber gespeichert. Diese können dann für alle weitere Eingaben von Daten als Standard angezeigt..
-
-Große Datenmengen für eine ganze Reihe von Mitarbeitern zu verarbeiten, kann ein zeitintensiver Prozeß sein. Sind die für die einzelnen Mitarbeiter zu erfassenden Informationen ähnlich, so ist es möglich, den Arbeitsaufwand durch die Verwendung der Schnellerfassungsfunktionalität zu reduzieren.
+<p>Große Datenmengen für eine ganze Reihe von Mitarbeitern zu verarbeiten, kann ein zeitintensiver Prozeß sein. Sind die für die einzelnen Mitarbeiter zu erfassenden Informationen ähnlich, so ist es möglich, den Arbeitsaufwand durch die Verwendung der Schnellerfassungsfunktionalität zu reduzieren.</p></div></body>
+</html>
