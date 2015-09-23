@@ -28,7 +28,7 @@ Um eine neue Veranstaltung anzulegen wählen Sie im Menü <em>Datei → Neu → 
 <p>In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend mit 840 wohnen und einen angenommener Vertrag haben. <br>
 <img src="http://xpecto.github.io/docs/img/img_1430841532256.png" alt="" title=""></p>
 
-<p>Danach klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1432891106020.png" alt="" title=""> um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter <em>Teilnehmer</em>.</p>
+<p>Danach klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1432891106020.png" alt="" title="">, in der Feldgruppe <em>Veranstaltung vorbereiten</em>, um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter <em>Teilnehmer</em>. Um die Teilnehmer einzel einzufügen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1443010395863.png" alt="" title="">.</p>
 
 <p>Dann erstellen Sie noch die Einladungsschreiben (siehe <em>Extras → Anpassen → Berichte und Adressmuster</em>). <br>
 Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe <em>Massendruck</em> Einladungen zu drucken oder Stimmzettel zu drucken.</p>
