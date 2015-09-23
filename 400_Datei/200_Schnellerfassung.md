@@ -48,7 +48,7 @@ Falls in der Feldgruppe <em>Aufkleber</em> ein Checkbox markiert würde, dann wi
 
 <p>Über die Schaltfläche: <em>vorerfasste Daten nutzen</em> werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern.</p>
 
-<p>Über die Schaltfläche: <em>Auftrag/Vertrag nur scannen</em>, können Sie einen Vertrag eingescannen, dafür brauchen sie eine installierte Webcam.</p>
+<p>Über die Schaltfläche: <em>Auftrag/Vertrag nur scannen</em>, können Sie einen Vertrag einscannen, dafür brauchen sie eine installierte Webcam.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443000902734.png" alt="" title=""></p>
 
