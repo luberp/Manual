@@ -16,7 +16,7 @@ Druckt Barcode-Aufkleber zur Registrierung eines Dokumentes.
 
 Über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier nur die Daten auf Ihre Richtigkeit zu überprüfen und dann zu Speichern.
 
-Schaltfläche: *Auftrag/Vertrag nur scannen*
+Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, wird der Vertrag eingescannt, dafür brauchen sie installierte Webcam.
 
 ![](http://xpecto.github.io/docs/img/img_1443000902734.png)
 
