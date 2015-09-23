@@ -63,7 +63,7 @@ Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eing
 
 <p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: <em>Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.</em> </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442997048960.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1442997229269.png" alt="" title=""></p>
 
 <p>Beispiel: Sie haben einen Telefonat wegen einen Vertrag durchgeführt. <br>
 Wählen Sie dazu die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438331776248.png" alt="" title="">.</p>
@@ -76,5 +76,7 @@ Wählen Sie dazu die Schaltfläche<img src="http://xpecto.github.io/docs/img/img
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438331969372.png" alt="" title=""></p>
 
-<p>Durch eine Klick auf die  <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p></div></body>
+<p>Durch eine Klick auf die  <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
+
+<p>Unter dem Reiter <em>Beschwerdenbuch</em> können die Beschwerden von  Kunden eingetragen werden.</p></div></body>
 </html>
