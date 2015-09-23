@@ -28,7 +28,6 @@ Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfl
 
 Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie zur Hauptdialog zurück, durch Schließen der *Kampagnen und Massendruck* - Dialog.
 
-
 Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen.
 Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe Stimmabgabe, eröffnet sich die Maske *Teilnehmer Veranstaltungen*. 
 
