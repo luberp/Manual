@@ -1,1 +1,0 @@
-Für in xpectoPro durchgeführte Abrechnungen können Belege mit lückenlos fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. Dies geschieht beim Drucken der Abrechnungsbelege auf den jeweiligen Berechnungs-Dialogen im Menü Berechnungen. Diese Belege können im Menü unter *Bearbeiten→ Belege* verwalten nochmals ausgedruckt werden.
