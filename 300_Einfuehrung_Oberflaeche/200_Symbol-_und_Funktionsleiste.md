@@ -1,6 +1,6 @@
 Die Symbol- und Funktionsleiste besteht aus folgende Elemente:
 
-|  Schaltfläche            |    Beschreibung     |  
+|  Symbol           |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| 
 | ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| 
