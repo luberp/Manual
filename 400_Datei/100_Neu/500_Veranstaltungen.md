@@ -3,7 +3,7 @@ Hierbei können Vollmachten, Anwesenheit, Bevollmächtigung, Abstimmungen zu ein
 
 Als Stimmbasis gelten: *Ja, Nein, Enthalten, Ungültig, ohne Weisung*.
 
-![](http://xpecto.github.io/docs/img/img_1430841673284.png)
+![](http://xpecto.github.io/docs/img/img_1443008473095.png)
 
 Nehmen wir an Sie wollen eine neue Gesellschafsversammlung anlegen. 
 Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie in der Symbol-und Funktionsleiste auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1429027370695.png). 
@@ -19,12 +19,15 @@ In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend
 Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png) um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter *Teilnehmer*.
 
 Dann erstellen Sie noch die Einladungsschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*).
-Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe Massendruck Einladungen zu drucken oder Stimmzettel zu drucken.
+Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe *Massendruck* Einladungen zu drucken oder Stimmzettel zu drucken.
 
 Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433144034768.png). 
-Über *Einladungen drucken* wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz  versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. 
+Über *Einladungen drucken* wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz  versendet und bei Bedarf im Dokumenten-Archiv hinterlegt.  Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht, der Drucker und das Checkbox *Berichte archiviert* markiert sein.
 
-![](http://xpecto.github.io/docs/img/img_1432885282511.png)
+![](http://xpecto.github.io/docs/img/img_1443009039857.png)
+
+Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie zur Hauptdialog zurück, durch Schließen der *Kampagnen und Massendruck* - Dialog.
+
 
 Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen.
 Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe Stimmabgabe, eröffnet sich die Maske *Teilnehmer Veranstaltungen*. 
