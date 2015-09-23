@@ -14,32 +14,16 @@ Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img
 
 <p><img src="http://xpecto.github.io/docs/img/img_1442999939016.png" alt="" title=""></p>
 
-<table>
-<thead>
-<tr>
-  <th>Eingabemasken</th>
-</tr>
-</thead>
-<tbody><tr>
-  <td>Vertrags-Nr.</td>
-</tr>
-<tr>
-  <td>Kunde suche</td>
-</tr>
-<tr>
-  <td>Kunde</td>
-</tr>
-<tr>
-  <td>Vertrag</td>
-</tr>
-<tr>
-  <td>Konto</td>
-</tr>
-<tr>
-  <td>Dokumente</td>
-</tr>
-</tbody></table>
+<p>Eingabemasken:   </p>
 
+<ul>
+<li>Vertrags-Nr.         </li>
+<li>Kunde suche </li>
+<li>Kunde </li>
+<li>Vertrag</li>
+<li>Konto </li>
+<li>Dokumente</li>
+</ul>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443000322630.png" alt="" title=""></p>
 
