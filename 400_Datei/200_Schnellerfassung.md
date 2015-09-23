@@ -1,4 +1,4 @@
-Der Dialog Schnellerfassung wird erreicht über *Datei → Schnellerfassung* oder Symbol-und Funktionsleiste ![](http://xpecto.github.io/docs/img/img_1442999858597.png), und dient der schnelle Bearbeitung von große Datenmenge.
+Der Dialog Schnellerfassung wird erreicht über *Datei → Schnellerfassung* oder Symbol-und Funktionsleiste ![](http://xpecto.github.io/docs/img/img_1442999858597.png), und dient der schnelle Bearbeitung von Daten die am häufigsten verwendet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1442999939016.png)
 
