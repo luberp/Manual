@@ -45,18 +45,16 @@ Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teiln
 
 ![](http://xpecto.github.io/docs/img/img_1439205986640.png)
 
-Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426499792252.png).  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439206980898.png). Speichern Sie Ihre neuen Teilnehmer mit ![](http://xpecto.github.io/docs/img/img_1439207060262.png) betätigen oder durch die Tastenkombination *Strg + S.*
+Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die das Symbol ![](http://xpecto.github.io/docs/img/img_1426499792252.png).  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439206980898.png). Speichern Sie Ihre neuen Teilnehmer mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1439207060262.png) oder durch die Tastenkombination *Strg + S.*
 
 Unter dem Reiter *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
-
-Um ein neuer Bevollmächtigter einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439208928813.png) - *neuen Datensatz hinzufügen*  oder die Tastenkombination *Strg + N*.
-Tippen Sie in das Eingabefeld Person der Name. Falls der Name nicht angezeigt wird klicken Sie auf die Schaltfläche neben das Eingabefeld ![](http://xpecto.github.io/docs/img/img_1439210074824.png). Hier wird dann der Dialog *Adressen* aufgemacht. Um Ihre Suche zu erweitern klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439209854957.png).
+Um ein neuer Bevollmächtigter einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439208928813.png) - *neuen Datensatz hinzufügen*  oder die Tastenkombination *Strg + N*. Geben Sie in das Eingabefeld *Person* der Name der einzufügende Person, ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld ![](http://xpecto.github.io/docs/img/img_1439210074824.png). Hier wird dann der Suchdialog *Adressen* aufgemacht (*siehe Bearbeiten → Erweiterte Suche*). 
 
 ![](http://xpecto.github.io/docs/img/img_1439210969105.png)
 
-Hier können Sie nach eine bestimmte Person suchen, und falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz ![](http://xpecto.github.io/docs/img/img_1439209764662.png) angelegt werden.
-
-Durch einen  Doppelklick auf die Person wird sie in das Eingabefeld eingefügt. 
+Hier können Sie nach eine bestimmte Person suchen, und durch einen Doppelklick einfügen.  
+Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz über das Symbol![](http://xpecto.github.io/docs/img/img_1439209764662.png) in dem Suchdialog, angelegt werden.
 
 Verwenden Sie letzte Schritte um einen neuen Bevollmächtigter einzufügen.
 Speichern Sie Ihre neue Einstellungen mit ![](http://xpecto.github.io/docs/img/img_1439207060262.png) betätigen oder durch die Tastenkombination *Strg + S.*
+
