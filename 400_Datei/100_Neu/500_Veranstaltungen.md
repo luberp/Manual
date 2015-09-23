@@ -38,17 +38,17 @@ Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe <em>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443009039857.png" alt="" title=""></p>
 
-<p>Starten Sie die Kampagne über die Schaltfläche <em>Start</em>. Nun kehren Sie zur Hauptdialog zurück, durch Schließen der <em>Kampagnen und Massendruck</em> - Dialog.</p>
+<p>Starten Sie die Kampagne über die Schaltfläche <em>Start</em>. Nun kehren Sie zum Hauptdialog zurück, durch Schließen der <em>Kampagnen und Massendruck</em> - Dialog.</p>
 
 <p>Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1433146421500.png" alt="" title=""> in der Feldgruppe <em>Stimmabgabe</em>, eröffnet sich die Maske für die Veranstaltung. </p>
 
-<p>Der Ansicht: <em>Veranstaltungs-Teilnehmer</em> beinhaltet die Liste der Teilnehmer, und für jeder Teilnehmer gibt mehrere Optionen um die Rückmeldung zu erfassen. Diese Optionen werden unter den Reiter folgende Reiter: <em>Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import</em> zur Verfügung .</p>
+<p>Der Ansicht: <em>Veranstaltungs-Teilnehmer</em> beinhaltet die Liste der Teilnehmer, und für jeder Teilnehmer gibt mehrere Optionen um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: <em>Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import</em>.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443012682876.png" alt="" title=""></p>
 
 <p>Der Ansicht <em>Scandialog</em> dient dazu um die Stimmzettel abzulegen.   </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443012742501.png" alt="" title=""></p>
+<p>Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zum Hauptdialog.</p>
 
 <p>Unter dem Reiter <em>Teilnehmer</em> können zu den schon automatisch eingefügte Teilnehmer, neue Teilnehmer angelegt und individuell verwaltet werden.</p>
 
