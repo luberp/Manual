@@ -43,11 +43,9 @@ Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zum Haupt
 										 									 
 Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teilnehmer, neue Teilnehmer angelegt und individuell verwaltet werden.
 
-![](http://xpecto.github.io/docs/img/img_1439205986640.png)
-
 Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* auf die das Symbol ![](http://xpecto.github.io/docs/img/img_1426499792252.png).  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439206980898.png). Speichern Sie Ihre neuen Teilnehmer mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1439207060262.png) oder durch die Tastenkombination *Strg + S.*
 
-Unter dem Reiter *Bevollmächtigte* können die bevollmächtigte Personen angelegt und individuell verwaltet werden.
+Unter dem Reiter *Bevollmächtigte* können die stellvertretende Personen angelegt, und individuell verwaltet werden.
 Um ein neuer Bevollmächtigter einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439208928813.png) - *neuen Datensatz hinzufügen*  oder die Tastenkombination *Strg + N*. Geben Sie in das Eingabefeld *Person* der Name der einzufügende Person, ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld ![](http://xpecto.github.io/docs/img/img_1439210074824.png). Hier wird dann der Suchdialog *Adressen* aufgemacht (*siehe Bearbeiten → Erweiterte Suche*). 
 
 ![](http://xpecto.github.io/docs/img/img_1439210969105.png)
