@@ -78,5 +78,6 @@ Wählen Sie dazu die Schaltfläche<img src="http://xpecto.github.io/docs/img/img
 
 <p>Durch eine Klick auf die  <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
 
-<p>Unter dem Reiter <em>Beschwerdenbuch</em> können die Beschwerden von  Kunden eingetragen werden.</p></div></body>
+<p>Unter dem Reiter <em>Beschwerdenbuch</em> können die Beschwerden von  Kunden eingetragen werden. <br>
+Der Reiter <em>Anlageerfahrung</em>  enthält zusätzliche Daten die der Kunde betreffen. Anhand dieser Daten wird dann eine Risikobewertung durchgeführt, und dem Kunde wird eine Risikoklasse zugeordnet.</p></div></body>
 </html>
