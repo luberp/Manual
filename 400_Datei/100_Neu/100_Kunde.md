@@ -14,7 +14,7 @@ Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie 
 Auf der linke Seite oben in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse, Beschwerdebuch, Anlageerfahrung*.
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. 
-Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. 
+Das Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. 
 
 Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen. Kontoverbindung Daten werden nach SEPA-Verordnung automatisch validiert und überprüft.  
 
