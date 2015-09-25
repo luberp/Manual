@@ -65,4 +65,4 @@ In dem Dialog *xpectoPro Berichte und Textbausteine* über die Symbolleiste, kan
 
 *Textbausteine* sind Textsegmente, die in einen individuellen Schreiben eingebaut werden können. 
 
-*Individuelle Schreiben* können Dokument die aus Texbausteine und statische Elemente gebaut werden können.
+*Individuelle Schreiben* können Dokument die aus Textbausteine und statische Elemente gebaut werden können.
