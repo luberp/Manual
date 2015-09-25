@@ -51,7 +51,7 @@ Mit den Optionen unter der Feldgruppe *Allgemeiner Bericht* kann festgelegt werd
 
  Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. 
 
-Die Optionen unter *Beleg* geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
+Die Optionen unter der Feldgruppe *Beleg* geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
 
  Die Optionen unter *Spezieller Bericht* haben keine direkte Auswirkung, sie sind für weitere geplante Funktionen vorgesehen. Wenn z.B. Verteiler für Kampagnen ausgewählt ist, dann wird der Bericht in der Kampagnen unter Feldgruppe *Datenquelle wählen* zu Auswahl stehen.
 
