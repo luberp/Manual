@@ -69,8 +69,8 @@ Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt we
 
 <p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: <em>Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.</em> </p>
 
-<p>Beispiel: Sie haben einen Telefonat wegen einem Vertrag durchgeführt. <br>
-Wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1438331776248.png" alt="" title="">.</p>
+<p>Beispiel: Sie haben einen Telefonat wegen einem Vertrag durchgeführt. Markieren Sie den Vertrag und <br>
+wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1443175241487.png" alt="" title="">.</p>
 
 <p>Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei. </p>
 
