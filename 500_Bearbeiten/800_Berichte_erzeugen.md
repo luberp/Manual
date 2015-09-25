@@ -1,6 +1,6 @@
 Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. Unter *Bericht erzeugen* wird ein neuer Bericht generiert. 
 
-Über den Menüpunkt  *Bearbeiten → Berichte erzeugen* , über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) oder direkt in das Hauptfenster (siehe unten Favoriten), wird  die *Berichterstellung* Fenster aufgerufen. 
+Über den Menüpunkt  *Bearbeiten → Berichte erzeugen*, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) oder direkt in das Hauptfenster (siehe unten Favoriten), wird  die *Berichterstellung* Fenster aufgerufen. 
 
 Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden die dazu passende Berichte vorgeschlagen. 
 
@@ -15,7 +15,6 @@ Wenn die Felder ausgefüllt sind dann drücken Sie auf die Schaltfläche ![](htt
 |![](http://xpecto.github.io/docs/img/img_1439381119609.png) |Dokumente archivieren ein/aus|
 |![](http://xpecto.github.io/docs/img/img_1439381347699.png)  |Bericht bearbeiten. Es kann eine neue Vorlage generiert und bearbeitet werden.|
 |![](http://xpecto.github.io/docs/img/img_1439381384906.png)| Filter Fields IDs|
-
 
 Sie können jeden Bericht, den Sie erstellt haben, ganz einfach im Editor bearbeiten und
 verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
