@@ -66,4 +66,4 @@ Beispiel: Bericht Kontoauszug.
 In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
-Unter *Drittrechte* stehen die Ansprüche eines Dritten auf dem Vertrag. 
+Unter *Drittrechte* können die Ansprüche eines Dritten auf dem Vertrag, erfasst werden. 
