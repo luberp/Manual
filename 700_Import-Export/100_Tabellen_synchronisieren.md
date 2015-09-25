@@ -4,4 +4,4 @@ Welche Tabellen Sie synchronisieren wollen, kann durch die Optionen die den Filt
 
 ![](http://xpecto.github.io/docs/img/img_1421748051531.png).
 
-Dazu kann ein Profil angelegt werden, wenn Sie z.B. nur die Tabellen die einen Produkt betreffen, synchronisieren wollen.
+Dazu kann ein Profil angelegt werden, wenn Sie z.B. nur die Tabellen die einProdukt betreffen, synchronisieren wollen.
