@@ -2,5 +2,4 @@ xpectoPro kann aus jeder Anwendung heraus beendet werden. Wählen Sie dafür den
 
 ![](http://xpecto.github.io/docs/img/img_1431523498011.png)
 
-
 ![](http://xpecto.github.io/docs/img/img_1431936241832.png) Sie sollten immer vor dem Verlassen des Programs bzw. Ihrer Anwendung Ihre Daten sichern.
