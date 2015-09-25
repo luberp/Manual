@@ -21,7 +21,7 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrag
 | Bericht Art           |    Beschreibung     |  
 | ------------- |:-------------| 
 | Microsoft Word      | Word-Bericht| 
-| integrierter Berichtsgenerator  |ActiveReports: sind Komponenten für Forms- und Webanwendungen, um Daten in Dokumente und in web basierte Formate anzuzeigen.| 
+| integrierter Berichtsgenerator  |ActiveReports:  webbasierter Format| 
 | Datenexport     | Excel-Bericht in Tabellenform | 
 | HTML Mail    | HTML Format | 
 | PDF Formular     | PDF Format | 
