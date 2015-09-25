@@ -16,8 +16,7 @@ Auf der linke Seite oben in der Eingabemaske stehen die Reiter *Allgemein, Adres
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, die eigentliche Stammdaten des ausgewählten Kunde sind, sonstige Daten und die Web-Portal Daten. 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Das Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. 
 
-
-Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
+Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen. Kontoverbindung Daten werden nach SEPA-Verordnung automatisch validiert und überprüft.  
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
@@ -53,7 +52,7 @@ Der Unterkarteireiter *Auslands-Steuer* ist relevant, wenn der Kunde Steuer im A
 
 Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.
 
-Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
+Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten. Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
 
 ![](http://xpecto.github.io/docs/img/img_1442997229269.png)
 
