@@ -27,7 +27,7 @@ Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten die Sie hier �
 Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu einer anderen Person anlegen oder eine neue Adresse für die markierte Person hinzufügen. 
 Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf das Symbol:  ![](http://xpecto.github.io/docs/img/img046.png). 
 
-In dem Dialog *Person oder Anschrift* kann eine neue Verknüpfung oder eine neue Anschrift erstellt werden. Als zweite Möglichkeit kann die Rolle als eine neue Anschrift ohne weitere Funktionen eingefügt. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. 
+In dem Dialog *Person oder Anschrift* kann eine neue Verknüpfung oder eine neue Anschrift erstellt werden. Als zweite Möglichkeit kann die Rolle als eine neue Anschrift ohne weitere Funktionen eingefügt werden. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. 
 
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
