@@ -6,7 +6,7 @@ Die Eingabemaske enthält folgende Reiter: *Allgemein, Rollen, Kontoverbindungen
 
 ![](http://xpecto.github.io/docs/img/img_1438773575377.png)
 
-Unter dem Reiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können, sonstige Daten und die Web-Portal Daten. 
+Der Reiter *Allgemein* beinhaltet die Stammdaten die Sie hier ändern können, sonstige Daten und die Web-Portal Daten. 
 Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein.  Die Informationsplattform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
 
 Der Reiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen.                                                       . 
