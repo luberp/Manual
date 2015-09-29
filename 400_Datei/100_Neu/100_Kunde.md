@@ -16,7 +16,7 @@ Auf der linke Seite oben in der Eingabemaske stehen die Reiter *Allgemein, Adres
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, sonstige Daten und die Web-Portal Daten. 
 Das Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Die Informationsportale können von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen der  Portalen, die Anmeldedaten und den Zugriff auf Content. 
 
-Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung sowie Steuerdaten anlegen. Kontoverbindung Daten werden nach SEPA-Verordnung automatisch validiert und überprüft.  
+Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung sowie Steuerdaten anlegen. Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch validiert und überprüft.  
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
