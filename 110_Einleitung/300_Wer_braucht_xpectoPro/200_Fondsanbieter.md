@@ -4,4 +4,4 @@ Die Fondsverwaltung besteht in der Regel aus zwei unterschiedlichen Bereichen, d
 
 Die Verwaltung von Anlegern, Verträgen und Kontobewegungen sind die zentralen Funktionen des Funktionsbereichs Fondsverwaltung. Begrüßungsschreiben, Kontoauszüge und steuerliche Ergebnisverteilung werden ohne aufwändige Tipparbeit per Knopfdruck erstellt. Das Layout der Schreiben ist über einen Editor frei anpassbar.
 
-Die Verbuchung der Zahlungseingänge sowie der Zahlungsausgänge ist ein sehr arbeitsintensiver Bereich. Durch die integrierte Lösung werden viele Routineaufgaben sehr beschleunigt und die Aufgaben der Verwaltung vereinfacht. 
+Die Verbuchung der Zahlungseingänge sowie der Zahlungsausgänge ist ein sehr arbeitsintensiver Bereich. Durch die integrierte Lösung werden viele Routineaufgaben beschleunigt und die Aufgaben der Verwaltung vereinfacht. 
