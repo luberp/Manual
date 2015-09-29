@@ -70,7 +70,7 @@ Auf dem Reiter *Ereignisse* können die Ereignisse die dem aktuell ausgewählten
 
 ![](http://xpecto.github.io/docs/img/img_1443176299286.png)
 
-In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden
+In dem Reiter *Belege* können Belegarten und z.B. Provisionsbelege angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
 ![](http://xpecto.github.io/docs/img/img_1438594583641.png)
 
