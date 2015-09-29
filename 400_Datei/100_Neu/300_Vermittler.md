@@ -62,15 +62,15 @@ Bei den in xpectoPro verwalteten Vertriebsgesellschaften handelt es sich in der 
 ![](http://xpecto.github.io/docs/img/img_1438602553303.png)
 
 In der Vermittleransicht auf dem Reiter *Buchungen* werden die kumulierte Buchungen zu dem aktuell ausgewählten Vermittler, verwaltet.
-Vermittler-Buchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum, einen Betrag und eine Zahlfirma definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung. Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf ![](http://xpecto.github.io/docs/img/img046.png), wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
+Vermittlerbuchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum, einen Betrag und eine Zahlfirma definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung. Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf ![](http://xpecto.github.io/docs/img/img046.png), wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
 
 ![](http://xpecto.github.io/docs/img/img_1438593920330.png)
 
-Auf dem Reiter *Ereignisse* können die Ereignisse die dem aktuell ausgewählten Vermittler betreffen, festgehalten. Um ein Ereignis anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443176427714.png). Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+Auf dem Reiter *Ereignisse* können die Ereignisse die den aktuell ausgewählten Vermittler betreffen, festgehalten. Um ein Ereignis anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443176427714.png). Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
 ![](http://xpecto.github.io/docs/img/img_1443176299286.png)
 
-In dem Reiter *Belege* können Belegarten z.B. Provisionsbelege angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
+In dem Reiter *Belege* können Belegarten wie z.B. Provisionsbelege angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
 ![](http://xpecto.github.io/docs/img/img_1438594583641.png)
 
