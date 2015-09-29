@@ -1,6 +1,6 @@
 Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung und befindet sich in der Hauptfenster unten links. Mit Hilfe von Wiedervorlagen können sich einzelne Benutzer oder Arbeitsgruppen bestimmte Aufgaben merken und strukturiert abarbeiten.
 
-Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu dieser Aufgabe anbieten.  In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. 
+Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu dieser Aufgabe anbieten. In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. 
 
 Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
 
