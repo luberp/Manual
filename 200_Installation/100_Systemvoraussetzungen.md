@@ -1,5 +1,5 @@
-Betriebssystem:
-Microsoft Windows 7/ 8 / 8.1 / 10
+Betriebssystem: Microsoft Windows 7/ 8 / 8.1 / 10
+Platform: .NET Framework 4.0 
 
 Hardware:
 
