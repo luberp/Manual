@@ -15,11 +15,11 @@ In dem darauf folgenden Dialog bestimmen Sie, ob eine neue Verknüpfung oder ein
                                                                                                                                        
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich der folgende Maske:
+Falls Sie eine Verknüpfung hinzufügen möchten, es öffnet sich der folgende Maske:
 
 ![](http://xpecto.github.io/docs/img/img_1438775743467.png)
 
-Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es eröffnet sich hier das Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
+Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es öffnet sich hier der Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
 
 In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als  eine neue Anschrift ohne weitere Funktionen einzufügen. 
 
