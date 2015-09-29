@@ -1,4 +1,4 @@
-Nachfolgend wird die Eingabemaske mit ihre Bestandteile vorgestellt. Die Eingabemaske befindet sich in der Mitte der Benutzeroberfläche. Jedes Element im Baum enthält  die entsprechende Eingabemaske auf der rechte Seite.
+Nachfolgend wird die Eingabemaske mit ihren Bestandteilen vorgestellt. Die Eingabemaske befindet sich in der Mitte der Benutzeroberfläche. Jedes Navigations-Element im Baum enthält  die entsprechende Eingabemaske auf der rechte Seite.
 Die Eingabemaske für das erste Element im Baum, erreichen Sie nach dem erfolgreichen Starten von xpectoPro. 
 
 Jedes Navigation-Element in xpectoPro enthält seine eigene Eingabemaske. Die Eigabemaske besteht in der Regel aus mehrere Reiter, die der Übersicht dienen. Jeder Reiter wird in mehrere Feldgruppen unterteilt. Diese Feldgruppen enthalten mehrere Eingabefelder, die mit Daten befüllt werden.
