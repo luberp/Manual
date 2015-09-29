@@ -1,10 +1,11 @@
-Ein Vermittler kann ein Verkäufer, Mitarbeiter oder Betreuer sein. Um einen neuen Vermittler anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431437056167.png) oder das Menü *Datei → Neu → Vermittler*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.  Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben bestätigen Sie mit *OK*. 
+Eine der wesentliche Aufgabe im Vertrieb ist der Verkauf von Produkte und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Position, Branche, Firma unterschiedlich. Wie die Provisionierung und die Provisionierung Methoden in xpectoPro umgesetzt wurden sehen Sie unten.
+Um einen neuen Vermittler anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431437056167.png) oder das Menü *Datei → Neu → Vermittler*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben bestätigen Sie mit *OK*. 
 
 Unter dem Reiter *Allgemein* sehen Sie eine Übersicht von Meldedaten. Die eigentliche Stammdaten des ausgewählten Vermittler, sonstige Daten sowie die Web-Portal Daten. 
 
 Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* und dienen der Anmeldung des Vermittlers am xpecto Webportal. 
-Der Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Die Informationsplatform kann von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals, die Anmeldedaten und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
-Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch frei geschalten.
+Das Web-Portal kann ein Vermittlerinformationsportal sein. Das Informationsportal kann vom xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
+Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch frei geschalten oder gesperrt werden.
 
 In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten).
 
