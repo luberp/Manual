@@ -20,11 +20,11 @@ Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank-
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
 
 ![](http://xpecto.github.io/docs/img/img_1442994364866.png)
 
-Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die markierte Person hinzufügen. 
+Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu einer anderen Person anlegen oder eine neue Adresse für die markierte Person hinzufügen. 
 Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf das Symbol:  ![](http://xpecto.github.io/docs/img/img046.png). 
 
 In dem Dialog *Person oder Anschrift* kann eine neue Verknüpfung, oder einen neuen Anschrift erstellt werden. Als zweite Möglichkeit kann die Rolle als eine neue Anschrift ohne weitere Funktionen eingefügt. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. 
