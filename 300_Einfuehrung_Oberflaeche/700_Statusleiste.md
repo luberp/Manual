@@ -4,7 +4,7 @@ Die Statusleiste ist die unterste Zeile im xpectoPro Oberfläche. Sie erfüllt d
  - Rechts: Bekanntgabe von Systemmeldungen (Fehlermeldungen)
  - Tracer 
 
-Der Tacer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer kann gestartet werden durch einen Doppelklick auf die Statusleiste. 
+Der Tracer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer kann gestartet werden durch einen Doppelklick auf die Statusleiste. 
 
 ![](http://xpecto.github.io/docs/img/img_1430151481175.png)
 
