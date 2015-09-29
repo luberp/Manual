@@ -5,5 +5,5 @@ Die Verwaltung muss alle Fäden in der Hand haben und die Verteilung der Provisi
 
 Der Kontakt mit Ihren Kunden und Vertriebsmitarbeitern oder Partnern ist sehr wichtig. Jede Information über Probleme und Absprachen sollte zentral verfügbar sein. So spricht Ihre Firma mit nur "einer" Stimme. 
 Problemkunden können so besser behandelt werden und falsche Auskünfte gehören dann der Vergangenheit an.
-xpectoPro ist in der Lage, für jeden Kunden und Mitarbeiter eine Historie zu speichern. So ist der aktuelle Stand für jeden einsehbar. Erst so wird eine qualifizierte Kunden- und Mitarbeiterführung möglich.
+xpectoPro ist in der Lage, für jeden Kunden und Mitarbeiter eine Historie zu speichern. So ist der aktuelle Stand für jeden einsehbar. 
 
