@@ -73,7 +73,7 @@ Durch eine Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_
 
 ![](http://xpecto.github.io/docs/img/img_1443173024837.png)
 
-In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden.
+In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden.
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
 Unter *Drittrechte* können die Ansprüche eines Dritten auf dem Vertrag, erfasst werden. 
