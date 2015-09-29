@@ -58,10 +58,6 @@ Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf de
 
 Der Reiter *Struktur* zeigt die über die Provisionssätze bzw. für das Feld Führung definierte Vermittlerstruktur-/hierarchie an.
 Bei den in xpectoPro verwalteten Vertriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumstruktur organisiert sind. Häufig werben bestehende Vermittler weitere Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden.
-In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers. Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems (siehe unten). 
- 
-Definition des Vermittler-Strukturbaums: bei den Vermittlern muss die untere Struktur-Betreuer-Nummer jeweils der dem ausgewählten Vermittler direkt übergeordnete Vermittler eingetragen werden. Sind bei einem Vermittler mehrere Provisionssätze eingetragen (z.B. für verschiedene Produkte), wird typischerweise in allen Provisionssätze derselbe übergeordnete Vermittler gewählt (es sei denn für verschiedene Produkte  oder Provisionstypen sollen unterschiedliche Vermittler-Strukturen definiert werden). 
-Struktur-Betreuer-Nummer ist ein Pflichtfeld, beim Strukturkopf (oberster Vermittler des Strukturbaums) wird als übergeordneter Vermittler seine eigene Vermittler-Nr. eingetragen. Bis auf diesen Sonderfall, sind Zirkelbezüge unzulässig. 
 
 ![](http://xpecto.github.io/docs/img/img_1438602553303.png)
 
