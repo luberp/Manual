@@ -74,24 +74,24 @@ In dem Reiter *Belege* können Belegarten wie z.B. Provisionsbelege angelegt wer
 
 ![](http://xpecto.github.io/docs/img/img_1438594583641.png)
 
-Der Reiter *Umsätze* zeigt die Summe aller Einnahmen die durch abschließen eines Vertrages  entstanden sind. Diese Umsätze werden nach Karriere-System (siehe unten) angezeigt.
+Der Reiter *Umsätze* zeigt die Summe aller Einnahmen die durch abschließen eines Vertrages  entstanden sind. Diese Umsätze werden zu Vermittler und/oder Karriere-System angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1438764896853.png)
 
-Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
-Unter dem Unterkarteireiter *Links* haben Sie Zugang zu Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
-Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die Kunden und die Struktur des Vermittlers auf der Karte zu sehen.
+Der Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
+Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
+Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit geographische Verteilung der Kunden und Vermittler auf der Karte zu sehen.
 
 **Provisionierung** 
 
-Bei den in xpectoPro verwaltete Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
+Bei den in xpectoPro verwalteten Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
 In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers.
-Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nach dem, welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise.
+Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nach dem welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise.
 Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
 
 **Provisionierung Methoden**
 
-**individuelle Provisionen - die flexible Methode** Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen, und legen die Höhe der Provisionen fest. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif. Die Provisionsmodelle sind der wichtigste Bestandteile bei der Provisionsabrechnung.
+**individuelle Provisionen - die flexible Methode** Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler im dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif (optional). Die Provisionsmodelle sind der wichtigste Bestandteile bei der Provisionsabrechnung.
      
  **Karriere-System - die einfache Methode (Default)** Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über der die Firmen, Produkte und Gesellschaften verwaltet werden. Die Pflege über die Karrierestufen ermöglicht dabei eine einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. 
  
