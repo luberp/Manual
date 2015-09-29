@@ -13,11 +13,11 @@ In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt. Die Karrierestu
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer*.
 
-Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen.  Kontoverbindung Daten werden nach  SEPA-Verordnung automatisch validiert und überprüft.  
+Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen.  Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch überprüft.  
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
 
 ![](http://xpecto.github.io/docs/img/img_1438761904085.png)
 
@@ -28,7 +28,7 @@ In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine
 
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-Falls Sie eine Verknüpfung hinzufügen möchten,es eröffnet sich der folgende Maske:
+Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich der folgende Maske:
 
 ![](http://xpecto.github.io/docs/img/img_1438084400120.png)
 
