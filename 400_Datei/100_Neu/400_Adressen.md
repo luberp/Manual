@@ -8,7 +8,7 @@ Die Eingabemaske enthält folgende Reiter: *Allgemein, Rollen, Kontoverbindungen
 
 Der Reiter *Allgemein* beinhaltet die Stammdaten die Sie hier ändern können. 
 
-Der Reiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen.                                                       
+Der Reiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu einer anderen Person anlegen oder eine neue Adresse für die Person hinzufügen.                                                       
 
 Um eine Rolle anzulegen klicken Sie in dem Reiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). 
 In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
