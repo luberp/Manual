@@ -13,7 +13,7 @@ Der neue Vertrag wird nachdem Speichern unter der Beteiligung angezeigt.
 ![](http://xpecto.github.io/docs/img/img_1443172880219.png)
 
 Der Reiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
-Geben Sie die Daten zum Vertrag wie Trasche, Laufzeit, Zahlungsintervall usw. ein. 
+Geben Sie die Daten zum Vertrag wie Tranche, Laufzeit, Zahlungsintervall usw. ein. 
 
 Eine entscheidende Feldgruppe  ist *Status, Provision*. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img041.png). Damit werden die Provisionsansprüche erzeugt.
 ![](http://xpecto.github.io/docs/img/img_1432631850462.png)
@@ -25,7 +25,7 @@ Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die be
 
 Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell  für eine Kategorie, die Verbuchungsvorschriften zu definieren siehe (*Neu → Produkte → Wertarten*). 
+Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell  für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (*Neu → Produkte → Wertarten*). 
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
