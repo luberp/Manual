@@ -25,38 +25,38 @@ Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die be
 
 Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-Der Reiter *Werte* beinhaltet die Feldgruppen:  *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell  für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (*Neu → Produkte → Wertarten*). 
+Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (*Neu → Produkte → Wertarten*). 
 
-xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
+xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
-Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedene Grunde gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
+Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 
 Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag, und gehen Sie zum Reiter *Übertragung*.
 In dem Untereiter *Übertragung durchführen* können die Nachfolger eingestellt werden. Dazu Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426513187688.png), es öffnet sich der Suchdialog *Kunden auswählen*. Hier können Sie den Nachfolger suchen und durch Doppelklick auswählen.
 
 ![](http://xpecto.github.io/docs/img/img_1443173397056.png)
 
-Nachdem die Übertragungs-Parameter eingestellt würden Klicken Sie auf die Schaltfläche *Übertragung durchführen.*
+Nachdem die Übertragungs-Parameter eingestellt wurden Klicken Sie auf die Schaltfläche *Übertragung durchführen.*
 Wählen Sie in dem folgenden Dialog die fehlende Umbuchungs-Vorschriften.
 
 ![](http://xpecto.github.io/docs/img/img_1443173762535.png)
 
-Der Untereiter *Vorgänger/Nachfolger* zeigen ob einen Vertrag Vorgänger oder Rechtsnachfolger hat.
+Der Untereiter *Vorgänger/Nachfolger* zeigt an, ob einen Vertrag Vorgänger oder Rechtsnachfolger hat.
 
 ![](http://xpecto.github.io/docs/img/img_1443174186737.png)
 
-Nachdem der Übertrag durchgeführt würde, wird der Vertrag-Status in automatisch in übertragen, geändert .
+Nachdem der Übertrag durchgeführt würde, wird der Vertragsstatus automatisch in übertragen, geändert.
 
 Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
 
 ![](http://xpecto.github.io/docs/img/img_1443172824687.png)
 
-Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen (siehe *Berechungen → Berechnungen und Transaktionen*). Die Feldgruppen sind in GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
+Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen (siehe *Berechungen → Berechnungen und Transaktionen*). Die Feldgruppen sind im GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
 
 ![](http://xpecto.github.io/docs/img/img_1443172984417.png)
 
 Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe *Berechnungen → Zahlungsverkehr*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
-Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechende Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
+Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechenden Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
 
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
 
@@ -69,7 +69,7 @@ Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls ge
 
 Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
-Durch eine Klick auf die  ![](http://xpecto.github.io/docs/img/img_1438327135428.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
+Durch eine Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327135428.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
 
 ![](http://xpecto.github.io/docs/img/img_1443173024837.png)
 
