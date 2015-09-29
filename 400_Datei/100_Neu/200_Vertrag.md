@@ -1,5 +1,5 @@
 Um Anlegern Zugangswege zu Investments zu ermöglichen  bieten sich Investitionen in Fonds. Die Fonds werden in xpectoPro als Produkte hinterlegt. 
-Kunden sind Investoren die Produktbeteiligungen kaufen. Die werden als Verträge angelegt.
+Kunden sind Investoren die Produktbeteiligungen kaufen, die als Verträge angelegt werden.
 
 Um einen Vertrag anzulegen markieren Sie den gewünschten Kunden, zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit einen neuen Vertrag anzulegen über *Menü → Neu → Vertrag*, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426508800812.png).
 
