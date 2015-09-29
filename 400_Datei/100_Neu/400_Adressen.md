@@ -19,7 +19,7 @@ Falls Sie eine Verknüpfung hinzufügen möchten, es öffnet sich der folgende M
 
 ![](http://xpecto.github.io/docs/img/img_1438775743467.png)
 
-Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es öffnet sich hier der Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
+Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es öffnet sich hier der Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt ist, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
 
 In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als  eine neue Anschrift ohne weitere Funktionen einzufügen. 
 
@@ -28,12 +28,12 @@ xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzule
 ![](http://xpecto.github.io/docs/img/img_1438775670724.png)
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
-Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
+Nachdem Sie die neuen Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
 Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1438089018212.png).
 
 Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
 
-Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit, unter dem Reiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
+Da eine Person mehrere Kontoverbindungen haben kann, haben Sie hier die Möglichkeit, unter dem Reiter *Kontoverbindungen*, für eine Person mehrere Kontoverbindungen anzulegen.
 
 Unter dem Reiter *Legitimationsdaten* können Sie die Dokumente erfassen womit sich der Kunde legitimiert.
 
