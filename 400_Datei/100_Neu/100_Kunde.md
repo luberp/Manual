@@ -31,7 +31,7 @@ In dem Dialog *Person oder Anschrift* kann eine neue Verknüpfung oder eine neue
 
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-Für eine neue Verknüpfung es öffnet sich die Maske *Adresse bearbeiten*:
+Für eine neue Verknüpfung öffnet sich die Maske *Adresse bearbeiten*:
 
 ![](http://xpecto.github.io/docs/img/img_1442422955822.png)
 
