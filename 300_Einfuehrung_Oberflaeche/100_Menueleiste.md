@@ -1,4 +1,4 @@
-Menüleiste besteht aus folgende Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Zusatzfunktionen, Hilfe. 
+Menüleiste besteht aus folgenden Bereiche: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Zusatzfunktionen, Hilfe. 
 
 ![](http://xpecto.github.io/docs/img/img_1430830864370.png)
 
