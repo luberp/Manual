@@ -70,4 +70,4 @@ Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ere
 Durch eine Klick auf die  ![](http://xpecto.github.io/docs/img/img_1438327135428.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
 
 Unter dem Reiter *Beschwerdenbuch* können die Beschwerden von  Kunden eingetragen werden.
-Der Reiter *Anlageerfahrung*  enthält zusätzliche Daten die der Kunde betreffen. Anhand dieser Daten wird dann eine Risikobewertung durchgeführt, und dem Kunde wird eine Risikoklasse zugeordnet.
+Der Reiter *Anlageerfahrung*  enthält zusätzliche Daten die den Kunden betreffen. Anhand dieser Daten wird dann eine Risikobewertung durchgeführt, und dem Kunde wird eine Risikoklasse zugeordnet.
