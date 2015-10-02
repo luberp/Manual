@@ -66,6 +66,6 @@ Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.gi
 
 Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751272141.png), so wählen Sie den zugehörigen Bericht (häufig *Provisionsabrechnung*) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. 
 
-Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechnung erzeugen ohne Belegnummer, oder Sie können einen *Belegdruck* wählen, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen. 
+Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechnung erzeugen ohne Belegnummer. Alternativ können Sie einen *Belegdruck* wählen, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen. 
 
  ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
