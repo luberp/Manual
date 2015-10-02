@@ -22,16 +22,16 @@ In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend
 Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png), in der Feldgruppe *Veranstaltung vorbereiten*, um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter *Teilnehmer*. Um die Teilnehmer einzeln einzufügen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443010395863.png).
 
 Dann erstellen Sie noch die Einladungsschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*).
-Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe *Massendruck* Einladungen zu drucken oder Stimmzettel zu drucken.
+Um die Einladungen zu drucken haben Sie die Möglichkeit in der Feldgruppe *Massendruck* Einladungen zu drucken oder Stimmzettel zu drucken.
 
-Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433144034768.png). 
-Über *Einladungen drucken* wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht, der Drucker und das Checkbox *Berichte archiviert* markiert sein.
+Um die Einladungen für die Teilnehmer zu drucken, klicken Sie auf die  Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433144034768.png). 
+Über *Einladungen drucken* wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht, der Drucker und die Checkbox *Berichte archiviert* markiert sein.
 
 ![](http://xpecto.github.io/docs/img/img_1443009039857.png)
 
-Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie zum Hauptdialog zurück, durch Schließen der *Kampagnen und Massendruck* - Dialog.
+Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie durch Schließen der *Kampagnen und Massendruck* - Dialog zum Hauptdialog zurück.
 
-Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe *Stimmabgabe*, eröffnet sich die Maske für die Veranstaltung. 
+Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe *Stimmabgabe*, öffnet sich die Maske für die Veranstaltung. 
 
 Der Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, und für jeder Teilnehmer gibt mehrere Optionen um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
 
