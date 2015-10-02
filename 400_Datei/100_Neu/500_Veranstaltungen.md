@@ -53,6 +53,6 @@ Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche !
 ![](http://xpecto.github.io/docs/img/img_1439210969105.png)
 
 Hier können Sie nach eine bestimmte Person suchen, und durch einen Doppelklick einfügen.  
-Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuer Datensatz über das Symbol![](http://xpecto.github.io/docs/img/img_1439209764662.png) in dem Suchdialog, angelegt werden.
+Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuer Datensatz über das Symbol ![](http://xpecto.github.io/docs/img/img_1439209764662.png) in dem Suchdialog, angelegt werden.
 
 Speichern Sie Ihre neue Einstellungen mit ![](http://xpecto.github.io/docs/img/img_1439207060262.png) betätigen oder durch die Tastenkombination *Strg + S.*
