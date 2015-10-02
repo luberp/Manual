@@ -33,7 +33,7 @@ Unter dem Reiter *Allgemein* erhalten Sie eine Vertragsübersicht. Das sind alle
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
-Der Reiter *Salden* beinhaltet eine Saldenkonfiguration und eine Summen und Salden Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden.
+Der Reiter *Salden* beinhaltet eine Saldenkonfiguration und eine Summen und Salden Liste. Die hier hinterlegten Konten beziehen sich auf die unter Produkt vorkonfigurierten Salden.
 
 ![](http://xpecto.github.io/docs/img/img_1439903745722.png)
 
