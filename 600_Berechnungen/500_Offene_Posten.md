@@ -28,7 +28,7 @@ Nachdem Sie den Zahlungszweck und das abgehende Bankkonto eingegeben haben, öff
 
 ![](http://xpecto.github.io/docs/img/img_1441702135963.png)
 
-Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
+Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier ein Sollbuchungs-Datensatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
 Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls die vorhanden sind.
