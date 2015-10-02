@@ -1,1 +1,1 @@
-Unter Lizenzbedingungen stehen die Open Source Projekte, sowie Organisationen deren Informationen in xpectoPro benutzt würden, und zwar verwendete Werkzeuge,  und integrierte Module und Komponenten.
+Unter Lizenzbedingungen stehen die Open Source Projekte und Organisationen deren Informationen in xpectoPro benutzt wurden, wie verwendete Werkzeuge, integrierte Module und Komponenten.
