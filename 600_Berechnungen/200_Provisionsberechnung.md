@@ -3,7 +3,7 @@ Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise,
 Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 
 Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
-In dem Fenster *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen, für welche Provisionen die Berechnung durchgeführt wird.
+In dem Fenster *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen für welche Provisionen die Berechnung durchgeführt wird.
 
 |  Berechnung           |    Beschreibung     |  
 | ------------- |:-------------| 
