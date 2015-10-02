@@ -13,7 +13,7 @@ Auf dem Reiter *Kosten* können Kostensätze für den automatischen Einbehaltung
 
 Auf dem Karteireiter *Konten* werden die Schlüssel für die zu unterscheidenden Vermittler-Buchungsarten definiert. Vermittler-Buchungen sind berechnete und manuell erfasste Provisionen und Einbehalte davon, die zu den Vermittlern in einer Buchungs-ähnlichen Form gespeichert werden. Vermittler-Buchungen sind nicht zu verwechseln mit Buchungen einer Finanzbuchhaltung.
 
-Die Einstellungen auf den Karteireitern *Kosten* und *Konten* sind eng verbunden mit den Berechnungsskripten den Provisionsabrechnung,  und sie werden deshalb vom xpecto Kundensupport vorgenommen.
+Die Einstellungen auf den Karteireitern *Kosten* und *Konten* sind eng mit den Berechnungsskripten der Provisionsabrechnung verbunden. Änderungen daran werden deshalb vom xpecto Kundensupport vorgenommen.
 
 Unter dem Karteireiter *Karrierestufen* wird ein Provisionssatzmodell angelegt. Dabei wird die Höhe der Provisionen festgelegt. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vertriebspartner getrennt hinterlegt. Die Pflege über die Karrierestufen ermöglicht dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner individuell festlegen möchten, so ist auch dies möglich (siehe 3.3. Vermittler anlegen).
 Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
