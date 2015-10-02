@@ -2,10 +2,10 @@
 
 Die Maske enthält eine eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen.
 
-Die Maske beinhaltet auf der rechte Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*. 
+Die Maske beinhaltet auf der rechten Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*. 
 
 Unter dem Ansicht *Firmen* werden die Vertriebsfirmen, in deren Namen Provisionsabrechnungen erstellt werden, verwaltet. 
-Auf dem Reiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich *Abrechnung* beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird xpecto Kundensupport voreingestellt.
+Auf dem Reiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich *Abrechnung* beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird vom xpecto Kundensupport voreingestellt.
 
 ![](http://xpecto.github.io/docs/img/img_1429018791130.png)
 
