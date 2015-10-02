@@ -36,6 +36,6 @@ Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440
 ![](http://xpecto.github.io/docs/img/img_1441702289501.png)
 
 Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
-Dafür werden eine CSV-, PDF- und XML-Datei erstellt, in einem unter *Extras → Einstellungen → Bank Pfad*, angegebener Ordner. 
+Bei der Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien (in dem unter *Extras → Einstellungen → Bank* Pfad, angegebenen Ordner angelegt): eine CSV-Datei, PDF Datei und die SEPA-Datei (Dateiendung .xml).
  
 ![](http://xpecto.github.io/docs/img/img_1441702499437.png)
