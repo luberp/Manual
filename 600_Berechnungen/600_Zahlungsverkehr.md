@@ -9,7 +9,7 @@ In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS b
 ![](http://xpecto.github.io/docs/img/img_1441985519757.png)
 
 Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441715573070.png).  xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
-Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441720924595.png) wird die Plausibilitätsprüfung der einzelne Daten gestartet. 
+Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441720924595.png) wird die Plausibilitätsprüfung der einzelnen Daten gestartet. 
 
 ![](http://xpecto.github.io/docs/img/img_1441717900163.png)
 
