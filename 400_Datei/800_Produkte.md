@@ -10,7 +10,7 @@ Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der 
 
 Auf dem Reiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
 
-Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewerteter Produkt dar, und zwar eine Übersicht über die Forderungen, Beteiligungsübersicht, anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung.
+Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1432642241442.png)
 
