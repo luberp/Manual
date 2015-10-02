@@ -8,4 +8,4 @@ Um nach mehreren Kriterien zu suchen klicken Sie auf die Schaltfläche *Felder e
 
 ![](http://xpecto.github.io/docs/img/img_1437999710660.png)
 
-Sie können durch einen Doppelklick aus der Liste heraus, den Datensatz öffnen und bearbeiten. 
+Sie können durch einen Doppelklick aus der Liste heraus den Datensatz öffnen und bearbeiten. 
