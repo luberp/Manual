@@ -69,12 +69,11 @@ Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertra
 
 <p>Unter <em>Druck und Ausgabe</em> kann eingestellt werden, ob jeder einzelne Beteiligte einen Einzelschreiben bekommt oder ob eine Liste gedruckt werden soll.</p>
 
-<p>Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187997984.png" alt="" title=""> um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht, <br>
-dafür muss der Bericht als Bericht für <em>Berechungen Einzelschreiben</em> markiert werden. (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>).</p>
+<p>Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187997984.png" alt="" title=""> um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht der als Bericht für <em>Berechungen Einzelschreiben</em> markiert sein muss. (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>).</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441360646363.png" alt="" title=""></p>
 
-<p>Sie können einen <em>Testdruck</em>, um für jeden Anleger einen Anschreiben zu erzeugen ohne Belegnummer, oder <em>Belegdruck</em>, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen.</p>
+<p>Über <em>Testdruck</em> können Sie ein Schreiben für jeden Anleger erzeugen, ohne eine Belegnummer zu vergeben.  Über <em>Belegdruck</em> wird das gleiche gemacht, jedoch unter Vergabe einer automatisch und lückenlos vergebener  Belegnummern.</p>
 
 <p>Um eine Übersichtliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1441188040541.png" alt="" title=""> erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für <em>Berechungen Listen</em> markiert werden. (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>).</p>
 
