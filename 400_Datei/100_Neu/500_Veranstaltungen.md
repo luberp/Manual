@@ -14,12 +14,12 @@ Unter dem Reiter *Allgemein* können über den Teilnehmerkreis alle Personen aus
 
 ![](http://xpecto.github.io/docs/img/img_1443010174699.png)
 
-Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf das Symbol![](http://xpecto.github.io/docs/img/img_1432890657651.png). Dazu eröffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). 
+Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe *Allgemein* ![](http://xpecto.github.io/docs/img/img_1432886377432.png), klicken Sie auf das Symbol![](http://xpecto.github.io/docs/img/img_1432890657651.png). Danach öffnet sich der *Abfragen erstellen* Dialog (siehe *Bearbeiten → Abfragen erstellen*). 
 
 In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend mit 840 wohnen und einen angenommener Vertrag haben.
 ![](http://xpecto.github.io/docs/img/img_1430841532256.png)
 
-Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png), in der Feldgruppe *Veranstaltung vorbereiten*, um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter *Teilnehmer*. Um die Teilnehmer einzel einzufügen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443010395863.png).
+Danach klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432891106020.png), in der Feldgruppe *Veranstaltung vorbereiten*, um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter *Teilnehmer*. Um die Teilnehmer einzeln einzufügen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443010395863.png).
 
 Dann erstellen Sie noch die Einladungsschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*).
 Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe *Massendruck* Einladungen zu drucken oder Stimmzettel zu drucken.
