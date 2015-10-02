@@ -15,7 +15,7 @@ Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählte
 ![](http://xpecto.github.io/docs/img/img_1432642241442.png)
 
 Wenn Sie in den *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
-Wenn Sie in den *Anzahl Verträge* auf das Symbol klicken dann ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jedes Status angezeigt.
+Wenn Sie in den *Anzahl Verträge* auf das Symbol klicken ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.
 
 Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 
