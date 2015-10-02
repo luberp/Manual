@@ -33,15 +33,15 @@ Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie durch S
 
 Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433146421500.png) in der Feldgruppe *Stimmabgabe*, öffnet sich die Maske für die Veranstaltung. 
 
-Der Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, und für jeder Teilnehmer gibt mehrere Optionen um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
+Die Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, welche für jeden Teilnehmer mehrere Optionen bietet um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
 
 ![](http://xpecto.github.io/docs/img/img_1443012682876.png)
 
-Der Ansicht *Scandialog* dient dazu um die Stimmzettel abzulegen.	
+Die Ansicht *Scandialog* dient dazu um die Stimmzettel abzulegen.	
 
 Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zum Hauptdialog.
 										 									 
-Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teilnehmer, neue Teilnehmer angelegt und individuell verwaltet werden.
+Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teilnehmer neue Teilnehmer angelegt und individuell verwaltet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1443015444768.png)
 
