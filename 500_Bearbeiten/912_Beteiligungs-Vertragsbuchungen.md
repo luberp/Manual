@@ -50,7 +50,7 @@ Die einzelnen Spalten sind:
 |Kum. S / H |Veränderungen vom Beginn des Jahres bis einschließlich des betrachteten Monats|
 |Saldo|Saldo zum Ende des betrachteten Monats|
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439980233293.png) können Sie sehen welche Buchungen zum Saldo bzw. zum Konto gemacht würden.
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439980233293.png) können Sie sehen welche Buchungen zum Saldo bzw. zum Konto gemacht wurden.
 
 ![](http://xpecto.github.io/docs/img/img_1439905236293.png)
 
