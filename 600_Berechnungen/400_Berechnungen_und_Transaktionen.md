@@ -57,9 +57,9 @@ Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertra
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441199681398.png" alt="" title=""></p>
 
-<p>In dem <em>Testdialog für Fondsberechnung</em> erhalten Sie die Werte und Buchungen die dem ausgewählten Vertrag zugeordnet sind. </p>
+<p>In dem <em>Testdialog für Fondsberechnung</em> erhalten Sie die Werte und Buchungen die erzeugt werden, wenn Sie für diesen Vertrag eine Berechnung durchführen würden.</p>
 
-<p>Schließen Sie das Dialog um zurück zur <em>xpectoPro Berechnungen und Transaktionen</em> zu kehren.</p>
+<p>Schließen Sie den Dialog um zurück zu <em>xpectoPro Berechnungen und Transaktionen</em> zu kehren.</p>
 
 <p>Von hier aus können Sie abschließenden Schritte durchführen: <br>
 <em>Zahlungsverkehr</em> Überweisung/Zahlungsdateien und Belege erstellen  <br>
