@@ -66,11 +66,13 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14411
 
 Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen, ohne eine Belegnummer zu vergeben.  Über *Belegdruck* wird das gleiche gemacht, jedoch unter Vergabe einer automatisch und lückenlos vergebener  Belegnummern.
 
-Um eine Übersichtsliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
+Um eine Übersichtsliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
 
 ![](http://xpecto.github.io/docs/img/img_1441360701050.png)
 
+Nun wechseln Sie zur Ansicht *Transaktionen*. Die Ansicht Transaktionen enthält alle vorhandene Transaktionen.
 Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
+
 
 ![](http://xpecto.github.io/docs/img/img_1441364859005.png)
 
