@@ -70,7 +70,9 @@ In dem Importdialog können Sie z.B. Datensätze importieren, Tabellen importier
 ![](http://xpecto.github.io/docs/img/img_1439282833536.png)
 
 Um Datensätze zu importieren, wählen Sie das Produkt aus, zu dem die Datensätze importiert werden sollen  falls der Produkt nicht in eine Spalte enthalten ist. 
-Wenn bereits Datensätze mit derselbe ID in der Datenbank vorhanden sind, dann werden diese nicht aktualisiert 
+
+Wenn bereits Datensätze mit derselbe ID in der Datenbank vorhanden sind, dann werden diese nicht aktualisiert nur wenn die Checkbox *vorhandene Daten aktualisiert* markiert ist.
+
 Wenn Sie Tabellen aus einer Datei, in der Datenbank importieren wollen, dann klicken Sie auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1421152862771.png) um die zu importierende Datei auszuwählen.
 
 Je nach Dateiformat der zu importierenden Daten müssen die Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. 
