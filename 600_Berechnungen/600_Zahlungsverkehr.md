@@ -14,7 +14,7 @@ Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441720924595.png) 
 ![](http://xpecto.github.io/docs/img/img_1441717900163.png)
 
 Klicken Sie auf *Ja* um die Zahlungsaufträge zusammenzufassen.  
-Damit wird auf dem Konto des Kunden bei der Zusammenfassung nur 1 Buchungsposten (auf dessen Kontoauszug der Bank) angezeigt und der Buchungstext kann z. B. aus 5 Überweisungen zusammengehängt werden.
+Damit wird auf dem Konto des Kunden bei der Zusammenfassung nur 1 Buchungsposten (auf dessen Kontoauszug der Bank) angezeigt und in der Buchungstext können z. B. 5 Überweisungen zusammengehängt werden.
 
 ![](http://xpecto.github.io/docs/img/img_1441716256692.png)
 
