@@ -21,6 +21,6 @@ Die Symbol- und Funktionsleiste besteht aus folgende Elemente:
 | ![](http://xpecto.github.io/docs/img/img_1429098923235.png)      | Druckoptionen | 
 | ![](http://xpecto.github.io/docs/img/img_1429028169116.png)      | Bericht in Datei exportieren oder drucken | 
 | ![](http://xpecto.github.io/docs/img/img_1429028337350.png)     | Dokumente archivieren ein/aus | 
-| ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments | 
+| ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments. Siehe Scanmanager | 
 | ![](http://xpecto.github.io/docs/img/img_1429028456194.png)      | Abrechnungszeitraum | 
 
