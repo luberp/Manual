@@ -28,6 +28,7 @@ Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die B
 ![](http://xpecto.github.io/docs/img/img_1443793877824.png)
 
 Die Berechnungen haben dabei eine Art (wie z.B. *Gebührenabrechnung, Gewinnverteilung, Zinsberechnung, Entnnahmeberechnung, Forderungsberechnung, Anteilskauf, Vertragsübertragung*), eine grundsätzliche Berechnungsmethode (wie z.B. *Tägliche Verzinsung*), Einschränkungen, Ergebnisse,  und Druck-Einstellungen. 
+Das Gegenkonto ist ein abgehende Bankkonto und wird belastet für alle Buchungen in der Berechnung.
 Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie auf *OK*.
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png), um die Werte-Liste zu erstellen. 
@@ -82,4 +83,4 @@ Markieren Sie eine Transaktion um eine der folgende Aktionen durchzuführen:
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1441366232699.png)     |  Kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist.| 
 | ![](http://xpecto.github.io/docs/img/img_1441366314917.png)   |  Es wird eine Liste der enthaltene Buchungen angezeigt.| 
-| ![](http://xpecto.github.io/docs/img/img_1441366201137.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind. | 
+| ![](http://xpecto.github.io/docs/img/img_1441366201137.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind. |
