@@ -16,7 +16,7 @@ Wechseln Sie in dem Reiter *Berechnung*.
 
 ![](http://xpecto.github.io/docs/img/img_1441198492709.png)
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441197372050.png), können Sie eine Berechnung aus vorheriger Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist.
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441197372050.png), können Sie eine Berechnung aus der vorherigen Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist.
 Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png), kopieren Sie eine markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197418881.png), kann eine markierte Berechnung gelöscht werden.
 
 Um eine neue Berechnung anzulegen klicken Sie auf dem Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png). Wählen Sie dann  aus, das Produkt für das die Berechnung laufen soll.
