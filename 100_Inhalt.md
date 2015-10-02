@@ -39,7 +39,7 @@
 * 5.7. [Kampagnen](http://help.xpecto.de/Bearbeiten/Kampagnen)
 * 5.8. [Berichte erzeugen](http://help.xpecto.de/Bearbeiten/Berichte_erzeugen)
 * 5.9. [Erweiterte Suche](http://help.xpecto.de/Bearbeiten/Erweiterte_Suche)
-* 5.10. [Duplikate finden](http://help.xpecto.de/Bearbeiten/Duplikate_finden)
+* 5.10. [Duplikate finden](http://help.xpecto.de/Bearbeiten/Duplikte_finden)
 *  5.11. [Stapelbuchungen](http://help.xpecto.de/Bearbeiten/Stapelbuchungen)
 * 5.12. [Beteiligungs-/Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Beteiligungs-Vertragsbuchungen)
 * 5.13. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
