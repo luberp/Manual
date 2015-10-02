@@ -25,7 +25,7 @@ Dann erstellen Sie noch die Einladungsschreiben (siehe *Extras → Anpassen → 
 Um die Einladungen zu drücken haben Sie die Möglichkeit in der Feldgruppe *Massendruck* Einladungen zu drucken oder Stimmzettel zu drucken.
 
 Um die Einladungen  an die Teilnehmer  zu drucken, klicken Sie auf die  Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433144034768.png). 
-Über *Einladungen drucken* wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz  versendet und bei Bedarf im Dokumenten-Archiv hinterlegt.  Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht, der Drucker und das Checkbox *Berichte archiviert* markiert sein.
+Über *Einladungen drucken* wird eine Kampagne gestartet (siehe *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht, der Drucker und das Checkbox *Berichte archiviert* markiert sein.
 
 ![](http://xpecto.github.io/docs/img/img_1443009039857.png)
 
