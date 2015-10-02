@@ -39,7 +39,7 @@ Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt
 
 ![](http://xpecto.github.io/docs/img/img_1440748563962.png)
 
-Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese verbuchte Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
+Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
 
 ![](http://xpecto.github.io/docs/img/img_1432632479268.png)
 
