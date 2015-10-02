@@ -1,4 +1,4 @@
-Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechung, maßgeblich den Zeitraum bezeichnet. Der Dialog zur Eingabe des Abrechnungszeitraums kann über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder über Doppelklick auf die Anzeige des Abrechnungszeitraums, in der Symbol- und Funktionsleiste aufgerufen werden. 
+Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechnung maßgeblich den Zeitraum bezeichnet. Der Dialog zur Eingabe des Abrechnungszeitraums kann über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder über Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbol- und Funktionsleiste aufgerufen werden. 
 
 ![](http://xpecto.github.io/docs/img/img_1431936837532.png)
 
@@ -16,6 +16,6 @@ In dem Dialog *Zeitraum wählen* gibt verschiedene Möglichkeiten eine Abrechnun
 | Halbjährlich     |2015H1 | 
 | Jährlich    |2015| 
 
-Der neu ausgewählte Zeitraum wird dann in der *Symbol -und Funktionsleiste* angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum sich gerade handelt.
+Der neu ausgewählte Zeitraum wird dann in der *Symbol -und Funktionsleiste* angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum es sich gerade handelt.
 
 ![](http://xpecto.github.io/docs/img/img_1440598940441.png)
