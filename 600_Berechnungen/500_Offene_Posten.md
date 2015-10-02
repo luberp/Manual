@@ -1,7 +1,7 @@
 Offene Posten Liste dient als Nebenbuch der Buchführung. In der Nebenbuchhaltung wird eine nicht bezahlte Rechnungsposition auf dem Debitorenkonto bis zum Zeitpunkt der Zahlung (automatisch) als offener Posten geführt. 
 Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
- Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet.
+Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet.
 
 Wenn Sie aber vorher eine Beteiligung ![](http://xpecto.github.io/docs/img/img_1441372403820.png) oder einen Vertrag ![](http://xpecto.github.io/docs/img/img_1441373565478.png) markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
 
@@ -20,11 +20,11 @@ Posten für alle Beteiligungen, und unten die Details der Buchungen.
 Eine Lastschrift ist die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440769218414.png) starten Sie eine Lastschrift. 
 
-Wählen Sie in dem folgenden Dialog das Ausführungsdatum an. 
+Geben Sie in dem folgenden Dialog das Ausführungsdatum an. 
 
 ![](http://xpecto.github.io/docs/img/img_1441702086158.png)
 
-Nachdem Sie den Zahlungszweck und abgehende Bankkonto eingegeben haben, öffnet sich der *Zahlungsverkehr*-Dialog. 
+Nachdem Sie den Zahlungszweck und das abgehende Bankkonto eingegeben haben, öffnet sich der *Zahlungsverkehr*-Dialog. 
 
 ![](http://xpecto.github.io/docs/img/img_1441702135963.png)
 
