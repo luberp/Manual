@@ -47,7 +47,7 @@ Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur 
 
 ![](http://xpecto.github.io/docs/img/img_1440748640999.png)
 
-Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können eine neue Buchung wie z.B. einen Vorschuss, einfügen durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png).
+Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png) eine neue Buchung, wie z.B. einen Vorschuss, einfügen.
 Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441108231660.png), um die Liste der Abrechnungen zu aktualisieren.
 
 Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
