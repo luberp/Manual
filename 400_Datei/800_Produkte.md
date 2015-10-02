@@ -21,11 +21,11 @@ Der Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für a
 
 Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
-Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
+Der Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
 
-Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
+Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
-Reiter *Buchungsdaten* enthält die Liste der Buchungen  die generell für den Produkt anfallen. 
+Der Reiter *Buchungsdaten* enthält die Liste der Buchungen  die generell für den Produkt anfallen. 
 
 In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
 
