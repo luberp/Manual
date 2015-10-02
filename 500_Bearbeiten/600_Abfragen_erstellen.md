@@ -30,6 +30,12 @@ Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepas
 |endet nicht mit |
 |beginnt nicht mit|
 |ist nicht leer|
+|entspricht einem der folgenden Tage|
+|ist von - bis|
+|ist kleiner/früher oder entspricht folgendem Wert|
+|ist größer/später oder entspricht folgendem Wert|
+|entspricht keinem der folgenden Tage|
+|ist nicht von - bis|
 
 Schließlich werden in den Eingabefeldern die Vergleichswerte der jeweiligen Bedingung eingetragen.
 
