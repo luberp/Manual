@@ -18,7 +18,7 @@ Damit wird auf dem Konto des Kunden bei der Zusammenfassung nur 1 Buchungsposten
 
 ![](http://xpecto.github.io/docs/img/img_1441716256692.png)
 
-Um die Details der einzelnen Sollstellungen anzeigen zu lassen klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1441717792618.png). Hier sehen Sie aus welche Zahlungsaufträge die Sollstellung enthält, und welche Daten fehlerhaft sind, diese werden automatisch markiert. 
+Um die Details der einzelnen Sollstellungen anzeigen zu lassen klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1441717792618.png). Hier sehen Sie aus welchen Zahlungsaufträgen die Sollstellung enthält und welche Daten fehlerhaft sind. Die Fehlerhaften Einträge werden automatisch markiert und der Haken entfernt.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien in PDF- und CSV-Format erzeugt. 
 
