@@ -21,6 +21,7 @@ Durch Klick auf den Feldnamen oder den Bedingungstyp kann eine Bedingung angepas
 |  Bedingungstypen           | 
 | ------------- |
 |   entspricht einem der folgenden Werte     | 
+|enthält|
 |    endet mit   | 
 |beginnt mit|
 |ist leer|
