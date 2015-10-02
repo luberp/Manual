@@ -8,9 +8,9 @@ Als Stimmbasis gelten: *Ja, Nein, Enthalten, Ungültig, ohne Weisung*.
 Nehmen wir an Sie wollen eine neue Gesellschafsversammlung anlegen. 
 Um eine neue Veranstaltung anzulegen wählen Sie im Menü *Datei → Neu → Veranstaltungen* oder klicken Sie in der Symbol-und Funktionsleiste auf das Symbol ![](http://xpecto.github.io/docs/img/img_1429027370695.png). 
 
- Zu jede Veranstaltungen können individuellen Tagesordnungspunkten (TOP) angelegt werden. 
+ Zu jeder Veranstaltung können individuelle Tagesordnungspunkten (TOP) angelegt werden. 
 
-Unter dem Reiter *Allgemein* können, über den Teilnehmerkreis, alle Personen ausgewählt werden, die an Veranstaltung teilnehmen. 
+Unter dem Reiter *Allgemein* können über den Teilnehmerkreis alle Personen ausgewählt werden die an Veranstaltung teilnehmen. 
 
 ![](http://xpecto.github.io/docs/img/img_1443010174699.png)
 
