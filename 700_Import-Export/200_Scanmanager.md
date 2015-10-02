@@ -16,7 +16,7 @@ Klicken Sie auf *Start* um automatisch die Dokumente zuzuweisen. Die Dokumente k
 ![](http://xpecto.github.io/docs/img/img_1441965548893.png)
 
 
-**Ausdruck eines Barcodelabel**
+**Ausdruck von Barcode-Aufkleber**
 Zum Ausdrucken eines Barcodes über einen Labeldrucker (z. B. DymoLabel Writer) wählen Sie in der Hauptmaske von xpectoPro einen Datensatz aus für den Sie einen Barcode ausdrucken möchten, z. B. einen Vertrag. Klicken Sie anschließend in der Symbolleiste auf dasSymbol ![](http://xpecto.github.io/docs/img/img_1443802699735.png). Wählen Sie danach eine (Ereignis-)art aus und bestätigen diese durch einen klicken Sie auf *OK.* 
 
 ![](http://xpecto.github.io/docs/img/img_1441971165729.png)
