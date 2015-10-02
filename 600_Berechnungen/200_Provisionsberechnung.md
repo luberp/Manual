@@ -52,7 +52,7 @@ Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläch
 
 Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
 
-In der Maske *Zahlungdatei erstellen* kann zwischen mehrere Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen und den Speicherort festlegen und ob ein Begleitzettel erstellt werden soll.
+In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen, den Speicherort festlegen und angeben, ob ein Begleitzettel erstellt werden soll.
 
 ![](http://xpecto.github.io/docs/img/img_1440748885165.png)
 
