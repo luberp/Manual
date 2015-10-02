@@ -14,12 +14,12 @@ Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählte
 
 ![](http://xpecto.github.io/docs/img/img_1432642241442.png)
 
-Wenn Sie in den *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken, dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
+Wenn Sie in den *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
 Wenn Sie in den *Anzahl Verträge* auf das Symbol klicken ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.
 
-Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+Der Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 
-Unter Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
+Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
 Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
 
