@@ -23,7 +23,7 @@ Um eine neue Berechnung anzulegen klicken Sie auf das Symbol ![](http://xpecto.g
 
 ![](http://xpecto.github.io/docs/img/img_1441198576702.png)
 
-Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441188262764.png) können Sie in dem *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
+Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441188262764.png) können Sie in den *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
 
 ![](http://xpecto.github.io/docs/img/img_1441198751659.png)
 
