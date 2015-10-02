@@ -19,7 +19,7 @@ In dem folgenden Dialog können Sie dann einen anderen Vertrag wählen:
 
 Sichern Sie Ihre Änderungen durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439804594653.png) . 
 
-**Beteiligung**
+**Beteiligungen**
 Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Anteile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen. 
 Eine Beteiligung an einen Produkt wird in dem Dialog neuen Vertrag erstellen (siehe *Datei → Neu → Vertrag*) festgelegt.
 
