@@ -1,4 +1,4 @@
-xpectoPro ermöglicht die Berechnung von Gewinnverteilung, Verlustverteilung, Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung, auf dem Konto des Anlegers.
+xpectoPro ermöglicht die Durchführung der verschiedensten Art an Berechnungen wie zum Beispiel Verlustverteilung, Entnahmen/Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung.
 
 Diese Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
 
