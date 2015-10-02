@@ -8,7 +8,7 @@ Genau wie bei Stapelerfassung, haben Sie die Möglichkeit unter dem Reiter *Stap
 
 ![](http://xpecto.github.io/docs/img/img_1439989206664.png)
 
-Der Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Da der Filter Beteiligung/Vertag für den ausgewählten Vertrag eingestellt würde, können Sie hier, eine neue Buchung für diesen Vertrag anlegegen.  
+Der Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Da der Filter Beteiligung/Vertag für den ausgewählten Vertrag eingestellt würde, können Sie hier, eine neue Buchung für diesen Vertrag anlegen.  
 Falls Sie eine andere Einstellung wünschen, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439992255614.png).
 
 In dem folgenden Dialog können Sie dann einen anderen Vertrag wählen:
