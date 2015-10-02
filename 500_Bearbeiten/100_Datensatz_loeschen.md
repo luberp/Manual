@@ -1,4 +1,4 @@
-Über diesen Menüpunkt wird der aktuell ausgewählte  Datensatz (z.B. Kunde, Vertrag oder Vermittler, Interessenten) gelöscht. Nach Bestätigung der Warnmeldung:
+Über diesen Menüpunkt wird der aktuell ausgewählte  Datensatz (z.B. Kunde, Vertrag, Vermittler, Interessenten) gelöscht. Nach Bestätigung der Warnmeldung:
 
 ![](http://xpecto.github.io/docs/img/img_1420450924589.png)
 
