@@ -25,13 +25,13 @@ Eine Beteiligung an einen Produkt wird in dem Dialog neuen Vertrag erstellen (si
 
 Beteiligungen werden in dem Kundensicht unter Kunde, mit der Symbol ![](http://xpecto.github.io/docs/img/img_1439978235195.png), dargestellt.  
 
-Klicken Sie auf eine Beteiligung, um in die Eingabemaske zu gelangen.
+Klicken Sie auf eine Beteiligung um in die Eingabemaske zu gelangen.
 
 ![](http://xpecto.github.io/docs/img/img_1438780567378.png)
 
 Unter dem Reiter *Allgemein* erhalten Sie eine Vertragsübersicht. Das sind alle Verträge des Kundes die an dieses Produkt beteiligt sind.
 
-xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen würden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
+xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
 Der Reiter *Salden* beinhaltet eine Saldenkonfiguration und eine Summen und Salden Liste. Die hier hinterlegte Konten beziehen sich auf die unter Produkt vorkonfigurierte Salden.
 
