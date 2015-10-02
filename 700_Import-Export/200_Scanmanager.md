@@ -1,33 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>200_Scanmanager.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>xpectoPro bietet Ihnen ein Dokumentenmanagementsystem (DMS),  um Ihre Dokumente zu digitalisieren,  archivieren und strukturiert zuzuweisen.</p>
+xpectoPro bietet Ihnen ein Dokumentenmanagementsystem (DMS),  um Ihre Dokumente zu digitalisieren,  archivieren und strukturiert zuzuweisen.
 
-<p>Mit dem xpecto ScanManager haben Sie die Möglichkeit eingescannte Dokumente manuell oder automatisch zuzuweisen.  <br>
-Starten sie den <em>ScanManager</em> über Menüleisten <em>Import/Export → Scanmanager</em>. In dem Reiter <em>Scans</em> können Sie eine Scanquelle auswählen. Geben Sie hier die Scanquelle an, wo die gescannte Dokumente gespeichert sind. Dieser Pfad kann über <em>Extras → Einstellungen</em> geändert werden.</p>
+Mit dem xpecto ScanManager haben Sie die Möglichkeit eingescannte Dokumente manuell oder automatisch zuzuweisen. 
+Starten sie den *ScanManager* über Menüleisten *Import/Export → Scanmanager*. In dem Reiter *Scans* können Sie eine Scanquelle auswählen. Geben Sie hier die Scanquelle an, wo die gescannte Dokumente gespeichert sind. Dieser Pfad kann über *Extras → Einstellungen* geändert werden.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441965444877.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1441965444877.png)
 
-<p>Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441970891993.png" alt="" title="">, kann der Barcode manuell eingegeben werden.</p>
+Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441970891993.png), kann der Barcode manuell eingegeben werden.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1421750317812.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1421750317812.png)
 
-<p>Klicken Sie auf <em>Start</em> um automatisch die Dokumente zuzuweisen. Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet.</p>
+Klicken Sie auf *Start* um automatisch die Dokumente zuzuweisen. Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet.
 
-<p>Über dem Reiter Zuweisung können Sie die Dokumente die kein Barcode enthalten zuweisen.</p>
+Über dem Reiter Zuweisung können Sie die Dokumente die kein Barcode enthalten zuweisen.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441965548893.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1441965548893.png)
 
-<p><strong>Ausdruck eines Barcodelabel</strong> <br>
-Zum Ausdrucken eines Barcodes über einen Labeldrucker (z. B. DymoLabel Writer) wählen Sie in der Hauptmaske von xpectoPro einen Datensatz aus für den Sie einen Barcode ausdrucken möchten, z. B. einen Vertrag. Klicken Sie anschließend in der Symbolleiste auf dasSymbol <img src="http://xpecto.github.io/docs/img/img_1443802699735.png" alt="" title="">. Wählen Sie danach eine (Ereignis-)art aus und bestätigen diese durch einen klicken Sie auf <em>OK.</em> </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441971165729.png" alt="" title=""></p>
+**Ausdruck eines Barcodelabel**
+Zum Ausdrucken eines Barcodes über einen Labeldrucker (z. B. DymoLabel Writer) wählen Sie in der Hauptmaske von xpectoPro einen Datensatz aus für den Sie einen Barcode ausdrucken möchten, z. B. einen Vertrag. Klicken Sie anschließend in der Symbolleiste auf dasSymbol ![](http://xpecto.github.io/docs/img/img_1443802699735.png). Wählen Sie danach eine (Ereignis-)art aus und bestätigen diese durch einen klicken Sie auf *OK.* 
 
-<p>Anschließend wird der Barcode ausgedruckt und Sie können diesen auf Ihr Dokument aufkleben. Anschließend können Sie über den Scanmanager das Dokument einscannen und diesem Datensatz zuordnen.</p></div></body>
-</html>
+![](http://xpecto.github.io/docs/img/img_1441971165729.png)
+
+Anschließend wird der Barcode ausgedruckt und Sie können diesen auf Ihr Dokument aufkleben. Anschließend können Sie über den Scanmanager das Dokument einscannen und diesem Datensatz zuordnen.
