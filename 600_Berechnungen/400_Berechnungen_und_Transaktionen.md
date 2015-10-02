@@ -75,7 +75,7 @@ Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertra
 
 <p>Über <em>Testdruck</em> können Sie ein Schreiben für jeden Anleger erzeugen, ohne eine Belegnummer zu vergeben.  Über <em>Belegdruck</em> wird das gleiche gemacht, jedoch unter Vergabe einer automatisch und lückenlos vergebener  Belegnummern.</p>
 
-<p>Um eine Übersichtliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1441188040541.png" alt="" title=""> erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für <em>Berechungen Listen</em> markiert werden. (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>).</p>
+<p>Um eine Übersichtsliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1441188040541.png" alt="" title=""> erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für <em>Berechungen Listen</em> markiert werden. (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>).</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441360701050.png" alt="" title=""></p>
 
