@@ -1,1 +1,1 @@
-xpecto Change-Log enthält ein Link auf der Homepage wo die Versionen und die dazugehörige Änderungen an der Software aufgezeichnet wurden.
+Der Menüpunkt *xpecto Change-Log* enthält einen Link auf die Homepage wo die Versionen und die dazugehörigen Änderungen an der Software aufgezeichnet wurden.
