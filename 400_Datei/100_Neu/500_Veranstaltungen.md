@@ -56,14 +56,13 @@ Um die Einladungen zu drucken haben Sie die Möglichkeit in der Feldgruppe <em>M
 
 <p>Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe <em>Zuweisung</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1426499792252.png" alt="" title="">.  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439206980898.png" alt="" title="">. Speichern Sie Ihre neuen Teilnehmer mit dem Symbol <img src="http://xpecto.github.io/docs/img/img_1439207060262.png" alt="" title=""> oder durch die Tastenkombination <em>Strg + S.</em></p>
 
-<p>Unter dem Reiter <em>Bevollmächtigte</em> können die stellvertretende Personen angelegt, und individuell verwaltet werden. <br>
-Um ein neuer Bevollmächtigter einzufügen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439208928813.png" alt="" title=""> - <em>neuen Datensatz hinzufügen</em>  oder die Tastenkombination <em>Strg + N</em>. Geben Sie in das Eingabefeld <em>Person</em> der Name der einzufügende Person, ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld <img src="http://xpecto.github.io/docs/img/img_1439210074824.png" alt="" title="">. Hier wird dann der Suchdialog <em>Adressen</em> aufgemacht (<em>siehe Bearbeiten → Erweiterte Suche</em>). </p>
+<p>Unter dem Reiter <em>Bevollmächtigte</em> kann die stellvertretende Person angelegt, und individuell verwaltet werden. <br>
+Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439208928813.png" alt="" title=""> - <em>neuen Datensatz hinzufügen</em>  oder die Tastenkombination <em>Strg + N</em>. Geben Sie in das Eingabefeld <em>Person</em> den Namen der einzufügenden Person ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld <img src="http://xpecto.github.io/docs/img/img_1439210074824.png" alt="" title="">. Hier wird dann der Suchdialog <em>Adressen</em> aufgemacht (<em>siehe Bearbeiten → Erweiterte Suche</em>). </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439210969105.png" alt="" title=""></p>
 
 <p>Hier können Sie nach eine bestimmte Person suchen, und durch einen Doppelklick einfügen. <br>
-Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuen Datensatz über das Symbol<img src="http://xpecto.github.io/docs/img/img_1439209764662.png" alt="" title=""> in dem Suchdialog, angelegt werden.</p>
+Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuer Datensatz über das Symbol<img src="http://xpecto.github.io/docs/img/img_1439209764662.png" alt="" title=""> in dem Suchdialog, angelegt werden.</p>
 
-<p>Verwenden Sie letzte Schritte um einen neuen Bevollmächtigter einzufügen. <br>
-Speichern Sie Ihre neue Einstellungen mit <img src="http://xpecto.github.io/docs/img/img_1439207060262.png" alt="" title=""> betätigen oder durch die Tastenkombination <em>Strg + S.</em></p></div></body>
+<p>Speichern Sie Ihre neue Einstellungen mit <img src="http://xpecto.github.io/docs/img/img_1439207060262.png" alt="" title=""> betätigen oder durch die Tastenkombination <em>Strg + S.</em></p></div></body>
 </html>
