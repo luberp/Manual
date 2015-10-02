@@ -58,6 +58,4 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439980233293.png
 
 Unter dem Reiter *Konto-Verwendung* können die Bankkonten (siehe Kunden → Adressen → Kontoverbindungen) für unterschiedliche Verwendungszwecke eingesetzt.
 
-xpectoPro bietet mehrere Möglichkeiten sich an einen Produkt zu beteiligen.  Um alle Beteiligungsformen abzudecken, gibt hier die Beteiligung als Direktkommanditist, dafür ist eine Eintragung ins Handelsregister nötig. 
-
 Unter der Reiter *Dauervollmachten* können Sie eine Vollmacht für eine bestimmte Person anlegen.
