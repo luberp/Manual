@@ -67,7 +67,7 @@ Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertra
 
 <p>Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187959011.png" alt="" title="">. Sie werden zum <em>xpectoPro OPOS Verarbeitung</em> Dialog weitergeleitet (siehe <em>Berechnungen → Offene Posten</em>). </p>
 
-<p>Unter <em>Druck und Ausgabe</em> kann eingestellt werden ob jeder einzelnen Beteiligten einen Einzelschreiben bekommt, oder ob eine Liste gedrückt wird.</p>
+<p>Unter <em>Druck und Ausgabe</em> kann eingestellt werden, ob jeder einzelne Beteiligte einen Einzelschreiben bekommt oder ob eine Liste gedruckt werden soll.</p>
 
 <p>Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187997984.png" alt="" title=""> um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht, <br>
 dafür muss der Bericht als Bericht für <em>Berechungen Einzelschreiben</em> markiert werden. (siehe <em>Extras → Berichte und Adressmuster → Berichte → Kategorien</em>).</p>
