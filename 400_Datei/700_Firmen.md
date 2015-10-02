@@ -1,6 +1,6 @@
 Über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
 
-Die Maske enthält die eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen.
+Die Maske enthält eine eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen.
 
 Die Maske beinhaltet auf der rechte Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*. 
 
