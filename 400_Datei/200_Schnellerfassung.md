@@ -26,5 +26,3 @@ Falls in der Feldgruppe *Aufkleber* ein Checkbox markiert würde, dann wird durc
 Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, können Sie einen Vertrag einscannen, dafür brauchen sie eine installierte Webcam.
 
 ![](http://xpecto.github.io/docs/img/img_1443000902734.png)
-
-
