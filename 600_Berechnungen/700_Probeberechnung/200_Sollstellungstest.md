@@ -2,4 +2,4 @@
 
 ![](http://xpecto.github.io/docs/img/img_1440595181744.png)
 
-Hier werden die Sollbuchungen angezeigt und falls ein Sollstellungsskript im Produkt hinterlegt ist dann wird das Skript für die Generierung der Buchungen verwendet z. B. dessen Ausgaben oben angezeigt werden.
+Hier werden die Sollbuchungen angezeigt und falls ein Sollstellungsskript im Produkt hinterlegt ist dann wird das Skript für die Generierung der Buchungen verwendet z. B. dessen Ausgaben werden oben angezeigt.
