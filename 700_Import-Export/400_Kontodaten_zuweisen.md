@@ -6,7 +6,7 @@ Starten Sie den Dialog *importierte Buchungen zuweisen* über Menü *Import/Expo
 
 In der untere Hälfte sehen Sie die Liste der Buchungen mit der Vorschlag wie die Buchungen verbucht werden sollen. Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. Das zu verwendende Konto wird auf der Produktmaske (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
 
-Neben der Möglichkeit eine neue Buchung anlegen, können Sie eine Kontobewegung direkt bei der Bank abfragen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442404114905.png).  Der folgende Dialog, informiert über den Anzahl der importierten Buchungen. Die werden dann in der Liste der Buchungen die noch nicht verbucht sind, eingefügt. 
+Neben der Möglichkeit eine neue Buchung anzulegen können Sie die Kontobewegungen über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442404114905.png) direkt bei der Bank abfragen.  Der folgende Dialog, informiert über den Anzahl der importierten Buchungen. Die werden dann in der Liste der Buchungen die noch nicht verbucht sind, eingefügt. 
 
 ![](http://xpecto.github.io/docs/img/img_1442408739054.png)
 
