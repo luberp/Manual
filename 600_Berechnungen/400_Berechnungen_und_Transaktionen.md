@@ -47,9 +47,8 @@ Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie a
 
 <p>Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1441204665555.png" alt="" title=""></p>
-
-<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187895311.png" alt="" title=""> resultiert die Buchungen-Liste. Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter <em>Buchungsdaten</em> automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe <em>Bearbeiten → Stapelbuchung</em>).</p>
+<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441187895311.png" alt="" title=""> resultiert die Buchungen-Liste.  Die Buchungen werden erstellt über ein Berechnungsskript oder über die Verbuchungsvorschriften zu dieser Wertart aus dem Produkt. <br>
+Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter <em>Buchungsdaten</em> automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe <em>Bearbeiten → Stapelbuchung</em>).</p>
 
 <p>Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen enthält. </p>
 
