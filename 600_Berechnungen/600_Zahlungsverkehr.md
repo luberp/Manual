@@ -25,7 +25,7 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png
 ![](http://xpecto.github.io/docs/img/img_1440769740999.png)
 
 Noch dazu werden die verschiedene Ausgabeformate: PDF, CSV und XML in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordnersymbol, können Sie ihn öffnen. Die Dateien können dann über die entsprechenden Banksysteme eingereicht werden.
-Bei den einzelnen Verträgen würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieses Einzugs steht auf belastet da er zu Bank weitergegeben wurde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszug-Manager. Das System erkannt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang wird somit abgeschlossen.
+Bei den einzelnen Verträgen würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieses Einzugs steht auf belastet da er zu Bank weitergegeben wurde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszugs-Manager. Das System erkannt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang wird somit abgeschlossen.
 
 In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe *Berechnungen → Offenen Posten*). 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. Im oberen Bereich sind die erstellten Sollbuchungen zu sehen. 
