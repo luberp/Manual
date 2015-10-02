@@ -23,7 +23,9 @@ verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
 
 **Favoriten**
 Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Dazu muss der Bericht als *Allgemeiner Bericht*  für Favoriten markiert werden. (siehe *Extras → Anpassen → Berichte und Adressmuster → Berichte → Kategorien*).
+
 ![](http://xpecto.github.io/docs/img/img_1439387898787.png)
+
 Um ein Bericht direkt in das Hauptfenster zu generieren, wählen Sie dazu den gewünschten Datensatz in der Kunden- oder Vermittleransicht, und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
 ![](http://xpecto.github.io/docs/img/img_1439388275964.png)
