@@ -1,6 +1,6 @@
 *Zahlungsverkehr* ist ein zentrales Modul von xpectoPro, mit dem Sie Zahlungsaufträge wie Überweisungen, Lastschriften selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. 
-Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der ersten Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs erfasst.
-Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträge, die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. 
+Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der ersten Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs erfasst. 
+Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträge, die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. Diese Daten können getestet werden über *Berechnungen → Probeberechnung → Sollstellungstest*. 
 
 In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
 
@@ -28,4 +28,3 @@ Bei der einzelne Verträge würde dann der Zahlplan (Reiter *Sollbuchungen*) um 
 
 In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe *Berechnungen → Offenen Posten*). 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier eine Soll-Buchungssatz erstellt. Im oberen Bereich sind die erstellten Sollbuchungen zu sehen. 
-
