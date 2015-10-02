@@ -1,1 +1,1 @@
-Unter *zuletzt ausgewählt* bekommen Sie eine Übersicht von der Datensätze die Sie zuletzt geöffnet haben.  Um zurück zu dem vorherigen Datensatz zu gehen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443007252173.png) in der Symbol- und Funktionsleiste. 
+Unter *zuletzt ausgewählt* bekommen Sie eine Übersicht von den Datensätzen die Sie zuletzt geöffnet haben.  Um zurück zu dem vorherigen Datensatz zu gehen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443007252173.png) in der Symbol- und Funktionsleiste. 
