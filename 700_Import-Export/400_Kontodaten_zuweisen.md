@@ -14,13 +14,13 @@ Hier können Sie direkt durch Buchungen blättern ![](http://xpecto.github.io/do
 
 Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442404617262.png) werden Sie zu dem Stapelbuchungsdialog weitergeleitet (siehe *Bearbeiten → Stapelbuchung*). 
 
-In der Feldgruppe *Buchung* sehen Sie den Absender, den Verwendungszweck und die Details der Buchung.
+In der Feldgruppe *Buchung* sehen Sie den Zahlungspflichtigen/Kontoinhaber/Absender, den Verwendungszweck und die Details der Buchung.
 
 ![](http://xpecto.github.io/docs/img/img_1442410642193.png)
  
 Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. 
 
- Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. Name um alle Verträge mit Vertragsbezeichner zu erhalten. Ordnen Sie nun anhand der Zahlungsdaten die importierten Buchungsdaten ihrem zugehörigen Vertrag zu. Die Zuordnung geschieht durch Selektieren eines Vertrags in der links unten angezeigten Vertragsliste.
+ Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. Name um alle Verträge mit Vertragsbezeichner zu erhalten. Ordnen Sie nun anhand der Zahlungsdaten die importierten Buchungsdaten ihrem zugehörigen Vertrag zu. Die Zuordnung geschieht durch Selektieren eines Vertrags in der angezeigten Vertrags- und Beteiligungsliste.
  
 ![](http://xpecto.github.io/docs/img/img_1442410773367.png)
 
