@@ -6,8 +6,9 @@ Diese Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, 
  
  Die Berechnung der Buchungen wird über die Maske *xpectoPro Berechnungen und Transaktionen*
 durchgeführt. Die kann erreicht werden unter Menüleiste *Berechnungen → Berechnungen und Transaktionen*.
-Um einen neuen *Berechnungsprofil* anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1441197553235.png).
-In der Reiter *Konfiguration* werden die Allgemeine Daten eingegeben, wie der Name und das Zeitintervall.
+Um einen neues *Berechnungsprofil* anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1441197553235.png).
+
+In dem Reiter *Konfiguration* werden die Allgemeinen Daten eingegeben, wie der Name und das Zeitintervall.
 
 ![](http://xpecto.github.io/docs/img/img_1441196703230.png)
 
