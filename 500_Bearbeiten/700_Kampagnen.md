@@ -9,9 +9,9 @@ Um eine neue Kampagne anzulegen klicken Sie in der Maske *Kampagnen und Massendr
 Auf der linke Seite wird eine Übersicht der bereits bestehenden Kampagnen dargestellt.
 ![](http://xpecto.github.io/docs/img/img_1434112012527.png)
 
-Auf der rechte Seite in der Eingabemaske stehen die Reiter *Allgemein* und *Kampagne*.
+Auf der rechten Seite in der Eingabemaske stehen die Reiter *Allgemein* und *Kampagne*.
 
-Der Reiter *Allgemein* beinhaltet der Name,  die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.
+Der Reiter *Allgemein* beinhaltet den Namen, die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.
 
 Der Karteireiter *Kampagne* ist in mehrere Feldgruppen unterteilt.
 
