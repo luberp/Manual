@@ -27,7 +27,10 @@ Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managemen
 
 Der Reiter *Buchungsdaten* enthält die Liste der Buchungen  die generell für den Produkt anfallen. 
 
-In dem Reiter *Belege* können Belegarten und z.B. Gutschriften, Rechnungen zu dem Vertrag angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
+In dem Reiter *Belege* können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
+
+Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Verträgen (über Berechnungen und Transaktionen abgerechnet)
+
 
 Unter Reiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, und zwar die Provisionssätze nach Karrierestufen (siehe *Datei → Neu → Vermittler → Provisionierung*) angelegt.
 
