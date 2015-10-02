@@ -25,7 +25,7 @@ In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *v
 
 Die *individuelle Abfrage* gibt Ihnen die Möglichkeit eine schon erstellte Abfrage (siehe *Bearbeiten → Abfragen erstellen → Kampagne*), zu bearbeiten. 
 
-Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es eröffnet sich der Dialog *Abfrage editieren für Kampagne.*
+Um eine individuelle Abfrage zu bearbeiten klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1435065913280.png). Es öffnet sich der Dialog *Abfrage editieren für Kampagne.*
 
 ![](http://xpecto.github.io/docs/img/img_1439298144966.png)
 
