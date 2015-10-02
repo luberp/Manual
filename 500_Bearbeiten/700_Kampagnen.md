@@ -42,7 +42,7 @@ In der Feldgruppe *Aktion wählen* können Sie die Funktion die für Ihre Kampag
 
 ![](http://xpecto.github.io/docs/img/img_1439300124949.png)
 
-Beispiel: Es sollen neue Kunden gefunden werden, und zwar aus dem Adressbestand sollen alle potentielle Kunden mit einem Email, über neue Produkte informiert werden. Schreiben Sie allen Teilnehmer der Kampagne per Email an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
+Beispiel: Es sollen neue Kunden gefunden werden, und zwar aus dem Adressbestand sollen alle potentielle Kunden mit einer E-Mail Adresse, über neue Produkte informiert werden. Schreiben Sie allen Teilnehmer der Kampagne per E-Mail an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
 
 Als erstes erstellen Sie die Abfrage um die Kunden auszuwählen. Starten Sie hier über Bearbeiten → Abfragen erstellen der *Abfragen und Listen* Editor. 
 
@@ -52,8 +52,8 @@ Nachdem Sie die Abfrage erstellt  und die benötigte Felder ausgewählt haben,  
 
 Starten Sie eine neue Kampagne über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1433864762504.png). 
 
-Es wird eine neue Kampagne angelegt mit einen von xpectoPro automatisch generierter Name.
-In dem Reiter Allgemein geben Sie  *Informationskampagne* für den Namen und eine optionale Beschreibung für Ihre Kampagne an. Speichern Sie Ihre Änderungen.
+Es wird eine neue Kampagne angelegt mit einem von xpectoPro automatisch generierten Namen angelegt.
+In dem Reiter Allgemein geben Sie *Informationskampagne* für den Namen und eine optionale Beschreibung für Ihre Kampagne an. Speichern Sie Ihre Änderungen.
 
 In dem Reiter *Kampagne* wählen Sie unter Aktion Berichte drucken als Bericht die Infoschreiben (siehe *Extras → Anpassen → Berichte und Adressmuster*), 
 
