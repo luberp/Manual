@@ -4,7 +4,7 @@ Neben Berichten können Sie auch Adressmuster, Textbausteine und individuelle Sc
 
 Über die Symbolleiste ![](http://xpecto.github.io/docs/img/img_1442245724286.png) oder über Menü *Extras → Anpassen → Berichte und Adressmuster* starten Sie den *xpectoPro Berichte und Textbausteine* -Dialog.
 
-Berichte werden über Namen unterschieden, und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424086630188.png) um eine neue Gruppe anzulegen. 
+Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424086630188.png) um eine neue Berichtsgruppe anzulegen. 
 
 ![](http://xpecto.github.io/docs/img/img_1424086718173.png)
 
