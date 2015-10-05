@@ -64,8 +64,8 @@ Unter dem Reiter *Versandoptionen* werden die Parameter für die Online-Zustellu
 
 In dem Dialog *xpectoPro Berichte und Textbausteine* über die Symbolleiste, kann der aktuell selektierte Bericht gelöscht, exportiert oder importiert werden. 
 
-*Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.
+Ein*Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.
 
-*Textbausteine* sind Textsegmente, die in einen individuellen Schreiben eingebaut werden können. 
+*Textbausteine* sind Textsegmente, die in ein individuelles Schreiben eingebaut werden können. 
 
-*Individuelle Schreiben* können Dokument die aus Textbausteine und statische Elemente gebaut werden können.
+*Individuelle Schreiben* sind Dokumente die aus Textbausteine und statische Elemente gebaut werden können.
