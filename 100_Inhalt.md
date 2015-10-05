@@ -71,7 +71,7 @@
            *  8.3.2. [Oberflächen und Nachschlagslisten](http://help.xpecto.de/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten)
            *  8.3.3. [Prozesse, Rechte und Batchjobs](http://help.xpecto.de/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs)
            *  8.3.4. [Optimierung](http://help.xpecto.de/Extras/Anpassen/Optimierung)
-           *  8.3.5. [Datenbank Backup](http://help.xpecto.de/Extras/Anpassen/Datenbank_backup)
+           *  8.3.5. [Datenbank Backup](http://help.xpecto.de/Extras/Anpassen/Datenbank_Backup)
 *  8.4. [Code Center](http://help.xpecto.de/Extras/Code_Center)
 *  8.5. [Kommando ausführen](http://help.xpecto.de/Extras/Kommando_ausfuehren)
 *  8.6. [Update](http://help.xpecto.de/Extras/Update)
