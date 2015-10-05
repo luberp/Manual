@@ -30,7 +30,7 @@ Durch einen Klick auf die Schaltfläche *Feld erstellen* wird das Datenbankfeld 
 
 Unter *2b. spezielle Felder anlegen*, werden falls gewünscht, spezielle Felder angelegt wie *Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz*.
 
-Auf dem Karteireiter *Vorschau* kann jederzeit eine Vorschau der bearbeitete Oberfläche angezeigt werden, auch ohne die Änderungen vorher zu speichern.
+Auf dem Karteireiter *Vorschau* kann jederzeit eine Vorschau der bearbeiteten Oberfläche angezeigt werden, auch ohne die Änderungen vorher zu speichern.
 
 Über das Symbol ![](http://xpecto.github.io/docs/img/img_1442580639187.png), kann eine neue Tabelle in der Datenbank angelegt werden. 
 
