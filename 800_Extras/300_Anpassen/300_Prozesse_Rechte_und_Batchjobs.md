@@ -51,4 +51,4 @@ Ein neuer Batchjob kann mit einem Klick auf das Symbol ![](http://xpecto.github.
 
 ![](http://xpecto.github.io/docs/img/img_1442583492464.png)
 
-Über die Druckvorschau ![](http://xpecto.github.io/docs/img/img_1442847675550.png) wird ein Ausdruck der aktuellen Eingabemaske gemacht, und zwar von dem Reiter der gerade aktiv ist. Die dazugehörigen Details stehen oben auf der Seite. Um die Druckvorschau-Funktion zu öffnen, klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442583883155.png) unter in der Symbolleiste auf. In das Fenster *Print Preview* kann die Seite eingerichtet, und falls gewünscht gedruckt werden.
+Über die Druckvorschau ![](http://xpecto.github.io/docs/img/img_1442847675550.png) wird ein Ausdruck der aktuellen Eingabemaske gemacht, und zwar von dem Reiter der gerade aktiv ist. Die dazugehörigen Details stehen oben auf der Seite. Um die Druckvorschau-Funktion zu öffnen, klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442583883155.png) in der Symbolleiste. In das Fenster *Print Preview* kann die Seite eingerichtet, und falls gewünscht gedruckt werden.
