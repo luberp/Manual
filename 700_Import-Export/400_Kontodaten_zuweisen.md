@@ -34,8 +34,7 @@ Markierte Buchungen, die nicht gespeichert werden sollen, können mit der Schalt
 
 *Buchungen aufteilen* teilt die Buchung in 2 Buchungen auf. Der Aufteilungsbetrag kann eingegeben werden. Die so entstandene Buchungen können dann wieder verbucht werden.
 
-Buchungen übertragen die Buchungen werden nach einen anderen Fond übertragen. Unter der Schaltfläche 
-![](http://xpecto.github.io/docs/img/img_1442406481698.png), werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter *geparkte Buchungen anzeigen.*
+*Buchungen übertragen* damit werden die Buchungen von anderen Fonds auf einen anderen übertragen. Unter der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442406481698.png), werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter *geparkte Buchungen anzeigen.*
 
 Um der Vorgang ein Prozess zuzuweisen, setzen Sie in das Checkbox *Prozess starten* ein Häckchen. Der Prozess wird dann in der Wiedervorlage-Liste, bei der verantwortliche Person angezeigt.
 
