@@ -24,7 +24,7 @@ Wählen Sie unter *1. Tabelle wählen* die Datenbanktabelle, die erweitert werde
 
 In dem Eingabefeld *Ausgabeformat* kann optional das Ausgabeformat des Datenfeldes angegeben werden, z.B.  #.##0,00. 
 
-In dem Eingabefeld *Parameter* kann man bestimmten Parameter für das Feld angegeben werden. 
+In dem Eingabefeld *Parameter* kann man bestimmte Parameter oder eine SQL-Abfrage für das Feld angegeben werden. 
 
 Durch einen Klick auf die Schaltfläche *Feld erstellen* wird das Datenbankfeld angelegt.
 
