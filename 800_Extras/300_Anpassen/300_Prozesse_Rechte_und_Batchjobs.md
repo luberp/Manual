@@ -42,13 +42,13 @@ Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und bet�
 
 Über Gruppen-Rechte gelten die Berechtigungen die Sie dieser Gruppe geben, grundsätzlich für alle Mitglieder der Gruppe. 
 
-Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1442583757418.png) holt alle Benutzer aus Active Directoy ab und speichert diese.In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. 
+Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1442583757418.png) holt alle Benutzer aus dem Active Directoy ab und speichert diese. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. 
 
 **Batchjobs: Allgemein**
 
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
-Einen neuen Batchjob kann mit einem Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442846537833.png) angelegt werden.
+Ein neuer Batchjob kann mit einem Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442846537833.png) angelegt werden.
 
 ![](http://xpecto.github.io/docs/img/img_1442583492464.png)
 
-Unter dem Druckvorschau ![](http://xpecto.github.io/docs/img/img_1442847675550.png) wird einen Ausdruck in der aktuelle Eingabemaske gemacht, und zwar von dem Reiter der gerade aktiv ist. Die dazugehörige Details stehen oben auf der Seite. Um die Druckvorschau-Funktion zu öffnen, klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442583883155.png)  unter  in der Symbolleiste auf. In das Fenster *Print Preview* kann die Seite eingerichtet, und falls gewünscht gedruckt werden.
+Über die Druckvorschau ![](http://xpecto.github.io/docs/img/img_1442847675550.png) wird ein Ausdruck der aktuellen Eingabemaske gemacht, und zwar von dem Reiter der gerade aktiv ist. Die dazugehörigen Details stehen oben auf der Seite. Um die Druckvorschau-Funktion zu öffnen, klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442583883155.png) unter in der Symbolleiste auf. In das Fenster *Print Preview* kann die Seite eingerichtet, und falls gewünscht gedruckt werden.
