@@ -39,6 +39,6 @@ Markierte Buchungen, die nicht gespeichert werden sollen, können mit der Schalt
 Um den Vorgang einem Prozess zuzuweisen, setzen Sie in der Checkbox *Prozess starten* ein Häkchen. Der Prozess wird dann in der Wiedervorlage-Liste, bei der verantwortlichen Person angezeigt.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442236615351.png), speichern Sie die zum Vertrag zugewiesenen Buchungen (das Speichern ist nur möglich, wenn die Summe der eingegebenen Split-Beträge exakt den Buchungsbetrag ergibt). Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt. 
-Alle gespeicherte Buchungen werden in der interne Buchhaltung aufgenommen ( siehe *Bearbeiten → Stapelbuchung* und unter Vertrag Reiter *Buchungsdaten* angezeigt.
+Alle gespeicherten Buchungen werden in die interne Buchhaltung aufgenommen ( siehe *Bearbeiten → Stapelbuchung* und unter Vertrag Reiter *Buchungsdaten* angezeigt.
 
 Eine falsch importierte Buchung kann im Nachhinein gelöscht werden, und zwar in dem Dialog *Stapelbuchung*. Der Dialog kann über *Bearbeiten → Stapelbuchung* oder über *Bearbeiten → Beteiligungs-/Vertragsbuchungen* geöffnet werden. Markieren Sie hier die gewünschte Buchung und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442912298087.png). 
