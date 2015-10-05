@@ -8,7 +8,7 @@ In xpectoPro sind viele Eingabenmasken individuell anpassbar. Dies bezieht sich 
 
 Auf dem Reiter *Vorschau* wird eine Vorschau von der Oberfläche dargestellt, auch ohne die Änderungen vorher zu speichern. Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen.
 
-Unter die Schaltfläche *Mustervorlage* ![](http://xpecto.github.io/docs/img/img_1424264077326.png) wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. 
+Über die Schaltfläche *Mustervorlage* ![](http://xpecto.github.io/docs/img/img_1424264077326.png) wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. 
 
 ![](http://xpecto.github.io/docs/img/img_1442581226190.png)
 
