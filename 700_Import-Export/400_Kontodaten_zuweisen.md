@@ -26,7 +26,7 @@ Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwe
 
 Im Bereich unten kann das Konto für den zu erzeugenden Buchungssatz ausgewählt werden. Werden hier mehrere Zeilen eingetragen, so wird die Bankbuchung in mehrere Buchungssätze gesplittet. Die Aufteilung der Beträge muss dabei manuell eingetragen werden. Der Buchungstext kann per Hand angepasst werden.
 
-Über die Schaltfläche *Sammelauftrag auflösen* werden Sie aus einen einem Zahlungsauftrag mehrere Einzelaufträge wie Überweisungen oder Lastschriften erstellen. 
+Über die Schaltfläche *Sammelauftrag auflösen* können Sie aus einem Zahlungsauftrag mehrere Einzelaufträge wie Überweisungen oder Lastschriften erstellen. 
 
 ![](http://xpecto.github.io/docs/img/img_1442411007721.png)
 
