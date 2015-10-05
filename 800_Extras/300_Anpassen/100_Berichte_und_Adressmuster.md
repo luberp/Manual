@@ -21,7 +21,7 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrag
 | Bericht Art           |    Beschreibung     |  
 | ------------- |:-------------| 
 | Microsoft Word      | Word-Bericht| 
-| integrierter Berichtsgenerator  |ActiveReports:  webbasierter Format| 
+| integrierter Berichtsgenerator  |ActiveReports:  webbasiertes Format| 
 | Datenexport     | Excel-Bericht in Tabellenform | 
 | HTML Mail    | HTML Format | 
 | PDF Formular     | PDF Format | 
