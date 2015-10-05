@@ -13,11 +13,11 @@ Beispiel Mahnwesen:
 - Kunde hat gezahlt → erledigt 
 - Kunde hat nicht gezahlt → nächste Mahnstufe
 
-Um einen Prozess neu anzulegen klicken Sie in dem Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442841693322.png). Geben Sie den Name für Ihren neuen Prozess und wie den Prozess erstellt werden soll. Bestätigen Sie dann Ihre Eingaben mit einen Klick auf *OK*. 
+Um einen Prozess neu anzulegen klicken Sie in dem Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/img/img_1442841693322.png). Geben Sie den Name für Ihren neuen Prozess und die gewünschte Vorlage dazu. Bestätigen Sie dann Ihre Eingaben mit einen Klick auf *OK*. 
 
 ![](http://xpecto.github.io/docs/img/img_1442842675187.png)
 
-Unter dem Reiter *Designer* haben Sie dann die Möglichkeit der Prozess zu designen. 
+Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu designen. 
 
 ![](http://xpecto.github.io/docs/img/img_1442842994942.png)
 
