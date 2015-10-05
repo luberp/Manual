@@ -36,7 +36,7 @@ Markierte Buchungen, die nicht gespeichert werden sollen, können mit der Schalt
 
 *Buchungen übertragen* damit werden die Buchungen von anderen Fonds auf einen anderen übertragen. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442406481698.png), werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter *geparkte Buchungen anzeigen.*
 
-Um der Vorgang ein Prozess zuzuweisen, setzen Sie in das Checkbox *Prozess starten* ein Häckchen. Der Prozess wird dann in der Wiedervorlage-Liste, bei der verantwortliche Person angezeigt.
+Um den Vorgang einem Prozess zuzuweisen, setzen Sie in der Checkbox *Prozess starten* ein Häkchen. Der Prozess wird dann in der Wiedervorlage-Liste, bei der verantwortlichen Person angezeigt.
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442236615351.png), speichern Sie die zum Vertrag zugewiesenen Buchungen (das Speichern ist nur möglich, wenn die Summe der eingegebenen Split-Beträge exakt den Buchungsbetrag ergibt). Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt. 
 Alle gespeicherte Buchungen werden in der interne Buchhaltung aufgenommen ( siehe *Bearbeiten → Stapelbuchung* und unter Vertrag Reiter *Buchungsdaten* angezeigt.
