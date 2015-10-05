@@ -14,9 +14,9 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png
 
 ![](http://xpecto.github.io/docs/img/img_1442415998478.png)
 
-Ein neuer Bericht kann entweder als ein *leerer Bericht*, *Kopie eines bestehenden Berichts*, *ein tabellarischer Bericht* oder *xpecto Vorlage* angelegt werden. 
+Ein neuer Bericht kann entweder als ein *leerer Bericht*, *Kopie eines bestehenden Berichts*, *ein tabellarischer Bericht* oder aus einer *xpecto Vorlage* angelegt werden. 
 In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden. 
-Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrage generiert und im Bericht hinterlegt. 
+Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrage generiert und im Bericht hinterlegt. 
 
 | Bericht Art           |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -25,7 +25,7 @@ Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankanfrag
 | Datenexport     | Excel-Bericht in Tabellenform | 
 | HTML Mail    | HTML Format | 
 | PDF Formular     | PDF Format | 
-| Meta-Bericht     | Fasst mehrere Berichte zusammen | 
+| Meta-Bericht     | Fasst mehrere Berichte zu einem Bericht zusammen | 
 | Einfaches RTF oder Docx    | RTF oder Docx Format| 
 | Festes Seiten Layout    | Seiten Layout vorgegeben| 
 
