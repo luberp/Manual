@@ -8,7 +8,7 @@
 *  2.3. [Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
 3.   [Einführung Oberfläche](http://help.xpecto.de/Einfuehrung_Oberflaeche)
 *  3.1. [Menueleiste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Menueleiste)
-*  3.2. [Symbol- und Funktionsleiste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Symbol-_und_Funktionsleiste)
+*  3.2. [Symbolleiste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Symbol-_und_Funktionsleiste)
 *  3.3. [Suche](http://help.xpecto.de/Einfuehrung_Oberflaeche/Suche)
 *  3.4. [Navigation](http://help.xpecto.de/Einfuehrung_Oberflaeche/Navigation)
 *  3.5. [Wiedervorlage Liste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Wiedervorlage_Liste)
