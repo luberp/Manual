@@ -1,4 +1,4 @@
-Die Symbol- und Funktionsleiste besteht aus folgende Elemente:
+Die Symbolleiste besteht aus folgende Elemente:
 
 |  Symbole und Funktionen          |    Beschreibung     |  
 | ------------- |:-------------| 
