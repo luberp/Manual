@@ -24,3 +24,4 @@ Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
 | ![](http://xpecto.github.io/docs/img/img_1461049387725.png)     | Dokumente archivieren ein/aus | 
 | ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments. Siehe Scanmanager | 
 | ![](http://xpecto.github.io/docs/img/img_1429028456194.png)      | Abrechnungszeitraum | 
+
