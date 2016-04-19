@@ -17,7 +17,6 @@ Registerkarten: Schnellzugriff, Stammdaten, Vertrieb, Buchhaltung, Berichte und 
 
 Der Schnellzugriff enthält die Gruppen Allgemein und Schnelldruck. Der Vorteil der Registerkarte Schnellzugriff ist, dass sie immer im Vordergrund vorhanden ist, im Gegensatz zu den Gruppen der anderen Registerkarten.
 
-
 ![](http://xpecto.github.io/docs/img/img_1461050935992.png)
 
 Im Verlauf dieses Handbuchs werden Ihnen alle Menüpunkte erklärt.
