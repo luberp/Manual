@@ -1,4 +1,4 @@
-Das Suchfeld befindet sich in beiden Ansichten oben links unter der Symbol- und Funktionsleiste und dient der schnelle Suche.
+Das Suchfeld befindet sich in beiden Ansichten oben links unter der Symbolleiste und dient der schnelle Suche.
 Sie können die Suche nach Kunden, Verträge, Vertriebspartner direkt in das Suchfeld starten.
 
 ![](http://xpecto.github.io/docs/img/img_1461050179206.png)
