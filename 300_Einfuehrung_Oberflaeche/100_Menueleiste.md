@@ -11,7 +11,7 @@ Die Menüeinträge werden durch einen einfachen Klick ausgewählt. Die Menüeint
 Die moderne Funktionsleiste besteht aus: Registerkarten und Gruppen (diese ersetzen die Menü- und Symbolleiste in der klassischen Ansicht).
 
 Jede Registerkarte beinhaltet mehrere Gruppen, der jeweiligen Namen der Gruppe wird unten angegeben. Jede Gruppe beinhaltet mehrere Funktionen.
-Wenn Sie auf eine Registerkarte klicken, werden die Gruppen und die entsprechende Funktionen angezeigt.
+Wenn Sie auf eine Registerkarte klicken, werden die entsprechende Gruppen und Funktionen angezeigt.
 
 Registerkarten: Schnellzugriff, Stammdaten, Vertrieb, Buchhaltung, Berichte und Massenaktionen, Datenbearbeitung, Suche, System.
 
