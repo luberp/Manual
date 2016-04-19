@@ -1,4 +1,4 @@
-Die Symbolleiste besteht aus folgende Elemente:
+Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
 
 |  Symbole und Funktionen          |    Beschreibung     |  
 | ------------- |:-------------| 
