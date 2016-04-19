@@ -10,7 +10,7 @@
 <body><div class="container"><p>Das Suchfeld befindet sich in beiden Ansichten oben links unter der Symbolleiste und dient der schnelle Suche. <br>
 Sie können die Suche nach Kunden, Verträge, Vertriebspartner direkt in das Suchfeld starten.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461051633271.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461051699351.png" alt="" title=""></p>
 
 <p>Nachdem Sie die gesuchten Daten eingegeben haben, starten Sie die Suche durch betätigen der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461050124818.png" alt="" title=""> oder die Enter-Taste.  <br>
 Die Suche wird gelöscht durch die Betätigung der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461050223348.png" alt="" title=""> .  <br>
