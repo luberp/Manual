@@ -1,26 +1,108 @@
-Die Symbol- und Funktionsleiste besteht aus folgende Elemente:
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>200_Symbolleiste.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Die Symbolleiste besteht aus folgende Elemente:</p>
 
-|  Symbole und Funktionen          |    Beschreibung     |  
-| ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1429021811683.png)       | neuen Kunden anlegen| 
-| ![](http://xpecto.github.io/docs/img/img_1429021853043.png)     | neuen Vertrag anlegen| 
-| ![](http://xpecto.github.io/docs/img/img_1429027293249.png)      | neuen Vermittler anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1429027337842.png)      | Adresse neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1429027370695.png)      | Veranstaltungen neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | 
-| ![](http://xpecto.github.io/docs/img/img_1429027446779.png)      | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | 
-| ![](http://xpecto.github.io/docs/img/img_1429027549896.png)      | geht zum zuletzt ausgewählten Datensatz zurück | 
-| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen. |
-| ![](http://xpecto.github.io/docs/img/img_1429027648565.png)      | Bericht bearbeiten. Dialog: *xpectoPro Berichte und Textbausteine*| 
-| ![](http://xpecto.github.io/docs/img/img_1429027696041.png)      | zu den Firmen-Daten | 
-| ![](http://xpecto.github.io/docs/img/img_1429027763628.png)      | zu den Produkt-Daten | 
-| ![](http://xpecto.github.io/docs/img/img_1429027794683.png)      | neuen Prozess anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1429027888314.png)      | Suchdialog öffnen | 
-| ![](http://xpecto.github.io/docs/img/img_1429099037962.png)     | Favoriten | 
-| ![](http://xpecto.github.io/docs/img/img_1429027980198.png)      | Druckvorschau/Seitenansicht | 
-| ![](http://xpecto.github.io/docs/img/img_1429098923235.png)      | Druckoptionen | 
-| ![](http://xpecto.github.io/docs/img/img_1429028169116.png)      | Bericht in Datei exportieren oder drucken | 
-| ![](http://xpecto.github.io/docs/img/img_1429028337350.png)     | Dokumente archivieren ein/aus | 
-| ![](http://xpecto.github.io/docs/img/img_1429028380947.png)      | Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments. Siehe Scanmanager | 
-| ![](http://xpecto.github.io/docs/img/img_1429028456194.png)      | Abrechnungszeitraum | 
-
+<table>
+<thead>
+<tr>
+  <th>Symbole und Funktionen</th>
+  <th align="left">Beschreibung</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461048771730.png" alt="" title=""></td>
+  <td align="left">Kundendaten neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461048810565.png" alt="" title=""></td>
+  <td align="left">Vertragsdaten anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461048869523.png" alt="" title=""></td>
+  <td align="left">Vertriebspartner neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461048899282.png" alt="" title=""></td>
+  <td align="left">Adressen neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461048928890.png" alt="" title=""></td>
+  <td align="left">Veranstaltungen neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461048980189.png" alt="" title=""></td>
+  <td align="left">Produkte neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027405943.png" alt="" title=""></td>
+  <td align="left">Speichern</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027446779.png" alt="" title=""></td>
+  <td align="left">Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag)</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027549896.png" alt="" title=""></td>
+  <td align="left">geht zum zuletzt ausgewählten Datensatz zurück</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027617646.png" alt="" title=""></td>
+  <td align="left">Bericht erzeugen.</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027648565.png" alt="" title=""></td>
+  <td align="left">Bericht bearbeiten. Dialog: <em>xpectoPro Berichte und Textbausteine</em></td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027696041.png" alt="" title=""></td>
+  <td align="left">zu den Firmen-Daten</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027763628.png" alt="" title=""></td>
+  <td align="left">zu den Produkt-Daten</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027794683.png" alt="" title=""></td>
+  <td align="left">neuen Prozess anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027888314.png" alt="" title=""></td>
+  <td align="left">Suchdialog öffnen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429099037962.png" alt="" title=""></td>
+  <td align="left">Favoriten</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429027980198.png" alt="" title=""></td>
+  <td align="left">Druckvorschau/Seitenansicht</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429098923235.png" alt="" title=""></td>
+  <td align="left">Druckoptionen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429028169116.png" alt="" title=""></td>
+  <td align="left">Bericht in Datei exportieren oder drucken</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429028337350.png" alt="" title=""></td>
+  <td align="left">Dokumente archivieren ein/aus</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429028380947.png" alt="" title=""></td>
+  <td align="left">Druckt Barcode-Aufkleber zur Registrierung eines neuen Dokuments. Siehe Scanmanager</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1429028456194.png" alt="" title=""></td>
+  <td align="left">Abrechnungszeitraum</td>
+</tr>
+</tbody></table></div></body>
+</html>
