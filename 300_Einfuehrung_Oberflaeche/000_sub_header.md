@@ -1,11 +1,13 @@
 Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software. 
 Hier haben Sie die Möglichkeit zwischen 2 Menü-Ansichten zu wechseln klassisch oder modern. Durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1460976709067.png) können Sie das Hauptfenster mit der klassischer oder moderner Funktionsleiste.
 
-Das xpectoPro Hauptfenster mit der klassischen Funktionsleiste besteht aus: Menüleiste, Symbolleiste, Suche, Navigation, Wiedervorlage Liste, Eingabemaske und Statusleiste.
+Das xpectoPro Hauptfenster enthält: Funktionsleiste klassisch/modern, Suche, Navigation, Wiedervorlage Liste, Eingabemaske und Statusleiste.
+
+Die klassische Funktionsleiste besteht aus: Menüleiste, Symbolleiste.
 
 ![](http://xpecto.github.io/docs/img/img_1460975232635.png)
 
-Das xpectoPro Hauptfenster mit der moderne Fuktionsleiste besteht aus: Registerkarten und  Gruppen (diese ersetzen die Menü- und Symbolleiste), Suche, Navigation, Wiedervorlage Liste, Eingabemaske und Statusleiste.
+Die moderne Funktionsleiste besteht aus: Registerkarten und  Gruppen (diese ersetzen die Menü- und Symbolleiste in dem klassischen Ansicht). 
 
 Die moderne Funktionsleiste beinhaltet 2 Hauptbereiche:
 
