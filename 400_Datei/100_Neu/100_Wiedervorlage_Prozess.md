@@ -1,93 +1,61 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>100_Wiedervorlage_Prozess.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Sie können für einen Benutzer oder für eine Arbeitsgruppe/Benutzergruppe hinterlegt werden. <br>
-Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem bzw. Vorgang anbieten. In der einfachsten Form können Sie nur die Angelegenheit als “erledigt” markieren.  <br>
-Umfangreichere Wiedervorlagen die mehrere Funktionen enthalten, werden so zu Prozessen. <br>
-Ein Prozess kann je nach Anforderung unterschiedliche Zustände haben und sehr komplex sein.  <br>
-Die damit verbundenen Zustände und Aktionen können graphisch in der klassischen Menü-Ansicht über <em>Extras → Anpassen → Prozesse, Rechte und Batchjobs</em> angesehen bzw. angepasst werden.  <br>
-In der modernen Menü-Ansicht können die graphische Zustände und Aktionen unter Registerkarte <em>System</em> Gruppe <em>Anpassungen</em> Funktion <em>Prozesse</em>. </p>
+Wiedervorlagen sind Erinnerungen oder Aufgabenliste die ein Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Sie können für einen Benutzer oder für eine Arbeitsgruppe/Benutzergruppe hinterlegt werden.
+Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem bzw. Vorgang anbieten. In der einfachsten Form können Sie nur die Angelegenheit als "erledigt" markieren. 
+Umfangreichere Wiedervorlagen die mehrere Funktionen enthalten, werden so zu Prozessen.
+Ein Prozess kann je nach Anforderung unterschiedliche Zustände haben und sehr komplex sein. 
+Die damit verbundenen Zustände und Aktionen können graphisch in der klassischen Menü-Ansicht über *Extras → Anpassen → Prozesse, Rechte und Batchjobs* angesehen bzw. angepasst werden. 
+In der modernen Menü-Ansicht können die graphische Zustände und Aktionen unter Registerkarte *System* Gruppe *Anpassungen* Funktion *Prozesse*. 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461142065801.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1461142065801.png)
 
-<p>Prozesse können wesentlich kompliziertere Abläufe verwalten wie zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.  <br>
-Nachdem der Prozess definiert wurde kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. </p>
+Prozesse können wesentlich kompliziertere Abläufe verwalten wie zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr. 
+Nachdem der Prozess definiert wurde kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. 
 
-<p>Die Wiedervorlagen können zu Kunden, Verträge, Vermittler, Personen und Veranstaltungen erzeugt werden. </p>
+Die Wiedervorlagen können zu Kunden, Verträge, Vermittler, Personen und Veranstaltungen erzeugt werden. 
 
-<p>In der klassischen Menü-Ansicht legen Sie eine neue Wiedervorlage an indem Sie auf <em>Datei → Neu → Wiedervorlage/Prozess</em> oder auf das Zahnradsymbol in der <em>Symbol- und Funktionsleiste</em><img src="http://xpecto.github.io/docs/img/img_1427124269211.png" alt="" title=""> klicken.</p>
+In der klassischen Menü-Ansicht legen Sie eine neue Wiedervorlage an indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* oder auf das Zahnradsymbol in der *Symbol- und Funktionsleiste*![](http://xpecto.github.io/docs/img/img_1427124269211.png) klicken.
 
-<p>In der modernen Menü-Ansicht klicken Sie in der Registerkarte <em>Datenbearbeitung</em> Gruppe <em>Zusatzfunktionen</em> auf die Funktion <em>Prozess starten</em>.</p>
+In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Datenbearbeitung* Gruppe *Zusatzfunktionen* auf die Funktion *Prozess starten*.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461141611483.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1461141611483.png)
 
-<p>Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen. <br>
-Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art: <em>Mahnprozess</em>.</p>
+Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen.  
+Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art: *Mahnprozess*.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1427125664097.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1427125664097.png)
 
-<p>Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden. Sie beschreiben im Betreff, die Aufgabe zu diesem Kontakt, legen ein Fälligkeitsdatum an, und der Verantwortlicher Mitarbeiter. <br>
-Ist der Fälligkeitszeitpunkt erreicht, öffnet sich die Wiedervorlage mit der Aufgabe.</p>
+Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden. Sie beschreiben im Betreff, die Aufgabe zu diesem Kontakt, legen ein Fälligkeitsdatum an, und der Verantwortlicher Mitarbeiter.
+Ist der Fälligkeitszeitpunkt erreicht, öffnet sich die Wiedervorlage mit der Aufgabe.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1434095731925.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1434095731925.png)
 
-<p>Mit einem Klick auf <em>OK</em> wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Liste  oder Wiedervorlage Seitenleiste, falls aktiv (siehe <em>Bearbeiten → Wiedervorlage Seitenleiste</em>). </p>
+Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Liste  oder Wiedervorlage Seitenleiste, falls aktiv (siehe *Bearbeiten → Wiedervorlage Seitenleiste*). 
 
-<p>Die  weitere Aktionen für den Mahnprozess sind:</p>
+Die  weitere Aktionen für den Mahnprozess sind:
 
-<table>
-<thead>
-<tr>
-  <th>Aktion</th>
-  <th align="left">Beschreibung</th>
-</tr>
-</thead>
-<tbody><tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1434096550097.png" alt="" title=""></td>
-  <td align="left">Öffnet die Bearbeitung für diesen Prozessschritt</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1434097634985.png" alt="" title=""></td>
-  <td align="left">Massenaktion: Startet die Wiedervorlagesteuerung für diesen Prozesszustand</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1434096802280.png" alt="" title=""></td>
-  <td align="left">Druckt den vorgegebenen Bericht</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1434096840070.png" alt="" title=""></td>
-  <td align="left">beendet die Wiedervolage</td>
-</tr>
-<tr>
-  <td><img src="http://xpecto.github.io/docs/img/img_1439219672662.png" alt="" title=""></td>
-  <td align="left">spezielle Aktion: Die gewählten Wiedervorlagen werden geschlossen</td>
-</tr>
-</tbody></table>
+|  Aktion            |    Beschreibung  |   
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/img/img_1434096550097.png)      | Öffnet die Bearbeitung für diesen Prozessschritt| 
+|  ![](http://xpecto.github.io/docs/img/img_1434097634985.png)     | Massenaktion: Startet die Wiedervorlagesteuerung für diesen Prozesszustand | 
+| ![](http://xpecto.github.io/docs/img/img_1434096802280.png)      | Druckt den vorgegebenen Bericht | 
+| ![](http://xpecto.github.io/docs/img/img_1434096840070.png)    | beendet die Wiedervolage | 
+|![](http://xpecto.github.io/docs/img/img_1439219672662.png)|spezielle Aktion: Die gewählten Wiedervorlagen werden geschlossen|
 
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434096550097.png) um die Wiedervorlage zu bearbeiten. 
 
-<p>Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1434096550097.png" alt="" title=""> um die Wiedervorlage zu bearbeiten. </p>
+![](http://xpecto.github.io/docs/img/img_1440410864115.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440410864115.png" alt="" title=""></p>
+In dem *Detailansicht* haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
+In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
 
-<p>In dem <em>Detailansicht</em> haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen. <br>
-In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.</p>
+![](http://xpecto.github.io/docs/img/img_1440410920717.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440410920717.png" alt="" title=""></p>
+Bei Wiedervorlagen die eine Prüfung enthalten können Sie zwischen *Prüfung OK* oder *nicht OK* wählen.
 
-<p>Bei Wiedervorlagen die eine Prüfung enthalten können Sie zwischen <em>Prüfung OK</em> oder <em>nicht OK</em> wählen.</p>
+Der Dialog *Wiedervorlage Steuerung* dient dazu für einen Prozess mit einem bestimmten Prozessschritt eine gewünschte Aktion gleichzeitig für mehrere Wiedervorlagen zu wählen und durchzuführen.
+Um den *Wiedervorlage Steuerung* Dialog zu öffnen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1434097634985.png) oder wählen Sie unter *Bearbeiten → Wiedervorlage Steuerung*. 
 
-<p>Der Dialog <em>Wiedervorlage Steuerung</em> dient dazu für einen Prozess mit einem bestimmten Prozessschritt eine gewünschte Aktion gleichzeitig für mehrere Wiedervorlagen zu wählen und durchzuführen. <br>
-Um den <em>Wiedervorlage Steuerung</em> Dialog zu öffnen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1434097634985.png" alt="" title=""> oder wählen Sie unter <em>Bearbeiten → Wiedervorlage Steuerung</em>. </p>
+Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstuffe 1 *Neuem Benutzer zuweisen*,  es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
 
-<p>Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstuffe 1 <em>Neuem Benutzer zuweisen</em>,  es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.</p>
+![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1434095945225.png" alt="" title=""></p>
-
-<p>Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf <em>Start</em>.</p></div></body>
-</html>
+Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
