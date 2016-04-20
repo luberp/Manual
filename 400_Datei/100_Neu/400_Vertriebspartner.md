@@ -97,6 +97,11 @@ Der Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
 Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
 Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit geographische Verteilung der Kunden und Vermittler auf der Karte zu sehen.
 
+> Bei den in xpectoPro verwalteten Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
+In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers.
+Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nach dem welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise.
+Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
+
  - **Provisionierung** 
 
 Bei den in xpectoPro verwalteten Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
