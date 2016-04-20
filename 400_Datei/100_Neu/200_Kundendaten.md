@@ -9,9 +9,6 @@ In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* 
 
 ![](http://xpecto.github.io/docs/img/img_1461138567329.png)
 
-
-
-
 Auf der linke Seite wird eine Übersicht der bereits bestehenden Kunden dargestellt.
 
 Um einen neuen Kunden anzulegen betätigen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> oder das Menü *Datei → Neu → Kunde*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
