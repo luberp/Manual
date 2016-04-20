@@ -38,22 +38,23 @@ Das Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsp
 <p><img src="http://xpecto.github.io/docs/img/img_1461146656342.png" alt="" title=""></p>
 
 <p>Der Unterkarteireiter <em>Rollen</em> beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu einer anderen Person anlegen oder eine neue Adresse für die markierte Person hinzufügen.  <br>
-Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf das Symbol:  <img src="http://xpecto.github.io/docs/img/img046.png" alt="" title="">. </p>
+Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter <em>Rollen</em> auf das Symbol:  <img src="http://xpecto.github.io/docs/img/img_1461148742133.png" alt="" title="">. </p>
 
 <p>In dem Dialog <em>Person oder Anschrift</em> kann eine neue Verknüpfung oder eine neue Anschrift erstellt werden. Als zweite Möglichkeit kann die Rolle als eine neue Anschrift ohne weitere Funktionen eingefügt werden. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1438074839670.png" alt="" title=""></p>
 
-<p>Für eine neue Verknüpfung öffnet sich die Maske <em>Adresse bearbeiten</em>:</p>
+<p>Für eine neue Verknüpfung öffnet sich die Maske <em>Adresse bearbeiten</em>. <br>
+Wählen Sie hier einen Typ für Ihre Verknüpfung.  <br>
+Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461148844168.png" alt="" title="">, es eröffnet sich hier der Suchdialog (siehe <em>Bearbeiten → Erweiterte Suche</em>).  <br>
+Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461148931706.png" alt="" title="">, eine neue Person anzulegen.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442422955822.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461148513327.png" alt="" title=""></p>
 
-<p>Wählen Sie hier einen Typ für Ihre Verknüpfung.  <br>
-Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld <em>Link</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title="">, es eröffnet sich hier der Suchdialog (siehe <em>Bearbeiten → Erweiterte Suche</em>). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1438327864939.png" alt="" title="">, eine neue Person anzulegen.</p>
+<p>Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf <em>OK</em>.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu <em>Strg + S</em> oder das Symbol<img src="http://xpecto.github.io/docs/img/img_1438089018212.png" alt="" title="">. <br>
+Um eine Rolle zu löschen wählen Sie das Symbol<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
 
-<p>Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf <em>OK</em>.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu <em>Strg + S</em> oder das Symbol<img src="http://xpecto.github.io/docs/img/img_1438089018212.png" alt="" title="">.</p>
-
-<p>Um eine Rolle zu löschen wählen Sie das Symbol<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461149053206.png" alt="" title=""></p>
 
 <p>Die Daten für mehrere Kontoverbindungen können unter dem Unterkarteireiter <em>Kontoverbindungen</em> erfasst.</p>
 
@@ -62,6 +63,10 @@ Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eing
 <p>Der Unterkarteireiter <em>Kirchensteuer</em> dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. Die Kirchensteuersätze die hier angesehen oder gepflegt werden, können über die Kirchensteuerabfrage vom Bundeszentralamt für Steuer abgeholt werden.</p>
 
 <p>Der Unterkarteireiter <em>Auslands-Steuer</em> ist relevant, wenn der Kunde Steuer im Ausland zahlt.</p>
+
+<p>Der Unterkarteireiter <em>Verwendung</em> zeigt die Referenzierung einer Adresse und zwar ob diese Adresse einen Verweis hat. Z.B. ist in dem Unterkarteireiter <em>Rollen</em> eine neue Person verknüpft wird dann bei der verknüpfte Person unter dem Unterkarteireiter <em>Verwendung</em> die Verknüpfung angezeigt.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461148599499.png" alt="" title=""></p>
 
 <p>Unter dem Reiter <em>Eigenschaften</em> können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.</p>
 
