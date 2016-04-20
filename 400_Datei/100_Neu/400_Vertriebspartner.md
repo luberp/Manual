@@ -105,7 +105,6 @@ Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und di
 Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
 
 
-
  - **Provisionierung Methoden**
 
 **individuelle Provisionen - die flexible Methode** Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler im dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif. Die Provisionsmodelle sind der wichtigste Bestandteile bei der Provisionsabrechnung.
