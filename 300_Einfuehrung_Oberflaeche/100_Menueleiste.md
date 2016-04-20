@@ -15,16 +15,15 @@
 
 <p>Die Menüeinträge werden durch einen einfachen Klick ausgewählt. Die Menüeinträge enthalten gegebenenfalls auch Untereinträge. Der Pfeil <img src="http://xpecto.github.io/docs/img/img_1430311875340.png" alt="" title=""> hinter einem Menüpunkt weist darauf hin, dass Untermenüs existieren.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461046537662.png" alt="" title=""></p>
-
 <p>Die moderne Funktionsleiste besteht aus: Registerkarten und Gruppen (diese ersetzen die Menü- und Symbolleiste in der klassischen Ansicht).</p>
 
-<p>Jede Registerkarte beinhaltet mehrere Gruppen, der jeweiligen Namen der Gruppe wird unten angegeben. Jede Gruppe beinhaltet mehrere Funktionen. <br>
-Wenn Sie auf eine Registerkarte klicken, werden die entsprechende Gruppen und Funktionen angezeigt.</p>
+<p>Jede Registerkarte beinhaltet mehrere Gruppen, der jeweiligen Namen der Gruppe wird unten angegeben. Jede Gruppe beinhaltet mehrere Funktionen.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461139243532.png" alt="" title=""></p>
 
-<p>Registerkarten: Schnellzugriff, Stammdaten, Vertrieb, Buchhaltung, Berichte und Massenaktionen, Datenbearbeitung, Suche, System, Hilfe, Individual.</p>
+<p>Wenn Sie auf eine Registerkarte klicken, werden die entsprechende Gruppen und Funktionen angezeigt.</p>
+
+<p>Die Registerkarten in der modernen Ansicht sind: Schnellzugriff, Stammdaten, Vertrieb, Buchhaltung, Berichte und Massenaktionen, Datenbearbeitung, Suche, System, Hilfe, Individual.</p>
 
 <p>Der Schnellzugriff enthält die Gruppen Allgemein und Schnelldruck. Der Vorteil der Registerkarte Schnellzugriff ist, dass sie immer im Vordergrund vorhanden ist, im Gegensatz zu den Gruppen der anderen Registerkarten.</p>
 
