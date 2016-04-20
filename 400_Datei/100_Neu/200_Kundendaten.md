@@ -1,7 +1,16 @@
 Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anleger, die bereit sind eine Beteiligung einzugehen, Vermittler oder Interessenten sein. 
-Die Kundenmaske kann über *Datei → Neu → Kunde*, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1418978975345.png" alt="" title=""> neuen Kunden anlegen oder automatisch beim Start von xpectoPro in der Standardmaske, erreicht werden.  
 
-![](http://xpecto.github.io/docs/img/img_1443190269256.png)
+Die Kundenmaske wird automatisch beim Start von xpectoPro angezeigt. 
+
+In der klassischen Menü-Ansicht können Sie einen neuen Kunde anlegen über 
+ *Datei → Neu → Kunde* oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461145344584.png) *Kundendaten neu anlegen*.
+
+In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Kundendaten* um neue Daten anzulegen.
+
+![](http://xpecto.github.io/docs/img/img_1461138567329.png)
+
+
+
 
 Auf der linke Seite wird eine Übersicht der bereits bestehenden Kunden dargestellt.
 
