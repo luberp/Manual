@@ -14,7 +14,7 @@ Ein Prozess kann je nach Anforderung unterschiedliche Zustände haben und sehr k
 Die damit verbundenen Zustände und Aktionen können graphisch in der klassischen Menü-Ansicht über <em>Extras → Anpassen → Prozesse, Rechte und Batchjobs</em> angesehen bzw. angepasst werden.  <br>
 In der modernen Menü-Ansicht können die graphische Zustände und Aktionen unter Registerkarte <em>System</em> Gruppe <em>Anpassungen</em> Funktion <em>Prozesse</em>. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461141459020.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461142065801.png" alt="" title=""></p>
 
 <p>Prozesse können wesentlich kompliziertere Abläufe verwalten wie zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr.  <br>
 Nachdem der Prozess definiert wurde kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. </p>
