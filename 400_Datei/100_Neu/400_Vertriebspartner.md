@@ -107,7 +107,6 @@ Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und di
  - **Erfassung individuelle Provisionssätze - die flexible Methode** 
  Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler im dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif.
      
- 
  - **Verwendung eines Karriere-Systems - die einfache Methode (Default)** Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* in der Feldgruppe *Struktur* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. 
 Standard-Provisionssätze werden 
  Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über der die Firmen, Produkte und Gesellschaften verwaltet werden. Die Pflege über die Karrierestufen ermöglicht dabei eine einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. 
