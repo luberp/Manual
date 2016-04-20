@@ -1,98 +1,91 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>300_Vertragsdaten.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p>Um Anlegern Zugangswege zu Investments zu ermöglichen  bieten sich Investitionen in Fonds. Die Fonds werden in xpectoPro als Produkte hinterlegt.  <br>
-Kunden sind Investoren die Produktbeteiligungen kaufen, die als Verträge angelegt werden.</p>
+Um Anlegern Zugangswege zu Investments zu ermöglichen  bieten sich Investitionen in Fonds. Die Fonds werden in xpectoPro als Produkte hinterlegt. 
+Kunden sind Investoren die Produktbeteiligungen kaufen, die als Verträge angelegt werden.
 
-<p>Um einen Vertrag anzulegen markieren Sie den gewünschten Kunden zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit in der klassischen Menü-Ansicht einen neuen Vertrag anzulegen über <em>Menü → Neu → Vertrag</em>, oder über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461150969976.png" alt="" title="">. <br>
-In der modernen Menü-Ansicht kann einen neuen Vertrag angelegt durch einen Klick auf die Schaltfläche </p>
+Um einen Vertrag anzulegen markieren Sie den gewünschten Kunden zu dem Sie einen Vertrag anlegen wollen. Sie haben die Möglichkeit in der klassischen Menü-Ansicht einen neuen Vertrag anzulegen über *Menü → Neu → Vertrag*, oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461150969976.png).
+In der modernen Menü-Ansicht kann einen neuen Vertrag angelegt durch einen Klick auf die Schaltfläche 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461153154297.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1461153154297.png)
 
-<p>wird der Dialog <em>Neuer Datensatz</em> geöffnet. Wählen Sie hier <em>Vertragsdaten</em> um einen neuen Vertrag anzulegen. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461151680852.png" alt="" title=""></p>
+wird der Dialog *Neuer Datensatz* geöffnet. Wählen Sie hier *Vertragsdaten* um einen neuen Vertrag anzulegen.
+![](http://xpecto.github.io/docs/img/img_1461151680852.png)
 
-<p>Der Pfeil  <img src="http://xpecto.github.io/docs/img/img_1461153569579.png" alt="" title=""> unter einer Funktion  weist darauf hin, dass Untermenüs existieren. Klicken Sie auf dem Pfeil unter Funktion Neu und dann auf Vertragsdaten um einen neuen Vertrag anzulegen. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461151120846.png" alt="" title=""></p>
+Der Pfeil  ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter einer Funktion  weist darauf hin, dass Untermenüs existieren. Klicken Sie auf dem Pfeil unter Funktion Neu und dann auf Vertragsdaten um einen neuen Vertrag anzulegen.
+![](http://xpecto.github.io/docs/img/img_1461151120846.png)
 
-<p>Es erscheint die Eingabeaufforderung <em>neuen Vertrag erstellen</em>, hier wählen Sie ein Produkt und geben eine Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest.  <br>
-Es wird eine Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.</p>
+Es erscheint die Eingabeaufforderung *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und geben eine Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. 
+Es wird eine Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461151200710.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1461151200710.png)
 
-<p>Der neue Vertrag wird nachdem Speichern unter der Beteiligung angezeigt. <br>
-Die Vertragsmaske enthält folgende Reiter: <em>Allgemein, Eigenschaften, Werte, OPOS, Übertragung, Salden, Buchungsdaten, Sollbuchungen, Ereignisse, Belege, Drittrechte</em>.</p>
+Der neue Vertrag wird nachdem Speichern unter der Beteiligung angezeigt.
+Die Vertragsmaske enthält folgende Reiter: *Allgemein, Eigenschaften, Werte, OPOS, Übertragung, Salden, Buchungsdaten, Sollbuchungen, Ereignisse, Belege, Drittrechte*.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461151792103.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1461151792103.png)
 
-<p>Der Reiter <em>Allgemein</em> teil sich in folgende Feldgruppen: <em>Allgemein</em>, <em>Daten</em>, <em>Auswertung</em>, <em>Status, Provision</em>, <em>Konten, Rateneinzug</em>,  <em>Beteiligung</em>.  <br>
-Geben Sie die Daten zum Vertrag wie Tranche, Laufzeit, Zahlungsintervall usw. ein. </p>
+Der Reiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
+Geben Sie die Daten zum Vertrag wie Tranche, Laufzeit, Zahlungsintervall usw. ein. 
 
-<p>Eine entscheidende Feldgruppe  ist <em>Status, Provision</em>. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461153950083.png" alt="" title="">. Damit werden die Provisionsansprüche erzeugt.</p>
+Eine entscheidende Feldgruppe  ist *Status, Provision*. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461153950083.png). Damit werden die Provisionsansprüche erzeugt.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461152188930.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1461152188930.png)
 
-<p>Provisionsansprüche werden aus den Modellen und den Provisionsätzen, in Verbindung mit den Daten des Vertrages, erzeugt.  <br>
-Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können dann manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden (siehe Handbuch <em>Vermittler → Provisionen</em>). Falls für diesen Vertrag die Provisionsberechnung durchgeführt würde, dann werden für jede Provision die Felder <em>Ausbezahlt</em> und <em>letzte Zahlung</em> ausgefüllt (siehe dieses Handbuch <em>Berechnung → Provisionsberechnung</em>).</p>
+Provisionsansprüche werden aus den Modellen und den Provisionsätzen, in Verbindung mit den Daten des Vertrages, erzeugt. 
+Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die bei erfolgreichem Verlauf des Vertrags insgesamt gezahlt wird. Diese Ansprüche können dann manuell bearbeitet werden. Damit können spezielle Ansprüche für einzelne Verträge hinterlegt werden (siehe Handbuch *Vermittler → Provisionen*). Falls für diesen Vertrag die Provisionsberechnung durchgeführt würde, dann werden für jede Provision die Felder *Ausbezahlt* und *letzte Zahlung* ausgefüllt (siehe dieses Handbuch *Berechnung → Provisionsberechnung*).
 
-<p>Über den Reiter <em>Eigenschaften</em> können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. </p>
+Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-<p>Der Reiter <em>Werte</em> beinhaltet die Feldgruppen: <em>Verknüpfung</em>, <em>Wert</em>, <em>Berechnungsparameter</em>, <em>Dokument</em> und dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch <em>Neu → Produkte → Wertarten</em>). </p>
+Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*). 
 
-<p>xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter <em>OPOS</em> wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. </p>
+xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
-<p>Der Reiter <em>Übertragung</em> dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang. <br>
-Menü Bearbeiten Vertrag übertagen  <br>
-<img src="http://xpecto.github.io/docs/img/img_1461157119640.png" alt="" title=""> <br>
-<img src="http://xpecto.github.io/docs/img/img_1461157251381.png" alt="" title=""> <br>
-Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag, und gehen Sie zum Reiter <em>Übertragung</em>. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461156880109.png" alt="" title=""> In dem Untereiter <em>Übertragung durchführen</em> können die Nachfolger eingestellt werden.  <br>
-Dazu Klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1426513187688.png" alt="" title="">, es öffnet sich der Suchdialog <em>Kunden auswählen</em>. Hier können Sie den Nachfolger suchen und durch Doppelklick auswählen.</p>
+Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
+Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag und wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
+In der modernen Menü-Ansicht wählen Sie den Karteireiter *Berichte und Massenaktionen* Gruppe *Bearbeiten* Funktion *Vertrag übertragen*.
+ ![](http://xpecto.github.io/docs/img/img_1461156880109.png) 
+ 
+ In dem Dialog *Übertragung* werden die Übertragungs-Parameter eingegeben.
+ 
 
-<p>Nachdem die Übertragungs-Parameter eingestellt wurden Klicken Sie auf die Schaltfläche <em>Übertragung durchführen.</em> <br>
-Wählen Sie in dem folgenden Dialog die fehlende Umbuchungs-Vorschriften.</p>
+Für den Nachfolger klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461157251381.png), es öffnet sich der Suchdialog Kunde auswählen. Hier können Sie den Nachfolger suchen und durch Doppelklick auswählen.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443173762535.png" alt="" title=""></p>
+Nachdem die Übertragungs-Parameter eingestellt wurden Klicken Sie auf die Schaltfläche *Übertragung durchführen.*
+Wählen Sie in dem folgenden Dialog die fehlende Umbuchungs-Vorschriften.
 
-<p>Der Untereiter <em>Vorgänger/Nachfolger</em> zeigt an, ob einen Vertrag Vorgänger oder Rechtsnachfolger hat. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461157812980.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1443173762535.png)
 
-<p>Nachdem der Übertrag durchgeführt würde, wird der Vertragsstatus automatisch in übertragen, geändert.</p>
+Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag Rechtsvorgänger oder Rechtsnachfolger hat.
 
-<p>Der Reiter <em>Salden</em> beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter <em>Produkte</em> vorkonfigurierte Salden.</p>
+![](http://xpecto.github.io/docs/img/img_1461157812980.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443172824687.png" alt="" title=""></p>
+Nachdem der Übertrag durchgeführt würde, wird der Vertragsstatus automatisch in übertragen, geändert.
 
-<p>Der Reiter <em>Buchungsdaten</em> zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen (siehe <em>Berechungen → Berechnungen und Transaktionen</em>). Die Feldgruppen sind im GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe Handbuch <em>Bearbeiten → Stapelbuchungen</em> oder <em>Bearbeiten → Beteiligungs-/Vertragsbuchungen</em>).</p>
+Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443172984417.png" alt="" title=""></p>
+![](http://xpecto.github.io/docs/img/img_1443172824687.png)
 
-<p>Unter dem Reiter <em>Sollbuchungen</em> werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch <em>Berechnungen → Zahlungsverkehr</em>) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll. <br>
-Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechenden Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.</p>
+Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen (siehe *Berechungen → Berechnungen und Transaktionen*). Die Feldgruppen sind im GoBS-Modus (Grundsätze ordnungsmäßiger DV-gestützter Buchführungssysteme) und deshalb nicht editierbar. Um eine neue Buchung anzulegen (siehe Handbuch *Bearbeiten → Stapelbuchungen* oder *Bearbeiten → Beteiligungs-/Vertragsbuchungen*).
 
-<p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: <em>Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.</em> </p>
+![](http://xpecto.github.io/docs/img/img_1443172984417.png)
 
-<p>Beispiel: Sie haben einen Telefonat wegen einem Vertrag durchgeführt. Markieren Sie den Vertrag und <br>
-wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1443175241487.png" alt="" title="">.</p>
+Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch *Berechnungen → Zahlungsverkehr*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
+Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt werden, so muss bei dem entsprechenden Eintrag auf dem Karteireiter Sollbuchungen des betroffenen Vertrags der Status manuell auf ausgesetzt umgestellt werden.
 
-<p>Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. </p>
+Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443175387538.png" alt="" title=""></p>
+Beispiel: Sie haben einen Telefonat wegen einem Vertrag durchgeführt. Markieren Sie den Vertrag und
+wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443175241487.png).
 
-<p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.</p>
+Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. 
 
-<p>Durch eine Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
+![](http://xpecto.github.io/docs/img/img_1443175387538.png)
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443173024837.png" alt="" title=""></p>
+Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
-<p>In dem Reiter <em>Belege</em> können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden. <br>
-Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.</p>
+Durch eine Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327135428.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
 
-<p>Unter <em>Drittrechte</em> können die Ansprüche eines Dritten auf dem Vertrag, erfasst werden. </p></div></body>
-</html>
+![](http://xpecto.github.io/docs/img/img_1443173024837.png)
+
+In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden.
+Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
+
+Unter *Drittrechte* können die Ansprüche eines Dritten auf dem Vertrag, erfasst werden. 
