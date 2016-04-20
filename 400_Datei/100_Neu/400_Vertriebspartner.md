@@ -125,8 +125,7 @@ Standard-Provisionssätze werden  <br>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461162961629.png" alt="" title=""></p>
 
-<p>In dem Ansicht <em>Produkte</em> auf dem Reiter <em>Provisionssätze</em> werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.</p></li>
-</ul>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1461163074222.png" alt="" title=""></p></div></body>
+<p>In dem Ansicht <em>Produkte</em> auf dem Reiter <em>Provisionssätze</em> werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert. <br>
+<img src="http://xpecto.github.io/docs/img/img_1461163074222.png" alt="" title=""></p></li>
+</ul></div></body>
 </html>
