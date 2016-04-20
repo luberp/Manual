@@ -9,10 +9,11 @@
 </head>
 <body><div class="container"><p>Der Menüpunkt <em>Datei → Neu</em>  ist der Ausgangspunkt  um neue Daten anzulegen.  <br>
 Dieser Menüpunkt ist in der modernen Menü-Ansicht in der Registerkarte <em>Schnellzugriff</em> immer im Vordergrund vorhanden. <br>
-Über den Menüpunkt können: Wiedervorlage/ Prozesse, Kundendaten, Vetragsdaten, Vertriebspartner, Adressen, Veranstaltungen, Produkte angelegt werden.</p>
+Über den Menüpunkt können: Wiedervorlage/ Prozesse, Kundendaten, Vertragsdaten, Vertriebspartner, Adressen, Veranstaltungen, Produkte angelegt werden.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461137152317.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461138416833.png" alt="" title=""></p>
 
-<p>In der modernen Menü-Ansicht werden diese Menüeinträge direkt in der Registerkarte <em>Schnellzugriff</em> angezeigt. Klicken Sie in der Registerkarte <em>Schnellzugriff</em> auf <em>Neu</em> um neue Daten anzulegen. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461137472457.png" alt="" title=""></p></div></body>
+<p>In der modernen Menü-Ansicht werden diese Menüeinträge direkt in der Registerkarte <em>Schnellzugriff</em> angezeigt. Klicken Sie in der Registerkarte <em>Schnellzugriff</em> auf <em>Neu</em> um neue Daten anzulegen.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461138567329.png" alt="" title=""></p></div></body>
 </html>
