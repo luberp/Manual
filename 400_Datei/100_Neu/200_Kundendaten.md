@@ -51,10 +51,8 @@ Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch m
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461148513327.png" alt="" title=""></p>
 
-<p>Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf <em>OK</em>.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu <em>Strg + S</em> oder das Symbol<img src="http://xpecto.github.io/docs/img/img_1438089018212.png" alt="" title="">. <br>
-Um eine Rolle zu löschen wählen Sie das Symbol<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1461149053206.png" alt="" title=""></p>
+<p>Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf <em>OK</em>.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu <em>Strg + S</em> oder das Symbol <img src="http://xpecto.github.io/docs/img/img_1461149300945.png" alt="" title="">. <br>
+Um eine Rolle zu löschen wählen Sie das Symbol <img src="http://xpecto.github.io/docs/img/img_1461149341916.png" alt="" title="">.</p>
 
 <p>Die Daten für mehrere Kontoverbindungen können unter dem Unterkarteireiter <em>Kontoverbindungen</em> erfasst.</p>
 
@@ -72,10 +70,10 @@ Um eine Rolle zu löschen wählen Sie das Symbol<img src="http://xpecto.github.i
 
 <p>Auf dem Karteireiter <em>Ereignisse</em> werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten. Die Ereignisse können auf mehrere Ebenen verteilt werden: <em>Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.</em> </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442997229269.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461149517004.png" alt="" title=""></p>
 
 <p>Beispiel: Sie haben einen Telefonat wegen einen Vertrag durchgeführt. <br>
-Wählen Sie dazu die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438331776248.png" alt="" title="">.</p>
+Wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461149552445.png" alt="" title="">.</p>
 
 <p>Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). </p>
 
@@ -83,9 +81,7 @@ Wählen Sie dazu die Schaltfläche<img src="http://xpecto.github.io/docs/img/img
 
 <p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1438331969372.png" alt="" title=""></p>
-
-<p>Durch eine Klick auf die  <img src="http://xpecto.github.io/docs/img/img_1438327135428.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche<img src="http://xpecto.github.io/docs/img/img_1438330503651.png" alt="" title="">.</p>
+<p>Durch eine Klick auf die  <img src="http://xpecto.github.io/docs/img/img_1461149799550.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen markieren Sie das zu löschenden Ereignis und klicken dann  die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461149839246.png" alt="" title="">.</p>
 
 <p>Unter dem Reiter <em>Beschwerdenbuch</em> können die Beschwerden von  Kunden eingetragen werden. <br>
 Der Reiter <em>Anlageerfahrung</em>  enthält zusätzliche Daten die den Kunden betreffen. Anhand dieser Daten wird dann eine Risikobewertung durchgeführt, und dem Kunde wird eine Risikoklasse zugeordnet.</p></div></body>
