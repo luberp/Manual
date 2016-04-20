@@ -103,7 +103,7 @@ Bei den in xpectoPro verwalteten Vetriebsgesellschaften handelt es sich in der R
 In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers.
 Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nach dem welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise. Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
 
-  <a id="id1">** Provisionierung Methoden**</a>
+  <a id="id1">**Provisionierung Methoden**</a>
  
  - **Erfassung individuelle Provisionssätze - die flexible Methode** 
  Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler im dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif.
