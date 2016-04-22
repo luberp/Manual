@@ -59,7 +59,7 @@ Dann erstellen Sie noch die Einladungsschreiben (siehe Handbuch <em>Extras → A
 
 <p>Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zur Veranstaltungen.</p>
 
-<p>Unter dem Reiter <em>Teilnehmer</em> können zu den schon automatisch eingefügte Teilnehmern neue Teilnehmer angelegt und individuell verwaltet werden. Die einzelne Teilnehmer können eingefügt oder durch einen Klick auf die Schaltfläche bzw. <img src="http://xpecto.github.io/docs/img/img_1461320109663.png" alt="" title=""> entfernt werden .</p>
+<p>Unter dem Reiter <em>Teilnehmer</em> können zu den schon automatisch eingefügte Teilnehmern neue Teilnehmer angelegt und individuell verwaltet werden. Die einzelne Teilnehmer können eingefügt oder durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461320109663.png" alt="" title=""> entfernt werden.</p>
 
 <p>Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe <em>Zuweisung</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461320082734.png" alt="" title="">.  Dann suchen Sie den gewünschten Teilnehmer mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461327304888.png" alt="" title="">. Speichern Sie Ihre neuen Teilnehmer mit dem Symbol <img src="http://xpecto.github.io/docs/img/img_1461327217908.png" alt="" title=""> oder durch die Tastenkombination <em>Strg + S.</em></p>
 
