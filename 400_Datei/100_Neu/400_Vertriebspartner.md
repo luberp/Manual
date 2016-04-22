@@ -39,7 +39,7 @@ In der modernen Menü-Ansicht können Sie schnell zu Stammdaten des Vermittler g
 ![](http://xpecto.github.io/docs/img/img_1461165138201.png)
 
 Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen. 
-Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img_1461165104119.png). 
+Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf das Symbol:  ![](http://xpecto.github.io/docs/img/img_1461165104119.png). 
 
 In dem darauf folgenden Dialog *Person oder Anschrift* bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
 
@@ -49,7 +49,7 @@ Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich der folgende
 
 ![](http://xpecto.github.io/docs/img/img_1438084400120.png)
 
-Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461165205134.png), es eröffnet sich hier das Suchdialog (siehe Handbuch *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166047632.png) eine neue Person anzulegen.
+Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461165205134.png), es eröffnet sich hier das Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461166047632.png) eine neue Person anzulegen.
 
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. 
 
@@ -59,8 +59,7 @@ Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img
 Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
 Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1461165873528.png). 
 
-Die neue Rolle wird dann in die Rollenliste angezeigt.
-Um eine Rolle aus der Liste zu löschen wählen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166237962.png).
+Die neue Rolle wird dann in die Rollenliste angezeigt. Um eine Rolle aus der Liste zu löschen wählen Sie das Symbol![](http://xpecto.github.io/docs/img/img_1461166237962.png).
 
 Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Unterkarteireiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
 Unter dem Unterkarteireiter *Legitimationsdaten* können Sie die Dokumente erfassen womit sich der Kunde legitimiert.
@@ -82,9 +81,9 @@ In der Vermittleransicht auf dem Reiter *Buchungen* werden die kumulierte Buchun
 
 Vermittlerbuchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum, einen Betrag und eine Zahlfirma definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung. 
 
-Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie in der Reiter *Buchungen* auf ![](http://xpecto.github.io/docs/img/img_1461309152348.png), wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht. Um eine Buchung zu löschen betätigen Sie hier die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461309214943.png).
+Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie in der Reiter *Buchungen* auf ![](http://xpecto.github.io/docs/img/img_1461309152348.png), wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht. Um eine Buchung zu löschen betätigen Sie hier das Symbol![](http://xpecto.github.io/docs/img/img_1461309214943.png).
 
-Auf dem Reiter *Ereignisse* können die Ereignisse die den aktuell ausgewählten Vermittler betreffen, festgehalten. Um ein Ereignis anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443176427714.png). Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+Auf dem Reiter *Ereignisse* können die Ereignisse die den aktuell ausgewählten Vermittler betreffen, festgehalten. Um ein Ereignis anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443176427714.png). Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
 
 In dem Reiter *Belege* können Belegarten wie z.B. Provisionsbelege angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
