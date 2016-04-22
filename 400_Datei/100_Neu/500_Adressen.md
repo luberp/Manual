@@ -50,4 +50,4 @@ Der Reiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebend
 
 Der Reiter *Auslands-Steuer* ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.
 
-Der Reiter Verwendung zeigt die Referenzierung einer Adresse und zwar ob diese Adresse einen Verweis hat. Z.B. ist in dem Unterkarteireiter Rollen eine neue Person verknüpft wird dann bei der verknüpfte Person unter dem Unterkarteireiter Verwendung die Verknüpfung angezeigt.
+Der Reiter *Verwendung* zeigt die Referenzierung einer Adresse und zwar ob diese Adresse einen Verweis hat. Z.B. ist in dem Reiter *Rollen* eine neue Person verknüpft wird dann bei der verknüpfte Person unter dem Reiter *Verwendung* die Verknüpfung angezeigt.
