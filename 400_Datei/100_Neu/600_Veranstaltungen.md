@@ -63,4 +63,4 @@ Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche !
 Hier können Sie nach eine bestimmte Person suchen, und durch einen Doppelklick einfügen.  
 Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuer Datensatz über das Symbol ![](http://xpecto.github.io/docs/img/img_1461327585227.png) in dem Suchdialog, angelegt werden.
 
-Unter dem Reiter *Konfiguration* werden die eingescannte Veranstaltung-Stimmzettel eingelesen und die Ergebnisse werden dann angezeigt.
+Unter dem Reiter *Konfiguration* werden die eingescannte Stimmen von Veranstaltung-Stimmzettel in XML umgewandelt und dann die Ergebnisse angezeigt.
