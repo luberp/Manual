@@ -14,44 +14,46 @@ Hierbei können Vollmachten, Anwesenheit, Bevollmächtigung, Abstimmungen zu ein
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461314474687.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461313776280.png" alt="" title=""></p>
-
 <p>Nehmen wir an Sie wollen eine neue Gesellschafsversammlung anlegen.  <br>
-Um eine neue Veranstaltung anzulegen wählen Sie im Menü <em>Datei → Neu → Veranstaltungen</em> oder klicken Sie in der Symbol-und Funktionsleiste auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461313282979.png" alt="" title="">. </p>
+In der klassichen Menü-Ansicht können Sie eine neue Veranstaltung anzulegen wenn Sie  im Menü <em>Datei → Neu → Veranstaltungen</em> oder klicken Sie in der Symbol-und Funktionsleiste auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461313282979.png" alt="" title=""> wählen. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461314296087.png" alt="" title=""> <br>
- Zu jeder Veranstaltung können individuelle Tagesordnungspunkten (TOP) angelegt werden. </p>
+<p>In der moderen Menü-Ansicht können Sie eine neue Veranstaltung anlegen über Registerkarte <em>Schnellzugriff</em> Funktion <em>Neu</em>. <br>
+<img src="http://xpecto.github.io/docs/img/img_1461314296087.png" alt="" title=""></p>
+
+<p>Zu jeder Veranstaltung können individuelle Tagesordnungspunkten (TOP) angelegt werden. </p>
 
 <p>Unter dem Reiter <em>Allgemein</em> können über den Teilnehmerkreis alle Personen ausgewählt werden die an Veranstaltung teilnehmen. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443010174699.png" alt="" title=""></p>
-
 <p><img src="http://xpecto.github.io/docs/img/img_1461314600710.png" alt="" title=""></p>
 
-<p>Um die Teilnehmer zu filtern wählen Sie in der Feldgruppe <em>Allgemein</em> <img src="http://xpecto.github.io/docs/img/img_1432886377432.png" alt="" title="">, klicken Sie auf das Symbol<img src="http://xpecto.github.io/docs/img/img_1432890657651.png" alt="" title="">. Danach öffnet sich der <em>Abfragen erstellen</em> Dialog (siehe <em>Bearbeiten → Abfragen erstellen</em>). </p>
+<p>Um die Teilnehmer zu filtern klicken Sie in der Feldgruppe <em>Allgemein</em> auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461319360655.png" alt="" title="">. Danach öffnet sich der <em>Abfrage editieren</em> Dialog (siehe Handbuch*Bearbeiten → Abfragen erstellen*). </p>
 
-<p>In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend mit 840 wohnen und einen angenommener Vertrag haben. <br>
-<img src="http://xpecto.github.io/docs/img/img_1430841532256.png" alt="" title=""></p>
+<p>In unseren Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend mit 840 wohnen und einen angenommener Vertrag haben.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461314777280.png" alt="" title=""> <br>
-Danach klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1432891106020.png" alt="" title="">, in der Feldgruppe <em>Veranstaltung vorbereiten</em>, um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen. Die Teilnehmerliste ist sofort einsehbar unter dem Reiter <em>Teilnehmer</em>. Um die Teilnehmer einzeln einzufügen klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1443010395863.png" alt="" title="">.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461314777280.png" alt="" title=""></p>
 
-<p>Dann erstellen Sie noch die Einladungsschreiben (siehe <em>Extras → Anpassen → Berichte und Adressmuster</em>). <br>
-Um die Einladungen zu drucken haben Sie die Möglichkeit in der Feldgruppe <em>Massendruck</em> Einladungen zu drucken oder Stimmzettel zu drucken.</p>
+<p>Nachdem die Abfrage erstellt wurde und gespeichert klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461319694044.png" alt="" title="">, in der Feldgruppe <em>Aktionen</em>, um die gewünschte Teilnehmer in die Teilnehmerliste hinzufügen.  <br>
+Die Teilnehmerliste ist sofort einsehbar unter dem Reiter <em>Teilnehmer</em>. Hier kann die Teilnehmerliste bearbeitet werden. Die einzelne Teilnehmer können eingefügt oder entfernt werden durch Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461320082734.png" alt="" title=""> bzw. <img src="http://xpecto.github.io/docs/img/img_1461320109663.png" alt="" title="">.</p>
 
-<p>Um die Einladungen für die Teilnehmer zu drucken, klicken Sie auf die  Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1433144034768.png" alt="" title="">.  <br>
-Über <em>Einladungen drucken</em> wird eine Kampagne gestartet (siehe <em>Bearbeiten → Kampagnen</em>). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. Dafür muss unter der Feldgruppe <em>Aktion auswählen</em> der Bericht, der Drucker und die Checkbox <em>Berichte archiviert</em> markiert sein. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461314678102.png" alt="" title=""></p>
+<p>Dann erstellen Sie noch die Einladungsschreiben (siehe Handbuch <em>Extras → Anpassen → Berichte und Adressmuster</em>).</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443776684122.png" alt="" title=""></p>
+<p>Um die Einladungen für die Teilnehmer zu drucken, klicken Sie in dem Reiter <em>Allgemein</em> auf die  Schaltfläche <em>Einladungen drücken</em>.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461320327814.png" alt="" title=""></p>
+
+<p>Über <em>Einladungen drucken</em> wird eine Kampagne gestartet (siehe Handbuch <em>Bearbeiten → Kampagnen</em>). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. Dafür muss unter der Feldgruppe <em>Aktion auswählen</em> der Bericht, der Drucker und die Checkbox <em>Berichte archiviert</em> markiert sein.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461322319878.png" alt="" title=""></p>
 
 <p>Starten Sie die Kampagne über die Schaltfläche <em>Start</em>. Nun kehren Sie durch Schließen der <em>Kampagnen und Massendruck</em> - Dialog zum Hauptdialog zurück.</p>
 
-<p>Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1433146421500.png" alt="" title=""> in der Feldgruppe <em>Stimmabgabe</em>, öffnet sich die Maske für die Veranstaltung. </p>
+<p>Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche <em>Stimmabgabe / Rückläufer erfassen</em> in der Feldgruppe <em>Aktionen</em>, öffnet sich die Maske für die Veranstaltung. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461322959365.png" alt="" title=""></p>
 
 <p>Die Ansicht: <em>Veranstaltungs-Teilnehmer</em> beinhaltet die Liste der Teilnehmer, welche für jeden Teilnehmer mehrere Optionen bietet um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: <em>Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import</em>.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1443012682876.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461323343138.png" alt="" title=""></p>
 
 <p>Die Ansicht <em>Scandialog</em> dient dazu um die Stimmzettel abzulegen.   </p>
 
@@ -64,7 +66,7 @@ Um die Einladungen zu drucken haben Sie die Möglichkeit in der Feldgruppe <em>M
 <p>Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe <em>Zuweisung</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1426499792252.png" alt="" title="">.  Dann wählen Sie den gewünschten Teilnehmer mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439206980898.png" alt="" title="">. Speichern Sie Ihre neuen Teilnehmer mit dem Symbol <img src="http://xpecto.github.io/docs/img/img_1439207060262.png" alt="" title=""> oder durch die Tastenkombination <em>Strg + S.</em></p>
 
 <p>Unter dem Reiter <em>Bevollmächtigte</em> kann die stellvertretende Person angelegt, und individuell verwaltet werden. <br>
-Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439208928813.png" alt="" title=""> - <em>neuen Datensatz hinzufügen</em>  oder die Tastenkombination <em>Strg + N</em>. Geben Sie in das Eingabefeld <em>Person</em> den Namen der einzufügenden Person ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld <img src="http://xpecto.github.io/docs/img/img_1439210074824.png" alt="" title="">. Hier wird dann der Suchdialog <em>Adressen</em> aufgemacht (<em>siehe Bearbeiten → Erweiterte Suche</em>). </p>
+Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1439208928813.png" alt="" title=""> - <em>neuen Datensatz hinzufügen</em>  oder die Tastenkombination <em>Strg + N</em>. Geben Sie in das Eingabefeld <em>Person</em> den Namen der einzufügenden Person ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld <img src="http://xpecto.github.io/docs/img/img_1439210074824.png" alt="" title="">. Hier wird dann der Suchdialog <em>Adressen</em> aufgemacht (siehe Handbuch <em>Bearbeiten → Erweiterte Suche</em>). </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439210969105.png" alt="" title=""></p>
 
