@@ -11,6 +11,10 @@
 
 <p>Um eine neue Adresse anzulegen klicken Sie in der klassischen Menü-Ansicht auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461312223601.png" alt="" title="">, oder Menü <em>Datei → Neu → Adressen</em>.</p>
 
+<p>In der modernen Menü-Ansicht Klicken Sie in der Registerkarte <em>Schnellzugriff</em> auf <em>Neu</em> <em>Kundendaten</em> um neue Daten anzulegen.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461312701101.png" alt="" title=""></p>
+
 <p>Die Eingabemaske enthält folgende Reiter: <em>Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer, Verwendung</em>.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461311533716.png" alt="" title=""></p>
