@@ -1,102 +1,84 @@
-Eine der wesentliche Aufgabe im Vertrieb ist der Verkauf von Produkte und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Position, Branche, Firma unterschiedlich. Wie die Provisionierung und die Provisionierung Methoden in xpectoPro umgesetzt wurden sehen Sie unten.
-Um einen neuen Vermittler anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431437056167.png) oder das Menü *Datei → Neu → Vermittler*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben bestätigen Sie mit *OK*. 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700_Produkte.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte.  <br>
+Um ein neues Produkt anzulegen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461405309793.png" alt="" title=""></p>
 
-Unter dem Reiter *Allgemein* sehen Sie eine Übersicht von Meldedaten. Die eigentliche Stammdaten des ausgewählten Vermittler, sonstige Daten sowie die Web-Portal Daten. 
+<p><img src="http://xpecto.github.io/docs/img/img_1461405250623.png" alt="" title=""></p>
 
-Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* und dienen der Anmeldung des Vermittlers am xpecto Webportal. 
-Das Web-Portal kann ein Vermittlerinformationsportal sein. Das Informationsportal kann vom xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
-Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch frei geschalten oder gesperrt werden.
+<p><img src="http://xpecto.github.io/docs/img/img_1461405662900.png" alt="" title=""> <br>
+<img src="http://xpecto.github.io/docs/img/img_1461406046330.png" alt="" title=""> <br>
+Reiter: Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege.</p>
 
-In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten).
+<p>Unter dem Reiter <em>Berechnungen</em> kann eine vorher angelegte Berechnung (siehe Handbuch Berechnungen und Transaktionen)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1443175940689.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1461406481399.png" alt="" title=""></p>
 
-Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer*.
+<p>Dafür wählen Sie in dem Reiter <em>Berechnungen</em> in der Berechnungsliste auf Zinsberechnung und dann auf die Schaltfläche Berechnung ausführen. <br>
+<img src="http://xpecto.github.io/docs/img/img_1461406605638.png" alt="" title=""></p>
 
-Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen.  Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch überprüft.  
+<p>Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein.  <br>
+Sie finden die <em>Firmen und Produkte</em> Maske  unter <em>Datei → Produkte</em> oder durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1425984359021.png" alt="" title="">.</p>
 
-Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
+<p><img src="http://xpecto.github.io/docs/img/img_1425985199858.png" alt="" title=""></p>
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+<p>Auf dem Reiter <em>Allgemein</em> können Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen  Hier werden allgemeine Daten zum Produkt erfasst. </p>
 
-![](http://xpecto.github.io/docs/img/img_1438761904085.png)
+<p>Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. </p>
 
-Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen. 
-Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). 
+<p>Auf dem Reiter <em>Parameter</em> werden die Parameter für Buchungsimport und Reporting eingestellt.</p>
 
-In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
+<p>Der Reiter <em>Auswertung</em> stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.</p>
 
-![](http://xpecto.github.io/docs/img/img_1438074839670.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1432642241442.png" alt="" title=""></p>
 
-Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich der folgende Maske:
+<p>Wenn Sie in den <em>Beteiligungsübersicht</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1432642464823.png" alt="" title=""> klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten. <br>
+Wenn Sie in den <em>Anzahl Verträge</em> auf das Symbol klicken <img src="http://xpecto.github.io/docs/img/img_1432642464823.png" alt="" title=""> dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.</p>
 
-![](http://xpecto.github.io/docs/img/img_1438084400120.png)
+<p>Der Reiter <em>Saldenübersicht</em> enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. </p>
 
-Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es eröffnet sich hier das Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
+<p>Unter dem Reiter <em>Tarife</em> können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.</p>
 
-In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als  eine neue Anschrift ohne weitere Funktionen einzufügen. 
+<p>Der Reiter <em>Tranchen</em> dient zum  Verteilung von Beträge in Teilen.</p>
 
-xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. 
+<p>Der Reiter <em>Kosten</em> beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. </p>
 
-![](http://xpecto.github.io/docs/img/img_1438074994809.png)
+<p>Der Reiter <em>Buchungsdaten</em> enthält die Liste der Buchungen  die generell für den Produkt anfallen. </p>
 
-Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
-Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
-Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1438089018212.png).
-Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
+<p>In dem Reiter <em>Belege</em> können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. </p>
 
-Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Unterkarteireiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
-Unter dem Unterkarteireiter *Legitimationsdaten* können Sie die Dokumente erfassen womit sich der Kunde legitimiert.
-Der Unterkarteireiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. 
-Der Unterkarteireiter *Auslands-Steuer* ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.
+<p>Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Verträgen (über Berechnungen und Transaktionen abgerechnet)</p>
 
-![](http://xpecto.github.io/docs/img/img_1443176705989.png)
+<p>Unter dem Reiter <em>Provisionssätze</em> kann das Defaultprovisionsmodell angelegt werden, und zwar die Provisionssätze nach Karrierestufen (siehe <em>Datei → Neu → Vermittler → Provisionierung</em>) angelegt.</p>
 
-Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.
+<p>Unter Reiter dem <em>Status</em> können die verschiedene Status für das Produkt angelegt werden.</p>
 
-Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und optional einen Tarif. 
+<p>Außerdem kann auf dem Reiter <em>Konten</em> der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen.  <br>
+Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden.  <br>
+Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden.  <br>
+Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt. </p>
 
-Der Reiter *Struktur* zeigt die über die Provisionssätze bzw. für das Feld Führung definierte Vermittlerstruktur-/hierarchie an.
-Bei den in xpectoPro verwalteten Vertriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumstruktur organisiert sind. Häufig werben bestehende Vermittler weitere Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden.
+<p>In dem Reiter <em>Wertarten</em> können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. Die Verbuchungsvorschriften können in Berechnungen und Transaktionen verwendet werden, wenn kein Skript hinterlegt ist (siehe <em>Berechnungen → Berechnungen und Transaktionen</em>).</p>
 
-![](http://xpecto.github.io/docs/img/img_1438602553303.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1439200560588.png" alt="" title=""></p>
 
-In der Vermittleransicht auf dem Reiter *Buchungen* werden die kumulierte Buchungen zu dem aktuell ausgewählten Vermittler, verwaltet.
-Vermittlerbuchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum, einen Betrag und eine Zahlfirma definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung. Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf ![](http://xpecto.github.io/docs/img/img046.png), wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
+<p>Unter dem Reiter <em>Währungen</em> können verschieden Währungen für das Produkt angelegt werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1438593920330.png)
+<p>Unter dem Karteireiter <em>Wechselkurse</em> werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt werden.</p>
 
-Auf dem Reiter *Ereignisse* können die Ereignisse die den aktuell ausgewählten Vermittler betreffen, festgehalten. Um ein Ereignis anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443176427714.png). Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
+<p>Unter dem Reiter <em>Salden</em> können Sie die Salden konfigurieren. Neben den schon angelegte Salden können hier neue Salden über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1426517966548.png" alt="" title=""> neue Gruppe <img src="http://xpecto.github.io/docs/img/img_1426518057250.png" alt="" title=""> und neue Buchungskonten <img src="http://xpecto.github.io/docs/img/img_1426518083903.png" alt="" title=""> angelegt werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1443176299286.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1439908866037.png" alt="" title=""></p>
 
-In dem Reiter *Belege* können Belegarten wie z.B. Provisionsbelege angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
+<p><img src="http://xpecto.github.io/docs/img/img_1439910564967.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1438594583641.png)
+<p>In der Liste*im Saldo enthaltene Gruppen* stehen die Gruppe von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.</p>
 
-Der Reiter *Umsätze* zeigt die Summe aller Einnahmen die durch abschließen eines Vertrages  entstanden sind. Diese Umsätze werden zu Vermittler und/oder Karriere-System angezeigt.
-
-![](http://xpecto.github.io/docs/img/img_1438764896853.png)
-
-Der Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
-Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
-Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit geographische Verteilung der Kunden und Vermittler auf der Karte zu sehen.
-
-**Provisionierung** 
-
-Bei den in xpectoPro verwalteten Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
-In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers.
-Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nach dem welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise.
-Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
-
-**Provisionierung Methoden**
-
-**individuelle Provisionen - die flexible Methode** Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler im dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif. Die Provisionsmodelle sind der wichtigste Bestandteile bei der Provisionsabrechnung.
-     
- **Karriere-System - die einfache Methode (Default)** Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über der die Firmen, Produkte und Gesellschaften verwaltet werden. Die Pflege über die Karrierestufen ermöglicht dabei eine einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. 
- 
-![](http://xpecto.github.io/docs/img/img_1438603327829.png)
-
-In dem Ansicht *Produkte* auf dem Reiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
-
-![](http://xpecto.github.io/docs/img/img_1440764807466.png)
+<p>Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter <em>Anteilsarten</em> die Arten und <em>Anteilspreise</em> die Preise für diese Anteile.</p></div></body>
+</html>
