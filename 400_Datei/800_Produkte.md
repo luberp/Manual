@@ -31,6 +31,8 @@ Der Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
 
 Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
+Der Reiter *Werte* dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
+
 Der Reiter *Buchungsdaten* enthält die Liste der Buchungen  die generell für den Produkt anfallen. 
 
 In dem Reiter *Belege* können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
@@ -64,4 +66,4 @@ In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen
 
 Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
 
-Phasen, Kosten, Werte, Buchungsdaten, Belege, Provisionssätze, Status, Konten, Übertragung,
+Phasen, Kosten, Werte, 
