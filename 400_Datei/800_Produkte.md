@@ -65,5 +65,3 @@ In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen
 ![](http://xpecto.github.io/docs/img/img_1461581862253.png)
 
 Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
-
-Phasen, Kosten, Werte, 
