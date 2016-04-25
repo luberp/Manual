@@ -26,13 +26,14 @@ In der Maske <em>Firmen und Produkte</em> werden die erweiterte Einstellungen zu
 
 <p>Der Reiter <em>Auswertung</em> stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1432642241442.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461578732123.png" alt="" title=""></p>
+
+<p>Wenn Sie in der Feldgruppe  <em>Beteiligungsübersicht</em> auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461578499376.png" alt="" title=""> klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten. <br>
+Wenn Sie in Feldgruppe <em>Anzahl Verträge</em> auf das Symbol klicken <img src="http://xpecto.github.io/docs/img/img_1461578510912.png" alt="" title=""> dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.</p>
 
 <p>Der Reiter <em>Salden</em> enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. </p>
 
 <p>Unter dem Reiter <em>Tarife</em> können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.</p>
-
-<p>OPOS</p>
 
 <p>Der Reiter <em>Tranchen</em> dient zum  Verteilung von Beträge in Teilen.</p>
 
