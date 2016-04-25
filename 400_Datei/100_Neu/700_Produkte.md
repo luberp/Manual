@@ -48,21 +48,24 @@ Durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/i
 
 <p>Unter der Reiter <em>Verträge</em> wird eine Liste der Verträge die in dem Produkt erhalten sind. Auch von hier können Sie eine Kampagne erstellen.</p>
 
-<p>Unter dem Reiter <em>Berechnungen</em> kann eine vorher angelegte Berechnung (siehe Handbuch <em>Berechnungen und Transaktionen</em>)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.</p>
+<p>Unter dem Reiter <em>Berechnungen</em> kann eine vorher angelegte Berechnung (siehe Handbuch <em>Berechnungen und Transaktionen</em>)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden. <br>
+Dafür wählen Sie in dem Reiter <em>Berechnungen</em> in der Berechnungsliste auf Zinsberechnung und dann auf die Schaltfläche Berechnung ausführen.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461408021580.png" alt="" title=""></p>
+
+<p>In dem Dialog <em>Berechnung erstellen</em> können Sie eine neue Berechnung ertstellen, eine Kopie von eine vorhanden Berechnung erstellen oder die Aktion abbrechen.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461571838655.png" alt="" title=""></p>
+
+<p>Wenn Sie in dem Dialog <em>Berechnung anlegen</em>  <em>Neue Berechnung erstellen</em> werden Sie in dem Dialog <em>Berechnungen und Transaktionen</em> weitergeleitet (siehe Handbuch <em>Berechnungen → Berechnungen und Transaktionen</em>).</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461406481399.png" alt="" title=""></p>
 
-<p>Dafür wählen Sie in dem Reiter <em>Berechnungen</em> in der Berechnungsliste auf Zinsberechnung und dann auf die Schaltfläche Berechnung ausführen. <br>
-<img src="http://xpecto.github.io/docs/img/img_1461408021580.png" alt="" title=""></p>
+<p>In dem Reiter <em>Übertragungen</em> wird eine Liste der Übertragungen für diesen Produkt angezeigt.  <br>
+Durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461571103101.png" alt="" title=""> können Sie eine Kampagne erstellen ( siehe Handbuch <em>Bearbeiten → Kampagnen</em>).</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461407735380.png" alt="" title=""></p>
-
-<p>Übertragungen</p>
-
-<p>Belege  <br>
-In dem Reiter <em>Belege</em> können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. </p>
-
-<p>Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Verträgen (über Berechnungen und Transaktionen abgerechnet)</p>
+<p>In dem Reiter <em>Belege</em> können Belegarten wie z.B. Rechnungen zu dem Produkt angelegt werden. <br>
+Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.</p>
 
 <p>Auf dem Karteireiter <em>Dokumente</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.   </p>
 
@@ -75,8 +78,5 @@ Wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/im
 
 <p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.</p>
 
-<p>Durch eine Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159194556.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159231005.png" alt="" title="">.</p>
-
-<p>In dem Reiter <em>Belege</em> können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden. <br>
-Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.</p></div></body>
+<p>Durch eine Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159194556.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159231005.png" alt="" title="">.</p></div></body>
 </html>
