@@ -1,6 +1,11 @@
 Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein. 
 
-In der klassichen Menüleiste 
+In der klassichen Menü-Ansicht über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
+
+In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreichen in der Registerkarte *Stammdaten* Gruppe *Produkte* Funktion Vertriebsfirmen oder Funktion Gesellschaften.
+
+![](http://xpecto.github.io/docs/img/img_1461576629712.png)
+
 Sie finden die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461577036362.png).
 In der Maske Firmen und Produkte werden die erweiterte Einstellungen zum Produkt vorgenommen.
 ![](http://xpecto.github.io/docs/img/img_1425985199858.png)
