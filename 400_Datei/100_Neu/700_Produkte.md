@@ -55,9 +55,9 @@ Dafür wählen Sie in dem Reiter <em>Berechnungen</em> in der Berechnungsliste a
 
 <p>In dem Dialog <em>Berechnung erstellen</em> können Sie eine neue Berechnung ertstellen, eine Kopie von eine vorhanden Berechnung erstellen oder die Aktion abbrechen.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461571838655.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461572769392.png" alt="" title=""></p>
 
-<p>Wenn Sie in dem Dialog <em>Berechnung anlegen</em>  <em>Neue Berechnung erstellen</em> werden Sie in dem Dialog <em>Berechnungen und Transaktionen</em> weitergeleitet (siehe Handbuch <em>Berechnungen → Berechnungen und Transaktionen</em>).</p>
+<p>Wenn Sie in dem Dialog <em>Berechnung anlegen</em>  <em>Neue Berechnung erstellen</em> wöhlen werden Sie in dem Dialog <em>Berechnungen und Transaktionen</em> weitergeleitet (siehe Handbuch <em>Berechnungen → Berechnungen und Transaktionen</em>).</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461406481399.png" alt="" title=""></p>
 
@@ -67,16 +67,13 @@ Durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/i
 <p>In dem Reiter <em>Belege</em> können Belegarten wie z.B. Rechnungen zu dem Produkt angelegt werden. <br>
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.</p>
 
-<p>Auf dem Karteireiter <em>Dokumente</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.   </p>
-
-<p>Beispiel: Sie haben einen Telefonat wegen einem Produkt durchgeführt.  <br>
-Wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159119190.png" alt="" title="">.</p>
-
-<p>Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. </p>
+<p>Auf dem Karteireiter <em>Dokumente</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten. <br>
+Beispiel: Sie haben einen Telefonat wegen einem Produkt durchgeführt.  <br>
+Wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159119190.png" alt="" title="">. <br>
+Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461159331075.png" alt="" title=""></p>
 
-<p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.</p>
-
-<p>Durch eine Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159194556.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159231005.png" alt="" title="">.</p></div></body>
+<p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt. <br>
+Durch eine Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159194556.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159231005.png" alt="" title="">.</p></div></body>
 </html>
