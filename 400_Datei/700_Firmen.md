@@ -35,5 +35,5 @@ Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte 
 <p>Unter dem Karteireiter <em>Web-Dokumente</em> werden alle Dokumente die dem Vertriebspartner in dem Web-Portal zur Verfügung gestellt sind, verwaltet.</p>
 
 <p>Unter <em>Gesellschaften</em> werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte.  <br>
-Über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461576494147.png" alt="" title=""> können neue Gesellschaften angelegt werden.</p></div></body>
+Über das Symbol <img src="http://xpecto.github.io/docs/img/img_1461576494147.png" alt="" title=""> können neue Gesellschaften angelegt werden.</p></div></body>
 </html>
