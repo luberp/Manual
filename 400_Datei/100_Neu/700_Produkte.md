@@ -41,7 +41,7 @@ Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img
 Unter der Reiter *Verträge* wird eine Liste der Verträge die in dem Produkt erhalten sind. Auch von hier können Sie eine Kampagne erstellen.
  
 Unter dem Reiter *Berechnungen* kann eine vorher angelegte Berechnung (siehe Handbuch *Berechnungen und Transaktionen*)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.
-Dafür wählen Sie in dem Reiter *Berechnungen* in der Berechnungsliste auf Zinsberechnung und dann auf die Schaltfläche Berechnung ausführen.
+Dafür wählen Sie in dem Reiter *Berechnungen* in der Berechnungsliste auf *Zinsberechnung* und dann klicken Sie auf die Schaltfläche *Berechnung anlegen*.
 
 ![](http://xpecto.github.io/docs/img/img_1461408021580.png)
 
