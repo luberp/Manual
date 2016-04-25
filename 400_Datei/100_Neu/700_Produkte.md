@@ -1,64 +1,82 @@
-Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>700_Produkte.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. </p>
 
-In der klassischen Menü-Ansicht können Sie ein neues Produkt anlegen über 
- *Datei → Neu → Produkte* oder über die Schaltfläche ![]![](http://xpecto.github.io/docs/img/img_1461405309793.png)  *Produkte neu anlegen*.
+<p>In der klassischen Menü-Ansicht können Sie ein neues Produkt anlegen über  <br>
+ <em>Datei → Neu → Produkte</em> oder über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461405309793.png" alt="]![" title="">  <em>Produkte neu anlegen</em>.</p>
 
-In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Produkte* um neue Daten anzulegen.
+<p>In der modernen Menü-Ansicht Klicken Sie in der Registerkarte <em>Schnellzugriff</em> auf <em>Neu</em> <em>Produkte</em> um neue Daten anzulegen.</p>
 
-![](http://xpecto.github.io/docs/img/img_1461566925342.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1461566925342.png" alt="" title=""></p>
 
-In dem Dialog *neues Produkt anlegen* wird der Name und die Konfigurationsdaten angegeben.
-![](http://xpecto.github.io/docs/img/img_1461405250623.png)
+<p>In dem Dialog <em>neues Produkt anlegen</em> wird der Name und die Konfigurationsdaten angegeben.</p>
 
-Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege*.
+<p><img src="http://xpecto.github.io/docs/img/img_1461405250623.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1461405662900.png)
+<p>Die Vetragsmaske enthält folgende Reiter: <em>Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege</em>.</p>
 
-Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461568213135.png) werden Sie zu Firmen und Produkte Maske weitergeleitet wo erweiterte Einstellungen zu Produkte vorgenommen werden können (siehe Handbuch *Datei → Produkte*).
-![](http://xpecto.github.io/docs/img/img_1461406046330.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1461405662900.png" alt="" title=""></p>
 
-In der Vetragsmaske unter dem Reiter *Stammdaten* werden die Stammdaten zum Produkt angezeigt.
+<p>Durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461568213135.png" alt="" title=""> werden Sie zu <em>Firmen und Produkte</em> Maske weitergeleitet wo erweiterte Einstellungen zu Produkte vorgenommen werden können (siehe Handbuch <em>Datei → Produkte</em>). <br>
+<img src="http://xpecto.github.io/docs/img/img_1461406046330.png" alt="" title=""></p>
 
-Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.
+<p>In der Vetragsmaske unter dem Reiter <em>Stammdaten</em> werden die Stammdaten zum Produkt angezeigt.</p>
 
- Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar.
+<p>Der Reiter <em>Auswertung</em> stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.</p>
 
-![](http://xpecto.github.io/docs/img/img_1461568583275.png)
- 
- Sollbuchungen
- 
- Salden
- Der Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
- Unter dem Reiter *Salden* können Sie die Salden konfigurieren. Neben den schon angelegte Salden können hier neue Salden über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426517966548.png) neue Gruppe ![](http://xpecto.github.io/docs/img/img_1426518057250.png) und neue Buchungskonten ![](http://xpecto.github.io/docs/img/img_1426518083903.png) angelegt werden.
+<p>Unter dem Reiter <em>OPOS</em> wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar.</p>
 
-![](http://xpecto.github.io/docs/img/img_1439908866037.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1461568583275.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1439910564967.png)
+<p>Unter dem Reiter <em>Sollbuchungen</em> werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch <em>Berechnungen → Zahlungsverkehr</em>) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.</p>
 
-In der Liste*im Saldo enthaltene Gruppen* stehen die Gruppe von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
+<p>Der Reiter <em>Salden</em> beihaltet eine Saldenauswertung zu dem Produkt. Die hier hinterlegte Konten beziehen sich auf die unter <em>Firmen und Produkte</em> Maske vorkonfigurierte Salden. <br>
+Durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461570397385.png" alt="" title=""> werden die Buchungen zum Saldo angezeigt.</p>
 
- 
- Beteiligungen
- Wenn Sie in den *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
-Wenn Sie in den *Anzahl Verträge* auf das Symbol klicken ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.
+<p>In der Reiter <em>Beteiligungen</em> wird die detaillierte Liste der Anleger die an den Produkt beteiligt sind angezeigt. </p>
 
- Verträge
- 
-Unter dem Reiter *Berechnungen* kann eine vorher angelegte Berechnung (siehe Handbuch Berechnungen und Transaktionen)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.
+<p><img src="http://xpecto.github.io/docs/img/img_1461570695006.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1461406481399.png)
+<p>Durch einen Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461571103101.png" alt="" title=""> können Sie eine Kampagne erstellen ( siehe Handbuch <em>Bearbeiten → Kampagnen</em>).</p>
 
-Dafür wählen Sie in dem Reiter *Berechnungen* in der Berechnungsliste auf Zinsberechnung und dann auf die Schaltfläche Berechnung ausführen.
-![](http://xpecto.github.io/docs/img/img_1461408021580.png)
+<p>Unter der Reiter <em>Verträge</em> wird eine Liste der Verträge die in dem Produkt erhalten sind. Auch von hier können Sie eine Kampagne erstellen.</p>
 
-![](http://xpecto.github.io/docs/img/img_1461407735380.png)
+<p>Unter dem Reiter <em>Berechnungen</em> kann eine vorher angelegte Berechnung (siehe Handbuch <em>Berechnungen und Transaktionen</em>)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.</p>
 
-Übertragungen
+<p><img src="http://xpecto.github.io/docs/img/img_1461406481399.png" alt="" title=""></p>
 
-Belege 
-In dem Reiter *Belege* können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
+<p>Dafür wählen Sie in dem Reiter <em>Berechnungen</em> in der Berechnungsliste auf Zinsberechnung und dann auf die Schaltfläche Berechnung ausführen. <br>
+<img src="http://xpecto.github.io/docs/img/img_1461408021580.png" alt="" title=""></p>
 
-Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Verträgen (über Berechnungen und Transaktionen abgerechnet)
+<p><img src="http://xpecto.github.io/docs/img/img_1461407735380.png" alt="" title=""></p>
 
-Dokumente
+<p>Übertragungen</p>
 
+<p>Belege  <br>
+In dem Reiter <em>Belege</em> können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. </p>
+
+<p>Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Verträgen (über Berechnungen und Transaktionen abgerechnet)</p>
+
+<p>Auf dem Karteireiter <em>Dokumente</em> werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.   </p>
+
+<p>Beispiel: Sie haben einen Telefonat wegen einem Produkt durchgeführt.  <br>
+Wählen Sie dazu die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159119190.png" alt="" title="">.</p>
+
+<p>Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461159331075.png" alt="" title=""></p>
+
+<p>Nachdem die eingegebenen Daten mit <em>OK</em> bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.</p>
+
+<p>Durch eine Klick auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159194556.png" alt="" title=""> können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461159231005.png" alt="" title="">.</p>
+
+<p>In dem Reiter <em>Belege</em> können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden. <br>
+Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.</p></div></body>
+</html>
