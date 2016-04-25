@@ -1,11 +1,21 @@
 Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. 
-Um ein neues Produkt anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461405309793.png)
 
+In der klassischen Menü-Ansicht können Sie ein neues Produkt anlegen über 
+ *Datei → Neu → Produkte* oder über die Schaltfläche ![]![](http://xpecto.github.io/docs/img/img_1461405309793.png)  *Produkte neu anlegen*.
+
+In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Produkte* um neue Daten anzulegen.
+
+![](http://xpecto.github.io/docs/img/img_1461566925342.png)
+
+In dem Dialog *neues Produkt anlegen* wird der Name und die Konfigurationsdaten angegeben.
 ![](http://xpecto.github.io/docs/img/img_1461405250623.png)
 
+Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege*.
+
 ![](http://xpecto.github.io/docs/img/img_1461405662900.png)
+
+Durch einen Klick auf die Schaltfläche werden Sie zu Firmen und Produkte Maske weitergeleitet wo erweiterte Einstellungen zu Produkte vorgenommen werden können (siehe Handbuch *Datei → Produkte*).
 ![](http://xpecto.github.io/docs/img/img_1461406046330.png)
-Reiter: Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege.
 
 Unter dem Reiter *Berechnungen* kann eine vorher angelegte Berechnung (siehe Handbuch Berechnungen und Transaktionen)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.
 
