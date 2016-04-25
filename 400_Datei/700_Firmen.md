@@ -9,7 +9,7 @@ Die Maske enthält eine eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu 
 Die Maske beinhaltet auf der rechten Seite folgende Anschten: *Firmen*, *Produkte* und *Gesellschaften*. 
 
 Unter dem Ansicht *Firmen* werden die Vertriebsfirmen, in deren Namen Provisionsabrechnungen erstellt werden, verwaltet. 
-Um eine neue Firma anzulegen klicken Sie in der Maske Firmen und Produkte auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461576465590.png), dann wird die Firmenmaske angezeigt.
+Um eine neue Firma anzulegen klicken Sie in der Maske Firmen und Produkte auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461576465590.png), dann wird die Firmenmaske angezeigt.
 Auf dem Reiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich *Abrechnung* beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird vom xpecto Kundensupport voreingestellt.
 
 ![](http://xpecto.github.io/docs/img/img_1461576331476.png)
@@ -27,5 +27,5 @@ Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte 
 Unter dem Karteireiter *Web-Dokumente* werden alle Dokumente die dem Vertriebspartner in dem Web-Portal zur Verfügung gestellt sind, verwaltet.
 
 Unter *Gesellschaften* werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte. 
-Über das Symbol ![](http://xpecto.github.io/docs/img/img_1461576494147.png) können neue Gesellschaften angelegt werden.
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461576494147.png) können neue Gesellschaften angelegt werden.
 
