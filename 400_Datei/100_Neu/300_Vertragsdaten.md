@@ -19,7 +19,7 @@ Es wird eine Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden si
 
 ![](http://xpecto.github.io/docs/img/img_1461151200710.png)
 
-Der neue Vertrag wird nachdem Speichern unter der Beteiligung angezeigt.
+Der neue Vertrag wird nach Bestätigung mit *OK* in der Beteiligung angezeigt.
 Die Vertragsmaske enthält folgende Reiter: *Allgemein, Eigenschaften, Werte, OPOS, Übertragung, Salden, Buchungsdaten, Sollbuchungen, Ereignisse, Belege, Drittrechte*.
 
 ![](http://xpecto.github.io/docs/img/img_1461151792103.png)
