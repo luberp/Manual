@@ -28,7 +28,6 @@ Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählte
  
  Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch *Berechnungen → Zahlungsverkehr*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
  
-
 Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Produkt. Die hier hinterlegte Konten beziehen sich auf die unter *Firmen und Produkte* Maske vorkonfigurierte Salden.
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461570397385.png) werden die Buchungen zum Saldo angezeigt.
 
@@ -60,12 +59,4 @@ Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img
 In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Produkt angelegt werden.
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
-Auf dem Karteireiter *Dokumente* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.   
-Beispiel: Sie haben einen Telefonat wegen einem Produkt durchgeführt. 
-Wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159119190.png).
-Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. 
-
-![](http://xpecto.github.io/docs/img/img_1461159331075.png)
-
-Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
-Durch eine Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159194556.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159231005.png).
+Auf dem Karteireiter *Dokumente* werden wichtige Ereignisse zum aktuellen Produkt festgehalten.   
