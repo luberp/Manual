@@ -1,6 +1,6 @@
 In der klassichen Menü-Ansicht über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
 
-In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreichen in der Registerkarte *Stammdaten* Gruppe *Produkte* Funktion Vertriebsfirmen oder Funktion Gesellschaften.
+In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreichen in der Registerkarte *Stammdaten* Gruppe *Produkte* Funktion *Vertriebsfirmen* oder Funktion *Gesellschaften*.
 
 ![](http://xpecto.github.io/docs/img/img_1461576629712.png)
 
