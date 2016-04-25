@@ -37,7 +37,7 @@
 5. [Menü: Bearbeiten](http://help.xpecto.de/Bearbeiten)
 *  5.1. [Datensatz löschen](http://help.xpecto.de/Bearbeiten/Datensatz_loeschen)
 * 5.2. [Datensatz kopieren](http://help.xpecto.de/Bearbeiten/Datensatz_kopieren)
-* 5.3. [Vertrag übertragen](http://help.xpecto.de/Bearbeiten/Vertrag_uebertragen)
+* 5.3. [Zu Kampagne hinzufügen](http://help.xpecto.de/Bearbeiten/Zu_Kampagne_hinzufuegen)
 * 5.4. [ID ändern](http://help.xpecto.de/Bearbeiten/ID_aendern)
 * 5.5. [Aktualisieren](http://help.xpecto.de/Bearbeiten/Aktualisieren)
 * 5.6. [Abfragen erstellen](http://help.xpecto.de/Bearbeiten/Abfragen_erstellen)
@@ -46,10 +46,11 @@
 * 5.9. [Erweiterte Suche](http://help.xpecto.de/Bearbeiten/Erweiterte_Suche)
 * 5.10. [Duplikate finden](http://help.xpecto.de/Bearbeiten/Duplikte_finden)
 *  5.11. [Stapelbuchungen](http://help.xpecto.de/Bearbeiten/Stapelbuchungen)
-* 5.12. [Beteiligungs-/Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Beteiligungs-Vertragsbuchungen)
-* 5.13. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
-* 5.14. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenleiste)
-* 5.15.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuerung)
+* 5.12. [Beteiligungs-/Vertragsbuchungen](http://help.xpecto.de/Bearbeiten/Beteiligungs_Vertragsbuchungen)
+* 5.13. [Vertrag übertragen](http://help.xpecto.de/Bearbeiten/Vertrag_uebertragen)
+* 5.14. [Wiedervorlage Liste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Liste)
+* 5.15. [Wiedervorlage Seitenleiste](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Seitenleiste)
+* 5.16.  [Wiedervorlage Steuerung](http://help.xpecto.de/Bearbeiten/Wiedervorlage_Steuerung)
 6. [Menü: Berechnungen](http://help.xpecto.de/Berechnungen) 
 *  6.1. [Abrechungszeitraum festlegen](http://help.xpecto.de/Berechnungen/Abrechnungszeitraum_festlegen)
 *  6.2. [Provisionsberechnung](http://help.xpecto.de/Berechnungen/Provisionsberechnung)
@@ -612,7 +613,8 @@ Es wird eine Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden si
 
 ![](http://xpecto.github.io/docs/img/img_1461151200710.png)
 
-Der neue Vertrag wird nachdem Speichern unter der Beteiligung angezeigt.
+Der neue Vertrag wird nach Bestätigung mit *OK* in der Beteiligung angezeigt.
+
 Die Vertragsmaske enthält folgende Reiter: *Allgemein, Eigenschaften, Werte, OPOS, Übertragung, Salden, Buchungsdaten, Sollbuchungen, Ereignisse, Belege, Drittrechte*.
 
 ![](http://xpecto.github.io/docs/img/img_1461151792103.png)
@@ -633,7 +635,7 @@ Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnu
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
-Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden. Diese können im Bereich Übertragungs-Parameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungs-Parameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
+Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden. Diese können im Bereich Übertragungsparameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungsparameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
 Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag und wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
 In der modernen Menü-Ansicht wählen Sie den Karteireiter *Berichte und Massenaktionen* Gruppe *Bearbeiten* Funktion *Vertrag übertragen*.
  ![](http://xpecto.github.io/docs/img/img_1461156880109.png) 
@@ -934,135 +936,94 @@ Unter dem Reiter *Konfiguration* werden die eingescannte Stimmen von Veranstaltu
 
 ### Produkte
 
-Eine der wesentliche Aufgabe im Vertrieb ist der Verkauf von Produkte und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Position, Branche, Firma unterschiedlich. Wie die Provisionierung und die Provisionierung Methoden in xpectoPro umgesetzt wurden sehen Sie unten.
-Um einen neuen Vermittler anzulegen betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1431437056167.png) oder das Menü *Datei → Neu → Vermittler*. Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben bestätigen Sie mit *OK*. 
+Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. 
 
-Unter dem Reiter *Allgemein* sehen Sie eine Übersicht von Meldedaten. Die eigentliche Stammdaten des ausgewählten Vermittler, sonstige Daten sowie die Web-Portal Daten. 
+In der klassischen Menü-Ansicht können Sie ein neues Produkt anlegen über 
+ *Datei → Neu → Produkte* oder über die Schaltfläche ![]![](http://xpecto.github.io/docs/img/img_1461405309793.png)  *Produkte neu anlegen*.
 
-Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* und dienen der Anmeldung des Vermittlers am xpecto Webportal. 
-Das Web-Portal kann ein Vermittlerinformationsportal sein. Das Informationsportal kann vom xpecto Kundensupport angepasst werden, dies betrifft das Aussehen des Portals und den Zugriff auf Content. Hier kann der Vermittler sehen z.B. ob ein Vertrag abgeschlossen ist. 
-Die hier eingetragenen Zugangsdaten werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch frei geschalten oder gesperrt werden.
+In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Produkte* um neue Daten anzulegen.
 
-In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten).
+![](http://xpecto.github.io/docs/img/img_1461566925342.png)
 
-![](http://xpecto.github.io/docs/img/img_1443175940689.png)
+In dem Dialog *neues Produkt anlegen* wird der Name und die Konfigurationsdaten angegeben.
 
-Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer*.
+![](http://xpecto.github.io/docs/img/img_1461405250623.png)
 
-Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung, sowie Steuerdaten anlegen.  Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch überprüft.  
+Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege*.
 
-Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer.*
+![](http://xpecto.github.io/docs/img/img_1461405662900.png)
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461568213135.png) werden Sie zu *Firmen und Produkte* Maske weitergeleitet wo erweiterte Einstellungen zu Produkte vorgenommen werden können (siehe Handbuch *Datei → Produkte*).
+![](http://xpecto.github.io/docs/img/img_1461406046330.png)
 
-![](http://xpecto.github.io/docs/img/img_1438761904085.png)
+In der Vetragsmaske unter dem Reiter *Stammdaten* werden die Stammdaten zum Produkt angezeigt.
 
-Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu eine andere Person anlegen oder eine neue Adresse für die Person hinzufügen. 
-Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img046.png). 
+Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.
 
-In dem darauf folgenden Dialog bestimmen Sie ob eine neue Verknüpfung oder eine Anschrift angelegt werden soll.
+ Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar.
 
-![](http://xpecto.github.io/docs/img/img_1438074839670.png)
-
-Falls Sie eine Verknüpfung hinzufügen möchten, es eröffnet sich der folgende Maske:
-
-![](http://xpecto.github.io/docs/img/img_1438084400120.png)
-
-Wählen Sie hier einen Typ für Ihre Verknüpfung. Um die gewünschte Person einzufügen klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1438327135428.png), es eröffnet sich hier das Suchdialog (siehe *Einführung Oberfläche → Suche*). Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1438327864939.png) eine neue Person anzulegen.
-
-In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als  eine neue Anschrift ohne weitere Funktionen einzufügen. 
-
-xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. 
-
-![](http://xpecto.github.io/docs/img/img_1438074994809.png)
-
-Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
-Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
-Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1438089018212.png).
-Um eine Rolle zu löschen wählen Sie die Schaltfläche![](http://xpecto.github.io/docs/img/img_1438330503651.png).
-
-Da einen Kunde mehrere Kontoverbindungen haben kann, haben Sie hier Möglichkeit ,unter dem Unterkarteireiter *Kontoverbindungen*, für einen Kunde mehrere Kontoverbindungen anzulegen.
-Unter dem Unterkarteireiter *Legitimationsdaten* können Sie die Dokumente erfassen womit sich der Kunde legitimiert.
-Der Unterkarteireiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die  Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. 
-Der Unterkarteireiter *Auslands-Steuer* ist insoweit relevant wenn der Kunde Steuer in Ausland zahlt.
-
-![](http://xpecto.github.io/docs/img/img_1443176705989.png)
-
-Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.
-
-Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler auf dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und optional einen Tarif. 
-
-Der Reiter *Struktur* zeigt die über die Provisionssätze bzw. für das Feld Führung definierte Vermittlerstruktur-/hierarchie an.
-Bei den in xpectoPro verwalteten Vertriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumstruktur organisiert sind. Häufig werben bestehende Vermittler weitere Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden.
-
-![](http://xpecto.github.io/docs/img/img_1438602553303.png)
-
-In der Vermittleransicht auf dem Reiter *Buchungen* werden die kumulierte Buchungen zu dem aktuell ausgewählten Vermittler, verwaltet.
-Vermittlerbuchungen sind durch die Provisionsabrechnung berechnete oder manuell erfasste Provisionszahlungen oder Einbehalte davon. Ein entsprechender Datensatz ist durch einen Schlüssel zur Kennzeichnung der Provisionsart, einen Text, ein Datum, einen Betrag und eine Zahlfirma definiert. Vermittler-Buchungen werden durch ihre Ähnlichkeit zu Buchungssätzen so bezeichnet, sind jedoch nicht zu verwechseln mit Buchungen der Finanzbuchhaltung. Um z.B. eine Provisionsvorauszahlung manuell zu buchen, klicken Sie auf ![](http://xpecto.github.io/docs/img/img046.png), wählen das Datum, den zugehörigen Schlüssel, den Text, den Betrag mit Währung, sowie die Firma. Je nach Buchungsart kann festgelegt werden, ob die Zahlung umsatzsteuerpflichtig ist oder nicht.
-
-![](http://xpecto.github.io/docs/img/img_1438593920330.png)
-
-Auf dem Reiter *Ereignisse* können die Ereignisse die den aktuell ausgewählten Vermittler betreffen, festgehalten. Um ein Ereignis anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443176427714.png). Wählen Sie das Datum, die Ereignisart wie z.B. E-Mail oder Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail).
-
-![](http://xpecto.github.io/docs/img/img_1443176299286.png)
-
-In dem Reiter *Belege* können Belegarten wie z.B. Provisionsbelege angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
-
-![](http://xpecto.github.io/docs/img/img_1438594583641.png)
-
-Der Reiter *Umsätze* zeigt die Summe aller Einnahmen die durch abschließen eines Vertrages  entstanden sind. Diese Umsätze werden zu Vermittler und/oder Karriere-System angezeigt.
-
-![](http://xpecto.github.io/docs/img/img_1438764896853.png)
-
-Der Reiter *Auswertungen* ist in zwei geteilt: *Links* und *Google Maps*.
-Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittler Portal oder Sie können direkt im Browser die genaue Adresse von dem Vermittler sehen.
-Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit geographische Verteilung der Kunden und Vermittler auf der Karte zu sehen.
-
-**Provisionierung** 
-
-Bei den in xpectoPro verwalteten Vetriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen die Vermittler ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist) in einer Art Baumsturktur organisiert sind. Häufig werben bestehende Vermittler weiter Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
-In der Regel erhalten höher einstrukturierte Vermittler für Vertragsabschlüsse ihrer Unterstruktur die Provisionsdifferenz zwischen Ihrem eigenen Provisionssatz und dem meist niedrigeren Provisionssatz eines direkt untergeordneten Vermittlers.
-Die Software bietet zwei alternative Methoden, um die Vermittler-Struktur und die Provisionssätze der Vermittler zu definieren: die Erfassung individueller Provisionssätze und die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nach dem welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise.
-Sie können die beide Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle andere Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
-
-**Provisionierung Methoden**
-
-**individuelle Provisionen - die flexible Methode** Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler im dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, eine Firma, ein Produkt und einen Tarif. Die Provisionsmodelle sind der wichtigste Bestandteile bei der Provisionsabrechnung.
-     
- **Karriere-System - die einfache Methode (Default)** Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittler keine Provisionssätze erfasst. Stattdessen wird bei jedem Vermittler auf dem Karteireiter *Allgemein* eine Karrierestufe ausgewählt. Zu den vorhandenen Karrierestufen müssen wiederum Standard-Provisionssätze festgelegt werden. Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über der die Firmen, Produkte und Gesellschaften verwaltet werden. Die Pflege über die Karrierestufen ermöglicht dabei eine einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. 
+![](http://xpecto.github.io/docs/img/img_1461568583275.png)
  
-![](http://xpecto.github.io/docs/img/img_1438603327829.png)
+ Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch *Berechnungen → Zahlungsverkehr*) ein Datensatz eingetragen mit Datum, Text, Betrag, Status und dem Fondskonto, auf das die Lastschrift eingezogen werden soll.
+ 
+Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Produkt. Die hier hinterlegte Konten beziehen sich auf die unter *Firmen und Produkte* Maske vorkonfigurierte Salden.
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461570397385.png) werden die Buchungen zum Saldo angezeigt.
 
-In dem Ansicht *Produkte* auf dem Reiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
+In der Reiter *Beteiligungen* wird die detaillierte Liste der Anleger die an den Produkt beteiligt sind angezeigt. 
 
-![](http://xpecto.github.io/docs/img/img_1440764807466.png)
+![](http://xpecto.github.io/docs/img/img_1461570695006.png)
+
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461571103101.png) können Sie eine Kampagne erstellen ( siehe Handbuch *Bearbeiten → Kampagnen*).
+
+Unter der Reiter *Verträge* wird eine Liste der Verträge die in dem Produkt erhalten sind. Auch von hier können Sie eine Kampagne erstellen.
+ 
+Unter dem Reiter *Berechnungen* kann eine vorher angelegte Berechnung (siehe Handbuch *Berechnungen und Transaktionen*)  z.B. eine Zinsberechnung für dieses Produkt ausgeführt werden.
+Dafür wählen Sie in dem Reiter *Berechnungen* in der Berechnungsliste auf *Zinsberechnung* und dann klicken Sie auf die Schaltfläche *Berechnung anlegen*.
+
+![](http://xpecto.github.io/docs/img/img_1461408021580.png)
+
+In dem Dialog *Berechnung erstellen* können Sie eine neue Berechnung ertstellen, eine Kopie von eine vorhanden Berechnung erstellen oder die Aktion abbrechen.
+
+![](http://xpecto.github.io/docs/img/img_1461572769392.png)
+
+
+Wenn Sie in dem Dialog *Berechnung anlegen*  *Neue Berechnung erstellen* wöhlen werden Sie in dem Dialog *Berechnungen und Transaktionen* weitergeleitet (siehe Handbuch *Berechnungen → Berechnungen und Transaktionen*).
+
+![](http://xpecto.github.io/docs/img/img_1461406481399.png)
+
+In dem Reiter *Übertragungen* wird eine Liste der Übertragungen für diesen Produkt angezeigt. 
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461571103101.png) können Sie eine Kampagne erstellen ( siehe Handbuch *Bearbeiten → Kampagnen*).
+
+In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Produkt angelegt werden.
+Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
+
+Auf dem Karteireiter *Dokumente* werden wichtige Ereignisse zum aktuellen Produkt festgehalten.   
+
 
 ## Schnellerfassung
 
 Der Dialog *Schnellerfassung* wird eingesetzt um eine große Menge an Stammdaten zu erfassen. Sind die zu erfassenden Daten ähnlich so kann mit Hilfe der Schnellerfassung an Aufwand gespart.
 
-Der Dialog Schnellerfassung wird erreicht über *Datei → Schnellerfassung* oder Symbol-und Funktionsleiste ![](http://xpecto.github.io/docs/img/img_1442999858597.png), und dient der schnelle Eingabe von Datenmengen, die am häufigsten verwendet werden.
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443018152604.png), um mit der manuellen Eingabe zu starten.
+In der klassischen Menü-Ansicht kann der Dialog Schnellerfassung über *Datei → Schnellerfassung* oder in der Symbolleiste über ![](http://xpecto.github.io/docs/img/img_1442999858597.png) gestartet werden, und dient der schnelle Eingabe von Datenmengen, die am häufigsten verwendet werden.
+Starten Sie die Schnellerfassung und klicken Sie auf die Schaltfläche *Daten manuell erfassen*, um mit der manuellen Eingabe zu starten.
 
-![](http://xpecto.github.io/docs/img/img_1442999939016.png)
+![](http://xpecto.github.io/docs/img/img_1461573607704.png)
 
-Eingabemasken:   
+In der folgenden Eingabemasken müssen dann die Daten erfasst werden:   
        
- - Vertrags-Nr.         
- - Kunde suche 
- - Kunde 
- - Vertrag
- - Konto 
- - Dokumente
-
-![](http://xpecto.github.io/docs/img/img_1443000322630.png)
+ - *Vertrags-Nr.*         
+ - *Kunde suche* 
+ - *Kunde* 
+ - *Vertrag*
+ - *Konto* 
+ - *Dokumente*
 
 Speichern Sie dann Ihre Eingaben über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443019951326.png). 
-Falls in der Feldgruppe *Aufkleber* ein Checkbox markiert würde, dann wird durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443019964944.png), der bzw. die Barcode-Aufkleber zur Registrierung des Dokumentes gedruckt.
+Falls in der Eingabemaske *Dokumente* Feldgruppe *Aufkleber* ein Checkbox markiert würde, dann wird durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443019964944.png), der bzw. die Barcode-Aufkleber zur Registrierung des Dokumentes gedruckt.
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443020139854.png) werden die Einstellungen für den Aufkleber gespeichert. Diese werden dann, für alle weitere Eingaben von Daten als Standard angezeigt.
+In der Startmaske über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443020139854.png) werden die Einstellungen für den Aufkleber gespeichert. Diese werden dann, für alle weitere Eingaben von Daten als Standard angezeigt.
 
-Über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern. Über die Onlineerfasung bzw. über eine Fremderfassung vorausgefüllte Daten (wo die VertragNr. bereits feststeht) und die vorerfassten Daten auf dem Webserver hinterlegt sind, können dann abgefragt werden und in dem Dialog Schnellerfassung befüllt werden.
+In der Startmaske über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern. Über die Onlineerfasung bzw. über eine Fremderfassung vorausgefüllte Daten (wo die VertragNr. bereits feststeht) und die vorerfassten Daten auf dem Webserver hinterlegt sind, können dann abgefragt werden und in dem Dialog Schnellerfassung befüllt werden.
 
 Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, können Sie einen Vertrag einscannen, dafür brauchen sie eine installierte Webcam.
 
@@ -1070,16 +1031,29 @@ Falls in der Feldgruppe *Aufkleber* ein Checkbox markiert würde, dann wird durc
 
 ## zuletzt ausgewaehlt
 
-Unter *zuletzt ausgewählt* bekommen Sie eine Übersicht von den Datensätzen die Sie zuletzt geöffnet haben.  Um zurück zu dem vorherigen Datensatz zu gehen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443007252173.png) in der Symbol- und Funktionsleiste. 
+Unter *zuletzt ausgewählt* bekommen Sie eine Übersicht von den Datensätzen die Sie zuletzt geöffnet haben.  
+In der klassischen Menü-Ansicht können Sie zurück zu dem zuletzt ausgewählten Datensatz gehen durch Klicken auf das Symbol ![](http://xpecto.github.io/docs/img/img_1443007252173.png) in der Symbolleiste. 
+geht zum zuletzt ausgewählten Datensatz zurück.
+
+In der modernen Menü-Ansicht steht die Funktion in der Registerkarte *Schenellzugriff* immer im Vordergrund.
+
+![](http://xpecto.github.io/docs/img/img_1461574326276.png) 
+
 
 ## Speichern
 
 Bemerkung zum Speichern von Änderungen: alle Änderungen zu den Stamm- und Bewegungsdaten, sowie die eingegebenen Daten bei neuen Datensätzen werden erst durch Betätigung der Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1431534106746.png),  über den Menüpunkt *Datei → Speichern*  oder durch Tastenkombination *Strg + S* in die Datenbank übernommen. 
+
+In der modernen Funktion-Ansicht ist die Speicherfunktion in der *Schnellzugriff* vorhanden.
+
+![](http://xpecto.github.io/docs/img/img_1461574859378.png)
+
 Wird nach dem Neuanlegen oder Änderung eines Datensatzes ein anderer Navigation-Datensatz (z.B. Kunde oder Vertrag) selektiert, ohne vorher zu speichern, so erscheint die Meldung, dass gegebenenfalls noch nicht gesicherte Daten vorhanden sind und diese noch zu sichern sind. 
 
 ![](http://xpecto.github.io/docs/img/img_1425889416455.png)
 
 Beantwortet man diese mit Nein,  so werden die Änderungen verworfen. 
+
 
 ## Druckvorschau
 
@@ -1094,16 +1068,22 @@ Um ein Dokument zu drucken wählen Sie den folgenden Menüpfad *Datei → Drucke
 
 ## Firmen
 
-Über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
+In der klassichen Menü-Ansicht über das Menü *Datei → Firmen* oder über die Schaltfläche![](http://xpecto.github.io/docs/img/img_1425973616673.png) gelangen sie zur Maske *Firmen und Produkte.* 
 
-Die Maske enthält eine eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern, neue Firma anlegen, neues Produkt anlegen, neue Gesellschaft anlegen oder der ausgewählte Datensatz löschen.
+In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreichen in der Registerkarte *Stammdaten* Gruppe *Produkte* Funktion *Vertriebsfirmen* oder Funktion *Gesellschaften*.
 
-Die Maske beinhaltet auf der rechten Seite folgende Reiter: *Firmen*, *Produkte* und *Gesellschaften*. 
+![](http://xpecto.github.io/docs/img/img_1461576629712.png)
+
+Die Maske enthält eine eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern,  ![](http://xpecto.github.io/docs/img/img_1461576465590.png) *Abrechnungsfirmen neu anlegen*, ![](http://xpecto.github.io/docs/img/img_1461577264946.png) *Produkte neu anlegen*, ![](http://xpecto.github.io/docs/img/img_1461576494147.png) Gesellschaften neu anlegen oder ![](http://xpecto.github.io/docs/img/img_1461577385984.png) *aktuellen Datensatz löschen*.
+
+Die Maske beinhaltet auf der rechten Seite folgende Anschten: *Firmen*, *Produkte* und *Gesellschaften*. 
 
 Unter dem Ansicht *Firmen* werden die Vertriebsfirmen, in deren Namen Provisionsabrechnungen erstellt werden, verwaltet. 
+Um eine neue Firma anzulegen klicken Sie in der Maske Firmen und Produkte auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461576465590.png), dann wird die Firmenmaske angezeigt.
 Auf dem Reiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich *Abrechnung* beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird vom xpecto Kundensupport voreingestellt.
 
-![](http://xpecto.github.io/docs/img/img_1429018791130.png)
+![](http://xpecto.github.io/docs/img/img_1461576331476.png)
+
 
 Auf dem Reiter *Kosten* können Kostensätze für den automatischen Einbehaltung von der Vermittler-Provision eingetragen werden. Verschiedene Kostenarten werden über entsprechende Schlüssel unterschieden, die vorher auf dem Karteireiter *Konten* angelegt werden müssen. 
 
@@ -1116,37 +1096,47 @@ Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte 
 
 Unter dem Karteireiter *Web-Dokumente* werden alle Dokumente die dem Vertriebspartner in dem Web-Portal zur Verfügung gestellt sind, verwaltet.
 
-Unter Gesellschaften werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte. 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425976921113.png) können neue Gesellschaften angelegt werden.
+Unter *Gesellschaften* werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte. 
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461576494147.png) können neue Gesellschaften angelegt werden.
+
+
 
 ## Produkte
 
-Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. 
-Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein. 
-Sie finden die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1425984359021.png).
+Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein. 
 
-![](http://xpecto.github.io/docs/img/img_1425985199858.png)
+In der klassischen Menü-Ansicht finden Sie die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461577656123.png). 
+In der Maske *Firmen und Produkte* werden die erweiterte Einstellungen zum Produkt vorgenommen.
 
-Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten und Bankverbindungen  Hier werden allgemeine Daten zum Produkt erfasst. 
- 
+In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreichen in der Registerkarte *Stammdaten* Gruppe *Produkte* Funktion *Produkte*.
+
+![](http://xpecto.github.io/docs/img/img_1461577830927.png)
+
+Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten und Buchhaltung / Konten die allgemeine Daten zum Produkt erfasst, das sind die Stammdaten des Produktes.
+
+![](http://xpecto.github.io/docs/img/img_1461578413277.png)
+
 Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
 Auf dem Reiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
 
 Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1432642241442.png)
+![](http://xpecto.github.io/docs/img/img_1461578732123.png)
 
-Wenn Sie in den *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1432642464823.png) klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
-Wenn Sie in den *Anzahl Verträge* auf das Symbol klicken ![](http://xpecto.github.io/docs/img/img_1432642464823.png) dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.
+Wenn Sie in der Feldgruppe  *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461578499376.png) klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
+Wenn Sie in Feldgruppe *Anzahl Verträge* auf das Symbol klicken ![](http://xpecto.github.io/docs/img/img_1461578510912.png) dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.
 
-Der Reiter *Saldenübersicht* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+Der Reiter *Salden* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar. 
 
 Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
 Der Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
 
 Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
+
+Der Reiter *Werte* dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
 
 Der Reiter *Buchungsdaten* enthält die Liste der Buchungen  die generell für den Produkt anfallen. 
 
@@ -1163,23 +1153,24 @@ Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berech
 Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
 Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt. 
 
-In dem Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. Die Verbuchungsvorschriften können in Berechnungen und Transaktionen verwendet werden, wenn kein Skript hinterlegt ist (siehe *Berechnungen → Berechnungen und Transaktionen*).
+In der Reiter *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
 
-![](http://xpecto.github.io/docs/img/img_1439200560588.png)
+In dem Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. Die Verbuchungsvorschriften können in Berechnungen und Transaktionen verwendet werden, wenn kein Skript hinterlegt ist (siehe *Berechnungen → Berechnungen und Transaktionen*).
 
 Unter dem Reiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
 
 Unter dem Karteireiter *Wechselkurse* werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt werden.
 
-Unter dem Reiter *Salden* können Sie die Salden konfigurieren. Neben den schon angelegte Salden können hier neue Salden über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1426517966548.png) neue Gruppe ![](http://xpecto.github.io/docs/img/img_1426518057250.png) und neue Buchungskonten ![](http://xpecto.github.io/docs/img/img_1426518083903.png) angelegt werden.
+Unter dem Reiter *Salden-Definition* können Sie die Salden konfigurieren. Neben den schon angelegte Salden können hier neue Salden über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461582240266.png) neue Gruppe ![](http://xpecto.github.io/docs/img/img_1461581915169.png) und neue Buchungskonten ![](http://xpecto.github.io/docs/img/img_1461581940776.png) angelegt werden.
 
-![](http://xpecto.github.io/docs/img/img_1439908866037.png)
+![](http://xpecto.github.io/docs/img/img_1461581709647.png)
 
-![](http://xpecto.github.io/docs/img/img_1439910564967.png)
+In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
 
-In der Liste*im Saldo enthaltene Gruppen* stehen die Gruppe von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
+![](http://xpecto.github.io/docs/img/img_1461581862253.png)
 
 Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
+
 
 ## Beenden
 
@@ -1195,7 +1186,13 @@ xpectoPro kann aus jeder Fenster heraus beendet werden. Wählen Sie dafür den M
 
 ## Datensatz loeschen
 
-Über diesen Menüpunkt wird der aktuell ausgewählte  Datensatz (z.B. Kunde, Vertrag, Vermittler, Interessent) gelöscht. Nach Bestätigung der Warnmeldung:
+In der klassischen Menü-Ansicht wird über *Bearbeiten  → Datensatz löschen*  der aktuell ausgewählte  Datensatz (z.B. Kunde, Vertrag, Vermittler, Interessent) gelöscht. 
+
+In der modernen Menü-Ansicht kann ein Datensatz gelöscht über die Registerkarte *Berichte und Massenaktionen* Gruppe *Bearbeiten*.
+
+![](http://xpecto.github.io/docs/img/img_1461583732465.png)
+
+Nach Bestätigung der Warnmeldung:
 
 ![](http://xpecto.github.io/docs/img/img_1420450924589.png)
 
@@ -1217,7 +1214,7 @@ Es ist nicht möglich, zwei Datensätze  mit demselben Nummer zu speichern.
 
 
 
-## Zu Kampagne hinzufügen
+## Zu Kampagne hinzufuegen
 
 
 
@@ -1535,7 +1532,7 @@ Der Reiter *Buchungen exportieren* dient der Übergabe von Buchungssätze an das
 Die Reihenfolge der Bearbeitungsschritte in der Stapelbuchung ist: 1. Erfassen, 2. Festschreiben, 3. Schließen, 4. Exportieren.
 
 
-## Beteiligungs-Vertragsbuchungen
+## Beteiligungs Vertragsbuchungen
 
 Die Funktion *Beteiligungs-/Vertragsbuchungen* dient der manuellen Buchungen und Korrekturen, für eine Vertrag oder Beteiligung.
 
@@ -1641,10 +1638,6 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen wählen Sie unter *Bearbeiten
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
 Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
-
-
-
-## A2A für aktuellen Datensatz aufrufen
 
 
 

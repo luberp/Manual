@@ -2,7 +2,13 @@
 
 ## Datensatz loeschen
 
-Über diesen Menüpunkt wird der aktuell ausgewählte  Datensatz (z.B. Kunde, Vertrag, Vermittler, Interessent) gelöscht. Nach Bestätigung der Warnmeldung:
+In der klassischen Menü-Ansicht wird über *Bearbeiten  → Datensatz löschen*  der aktuell ausgewählte  Datensatz (z.B. Kunde, Vertrag, Vermittler, Interessent) gelöscht. 
+
+In der modernen Menü-Ansicht kann ein Datensatz gelöscht über die Registerkarte *Berichte und Massenaktionen* Gruppe *Bearbeiten*.
+
+![](http://xpecto.github.io/docs/img/img_1461583732465.png)
+
+Nach Bestätigung der Warnmeldung:
 
 ![](http://xpecto.github.io/docs/img/img_1420450924589.png)
 
@@ -24,7 +30,7 @@ Es ist nicht möglich, zwei Datensätze  mit demselben Nummer zu speichern.
 
 
 
-## Zu Kampagne hinzufügen
+## Zu Kampagne hinzufuegen
 
 
 
@@ -342,7 +348,7 @@ Der Reiter *Buchungen exportieren* dient der Übergabe von Buchungssätze an das
 Die Reihenfolge der Bearbeitungsschritte in der Stapelbuchung ist: 1. Erfassen, 2. Festschreiben, 3. Schließen, 4. Exportieren.
 
 
-## Beteiligungs-Vertragsbuchungen
+## Beteiligungs Vertragsbuchungen
 
 Die Funktion *Beteiligungs-/Vertragsbuchungen* dient der manuellen Buchungen und Korrekturen, für eine Vertrag oder Beteiligung.
 
@@ -448,8 +454,4 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen wählen Sie unter *Bearbeiten
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
 Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
-
-
-
-## A2A für aktuellen Datensatz aufrufen
 
