@@ -24,18 +24,8 @@ Es ist nicht möglich, zwei Datensätze  mit demselben Nummer zu speichern.
 
 
 
-## Vertrag uebertragen
+## Zu Kampagne hinzufügen
 
-Über diesen Menüpunkt kann der aktuell ausgewählter Vertrag zu einem anderen Kunde übertragen werden. Damit wird der Vertrag von einem Kunde zu einem anderen verschoben. Dafür markieren Sie den Vertrag den Sie übertragen wollen und dann wählen Sie unter Menüleiste *Bearbeiten → Vertrag übertragen.*
-
-![](http://xpecto.github.io/docs/img/img_1439215255854.png)
-
-Der Dialog *Vertrag übertragen* ermöglicht das Suchen nach dem Kundendaten oder nach Vertragsdaten. Durch einen Doppelklick auf dem gewünschten Kunde wird den ausgewählter Vertrag dem Kunden zugewiesen. 
-Bestätigen Sie hier die Meldung mit *OK*.
-
-![](http://xpecto.github.io/docs/img/img_1434110869275.png)
-
-Um den Vertrag bei dem neuen Kunde zu sehen müssen Sie nur die Daten aktualisieren. Dafür wählen Sie in der Menüleiste *Bearbeiten → Aktualisieren* oder drücken Sie die F5-Taste.
 
 
 ## ID aendern
@@ -416,6 +406,20 @@ Unter dem Reiter *Konto-Verwendung* können die Bankkonten (siehe Kunden → Adr
 
 Unter der Reiter *Dauervollmachten* können Sie eine Vollmacht für eine bestimmte Person anlegen.
 
+## Vertrag uebertragen
+
+Über diesen Menüpunkt kann der aktuell ausgewählter Vertrag zu einem anderen Kunde übertragen werden. Damit wird der Vertrag von einem Kunde zu einem anderen verschoben. Dafür markieren Sie den Vertrag den Sie übertragen wollen und dann wählen Sie unter Menüleiste *Bearbeiten → Vertrag übertragen.*
+
+![](http://xpecto.github.io/docs/img/img_1439215255854.png)
+
+Der Dialog *Vertrag übertragen* ermöglicht das Suchen nach dem Kundendaten oder nach Vertragsdaten. Durch einen Doppelklick auf dem gewünschten Kunde wird den ausgewählter Vertrag dem Kunden zugewiesen. 
+Bestätigen Sie hier die Meldung mit *OK*.
+
+![](http://xpecto.github.io/docs/img/img_1434110869275.png)
+
+Um den Vertrag bei dem neuen Kunde zu sehen müssen Sie nur die Daten aktualisieren. Dafür wählen Sie in der Menüleiste *Bearbeiten → Aktualisieren* oder drücken Sie die F5-Taste.
+
+
 ## Wiedervorlage Liste
 
 Die Wiedervorlage Liste befindet sich im Hauptfenster und dient der Übersicht über alle fällige Wiedervorlagen. So können Sie die Liste nach Fälligkeitsdatum abarbeiten.
@@ -444,4 +448,8 @@ Um den *Wiedervorlage Steuerung* Dialog zu öffnen wählen Sie unter *Bearbeiten
 ![](http://xpecto.github.io/docs/img/img_1434095945225.png)
 
 Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
+
+
+
+## A2A für aktuellen Datensatz aufrufen
 

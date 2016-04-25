@@ -10341,3 +10341,85 @@ error: Your local changes to the following files would be overwritten by merge:
 Please, commit your changes or stash them before you can merge.
 Aborting
 
+Fri Apr 22 17:00:37 2016: pulling docs
+Fri Apr 22 17:00:39 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+   0a0b47f..06837ab  master     -> origin/master
+Updating 0a0b47f..06837ab
+Fast-forward
+
+Sat Apr 23 12:42:30 2016: pulling docs
+Sat Apr 23 12:42:31 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+   06837ab..eb8ed73  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..eb8ed73
+
+Sat Apr 23 12:44:16 2016: pulling docs
+Sat Apr 23 12:44:17 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+   eb8ed73..66dfc75  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..66dfc75
+
+Mon Apr 25 08:26:24 2016: pulling docs
+Mon Apr 25 08:26:25 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..66dfc75
+
+Mon Apr 25 08:32:14 2016: pulling docs
+Mon Apr 25 08:32:15 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..66dfc75
+
+Mon Apr 25 08:35:39 2016: pulling docs
+Mon Apr 25 08:35:40 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..66dfc75
+
+Mon Apr 25 08:37:46 2016: pulling docs
+Mon Apr 25 08:37:47 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..66dfc75
+
+Mon Apr 25 08:38:04 2016: pulling docs
+Mon Apr 25 08:38:06 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+   66dfc75..bc8a76e  master     -> origin/master
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..bc8a76e
+
+Mon Apr 25 08:38:58 2016: pulling docs
+Mon Apr 25 08:38:59 2016: From https://github.com/xpecto/docs
+ * branch            master     -> FETCH_HEAD
+error: Your local changes to the following files would be overwritten by merge:
+	400_Datei/100_Neu/700_Produkte.md
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 06837ab..bc8a76e
+
