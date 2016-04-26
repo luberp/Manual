@@ -1,10 +1,15 @@
-Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. Unter *Bericht erzeugen* wird ein neuer Bericht generiert. 
+Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. 
 
-Über den Menüpunkt  *Bearbeiten → Berichte erzeugen*, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) oder direkt in das Hauptfenster (siehe unten Favoriten), wird  die *Berichterstellung* Fenster aufgerufen. 
+In der klassischen Menü-Ansicht wird ein neuer Bericht generiert über den Menüpunkt  *Bearbeiten → Berichte erzeugen*, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) oder direkt in das Hauptfenster. Wie die Berichte als Favoriten angezeigt wird unten beschrieben (siehe unten [Favoriten anzeigen](#id2)).
+
+![](http://xpecto.github.io/docs/img/img_1461678079085.png)
+
+
+![](http://xpecto.github.io/docs/img/img_1461677228102.png)
 
 Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden die dazu passende Berichte vorgeschlagen. 
 
-![](http://xpecto.github.io/docs/img/img_1439392757622.png)
+![](http://xpecto.github.io/docs/img/img_1461677534072.png)
 
 Wenn die Felder ausgefüllt sind dann drücken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
@@ -21,8 +26,9 @@ verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
 
 ![](http://xpecto.github.io/docs/img/img_1439389795642.png)
 
-**Favoriten**
-Es bietet sich an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Dazu muss der Bericht als *Allgemeiner Bericht*  für Favoriten markiert werden. (siehe *Extras → Anpassen → Berichte und Adressmuster → Berichte → Kategorien*).
+<a id="id2">**Favoriten anzeigen**</a>
+
+xpectoPro bietet an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Dazu muss der Bericht als *Allgemeiner Bericht*  für Favoriten markiert werden. (siehe Handbuch *Extras → Anpassen → Berichte und Adressmuster → Berichte → Kategorien*).
 
 ![](http://xpecto.github.io/docs/img/img_1439387898787.png)
 
