@@ -4,7 +4,7 @@ In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreic
 
 ![](http://xpecto.github.io/docs/img/img_1461576629712.png)
 
-Die Maske enthält eine eigene Symbolleiste. Diese dient dazu um Ihre Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern,  ![](http://xpecto.github.io/docs/img/img_1461576465590.png) *Abrechnungsfirmen neu anlegen*, ![](http://xpecto.github.io/docs/img/img_1461577264946.png) *Produkte neu anlegen*, ![](http://xpecto.github.io/docs/img/img_1461576494147.png) Gesellschaften neu anlegen oder ![](http://xpecto.github.io/docs/img/img_1461577385984.png) *aktuellen Datensatz löschen*.
+Die Maske enthält eine eigene Symbolleiste. Diese dient dazu, um Ihnen die Arbeit zu erleichtern,  damit können Sie sehr einfach Speichern,  ![](http://xpecto.github.io/docs/img/img_1461576465590.png) *Abrechnungsfirmen neu anlegen*, ![](http://xpecto.github.io/docs/img/img_1461577264946.png) *Produkte neu anlegen*, ![](http://xpecto.github.io/docs/img/img_1461576494147.png) Gesellschaften neu anlegen oder ![](http://xpecto.github.io/docs/img/img_1461577385984.png) *aktuellen Datensatz löschen*.
 
 Die Maske beinhaltet auf der rechten Seite folgende Anschten: *Firmen*, *Produkte* und *Gesellschaften*. 
 
