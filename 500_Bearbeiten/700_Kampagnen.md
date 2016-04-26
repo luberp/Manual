@@ -1,4 +1,4 @@
-Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen, durch die  Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck.
+Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen. Durch die  Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck wird eine große Anzahl von Empfänger erreicht.
 
 Sie können die Maske „Kampagnen und Massendruck"  über *Bearbeiten → Kampagnen* oder über *Bearbeiten → Abfrage erstellen → Kampagne* erreichen. Die Maske „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck* erreicht werden.
 
