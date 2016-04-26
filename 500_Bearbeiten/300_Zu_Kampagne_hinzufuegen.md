@@ -12,5 +12,3 @@ In der modernen Menü-Ansicht ist die Funktion in der Registerkarte *Berichte un
 ![](http://xpecto.github.io/docs/img/img_1461658322391.png)
 
 Anschließend klicken Sie auf *Start* um die Kampagne zu starten.
-
-
