@@ -48,7 +48,7 @@ Die Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, we
 
 Die Ansicht *Scandialog* dient dazu um die Stimmzettel abzulegen.	
 
-Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zur Veranstaltungen.
+Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zur Hauptmaske.
 										 									 
 Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teilnehmern neue Teilnehmer angelegt und individuell verwaltet werden. Die einzelne Teilnehmer können eingefügt oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461320109663.png) entfernt werden.
 
