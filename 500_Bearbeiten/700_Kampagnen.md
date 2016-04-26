@@ -1,10 +1,12 @@
 Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen. Durch die  Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck wird eine große Anzahl von Empfänger erreicht.
 
+In der klassischen Menü-Ansicht 
 Sie können die Maske „Kampagnen und Massendruck"  über *Bearbeiten → Kampagnen* oder über *Bearbeiten → Abfrage erstellen → Kampagne* erreichen. Die Maske „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck* erreicht werden.
 
 ![](http://xpecto.github.io/docs/img/img_1439291391925.png)
 
-![](http://xpecto.github.io/docs/img/img_1461665408356.png)
+
+![](http://xpecto.github.io/docs/img/img_1461670219898.png)
 
 Um eine neue Kampagne anzulegen klicken Sie in der Maske *Kampagnen und Massendruck* auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1461665467946.png).
 
@@ -61,3 +63,22 @@ In dem Reiter *Kampagne* wählen Sie unter Aktion Berichte drucken als Bericht d
 ![](http://xpecto.github.io/docs/img/img_1439374542325.png)
 
 Anschließend klicken Sie auf *Start* um die Kampagne zu starten.
+
+
+Über *Einladungen drucken* wird eine Kampagne gestartet (siehe Handbuch *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv hinterlegt. Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht, der Drucker und die Checkbox *Berichte archiviert* markiert sein.
+
+![](http://xpecto.github.io/docs/img/img_1461322319878.png)
+
+Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie durch Schließen der *Kampagnen und Massendruck* - Dialog zum Hauptdialog zurück.
+
+Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufer. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche *Stimmabgabe / Rückläufer erfassen* in der Feldgruppe *Aktionen*, öffnet sich die Maske für die Veranstaltung. 
+
+![](http://xpecto.github.io/docs/img/img_1461322959365.png)
+
+Die Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, welche für jeden Teilnehmer mehrere Optionen bietet um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
+
+![](http://xpecto.github.io/docs/img/img_1461323343138.png)
+
+Die Ansicht *Scandialog* dient dazu um die Stimmzettel abzulegen.	
+
+Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zur Veranstaltungen.
