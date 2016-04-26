@@ -102,13 +102,9 @@ Der Reiter <em>Salden</em> beinhaltet eine Saldenkonfiguration und eine Summen u
 
 <p><img src="http://xpecto.github.io/docs/img/img_1439905104073.png" alt="" title=""></p>
 
-<p>Unter dem Reiter <em>Konto-Verwendung</em> können die Bankkonten (siehe Kunden → Adressen → Kontoverbindungen) für unterschiedliche Verwendungszwecke eingesetzt.</p>
+<p>Unter dem Reiter <em>Konten-Verwendung</em> können die Bankkonten (siehe Kunden → Adressen → Kontoverbindungen) für unterschiedliche Verwendungszwecke eingesetzt.</p>
 
-<p>Handelsregister</p>
+<p>Unter dem Reiter <em>Handelsregister</em> wird der Handelsregister Eintrag der Beteiligung festgehalten.</p>
 
-<p>Unter der Reiter <em>Dauervollmachten</em> können Sie eine Vollmacht für eine bestimmte Person anlegen.</p>
-
-<p>Konten-Verwendung  <br>
-Handelsregister  <br>
-Dauervollmachten.</p></div></body>
+<p>Unter der Reiter <em>Dauervollmachten</em> können Sie eine Vollmacht für eine bestimmte Person anlegen.</p></div></body>
 </html>
