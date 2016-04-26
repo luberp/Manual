@@ -1,11 +1,8 @@
 Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen. Durch die  Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck wird eine große Anzahl von Empfänger erreicht.
 
-In der klassischen Menü-Ansicht 
-Sie können die Maske „Kampagnen und Massendruck"  über *Bearbeiten → Kampagnen* oder über *Bearbeiten → Abfrage erstellen → Kampagne* erreichen. Die Maske „Kampagnen und Massendruck" kann auch unter *Veranstaltungen → Allgemein* → Feldgruppe *Massendruck* erreicht werden.
+In der klassischen Menü-Ansicht erreichen Sie die Maske Kampagnen und Massendruck  über *Bearbeiten → Kampagnen* oder über *Bearbeiten → Abfrage erstellen → Kampagne*. Die Maske „Kampagnen und Massendruck" kann außerdem auch unter *Veranstaltungen → Reiter Allgemein* → Feldgruppe *Aktionen* *Einladungen drucken* (siehe Handbuch *Neu  → Veranstaltungen*) erreicht werden.
 
-![](http://xpecto.github.io/docs/img/img_1439291391925.png)
-
-
+In der modernen Menü-Ansicht ist die Maske Kampagnen und Massendruck über Karteireiter *Berichte und Massenaktionen* Gruppe *Erstellung* erreichbar.
 ![](http://xpecto.github.io/docs/img/img_1461670219898.png)
 
 Um eine neue Kampagne anzulegen klicken Sie in der Maske *Kampagnen und Massendruck* auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1461665467946.png).
