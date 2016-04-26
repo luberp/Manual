@@ -7,9 +7,13 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen, durch die Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck.</p>
+<body><div class="container"><p>Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen, durch die Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck.  <br>
+xpectoPro bietet als Datenquellen für die Kampagnen vordefinierte Verteiler, individuelle Abfrage oder statische Daten (siehe Handbuch <em>Bearbeiten  → Kampagne</em>). <br>
+Die Funktion <em>Zu Kampagne hinzufügen</em> ermöglicht einfügen von Daten zu eine vorhandene Kampagne.  <br>
+Um einen Datensatz zu Kampagne hinzuzufügen muss in dem <em>Kampagnen und Massendruck</em> Dialog in dem Reiter <em>Kampagne</em>  <br>
+<img src="http://xpecto.github.io/docs/img/img_1461658954205.png" alt="" title=""></p>
 
-<p>Die Funktion <em>Zu Kampagne hinzufügen</em> ermöglicht einfügen von Daten zu </p>
+<p>Nach </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461658322391.png" alt="" title=""></p></div></body>
 </html>
