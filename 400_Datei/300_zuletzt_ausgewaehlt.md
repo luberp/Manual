@@ -12,5 +12,5 @@ In der klassischen Menü-Ansicht können Sie zurück zu dem zuletzt ausgewählte
 
 <p>In der modernen Menü-Ansicht steht die Funktion <em>geht zum zuletzt ausgewählten Datensatz zurück</em> in der Registerkarte <em>Schenellzugriff</em> immer im Vordergrund.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461669303682.png" alt="" title=""></p></div></body>
+<p><img src="http://xpecto.github.io/docs/img/img_1461669395700.png" alt="" title=""></p></div></body>
 </html>
