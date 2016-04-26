@@ -4,6 +4,7 @@ In der klassischen Menü-Ansicht wird ein neuer Bericht generiert über den Men�
 
 ![](http://xpecto.github.io/docs/img/img_1461678079085.png)
 
+In der modernen Menü-Ansicht generieren Sie ein Bericht in der Registerkarte *Schnellzugriff* Funktion *Vorschau*.
 
 ![](http://xpecto.github.io/docs/img/img_1461677228102.png)
 
