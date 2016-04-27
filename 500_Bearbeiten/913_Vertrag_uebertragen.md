@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Die Funktion <em>Vertrag übertragen</em> dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. </p>
+<body><div class="container"><p>Die Funktion <em>Vertrag übertragen</em> dient der Übertratragsdaten auf andere Kunden. </p>
 
 <p>Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag und wählen Sie in der klassischen Menü-Ansicht Menü <em>Bearbeiten →  Vertrag übertragen</em>. </p>
 
