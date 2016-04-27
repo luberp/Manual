@@ -41,26 +41,14 @@ Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnu
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
-Der Reiter *Übertragung* dient der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden. Diese können im Bereich Übertragungsparameter unter Übertragungs-Art ausgewählt werden. Dazu müssen Sie noch andere Übertragungsparameter einstellen wie Übertragungs-Art, Erwerbs-Art, Entgeltlich, Verkaufserlös, Vertrags-Übergang, Ergebnis-Übergang.
-Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag und wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
-In der modernen Menü-Ansicht wählen Sie den Karteireiter *Berichte und Massenaktionen* Gruppe *Bearbeiten* Funktion *Vertrag übertragen*.
- ![](http://xpecto.github.io/docs/img/img_1461156880109.png) 
- 
- In dem Dialog *Übertragung* werden die Übertragungs-Parameter eingegeben.
- 
+Der Reiter *Übertragung* zeigt ob der Vertrag  der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden.
 
-Für den Nachfolger klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461157251381.png), es öffnet sich der Suchdialog Kunde auswählen. Hier können Sie den Nachfolger suchen und durch Doppelklick auswählen.
 
-Nachdem die Übertragungs-Parameter eingestellt wurden Klicken Sie auf die Schaltfläche *Übertragung durchführen.*
-Wählen Sie in dem folgenden Dialog die fehlende Umbuchungs-Vorschriften.
-
-![](http://xpecto.github.io/docs/img/img_1443173762535.png)
-
-Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag Rechtsvorgänger oder Rechtsnachfolger hat.
+Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag die Partei gewechselt hat und zwar ob Rechtsvorgänger oder Rechtsnachfolger hat.
 
 ![](http://xpecto.github.io/docs/img/img_1461157812980.png)
 
-Nachdem der Übertrag durchgeführt würde, wird der Vertragsstatus automatisch in übertragen, geändert.
+Wie ein Vertrag übertragen wird ist unter Handbuch *Bearbeiten → Vertrag übertragen* beschrieben.
 
 Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Vertrag. Die hier hinterlegte Konten beziehen sich auf die unter *Produkte* vorkonfigurierte Salden.
 
