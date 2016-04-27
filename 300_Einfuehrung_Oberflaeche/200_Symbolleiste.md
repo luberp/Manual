@@ -1,4 +1,4 @@
-Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
+Die Symbolleiste in der klassischen Ansicht besteht aus folgenden Elementen:
 
 |  Symbole und Funktionen          |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -11,7 +11,7 @@ Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
 | ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | 
 | ![](http://xpecto.github.io/docs/img/img_1429027446779.png)      | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | 
 | ![](http://xpecto.github.io/docs/img/img_1429027549896.png)      | geht zum zuletzt ausgewählten Datensatz zurück | 
-| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen. |
+| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen |
 | ![](http://xpecto.github.io/docs/img/img_1429027648565.png)      | Bericht bearbeiten. Dialog: *xpectoPro Berichte und Textbausteine*| 
 | ![](http://xpecto.github.io/docs/img/img_1429027696041.png)      | zu den Firmen-Daten | 
 | ![](http://xpecto.github.io/docs/img/img_1429027763628.png)      | zu den Produkt-Daten | 
