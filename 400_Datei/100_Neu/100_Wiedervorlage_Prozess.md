@@ -62,4 +62,4 @@ Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstuffe 1 *Neuem Benutze
 
 ![](http://xpecto.github.io/docs/img/img_1461749682825.png)
 
-Nachdem Sie die gewünschte Aktion ausgewählt haben drucken Sie auf *Start*.
+Durch drucken auf die Schalftfläche*Start* wird die ausgewählte Aktion für die Wiedervorlage ausgeführt. 
