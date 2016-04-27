@@ -2,19 +2,19 @@ Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anlege
 
 Die Kundenmaske wird automatisch beim Start von xpectoPro angezeigt. 
 
-In der klassischen Menü-Ansicht können Sie einen neuen Kunde anlegen über 
- *Datei → Neu → Kunde* oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461145344584.png) *Kundendaten neu anlegen*.
+In der klassischen Menüansicht können Sie einen neuen Kunden anlegen über *Datei → Neu → Kunde* oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461145344584.png) *Kundendaten neu anlegen*.
 
-In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Kundendaten* um neue Daten anzulegen.
+In der modernen Menüansicht klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu*, *Kundendaten*, um neue Daten anzulegen.
 
 ![](http://xpecto.github.io/docs/img/img_1461138567329.png)
 
 
-Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
+Es wird die nächste freie Kundennummer vorgeschlagen. Falls Sie intern eine andere Nummerierung verwenden, so können Sie eine nach Ihren internen Richtlinien freie Nummer vergeben.  
 
 ![](http://xpecto.github.io/docs/img/img_1461146426293.png)
 
-Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit *OK*. 
+
+Die vorgeschlagene bzw. Ihre manuell eingegebene Kundennummer bestätigen Sie mit *OK*. 
 
 Oben in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, Ereignisse, Beschwerdebuch, Anlageerfahrung*.
 
