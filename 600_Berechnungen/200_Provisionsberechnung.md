@@ -51,7 +51,7 @@ Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in d
 
 <p>Wenn Sie hier auf <em>Ja</em> klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert, dann werden Sie zu dem <em>Berechnungslauf anzeigen und verbuchen</em> weitergeleitet.  Klicken Sie auf  <em>Nein</em>, um direkt in dem weiteren Schritt <em>Berechnungslauf anzeigen und verbuchen</em> zu gelangen.  </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461752005982.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461756428644.png" alt="" title=""></p>
 
 <p>In dem Dialog <em>Berechnungslauf anzeigen und verbuchen</em> gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. </p>
 
@@ -91,7 +91,7 @@ Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in d
 
 <p>Durch die Bestätigung mit <em>Ja</em> werden die die ausgewählten Provisionen verbucht. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461752159374.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461756475178.png" alt="" title=""></p>
 
 <p>Danach wird die Erfolgsmeldung <em>Die Verbuchung wurde erfolgreich durchgeführt</em> in dem Dialog <em>Verbuchung der Provisionsberechnung.</em></p>
 
@@ -99,7 +99,7 @@ Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in d
 
 <p>Wenn Sie in dem Dialog <em>Verbuchung der Provisionsabrechnung</em> auf <em>Weiter zu Belegdruck und Auszahlung</em> klicken, werden Sie zur Maske <em>Belegdruck und Auszahlung</em> weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461753765118.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461756576566.png" alt="" title=""></p>
 
 <p>Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441095989354.png" alt="" title="">.  Sie können durch betätigen der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441100101421.png" alt="" title=""> eine neue Buchung, wie z.B. einen Vorschuss, einfügen. <br>
 Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441108231660.png" alt="" title="">, um die Liste der Abrechnungen zu aktualisieren.</p>
@@ -108,7 +108,7 @@ Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläch
 
 <p>In der Maske <em>Zahlungsdatei erstellen</em> kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen, den Speicherort festlegen und angeben, ob ein Begleitzettel erstellt werden soll.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1440748885165.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461756753061.png" alt="" title=""></p>
 
 <p>Wählen Sie hier <em>SEPA</em> aus, um eine SEPA-Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und gespeichert. </p>
 
