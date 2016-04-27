@@ -53,15 +53,12 @@ Danach wird die Erfolgsmeldung *Die Verbuchung wurde erfolgreich durchgeführt* 
 
 Wenn Sie in dem Dialog *Verbuchung der Provisionsabrechnung* auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1461757201408.png)
+![](http://xpecto.github.io/docs/img/img_1461759266502.png)
 
  Sie können hier jederzeit zwischen dem vorherigen Zeitraum und dem nächsten Zeitraum wechseln. Mit Hilfe der Pfeile können Sie nun einen anderen Zeitraum wählen.
 
 ![](http://xpecto.github.io/docs/img/img_1461757224272.png)
 
-Wenn Sie in dem Dialog *Verbuchung der Provisionsabrechnung* auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.
-
-![](http://xpecto.github.io/docs/img/img_1461759266502.png)
 
 Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png) eine neue Buchung, wie z.B. einen Vorschuss, einfügen.
 Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441108231660.png), um die Liste der Abrechnungen zu aktualisieren.
