@@ -32,7 +32,7 @@ Falls der Kunde noch nicht in der Datenbank vorhanden ist Klicken Sie auf die Sc
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461746072363.png" alt="" title=""></p>
 
-<p>Durch einen Klick auf die Schaltfläche <em>Übertragung durchführen</em> werden Sie dann aufgefordert einen Umbuchungs-Vorschrift zu wählen</p>
+<p>Durch einen Klick auf die Schaltfläche <em>Übertragung durchführen</em> werden Sie dann aufgefordert einen Umbuchungs-Vorschrift zu wählen.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1443173762535.png" alt="" title=""></p>
 
