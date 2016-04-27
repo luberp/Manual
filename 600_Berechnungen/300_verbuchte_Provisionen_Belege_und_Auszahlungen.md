@@ -1,3 +1,6 @@
+Nachdem die Provisionen berechnet würden ist der nächste Schritt Belege drücken und Auszahlungen. 
+Diese Operationen können dann in der Maske *Belegdruck und Auszahlungen* durchgeführt werden.
+
 Über die klassischer Menü-Ansicht *Berechungen → verbuchte Provisionen, Belege und Auszahlungen* gelangen Sie in die Maske *Belegdruck und Auszahlungen*. 
 
 In der moderner Menü-Ansicht wird die Maske über die Registerkarte *Vertrieb* Gruppe *Provisionen* erreicht.
