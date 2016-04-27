@@ -7,7 +7,9 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechnung maßgeblich den Zeitraum bezeichnet. Der Dialog zur Eingabe des Abrechnungszeitraums kann über den Menüpunkt <em>Berechnungen → Abrechnungszeitraum</em> aufgerufen werden, oder über Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbolleiste aufgerufen werden. </p>
+<body><div class="container"><p>Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechnung maßgeblich den Zeitraum bezeichnet. </p>
+
+<p>In der klassischen Menü_Leiste kann der Dialog zur Eingabe des Abrechnungszeitraums  über den Menüpunkt <em>Berechnungen → Abrechnungszeitraum</em> aufgerufen werden, oder über Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbolleiste aufgerufen werden. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461750465009.png" alt="" title=""></p>
 
