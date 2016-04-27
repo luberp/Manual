@@ -8,7 +8,7 @@ In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerka
 
 ![](http://xpecto.github.io/docs/img/img_1461751530160.png)
 
-In dem Fenster *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen für welche Provisionen die Berechnung durchgeführt wird.
+In der Maske *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen für welche Provisionen die Berechnung durchgeführt wird.
 
 ![](http://xpecto.github.io/docs/img/img_1461751780442.png)
 
@@ -29,7 +29,7 @@ Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in di
 
 ![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
-In dem Dialog *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. 
+In der Maske *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. 
 
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
 
@@ -46,7 +46,6 @@ Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt
 Durch die Bestätigung mit *Ja* werden die die ausgewählten Provisionen verbucht. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
 
 ![](http://xpecto.github.io/docs/img/img_1461756475178.png)
-
 
 Danach wird die Erfolgsmeldung *Die Verbuchung wurde erfolgreich durchgeführt* in dem Dialog *Verbuchung der Provisionsberechnung.*
 
