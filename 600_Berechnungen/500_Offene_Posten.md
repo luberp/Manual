@@ -37,10 +37,6 @@ Eine Lastschrift ist die Umkehrung der Überweisung. Der Zahlungsempfänger gibt
 
 <p><img src="http://xpecto.github.io/docs/img/img_1441702086158.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461770414059.png" alt="" title=""></p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1461770457356.png" alt="" title=""></p>
-
 <p>Nachdem Sie den Zahlungswährung und Zahlungsverkehr eingegeben haben, öffnet sich der <em>Zahlungsverkehr</em>-Dialog. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461771119658.png" alt="" title=""></p>
