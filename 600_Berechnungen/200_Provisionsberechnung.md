@@ -108,7 +108,7 @@ Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläch
 
 <p>In der Maske <em>Zahlungsdatei erstellen</em> kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen, den Speicherort festlegen und angeben, ob ein Begleitzettel erstellt werden soll.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1461756753061.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461756834388.png" alt="" title=""></p>
 
 <p>Wählen Sie hier <em>SEPA</em> aus, um eine SEPA-Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und gespeichert. </p>
 
