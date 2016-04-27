@@ -1,4 +1,4 @@
-Konzeption und Verwaltung eines Fonds sind eine komplexe Aufgabe. Verschiedene Bereiche sollen möglichst einfach und reibungslos verwaltet werden. xpectoPro ist auf Ihre Bedürfnisse zugeschnitten. Es arbeitet Hand in Hand, um Ihre Verwaltung zu vereinfachen und Ihnen lästige Routineaufgaben abzunehmen.
+Konzeption und Verwaltung eines Fonds sind eine komplexe Aufgabe. Verschiedene Bereiche sollten möglichst einfach und reibungslos verwaltet werden können. xpectoPro ist auf Ihre Bedürfnisse zugeschnitten. Es arbeitet Hand in Hand, um Ihre Verwaltung zu vereinfachen und Ihnen lästige Routineaufgaben abzunehmen.
 
 Die Fondsverwaltung besteht in der Regel aus zwei unterschiedlichen Bereichen, dem eigentlichen Fonds und dem angeschlossenen Vertrieb. Beide Bereiche nutzen Anleger- und Vertragsdaten, jedoch mit unterschiedlichen Zielen. Genau dies wird durch die Verknüpfung der beiden Funktionsbereiche Vertriebsverwaltung und Fondsverwaltung in der Software xpectoPro erreicht. xpecto bietet Ihnen dadurch eine einheitliche Lösung für beide Bereiche.
 
