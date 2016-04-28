@@ -71,11 +71,11 @@ Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Scha
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461663694281.png) können Sie *Insert Statements erstellen*, Daten in *Importdialog laden* oder die *Aktion abbrechen*.  Die Insert-Operationen werden dann in Editor angezeigt.
 
-Um die Daten zu importieren klicken Sie auf die Schaltfläche Daten in Importdialog laden.
+Um die Daten zu importieren klicken Sie auf die Schaltfläche *Daten in Importdialog laden*.
 
 ![](http://xpecto.github.io/docs/img/img_1461663786302.png)
 
-In dem Importdialog können Sie z.B. Datensätze / Tabellen in der Datenbank importieren(siehe Handbuch *Import/Export → Allgemeiner Import*). 
+In dem Importdialog können Sie z.B. Datensätze / Tabellen in der Datenbank importieren (siehe Handbuch *Import/Export → Allgemeiner Import*). 
 
 ![](http://xpecto.github.io/docs/img/img_1461664576287.png)
 
