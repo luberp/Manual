@@ -18,13 +18,17 @@ Um die Möglichkeit zur Aufnahme von Dokumenten in der Software und deren Verwal
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461835276604.png" alt="" title=""></p>
 
-<p>Starten Sie der Scanmanamger und wählen unter dem Reiter Scans die Quelle wo die gescannten Dateien abgelegt sind. Klicken Sie dann auf <em>Start</em>. Dieser Pfad kann über Menü <em>Extras → Einstellungen</em> geändert werden.</p>
+<p>Starten Sie der Scanmanamger und wählen unter dem Reiter <em>Scans</em> die Quelle wo die einscannten Dateien abgelegt sind. Klicken Sie dann auf <em>Start</em>. Dieser Pfad kann über Menü <em>Extras → Einstellungen</em> geändert werden.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461837469559.png" alt="" title=""></p>
 
 <p>Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441970891993.png" alt="" title="">, kann der Barcode manuell eingegeben werden.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1421750317812.png" alt="" title=""></p>
+
+<p>Wechseln Sie dann in dem Reiter <em>Zuweisung</em>. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461838039221.png" alt="" title=""></p>
 
 <p>Klicken Sie auf <em>Start</em> um automatisch die Dokumente zuzuweisen. Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet.</p>
 
