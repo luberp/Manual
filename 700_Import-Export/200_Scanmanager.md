@@ -1,4 +1,5 @@
 xpectoPro bietet Ihnen ein Dokumentenmanagementsystem (DMS),  um Ihre Dokumente zu digitalisieren,  archivieren und strukturiert zuzuweisen.
+Um die Möglichkeit zur Aufnahme von Dokumenten
 
 Mit dem xpecto Scanmanager haben Sie die Möglichkeit eingescannte Dokumente manuell oder automatisch zuzuweisen. 
 
@@ -6,9 +7,7 @@ In der klassischen Menü-Ansicht kann der Scanmanager über Menüleisten *Import
 
 In der modernen Menü-Ansicht kann der Scanmanager über die Registerkarte *Datenbearbeitung* Gruppe *Import / Export* erreicht werden.
 
-
 ![](http://xpecto.github.io/docs/img/img_1461835276604.png)
-
 
 In dem Reiter *Scans* können Sie eine Scanquelle auswählen. Geben Sie hier die Scanquelle an, wo die gescannte Dokumente gespeichert sind. Dieser Pfad kann über *Extras → Einstellungen* geändert werden.
 
