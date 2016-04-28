@@ -1,7 +1,6 @@
 Offene Posten Liste dient als Nebenbuch der Buchführung. In der Nebenbuchhaltung wird eine nicht bezahlte Rechnungsposition auf dem Debitorenkonto bis zum Zeitpunkt der Zahlung (automatisch) als offener Posten geführt. 
-Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
-
-Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet.
+Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. 
+Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
 In der klassischen Menü-Ansicht wird der Dialog OPOS Verarbeitung über Menü *Berechnungen → Offenen Posten*  oder *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
 
