@@ -1,6 +1,5 @@
 Offene Posten Liste dient als Nebenbuch der Buchführung. In der Nebenbuchhaltung wird eine nicht bezahlte Rechnungsposition auf dem Debitorenkonto bis zum Zeitpunkt der Zahlung (automatisch) als offener Posten geführt. 
-Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. 
-Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
+Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
 In der klassischen Menü-Ansicht wird der Dialog OPOS Verarbeitung über Menü *Berechnungen → Offenen Posten*  oder *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
 
@@ -15,9 +14,9 @@ Wenn Sie aber vorher eine Beteiligung  oder einen Vertrag markiert haben, dann w
 Der *OPOS Verarbeitung* Dialog enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
 Posten für alle Beteiligungen, und unten die Details der Buchungen.
 
-Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden. Rechnung mit einer Gutschrift ausgleichen.
+Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden wie Rechnung mit einer Gutschrift ausgleichen.
 
-Der *OPOS Verarbeitung* Dialog berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von einen OPOS-Konto. Der OPOS-Konto muss unter *Produkte → Reiter Konten* als OPOS-Konto angelegt werden. 
+Da der *OPOS Verarbeitung* Dialog die Buchungen auf Basis von einen OPOS-Konto für einstehende Einzahlungen und Auszahlungen berechnet muss dieses Konto vorher unter *Produkte → Reiter Konten* als OPOS-Konto angelegt werden. 
 
 Überweisungen werden für Kreditoren (Gläubiger) erstellt. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440769189875.png), um eine Überweisung zu betätigen. 
 Eine Lastschrift ist die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.
