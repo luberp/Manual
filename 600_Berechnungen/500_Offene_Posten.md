@@ -9,14 +9,14 @@ In der modernen Menü-Ansicht wird die Funktion *offene Posten* über die Regist
 
 Wenn Sie aber vorher eine Beteiligung  oder einen Vertrag markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
 
+Da der *OPOS Verarbeitung* Dialog die Buchungen auf Basis von einen OPOS-Konto für einstehende Einzahlungen und Auszahlungen berechnet muss dieses Konto vorher unter *Produkte → Reiter Konten* als OPOS-Konto angelegt werden. 
+
 ![](http://xpecto.github.io/docs/img/img_1461769707029.png)
 
 Der *OPOS Verarbeitung* Dialog enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
 Posten für alle Beteiligungen, und unten die Details der Buchungen.
 
 Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden wie Rechnung mit einer Gutschrift ausgleichen.
-
-Da der *OPOS Verarbeitung* Dialog die Buchungen auf Basis von einen OPOS-Konto für einstehende Einzahlungen und Auszahlungen berechnet muss dieses Konto vorher unter *Produkte → Reiter Konten* als OPOS-Konto angelegt werden. 
 
 Überweisungen werden für Kreditoren (Gläubiger) erstellt. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440769189875.png), um eine Überweisung zu betätigen. 
 Eine Lastschrift ist die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.
@@ -33,13 +33,5 @@ Nachdem Sie den Zahlungswährung und Zahlungsverkehr eingegeben haben, öffnet s
 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt.  Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
-Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
+Der Zahlungsverkehr wird unter Handbuch *Berechnungen → Zahlungsverkehr* beschrieben.
 
-
-Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
-Bei der Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien (in dem unter *Extras → Einstellungen → Bank* Pfad, angegebenen Ordner angelegt): eine CSV-Datei, PDF Datei und die SEPA-Datei (Dateiendung .xml).
- 
-![](http://xpecto.github.io/docs/img/img_1461770850059.png)
-
-Durch einen Doppelklick auf die erstellte Datei kann die Datei geöffnet werden.
