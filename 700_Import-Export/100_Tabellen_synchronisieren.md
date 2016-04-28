@@ -1,4 +1,12 @@
-Eine Eingenschaft von xpectoPro ist die Mehrstandortfähigkeit. Das Synchronisations-Modul dient dem Export von Datensätzen an den xpecto Webserver sowie dem Import von Daten an anderen Standorten über den xpecto Webserver.
+Eine Eingenschaft von xpectoPro ist die Mehrstandortfähigkeit. Das Synchronisation-Modul dient dem Export von Datensätzen an den xpecto Webserver sowie dem Import von Daten an anderen Standorten über den xpecto Webserver.
+
+In der klassischen Menü-Ansicht ist die Funktion unter Menü *Import/Export → Tabellen synchronisieren* zu finden.
+
+In den modernen Menü-Ansicht ist die Funktion Synchronisieren unter dem Karteireiter *Datenbearbeitung* Gruppe *Import / Export*.
+
+![](http://xpecto.github.io/docs/img/img_1461833593791.png)
+
+Nachdem starten wird in dem  Dialog *Synchronisation* wird eine Liste aller Tabellen angezeigt.
 
 Welche Tabellen Sie synchronisieren wollen, kann durch die Optionen die der Filter anbietet, gesteuert werden.
 
