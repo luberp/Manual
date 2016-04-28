@@ -32,11 +32,10 @@ Nachdem Sie den Zahlungswährung und Zahlungsverkehr eingegeben haben, öffnet s
 
 ![](http://xpecto.github.io/docs/img/img_1461771119658.png)
 
-Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier ein Sollbuchungs-Datensatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
+Aus einer OPOS Buchung wird eine Sollbuchung erstellt.  Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
 Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
-
 
 
 Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
