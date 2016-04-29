@@ -1,71 +1,117 @@
-Alle Ausdrucke, die mit xpectoPro erstellt werden (wie z. B. Provisionsabrechnungen, Kundenanschreiben) basieren auf gespeicherten Vorlagen. Diese können über die verschiedenen Berichtsgeneratoren erstellt und mit Daten befüllt werden. Die Vorlagen für Ausdrucke und Schreiben werden deshalb im folgenden (und auch bei der Kommunikation mit dem xpecto Kundensupport) als Berichte bezeichnet. Jeder Bericht besteht aus einem Layout, einer Datenbankabfrage sowie einigen Konfigurationsparametern. 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>100_Berichte_und_Adressmuster.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Alle Ausdrucke, die mit xpectoPro erstellt werden (wie z. B. Provisionsabrechnungen, Kundenanschreiben) basieren auf gespeicherten Vorlagen.  <br>
+Diese können über die verschiedenen Berichtsgeneratoren erstellt und mit Daten befüllt werden. Die Vorlagen für Ausdrucke und Schreiben werden deshalb im folgenden (und auch bei der Kommunikation mit dem xpecto Kundensupport) als Berichte bezeichnet. Jeder Bericht besteht aus einem Layout, einer Datenbankabfrage sowie einigen Konfigurationsparametern. </p>
 
-Neben Berichten können Sie auch Adressmuster, Textbausteine und individuelle Schreiben erstellen.
+<p>Neben Berichten können Sie auch Adressmuster, Textbausteine und individuelle Schreiben erstellen.</p>
 
-Über die Symbolleiste ![](http://xpecto.github.io/docs/img/img_1442245724286.png) oder über Menü *Extras → Anpassen → Berichte und Adressmuster* starten Sie den *xpectoPro Berichte und Textbausteine* -Dialog.
+<p>In der klassischen Menü-Ansicht kann die <em>Berichte und Textbausteine</em>  die Symbolleiste <img src="http://xpecto.github.io/docs/img/img_1442245724286.png" alt="" title=""> oder über Menü <em>Extras → Anpassen → Berichte und Adressmuster</em> gestartet.</p>
 
-Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424086630188.png) um eine neue Berichtsgruppe anzulegen. 
+<p><img src="http://xpecto.github.io/docs/img/img_1461933940294.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1424086718173.png)
+<p>In der modernen Menü-Ansicht kann die Maske über Registerkarte <em>System</em> Gruppe <em>Anpassungen</em> Funktion <em>Berichte</em> gestartet werden.</p>
 
-Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit *OK*.
+<p>Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1424086630188.png" alt="" title=""> um eine neue Berichtsgruppe anzulegen. </p>
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1424086982407.png) wird ein neuer Bericht angelegt. Gleichzeitig können Sie durch anklicken des Checkboxes *neue Gruppe anlegen* auch eine neue Gruppe anlegen.
+<p><img src="http://xpecto.github.io/docs/img/img_1424086718173.png" alt="" title=""></p>
 
-![](http://xpecto.github.io/docs/img/img_1442415998478.png)
+<p>Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit <em>OK</em>.</p>
 
-Ein neuer Bericht kann entweder als ein *leerer Bericht*, *Kopie eines bestehenden Berichts*, *ein tabellarischer Bericht* oder aus einer *xpecto Vorlage* angelegt werden. 
-In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden. 
-Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrage generiert und im Bericht hinterlegt. 
+<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424086982407.png" alt="" title=""> wird ein neuer Bericht angelegt. Gleichzeitig können Sie durch anklicken des Checkboxes <em>neue Gruppe anlegen</em> auch eine neue Gruppe anlegen.</p>
 
-| Bericht Art           |    Beschreibung     |  
-| ------------- |:-------------| 
-| Microsoft Word      | Word-Bericht| 
-| integrierter Berichtsgenerator  |ActiveReports:  webbasiertes Format| 
-| Datenexport     | Excel-Bericht in Tabellenform | 
-| HTML Mail    | HTML Format | 
-| PDF Formular     | PDF Format | 
-| Meta-Bericht     | Fasst mehrere Berichte zu einem Bericht zusammen | 
-| Einfaches RTF oder Docx    | RTF oder Docx Format| 
-| Festes Seiten Layout    | Seiten Layout vorgegeben| 
+<p><img src="http://xpecto.github.io/docs/img/img_1442415998478.png" alt="" title=""></p>
 
-Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf *OK* wird der Bericht angelegt.
+<p>Ein neuer Bericht kann entweder als ein <em>leerer Bericht</em>, <em>Kopie eines bestehenden Berichts</em>, <em>ein tabellarischer Bericht</em> oder aus einer <em>xpecto Vorlage</em> angelegt werden.  <br>
+In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden.  <br>
+Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrage generiert und im Bericht hinterlegt. </p>
 
-![](http://xpecto.github.io/docs/img/img_1442317569556.png)
+<table>
+<thead>
+<tr>
+  <th>Bericht Art</th>
+  <th align="left">Beschreibung</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td>Microsoft Word</td>
+  <td align="left">Word-Bericht</td>
+</tr>
+<tr>
+  <td>integrierter Berichtsgenerator</td>
+  <td align="left">ActiveReports:  webbasiertes Format</td>
+</tr>
+<tr>
+  <td>Datenexport</td>
+  <td align="left">Excel-Bericht in Tabellenform</td>
+</tr>
+<tr>
+  <td>HTML Mail</td>
+  <td align="left">HTML Format</td>
+</tr>
+<tr>
+  <td>PDF Formular</td>
+  <td align="left">PDF Format</td>
+</tr>
+<tr>
+  <td>Meta-Bericht</td>
+  <td align="left">Fasst mehrere Berichte zu einem Bericht zusammen</td>
+</tr>
+<tr>
+  <td>Einfaches RTF oder Docx</td>
+  <td align="left">RTF oder Docx Format</td>
+</tr>
+<tr>
+  <td>Festes Seiten Layout</td>
+  <td align="left">Seiten Layout vorgegeben</td>
+</tr>
+</tbody></table>
 
-Unter dem Reiter *Allgemein* können der Name und die Gruppe des Berichts geändert werden. Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben.
 
-Unter dem Reiter *Entwurf* wird das Layout des Berichts erstellt. Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor oder der Berichtseditor zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word.
-ActiveReports sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und in web basierte Formate anzuzeigen. Hilfe zur Bedienung des Layout-Editors, um ein ActiveReports-Bericht zu erstellen, erhalten Sie im Internet unter der Adresse http://activereports.grapecity.com, oder vom xpecto Kundensupport.
+<p>Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf <em>OK</em> wird der Bericht angelegt.</p>
 
-Unter dem Reiter *Abfrage* kann die, dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden. 
-Benutzer benötigen hierzu Grundkenntnisse in SQL. 
-Das Eingabefeld *Filter Field-IDs* schränkt die abzufragenden Daten der SQL-Abfrage über den in der Software aktuell selektierten Datensatz automatisch ein. Die Eintragung in diesem Feld beeinflusst auch die Archivierung des Berichts. Die möglichen Angaben in diesem Feld können von xpecto Kundensupport erfragen, da diese eine Eigenentwicklung seitens xpecto sind.
+<p><img src="http://xpecto.github.io/docs/img/img_1442317569556.png" alt="" title=""></p>
 
-Im unteren Bereich des Reiters *Abfrage* gibt es einen Button um die oben eingetragene Abfrage inklusive der im Feld *Filter Field-IDs* eingetragenen Einschränkungen für den aktuell im Hauptfenster selektierten Datensatz zu testen. Im Fenster darunter wird Ihnen dann die ausgeführte SQL-Abfrage samt Ergebnis angezeigt.
+<p>Unter dem Reiter <em>Allgemein</em> können der Name und die Gruppe des Berichts geändert werden. Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben.</p>
 
-Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind. Unter dem Reiter *Kategorien* Feldgruppe *Unterbericht* kann diese Kategorisierung/Festlegung durchgeführt werden.
+<p>Unter dem Reiter <em>Entwurf</em> wird das Layout des Berichts erstellt. Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor oder der Berichtseditor zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word. <br>
+ActiveReports sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und in web basierte Formate anzuzeigen. Hilfe zur Bedienung des Layout-Editors, um ein ActiveReports-Bericht zu erstellen, erhalten Sie im Internet unter der Adresse <a href="http://activereports.grapecity.com">http://activereports.grapecity.com</a>, oder vom xpecto Kundensupport.</p>
 
-Unter dem Reiter *Kategorien* kann der bearbeitete Bericht kategorisiert werden. 
+<p>Unter dem Reiter <em>Abfrage</em> kann die, dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden.  <br>
+Benutzer benötigen hierzu Grundkenntnisse in SQL.  <br>
+Das Eingabefeld <em>Filter Field-IDs</em> schränkt die abzufragenden Daten der SQL-Abfrage über den in der Software aktuell selektierten Datensatz automatisch ein. Die Eintragung in diesem Feld beeinflusst auch die Archivierung des Berichts. Die möglichen Angaben in diesem Feld können von xpecto Kundensupport erfragen, da diese eine Eigenentwicklung seitens xpecto sind.</p>
 
-![](http://xpecto.github.io/docs/img/img_1442317999574.png)
+<p>Im unteren Bereich des Reiters <em>Abfrage</em> gibt es einen Button um die oben eingetragene Abfrage inklusive der im Feld <em>Filter Field-IDs</em> eingetragenen Einschränkungen für den aktuell im Hauptfenster selektierten Datensatz zu testen. Im Fenster darunter wird Ihnen dann die ausgeführte SQL-Abfrage samt Ergebnis angezeigt.</p>
 
-Mit den Optionen unter der Feldgruppe *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbol- und Funktionsleiste des Hauptfensters angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
+<p>Unter dem Reiter <em>Zusatzdaten</em> kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind. Unter dem Reiter <em>Kategorien</em> Feldgruppe <em>Unterbericht</em> kann diese Kategorisierung/Festlegung durchgeführt werden.</p>
 
- Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. 
+<p>Unter dem Reiter <em>Kategorien</em> kann der bearbeitete Bericht kategorisiert werden. </p>
 
-Die Optionen unter der Feldgruppe *Beleg* geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
+<p><img src="http://xpecto.github.io/docs/img/img_1442317999574.png" alt="" title=""></p>
 
- Die Optionen unter *Spezieller Bericht* haben keine direkte Auswirkung, sie sind für weitere geplante Funktionen vorgesehen. Wenn z.B. Verteiler für Kampagnen ausgewählt ist, dann wird der Bericht in der Kampagnen unter Feldgruppe *Datenquelle wählen* zu Auswahl stehen.
+<p>Mit den Optionen unter der Feldgruppe <em>Allgemeiner Bericht</em> kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbol- und Funktionsleiste des Hauptfensters angezeigt werden soll. Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.</p>
 
-Unter dem Reiter *Versandoptionen* werden die Parameter für die Online-Zustellung von Ausdrucken, Archiv-Einstellungen und Exportformat definiert. Z.B. *eBrief Sofortdruck* hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet, oder *eService Upload* in VP-Portal und Kundenportal.
+<p>Unter der Feldgruppe <em>Unterbericht</em> kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. </p>
 
-![](http://xpecto.github.io/docs/img/img_1442570315303.png)
+<p>Die Optionen unter der Feldgruppe <em>Beleg</em> geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.</p>
 
-In dem Dialog *xpectoPro Berichte und Textbausteine* über die Symbolleiste, kann der aktuell selektierte Bericht gelöscht, exportiert oder importiert werden. 
+<p>Die Optionen unter <em>Spezieller Bericht</em> haben keine direkte Auswirkung, sie sind für weitere geplante Funktionen vorgesehen. Wenn z.B. Verteiler für Kampagnen ausgewählt ist, dann wird der Bericht in der Kampagnen unter Feldgruppe <em>Datenquelle wählen</em> zu Auswahl stehen.</p>
 
-Ein*Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.
+<p>Unter dem Reiter <em>Versandoptionen</em> werden die Parameter für die Online-Zustellung von Ausdrucken, Archiv-Einstellungen und Exportformat definiert. Z.B. <em>eBrief Sofortdruck</em> hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet, oder <em>eService Upload</em> in VP-Portal und Kundenportal.</p>
 
-*Textbausteine* sind Textsegmente, die in ein individuelles Schreiben eingebaut werden können. 
+<p><img src="http://xpecto.github.io/docs/img/img_1442570315303.png" alt="" title=""></p>
 
-*Individuelle Schreiben* sind Dokumente die aus Textbausteine und statische Elemente gebaut werden können.
+<p>In dem Dialog <em>xpectoPro Berichte und Textbausteine</em> über die Symbolleiste, kann der aktuell selektierte Bericht gelöscht, exportiert oder importiert werden. </p>
+
+<p>Ein*Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.</p>
+
+<p><em>Textbausteine</em> sind Textsegmente, die in ein individuelles Schreiben eingebaut werden können. </p>
+
+<p><em>Individuelle Schreiben</em> sind Dokumente die aus Textbausteine und statische Elemente gebaut werden können.</p></div></body>
+</html>
