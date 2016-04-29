@@ -12,7 +12,7 @@ Diese können über die verschiedenen Berichtsgeneratoren erstellt und mit Daten
 
 <p>Neben Berichten können Sie auch Adressmuster, Textbausteine und individuelle Schreiben erstellen.</p>
 
-<p>In der klassischen Menü-Ansicht kann die <em>Berichte und Textbausteine</em>  die Symbolleiste <img src="http://xpecto.github.io/docs/img/img_1442245724286.png" alt="" title=""> oder über Menü <em>Extras → Anpassen → Berichte und Adressmuster</em> gestartet.</p>
+<p>In der klassischen Menü-Ansicht kann die Maske <em>Berichte und Textbausteine</em>  über die Symbolleiste <img src="http://xpecto.github.io/docs/img/img_1442245724286.png" alt="" title=""> oder über Menü <em>Extras → Anpassen → Berichte und Adressmuster</em> gestartet werden.</p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461933940294.png" alt="" title=""></p>
 
