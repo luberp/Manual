@@ -6,7 +6,7 @@ In der modernen Menü-Ansicht ist diese Funktion über die Registerkarte *Buchha
 
 ![](http://xpecto.github.io/docs/img/img_1461915546419.png)
 
-Starten Sie den Dialog Buchungsdaten importieren und wählen Sie das Produkt aus, zu dem die Kontodaten importiert werden sollen, die Datei die die Bankbewegungen enthält sowie das Importkonto (Bankkonto), von dem die Buchungen stammen.
+Starten Sie den Dialog *Buchungsdaten importieren* und wählen Sie das Produkt aus, zu dem die Kontodaten importiert werden sollen, die Datei die die Bankbewegungen enthält sowie das Importkonto (Bankkonto), von dem die Buchungen stammen.
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441983048557.png) um die zu importierende Datei auszuwählen.
 
