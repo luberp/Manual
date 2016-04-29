@@ -18,6 +18,56 @@ Diese können über die verschiedenen Berichtsgeneratoren erstellt und mit Daten
 
 <p>In der modernen Menü-Ansicht kann die Maske über Registerkarte <em>System</em> Gruppe <em>Anpassungen</em> Funktion <em>Berichte</em> gestartet werden.</p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1461934806060.png" alt="" title=""></p>
+
+<p>Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Symbol</th>
+  <th align="left">Beschreibung</th>
+</tr>
+</thead>
+<tbody><tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935229842.png" alt="" title=""></td>
+  <td align="left">Speichern</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935188197.png" alt="" title=""></td>
+  <td align="left">Berichgruppe neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935251084.png" alt="" title=""></td>
+  <td align="left">Berichte neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935295787.png" alt="" title=""></td>
+  <td align="left">Adressmuster neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935335008.png" alt="" title=""></td>
+  <td align="left">Textbausteine neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935370018.png" alt="" title=""></td>
+  <td align="left">Individuelle Schreiben neu anlegen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935407107.png" alt="" title=""></td>
+  <td align="left">Aktuellen Datensatz löschen</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935451257.png" alt="" title=""></td>
+  <td align="left">Bericht importieren</td>
+</tr>
+<tr>
+  <td><img src="http://xpecto.github.io/docs/img/img_1461935507991.png" alt="" title=""></td>
+  <td align="left">Bericht exportieren</td>
+</tr>
+</tbody></table>
+
+
 <p>Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1424086630188.png" alt="" title=""> um eine neue Berichtsgruppe anzulegen. </p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1424086718173.png" alt="" title=""></p>
