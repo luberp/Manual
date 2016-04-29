@@ -9,7 +9,7 @@ In der modernen Menü-Ansicht kann der Scanmanager über die Registerkarte *Date
 
 ![](http://xpecto.github.io/docs/img/img_1461835276604.png)
 
-Starten Sie der Scanmanamger und wählen unter dem Reiter *Scans* die Quelle wo die einscannten Dateien abgelegt sind. Klicken Sie dann auf *Start*. Dieser Pfad kann über Menü *Extras → Einstellungen* geändert werden.
+Starten Sie der Scanmanamger und wählen unter dem Reiter *Scans* die Quelle wo die einscannten Dateien abgelegt sind. Klicken Sie dann auf *Start*. Dieser Pfad kann über Menü *Extras → Einstellungen → Feldgruppe Pfade* geändert werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461837469559.png)
 
@@ -21,9 +21,11 @@ Wechseln Sie dann in dem Reiter *Zuweisung*.
 
 ![](http://xpecto.github.io/docs/img/img_1461838039221.png)
 
-
 Klicken Sie auf *Start* um automatisch die Dokumente zuzuweisen. Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet.
 
+Über dem Reiter Zuweisung können Sie die Dokumente die kein Barcode enthalten zuweisen.
+
+![](http://xpecto.github.io/docs/img/img_1441965548893.png)
 
 
 **Ausdruck von Barcode-Aufkleber**
