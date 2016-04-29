@@ -68,70 +68,33 @@ Diese können über die verschiedenen Berichtsgeneratoren erstellt und mit Daten
 </tbody></table>
 
 
-<p>Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1424086630188.png" alt="" title=""> um eine neue Berichtsgruppe anzulegen. </p>
+<p>Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461935188197.png" alt="" title=""> um eine neue Berichtsgruppe anzulegen. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1424086718173.png" alt="" title=""></p>
+<p>Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit <em>OK</em>. Die neue Gruppe wird dann in der Maske unter der Berichte-Ansicht.</p>
 
-<p>Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit <em>OK</em>.</p>
+<p>Um einen neuen Bericht anzulegen klicken Sie auf die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1461935251084.png" alt="" title=""> <br>
+ Gleichzeitig können Sie durch anklicken des Checkboxes <em>neue Gruppe anlegen</em> auch eine neue Gruppe anlegen.</p>
 
-<p>Mit der Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1424086982407.png" alt="" title=""> wird ein neuer Bericht angelegt. Gleichzeitig können Sie durch anklicken des Checkboxes <em>neue Gruppe anlegen</em> auch eine neue Gruppe anlegen.</p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461936920549.png" alt="" title=""></p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442415998478.png" alt="" title=""></p>
-
-<p>Ein neuer Bericht kann entweder als ein <em>leerer Bericht</em>, <em>Kopie eines bestehenden Berichts</em>, <em>ein tabellarischer Bericht</em> oder aus einer <em>xpecto Vorlage</em> angelegt werden.  <br>
-In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden.  <br>
-Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrage generiert und im Bericht hinterlegt. </p>
-
-<table>
-<thead>
-<tr>
-  <th>Bericht Art</th>
-  <th align="left">Beschreibung</th>
-</tr>
-</thead>
-<tbody><tr>
-  <td>Microsoft Word</td>
-  <td align="left">Word-Bericht</td>
-</tr>
-<tr>
-  <td>integrierter Berichtsgenerator</td>
-  <td align="left">ActiveReports:  webbasiertes Format</td>
-</tr>
-<tr>
-  <td>Datenexport</td>
-  <td align="left">Excel-Bericht in Tabellenform</td>
-</tr>
-<tr>
-  <td>HTML Mail</td>
-  <td align="left">HTML Format</td>
-</tr>
-<tr>
-  <td>PDF Formular</td>
-  <td align="left">PDF Format</td>
-</tr>
-<tr>
-  <td>Meta-Bericht</td>
-  <td align="left">Fasst mehrere Berichte zu einem Bericht zusammen</td>
-</tr>
-<tr>
-  <td>Einfaches RTF oder Docx</td>
-  <td align="left">RTF oder Docx Format</td>
-</tr>
-<tr>
-  <td>Festes Seiten Layout</td>
-  <td align="left">Seiten Layout vorgegeben</td>
-</tr>
-</tbody></table>
-
+<p>Ein neuer Bericht kann entweder als ein <em>leerer Bericht</em>, <em>Kopie eines bestehenden Berichts</em>, <em>ein tabellarischer Bericht</em> oder aus einer <em>xpecto Vorlage</em> erstellt werden.  <br>
+In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Bericht eingegliedert werden soll und die Datenbasis, angegeben werden. Bei Auswahl einer Datenbasis wird automatisch eine entsprechende Datenbankabfrage generiert und im Bericht hinterlegt. </p>
 
 <p>Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf <em>OK</em> wird der Bericht angelegt.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1442317569556.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1461936990965.png" alt="" title=""></p>
 
 <p>Unter dem Reiter <em>Allgemein</em> können der Name und die Gruppe des Berichts geändert werden. Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben.</p>
 
-<p>Unter dem Reiter <em>Entwurf</em> wird das Layout des Berichts erstellt. Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor oder der Berichtseditor zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word. <br>
-ActiveReports sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und in web basierte Formate anzuzeigen. Hilfe zur Bedienung des Layout-Editors, um ein ActiveReports-Bericht zu erstellen, erhalten Sie im Internet unter der Adresse <a href="http://activereports.grapecity.com">http://activereports.grapecity.com</a>, oder vom xpecto Kundensupport.</p>
+<p>Unter dem Reiter <em>Entwurf</em> wird das Layout des Berichts erstellt. Sie können hier z.B. aus dem vorher ausgewählten Datenbasis Felder einfügen. <br>
+Dieser Entwurf kann dann als Bericht erzeugt und für mehrere Datensätze als Vorlage dienen (siehe Handbuch <em>Bearbeiten → Berichte erzeugen</em>). <br>
+ Je nach dem, ob es sich um einen Word-Bericht oder um einen ActiveReports-Bericht handelt, erscheint hier ein Word-Editor oder der Berichtseditor zur Bearbeitung des Layouts. Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word.</p>
+
+<p>In der Vorlage können aus dem vorher ausgewählten Datenbasis Felder eingefügt dies dient dazu bei <em>Berichte erzeugen</em>  die Daten des ausgewählten Kunde anzuzeigen.</p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1461937239234.png" alt="" title=""></p>
+
+<p>ActiveReports sind Komponenten für Forms- und Webanwendungen um Daten in Dokumente und in web basierte Formate anzuzeigen. Hilfe zur Bedienung des Layout-Editors, um ein ActiveReports-Bericht zu erstellen, erhalten Sie im Internet unter der Adresse <a href="http://activereports.grapecity.com">http://activereports.grapecity.com</a>, oder vom xpecto Kundensupport.</p>
 
 <p>Unter dem Reiter <em>Abfrage</em> kann die, dem Bericht zugrunde liegende Datenbankabfrage bearbeitet werden.  <br>
 Benutzer benötigen hierzu Grundkenntnisse in SQL.  <br>
