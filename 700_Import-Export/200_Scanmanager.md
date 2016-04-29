@@ -1,36 +1,52 @@
-xpectoPro bietet Ihnen ein Dokumentenmanagementsystem (DMS),  um Ihre Dokumente zu digitalisieren,  archivieren und strukturiert zuzuweisen.
-Um die Möglichkeit zur Aufnahme von Dokumenten in der Software und deren Verwaltung übernimmt xpectoPro Dokumentenmanagement Aufgaben um die Arbeitseffizienz zu steigern.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>200_Scanmanager.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>xpectoPro bietet Ihnen ein Dokumentenmanagementsystem (DMS),  um Ihre Dokumente zu digitalisieren,  archivieren und strukturiert zuzuweisen. <br>
+Um die Möglichkeit zur Aufnahme von Dokumenten in der Software und deren Verwaltung übernimmt xpectoPro Dokumentenmanagement Aufgaben um die Arbeitseffizienz zu steigern.</p>
 
-Mit dem xpecto Scanmanager haben Sie die Möglichkeit eingescannte Dokumente manuell oder automatisch zuzuweisen. 
+<p>Mit dem xpecto Scanmanager haben Sie die Möglichkeit eingescannte Dokumente manuell oder automatisch zuzuweisen. </p>
 
-In der klassischen Menü-Ansicht kann der Scanmanager über Menüleisten *Import/Export → Scanmanager*. 
+<p>In der klassischen Menü-Ansicht kann der Scanmanager über Menüleisten <em>Import/Export → Scanmanager</em>. </p>
 
-In der modernen Menü-Ansicht kann der Scanmanager über die Registerkarte *Datenbearbeitung* Gruppe *Import / Export* erreicht werden.
+<p>In der modernen Menü-Ansicht kann der Scanmanager über die Registerkarte <em>Datenbearbeitung</em> Gruppe <em>Import / Export</em> erreicht werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1461835276604.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1461914112391.png" alt="" title=""></p>
 
-Starten Sie der Scanmanamger und wählen unter dem Reiter *Scans* die Quelle wo die einscannten Dateien abgelegt sind. Klicken Sie dann auf *Start*. Dieser Pfad kann über Menü *Extras → Einstellungen → Feldgruppe Pfade* geändert werden.
+<p>Starten Sie der Scanmanamger und wählen unter dem Reiter <em>Scans</em> die Quelle wo die einscannten Dateien abgelegt sind. Klicken Sie dann auf <em>Start</em>. Dieser Pfad kann über Menü <em>Extras → Einstellungen → Feldgruppe Pfade</em> geändert werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1461837469559.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1461837469559.png" alt="" title=""></p>
 
-Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441970891993.png), kann der Barcode manuell eingegeben werden.
+<p>Falls auf dem eingescannten Dokument kein Barcode vorhanden ist, über die Schaltfläche <img src="http://xpecto.github.io/docs/img/img_1441970891993.png" alt="" title="">, kann der Barcode manuell eingegeben werden.</p>
 
-![](http://xpecto.github.io/docs/img/img_1421750317812.png)
+<p><img src="http://xpecto.github.io/docs/img/img_1421750317812.png" alt="" title=""></p>
 
-Wechseln Sie dann in dem Reiter *Zuweisung*. 
+<p>Wechseln Sie dann in dem Reiter <em>Zuweisung</em>. </p>
 
-![](http://xpecto.github.io/docs/img/img_1461838039221.png)
+<p>Mit einem Doppelklick auf den gewünschten <em>Kunde, Vertrag, Vermittler, Interessenten, Ereignisse Verträge</em> wird der für die Zuweisung bestimmter Speicherort gewählt.</p>
 
-Klicken Sie auf *Start* um automatisch die Dokumente zuzuweisen. Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet.
+<p><img src="http://xpecto.github.io/docs/img/img_1461914187639.png" alt="" title=""></p>
 
-Über dem Reiter Zuweisung können Sie die Dokumente die kein Barcode enthalten zuweisen.
+<p>Durch die Betätigung der Schaltfläche <em>Speichern</em> wird das ausgewählte Dokument der Speicherort zugewiesen.</p>
 
-![](http://xpecto.github.io/docs/img/img_1441965548893.png)
+<p>Das Dokument dann bei <em>Kunde, Vertrag, Vermittler, Interessenten, Ereignisse Verträge</em> in der Hauptmaske unter dem Reiter <em>Ereignisse</em> angezeigt.</p>
 
+<p><strong>Ausdruck von Barcode-Aufkleber</strong></p>
 
-**Ausdruck von Barcode-Aufkleber**
-Zum Ausdrucken eines Barcodes über einen Labeldrucker (z. B. DymoLabel Writer) wählen Sie in der Hauptmaske von xpectoPro einen Datensatz aus für den Sie einen Barcode ausdrucken möchten, z. B. einen Vertrag. Klicken Sie anschließend in der Symbolleiste auf dasSymbol ![](http://xpecto.github.io/docs/img/img_1443802699735.png). Wählen Sie danach eine (Ereignis-)art aus und bestätigen diese durch einen klicken Sie auf *OK.* 
+<p>Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet. <br>
+Zum Ausdrucken eines Barcodes über einen Labeldrucker (z. B. DymoLabel Writer) wählen Sie in der Hauptmaske von xpectoPro einen Datensatz aus für den Sie einen Barcode ausdrucken möchten, z. B. einen Vertrag.  <br>
+In der klassischen Menü-Ansicht klicken Sie in der Symbolleiste auf dasSymbol <img src="http://xpecto.github.io/docs/img/img_1443802699735.png" alt="" title="">. </p>
 
-![](http://xpecto.github.io/docs/img/img_1441971165729.png)
+<p>In der modernen Menü-Ansicht kann der Barcode-Aufkleber über die Registerkarte <em>Schnellzugriff</em> Gruppe <em>Schnelldruck</em>  betätigt werden.</p>
 
-Anschließend wird der Barcode ausgedruckt und Sie können diesen auf Ihr Dokument aufkleben. Anschließend können Sie über den Scanmanager das Dokument einscannen und diesem Datensatz zuordnen.
+<p><img src="http://xpecto.github.io/docs/img/img_1461915015500.png" alt="" title=""></p>
+
+<p>Wählen Sie danach eine (Ereignis-)art aus und bestätigen diese durch einen klicken Sie auf <em>OK.</em> </p>
+
+<p>Anschließend wird der Barcode ausgedruckt und Sie können diesen auf Ihr Dokument aufkleben. Danach können Sie über den Scanmanager das Dokument einscannen und diesem Datensatz zuordnen.</p></div></body>
+</html>
