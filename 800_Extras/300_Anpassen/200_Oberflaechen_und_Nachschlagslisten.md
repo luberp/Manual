@@ -1,6 +1,6 @@
 Im folgenden Abschnitt ist die Anpassung und Erweiterbarkeit von Formulare bzw. Masken der xpectoPro beschrieben.
 
-In der klassischen Menü-Ansicht kann die Maske *Oberflächen und Nachschlagslisten* über Menü *Extras → Anpassen → Oberflächen und Nachschlagslisten* oder durch drucken auf die F12-Taste.
+In der klassischen Menü-Ansicht kann die Maske *Oberflächen und Nachschlagslisten* über Menü *Extras → Anpassen → Oberflächen und Nachschlagslisten* oder durch Drücken der F12-Taste.
 
 In der modernen Menü-Ansicht kann die Maske über die Registerkarte *System* Gruppe Anpassungen Funktion *Oberflächen* und Funktion *Nachschlagslisten.*
 
