@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Im folgenden Abschnitt ist die Anpassung und Erweitbarkeit von Formulare bzw. Masken der xpectoPro beschrieben.</p>
+<body><div class="container"><p>Im folgenden Abschnitt ist die Anpassung und Erweiterbarkeit von Formulare bzw. Masken der xpectoPro beschrieben.</p>
 
 <p><strong>Oberflächen</strong></p>
 
