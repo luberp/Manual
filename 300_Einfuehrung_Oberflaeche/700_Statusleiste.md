@@ -19,6 +19,7 @@ Der Tracer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer wird durch
 
 Um den Tracer zu Beenden klicken Sie auf *Schließen* ![](http://xpecto.github.io/docs/img/img_1438073429514.png).
 
-![](http://xpecto.github.io/docs/img/img_1431936241832.png) Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiges Werkzeug und erfordert Vorkenntnisse in SQL und Visual Basic. Die Aktionsabfragen, wie zum Beispiel Löschabfragen, führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.
+
+![](http://xpecto.github.io/docs/img/img_1431936241832.png) Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiges Werkzeug und erfordert Kenntnisse in SQL und Visual Basic. Die Aktionsabfragen, wie zum Beispiel Löschabfragen, führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.
  
 
