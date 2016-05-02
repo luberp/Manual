@@ -2,7 +2,7 @@ Das *Code Center* wird genutzt um unterschiedlichen Abrechnungsmodelle individue
 
 In der klassichen Menü-Ansicht kann der *Code Center* über *Menü → Extras* erreicht werden oder durch Drücken der F11-Taste.
 
-In der modernen Menü-Ansicht kann der *Code Center* in der Registerkarte *System* Gruppe *Anpassungen* Funktion *Skripte*.
+In der modernen Menü-Ansicht kann der *Code Center* in der Registerkarte *System* Gruppe *Anpassungen* Funktion *Skripte* oder durch Drücken der F11-Taste.
 
 ![](http://xpecto.github.io/docs/img/img_1462188089386.png)
 
