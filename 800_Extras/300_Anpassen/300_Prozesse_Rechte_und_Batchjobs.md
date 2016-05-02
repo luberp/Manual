@@ -28,7 +28,7 @@ Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu desig
 ![](http://xpecto.github.io/docs/img/img_1462180172219.png)
 
 
-**Benutzer: Allgemein, Rechte, Gruppenmitglieder**
+**Benutzer**
 
 In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1424426984009.png) an. 
 
