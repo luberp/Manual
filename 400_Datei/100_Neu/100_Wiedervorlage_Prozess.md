@@ -1,16 +1,17 @@
 Wiedervorlagen sind Erinnerungen oder Aufgabenlisten, die einen Benutzer auf einen bestimmten Arbeitsschritt hinweisen. Wiedervorlagen können für einen Benutzer oder für eine Arbeitsgruppe/Benutzergruppe hinterlegt werden.
+
 Die Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu diesem Problem bzw. Vorgang anbieten. In der einfachsten Form können Sie die Angelegenheit als "erledigt" markieren. 
-Umfangreichere Wiedervorlagen, die mehrere Funktionen enthalten, werden zu Prozessen. Ein Prozess kann je nach Anforderung unterschiedliche Zustände haben und sehr komplex sein. 
-Die damit verbundenen Zustände und Aktionen können graphisch in der klassischen Menüansicht über *Extras → Anpassen → Prozesse, Rechte und Batchjobs* angesehen bzw. angepasst werden. 
+
+Umfangreichere Wiedervorlagen, die mehrere Funktionen enthalten, werden zu Prozessen. Ein Prozess kann je nach Anforderung unterschiedliche Zustände haben und sehr komplex sein. Die damit verbundenen Zustände und Aktionen können graphisch in der klassischen Menüansicht über *Extras → Anpassen → Prozesse, Rechte und Batchjobs* angesehen bzw. angepasst werden. 
 
 In der modernen Menüansicht können die damit verbundenen Zustände und Aktionen graphisch unter der Registerkarte *System*, Gruppe *Anpassungen*, Funktion *Prozesse* angesehen bzw. angepasst werden. 
 
 ![](http://xpecto.github.io/docs/img/img_1461142065801.png)
 
 
-Prozesse können wesentlich kompliziertere Abläufe verwalten, zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr. 
+Prozesse können wesentlich kompliziertere Abläufe verwalten, wie zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr. 
 
-Nachdem der Prozess definiert wurde kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. 
+Nachdem der Prozess definiert wurde, kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. 
 
 Die Wiedervorlagen können zu Kunden, Verträge, Vermittler, Personen und Veranstaltungen erzeugt werden. 
 
