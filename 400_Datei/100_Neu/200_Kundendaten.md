@@ -60,7 +60,7 @@ Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eing
 
 <p><img src="http://xpecto.github.io/docs/img/img_1461148513327.png" alt="" title=""></p>
 
-<p>Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461148931706.png" alt="" title="">, eine neue Person anzulegen. In der Feldgruppe <em>Verwendung</em> können für die verknüpfte Person die Checkboxen gesetzt für Verwendung und Kopie. Falls die verknüpfte Person die Kopien der Korrespondenz bekommen sollte müssen hier die Checkboxen gesetzt werden.</p>
+<p>Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt würde, können Sie in dem Suchdialog durch einen Klick auf das Symbol <img src="http://xpecto.github.io/docs/img/img_1461148931706.png" alt="" title="">, eine neue Person anzulegen. In der Feldgruppe <em>Verwendung</em> können für die verknüpfte Person die Checkboxen gesetzt für <em>Verwendung</em> und <em>Kopie</em>. Falls die verknüpfte Person die Kopien der Korrespondenz bekommen sollte müssen hier die Checkboxen gesetzt werden.</p>
 
 <p>Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf <em>OK</em>.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu <em>Strg + S</em> oder das Symbol <img src="http://xpecto.github.io/docs/img/img_1461310396152.png" alt="" title="">. <br>
 Um eine Rolle zu löschen wählen Sie das Symbol <img src="http://xpecto.github.io/docs/img/img_1461149341916.png" alt="" title="">.</p>
