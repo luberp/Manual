@@ -1,6 +1,6 @@
 Das *Code Center* wird genutzt um unterschiedlichen Abrechnungsmodelle individuell auf Ihre Unternehmensstruktur anzupassen. Dies beinhaltet z.B. die Berechnungsprozeduren für die Provisionsabrechnung, für das Vermittler-Karrieresystem, oder für die Fondsgebühren.
 
-In der klassichen Menü-Ansicht kann der *Code Center* über *Menü → Extras* erreicht werden.
+In der klassichen Menü-Ansicht kann der *Code Center* über *Menü → Extras* erreicht werden oder durch Drücken der F11-Taste.
 
 In der modernen Menü-Ansicht kann der *Code Center* in der Registerkarte *System* Gruppe *Anpassungen* Funktion *Skripte*.
 
