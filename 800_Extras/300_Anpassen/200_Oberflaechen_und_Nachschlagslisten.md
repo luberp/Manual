@@ -2,7 +2,7 @@ Im folgenden Abschnitt ist die Anpassung und Erweiterbarkeit von Formulare bzw. 
 
 In der klassischen Menü-Ansicht kann die Maske *Oberflächen und Nachschlagslisten* über Menü *Extras → Anpassen → Oberflächen und Nachschlagslisten* oder durch Drücken der F12-Taste.
 
-In der modernen Menü-Ansicht kann die Maske über die Registerkarte *System* Gruppe Anpassungen Funktion *Oberflächen* und Funktion *Nachschlagslisten.*
+In der modernen Menü-Ansicht kann die Maske über die Registerkarte *System* Gruppe Anpassungen Funktion *Oberflächen* und Funktion *Nachschlagslisten* oder durch Drücken der F12-Taste.
 
 ![](http://xpecto.github.io/docs/img/img_1462178525763.png)
 
