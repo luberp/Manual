@@ -11,7 +11,7 @@
 
 <p>In der klassischen Menü-Ansicht kann die Maske <em>Oberflächen und Nachschlagslisten</em> über Menü <em>Extras → Anpassen → Oberflächen und Nachschlagslisten</em> oder durch drucken auf die F12-Taste.</p>
 
-<p>In der modernen Menü-Ansicht kann die Maske über die Registerkarte <em>System</em> Gruppe Anpassungen Funktion*Oberflächen* und Funktion <em>Nachschlagslisten.</em></p>
+<p>In der modernen Menü-Ansicht kann die Maske über die Registerkarte <em>System</em> Gruppe Anpassungen Funktion <em>Oberflächen</em> und Funktion <em>Nachschlagslisten.</em></p>
 
 <p><img src="http://xpecto.github.io/docs/img/img_1462178525763.png" alt="" title=""></p>
 
