@@ -1,6 +1,6 @@
 Über den Dialog *Schnellkontakt* haben Sie die Möglichkeit eine E-Mail mit oder ohne Anhang, direkt aus der Software zu erstellen und zu senden.
 
-Diese Funktion kann in der klassischen Menü-Ansicht über Menü Zusatzfunktionen Schnellkontakt.
+Diese Funktion kann in der klassischen Menü-Ansicht über Menü *Zusatzfunktionen → Schnellkontakt*.
 
 In der modernen Menü-Ansicht ist die Funktion über die Registerkarte Datenbearbeitung Gruppe Zusatzfunktionen erreichbar.
 
