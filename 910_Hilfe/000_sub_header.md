@@ -17,5 +17,14 @@ xpecto Funktionen <br>
 xpecto Change-Log <br>
 xpecto Versionskontrolle <br>
 xpecto Ticket-System <br>
-Alle Fenster auf aktuellen Bildschirm holen Str + 0</p></div></body>
+Alle Fenster auf aktuellen Bildschirm holen Str + 0</p>
+
+<p>xpecto Fernwartung  <br>
+talonec Teamviewer <br>
+Fenster verschieben  <br>
+Tickets: Anlegen, Übersicht  <br>
+Handbuch  <br>
+Über xpectoPro <br>
+Lizenzbedingungen  <br>
+Change-Log</p></div></body>
 </html>
