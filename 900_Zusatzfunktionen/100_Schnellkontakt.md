@@ -2,7 +2,7 @@
 
 Diese Funktion kann in der klassischen Menü-Ansicht über Menü *Zusatzfunktionen → Schnellkontakt*.
 
-In der modernen Menü-Ansicht ist die Funktion über die Registerkarte Datenbearbeitung Gruppe Zusatzfunktionen erreichbar.
+In der modernen Menü-Ansicht ist die Funktion über die Registerkarte *Datenbearbeitung* Gruppe *Zusatzfunktionen* erreichbar.
 
 ![](http://xpecto.github.io/docs/img/img_1462195542812.png)
 
