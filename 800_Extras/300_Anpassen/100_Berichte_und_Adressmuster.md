@@ -42,7 +42,7 @@ Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick
 
 ![](http://xpecto.github.io/docs/img/img_1462783085803.png)
 
-Unter dem Reiter *Allgemein* können der Name, die Gruppe und Adressverwendung *Melde* oder *Post* des Berichts geändert werden. Wenn z.B für ein Bericht die Adressverwendung Post gewählt würde dann werden aus dem Bericht erzeugte Ausdrucke an die Post-Adresse geschickt werden. Die Post-Adresse kann unter dem Reiter *Allgemein* gesetzt werden (siehe Handbuch *Kunde → Adresse→  Allgemein*).
+Unter dem Reiter *Allgemein* können der Name, die Gruppe und Adressverwendung *Melde* oder *Post* des Berichts geändert werden. Wenn z.B für ein Bericht die Adressverwendung *Post* gewählt würde dann werden aus dem Bericht erzeugte Ausdrucke an die Post-Adresse geschickt. Die Post-Adresse kann unter dem Reiter *Allgemein* gesetzt werden (siehe Handbuch *Kunde → Adresse→  Allgemein*).
 Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben. 
 
 Unter dem Reiter *Entwurf* wird das Layout des Berichts erstellt. Sie können hier z.B. aus dem vorher ausgewählten Datenbasis Felder einfügen.
