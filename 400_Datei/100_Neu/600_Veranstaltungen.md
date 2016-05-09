@@ -46,7 +46,7 @@ Die Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, we
 
 ![](http://xpecto.github.io/docs/img/img_1461323343138.png)
 
-In der  Ansicht *Scandialog* werden die zurückgeschickte Rückmeldungen angezeigt und dient dazu um die Stimmzettel einzulesen und abzulegen.	
+In der  Ansicht *Scandialog* werden die schriftlich abgestimmte Rückmeldungen von Scanner eingelesen und die Ergebnisse der Abstimmung gespeichert.
 
 Schließen Sie dann die Maske der Veranstaltung und kehren Sie zurück zur Hauptmaske.
 										 									 
