@@ -1,4 +1,4 @@
-Adressen können die Adressen von Kunden, Vermittlern oder Interessenten sein.  Der Baum Personen beinhaltet alle Kunden, Vermittler und Personen, die im System hinterlegt sind.
+Adressen können die Adressen von Kunden, Vermittlern oder Interessenten sein.  Der Baum *Personen* beinhaltet alle Kunden, Vermittler und Personen, die im System hinterlegt sind.
 
 Um eine neue Adresse anzulegen, klicken Sie in der klassischen Menüansicht auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461312223601.png) oder *Datei → Neu → Adressen*.
 
