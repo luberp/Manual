@@ -56,7 +56,7 @@ Um einen neuen Teilnehmer einzufügen klicken Sie in der Feldgruppe *Zuweisung* 
 
 Unter dem Reiter *Bevollmächtigte* kann die stellvertretende Person angelegt, und individuell verwaltet werden.
 Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439208928813.png) - *neuen Datensatz hinzufügen*  oder die Tastenkombination *Strg + N*.
- Geben Sie in das Eingabefeld *Person* den Namen der einzufügenden Person ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld ![](http://xpecto.github.io/docs/img/img_1439210074824.png). Hier wird dann der Suchdialog *Adressen* aufgemacht (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
+ Geben Sie in das Eingabefeld *Person* den Namen der einzufügenden Person ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben das Eingabefeld ![](http://xpecto.github.io/docs/img/img_1439210074824.png). Hier wird dann der Suchdialog *Adressen* geöffnet (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
 
 ![](http://xpecto.github.io/docs/img/img_1461327544585.png)
 
