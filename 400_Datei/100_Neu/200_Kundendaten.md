@@ -30,8 +30,7 @@ Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rol
 
 Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
 
-In der Feldgruppe Verwendung kann für die Adresse die Verwendung als Melde und Post oder falls gewünscht kann der Bereicht kundenspezifisch angepasst werden und für die Adresse mehrere Verwendungen eingefügt werden.  Die Meldeadresse ist die Adresse wo die angemeldet ist und es kann z.B. für eine Steuerkanzlei.  
-die Checkbox gesetzt wenn die Korrespondenz an die Postadresse geschickt werden soll. 
+In der Feldgruppe *Verwendung* kann für die Adresse die Verwendung als Melde und Post oder falls gewünscht kann der Bereicht kundenspezifisch angepasst werden und für die Adresse mehrere Verwendungen eingefügt werden.  Die Meldeadresse ist die Adresse wo der Kunde angemeldet ist und wenn die Checkbox gesetzt ist die Adresse an der die Korrespondenz geschickt wird. 
 
 ![](http://xpecto.github.io/docs/img/img_1461146656342.png)
 
