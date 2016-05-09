@@ -17,7 +17,7 @@ Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:
 | Symbol          |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1461935229842.png)  | Speichern| 
-| ![](http://xpecto.github.io/docs/img/img_1461935188197.png)  |Berichgruppe neu anlegen| 
+| ![](http://xpecto.github.io/docs/img/img_1461935188197.png)  |Berichtsgruppen neu anlegen| 
 | ![](http://xpecto.github.io/docs/img/img_1461935251084.png)    | Berichte neu anlegen | 
 | ![](http://xpecto.github.io/docs/img/img_1461935295787.png)   | Adressmuster neu anlegen | 
 | ![](http://xpecto.github.io/docs/img/img_1461935335008.png)    | Textbausteine neu anlegen | 
