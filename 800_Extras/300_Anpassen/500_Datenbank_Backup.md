@@ -11,4 +11,4 @@ Als Format für Backup können Sie auswählen zwischen Binärformat, XML-Format 
 
 ![](http://xpecto.github.io/docs/img/img_1442927979481.png)
 
-Es werden alle Tabellen ermittelt die zum Sichern sind. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442928143560.png), erstellen Sie eine Backup-Datei im markierten Format. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442928753163.png) kann die Datei wieder rückgesichert werden.
+Es werden alle Tabellen ermittelt die zum Sichern sind. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442928143560.png), erstellen Sie eine Backup-Datei im markierten Format. Sie werden hier aufgefordert einen Speicherplatz für die Backup-Datei zu wählen. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442928753163.png) kann eine Backup-Datei wieder rückgesichert werden. Damit werden die vorhandenen Datenbank-Tabellen durch die der Backup-Datei überschrieben.
