@@ -40,9 +40,10 @@ In jedem Fall muss der Name für den neuen Bericht, die Gruppe in die der Berich
 
 Die Art des Berichts kann nachträglich nicht mehr geändert werden! Durch Klick auf *OK* wird der Bericht angelegt.
 
-![](http://xpecto.github.io/docs/img/img_1461936990965.png)
+![](http://xpecto.github.io/docs/img/img_1462783085803.png)
 
-Unter dem Reiter *Allgemein* können der Name und die Gruppe des Berichts geändert werden. Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben.
+Unter dem Reiter *Allgemein* können der Name, die Gruppe und Adressverwendung *Melde* oder *Post* des Berichts geändert werden. Wenn z.B für ein Bericht die Adressverwendung Post gewählt würde dann werden aus dem Bericht erzeugte Ausdrucke an die Post-Adresse geschickt werden. Die Post-Adresse kann unter dem Reiter *Allgemein* gesetzt werden (siehe Handbuch *Kunde → Adresse→  Allgemein*).
+Außerdem besteht die Möglichkeit, eine Beschreibung einzugeben. 
 
 Unter dem Reiter *Entwurf* wird das Layout des Berichts erstellt. Sie können hier z.B. aus dem vorher ausgewählten Datenbasis Felder einfügen.
 Dieser Entwurf kann dann als Bericht erzeugt und für mehrere Datensätze als Vorlage dienen (siehe Handbuch *Bearbeiten → Berichte erzeugen*). Die Funktionsweise des Word-Editors ist angelehnt an die Grundfunktionen von Microsoft-Word.
