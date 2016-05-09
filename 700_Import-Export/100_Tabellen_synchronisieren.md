@@ -16,7 +16,7 @@ Welche Tabellen Sie synchronisieren wollen, kann durch die Optionen die der Filt
 |  Filter         |    Beschreibung     |  
 | ------------- |:-------------| 
 | Alles       | Es wird alles synchronisiert| 
-| Definitionen   | Definitionen die unter Extras Einstellungen Feldgruppe Synchronisation eingestellt würden werden synchronisiert | 
+| Definitionen   | Definitionen die unter Extras → Einstellungen → Feldgruppe Synchronisation eingestellt würden werden synchronisiert | 
 | Löschungen     | Löschungen werden synchronisiert | 
 | Änd.abholen     | Änderungen werden von Server abgeholt| 
 |Änd.übermitteln| Änderungen werden zum Server geschickt|
