@@ -31,7 +31,7 @@ In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt werden. Die Karr
 
 Der Reiter *Adressen* beinhaltet die folgenden Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer, Verwendung*.
 
-Unter dem Reiter *Adressen* können Sie die kundenspezifischen Adressdaten, Bank- und Kontoverbindung sowie Steuerdaten anlegen und pflegen.  Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch überprüft.  
+Unter dem Reiter *Adressen* können Sie kundenspezifischen Adressdaten, Bank- und Kontoverbindung sowie Steuerdaten anlegen und pflegen.  Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch überprüft.  
 
 Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier ändern und pflegen können. Das sind dieselben Daten, die unter dem Reiter *Allgemein* zu sehen sind.
 
