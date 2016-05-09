@@ -5,9 +5,10 @@ Neben Berichten können Sie auch Adressmuster, Textbausteine und individuelle Sc
 
 In der klassischen Menü-Ansicht kann die Maske *Berichte und Textbausteine*  über die Symbolleiste ![](http://xpecto.github.io/docs/img/img_1442245724286.png) oder über Menü *Extras → Anpassen → Berichte und Adressmuster* gestartet werden.
 
+In der modernen Menü-Ansicht kann die Maske über Registerkarte *System* Gruppe *Anpassungen* Funktion *Berichte* gestartet werden.
+
 ![](http://xpecto.github.io/docs/img/img_1461933940294.png)
 
-In der modernen Menü-Ansicht kann die Maske über Registerkarte *System* Gruppe *Anpassungen* Funktion *Berichte* gestartet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461934806060.png)
 
