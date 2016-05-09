@@ -28,7 +28,7 @@ Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:
 
 Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461935188197.png) um eine neue Berichtsgruppe anzulegen. 
 
-Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit *OK*. Die neue Gruppe wird dann in der Maske unter der Berichte-Ansicht.
+Geben Sie den Namen für die neue Gruppe an und bestätigen Sie mit *OK*. Die neue Gruppe wird dann in der Maske unter der Berichte-Ansicht angezeigt.
 
 Um einen neuen Bericht anzulegen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461935251084.png)
  Gleichzeitig können Sie durch anklicken des Checkboxes *neue Gruppe anlegen* auch eine neue Gruppe anlegen.
