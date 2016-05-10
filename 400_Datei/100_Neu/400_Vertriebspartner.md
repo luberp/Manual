@@ -52,7 +52,6 @@ xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzule
 
 ![](http://xpecto.github.io/docs/img/img_1438074994809.png)
 
-
 Durch Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adresse auf Richtigkeit geprüft oder eine neue Adresse vervollständigt werden.  Nachdem Sie die neuen Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. Speichern Sie Ihre neuen Daten ab, indem Sie *Strg + S* oder  ![](http://xpecto.github.io/docs/img/img_1461165873528.png) drücken.
 
 Die neue Rolle wird dann in der Rollenliste angezeigt. Um eine Rolle aus der Liste zu löschen, markieren Sie diese und drücken die Schaltfläche![](http://xpecto.github.io/docs/img/img_1461166237962.png).
@@ -74,7 +73,6 @@ Der Reiter *Struktur* zeigt die über die Provisionssätze bzw. für das Feld F�
 Um eine spezielle Struktur zu berechnen, muss die Checkbox *spezielle Struktur anzeigen* gewählt werden. Wählen Sie dafür die gewünschten Kriterien anhand deren die Struktur neu berechnet werden soll und klicken Sie auf die Schaltfläche *berechne Struktur*.
 
 ![](http://xpecto.github.io/docs/img/img_1461166479158.png)
-
 
 In der Vermittleransicht auf dem Reiter *Buchungen* werden die kumulierten Buchungen zum aktuell ausgewählten Vermittler verwaltet.
 
