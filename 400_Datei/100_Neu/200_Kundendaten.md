@@ -53,7 +53,7 @@ Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eing
 
 Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt wurde, können Sie in dem Suchdialog durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148931706.png), eine neue Person anlegen. In der Feldgruppe *Verwendung* können für die verknüpfte Person die Checkboxen gesetzt für *Verwendung* und *Kopie*. Falls die verknüpfte Person die Kopien der Korrespondenz bekommen sollte müssen hier die Checkboxen gesetzt werden.
 
-Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf *OK*.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu *Strg + S* oder das Symbol ![](http://xpecto.github.io/docs/img/img_1461310396152.png).
+Nachdem Sie die neuen Daten eingegeben haben, klicken Sie auf *OK*.  Speichern Sie Ihre neue Daten ab,  wählen Sie dazu *Strg + S* oder das Symbol ![](http://xpecto.github.io/docs/img/img_1461310396152.png).
 Um eine Rolle zu löschen wählen Sie das Symbol ![](http://xpecto.github.io/docs/img/img_1461149341916.png).
 
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. 
@@ -61,14 +61,14 @@ xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzule
 ![](http://xpecto.github.io/docs/img/img_1438074994809.png)
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
-Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
+Nachdem Sie die neuen Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
 Speichern Sie Ihre neue Daten ab,  wählen Sie  dazu Strg + S oder  ![](http://xpecto.github.io/docs/img/img_1461165873528.png). 
 
 Die neue Rolle wird dann in die Rollenliste angezeigt. Um eine Rolle aus der Liste zu löschen wählen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166237962.png).
 
-Die Daten für mehrere Kontoverbindungen können unter dem Unterkarteireiter *Kontoverbindungen* erfasst.
+Die Daten für mehrere Kontoverbindungen können unter dem Unterkarteireiter *Kontoverbindungen* erfasst werden.
 
-Unter dem Unterkarteireiter *Legitimationsdaten* können Sie die Dokumente erfassen, womit sich der Kunde legitimiert.
+Unter dem Unterkarteireiter *Legitimationsdaten* können Sie die Dokumente erfassen, womit sich der Kunde legitimiert hat.
 
 Der Unterkarteireiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. Die Kirchensteuersätze die hier angesehen oder gepflegt werden, können über die Kirchensteuerabfrage vom Bundeszentralamt für Steuer abgeholt werden.
 
@@ -80,20 +80,20 @@ Der Unterkarteireiter *Verwendung* zeigt die Referenzierung einer Adresse und zw
 
 Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.
 
-Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunde sowie zugehörige Verträge festgehalten. Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
+Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Kunden sowie zugehörige Verträge festgehalten. Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
 
 ![](http://xpecto.github.io/docs/img/img_1461149517004.png)
 
-Beispiel: Sie haben einen Telefonat wegen einen Vertrag durchgeführt.
+Beispiel: Sie haben ein Telefonat wegen einen Vertrag durchgeführt.
 Wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461149552445.png).
 
-Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die originale E-Mail). 
+Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die original E-Mail). 
 
 ![](http://xpecto.github.io/docs/img/img_1438331893299.png)
 
 Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
-Durch eine Klick auf die  ![](http://xpecto.github.io/docs/img/img_1461149799550.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen markieren Sie das zu löschenden Ereignis und klicken dann  die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461149839246.png).
+Durch einen Klick auf die  ![](http://xpecto.github.io/docs/img/img_1461149799550.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen markieren Sie das zu löschenden Ereignis und klicken dann auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461149839246.png).
 
 Unter dem Reiter *Beschwerdenbuch* können die Beschwerden von  Kunden eingetragen werden.
 Der Reiter *Anlageerfahrung*  enthält zusätzliche Daten die den Kunden betreffen. Anhand dieser Daten wird dann eine Risikobewertung durchgeführt, und dem Kunde wird eine Risikoklasse zugeordnet.
