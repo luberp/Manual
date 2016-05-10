@@ -59,7 +59,7 @@ Soll der Lastschrifteinzug bei einem Vertrag für eine  Monatsrate ausgesetzt we
 
 Auf dem Karteireiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Vertrag festgehalten.  Die Ereignisse können auf mehrere Ebenen verteilt werden: *Kundenebene, Beteiligungsebene, Pflicht-Dokument, Beschwerde.* 
 
-Beispiel: Sie haben einen Telefonat wegen einem Vertrag durchgeführt. Markieren Sie den Vertrag und
+Beispiel: Sie haben ein Telefonat wegen einem Vertrag durchgeführt. Markieren Sie den Vertrag und
 wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159119190.png).
 
 Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. 
@@ -68,7 +68,7 @@ Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls ge
 
 Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
-Durch eine Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159194556.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen wählen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159231005.png).
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159194556.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159231005.png).
 
 In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden.
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
