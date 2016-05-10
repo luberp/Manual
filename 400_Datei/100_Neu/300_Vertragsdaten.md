@@ -74,4 +74,4 @@ In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Vertrag ang
 werden die Belege 
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
-Unter *Drittrechte* können die Ansprüche eines Dritten auf dem Vertrag, erfasst werden. 
+Unter *Drittrechte* können die Ansprüche eines Dritten an dem Vertrag, erfasst werden. 
