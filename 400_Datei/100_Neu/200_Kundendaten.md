@@ -1,4 +1,4 @@
-Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anleger, die bereit sind eine Beteiligung einzugehen, Vermittler oder Interessenten sein. 
+Ein wichtiger Bestandteil des Systems sind die Kundendaten. Diese können Anleger, die bereit sind eine Beteiligung einzugehen, oder Vermittler sein. 
 
 Die Kundenmaske wird automatisch beim Start von xpectoPro angezeigt. 
 
@@ -8,7 +8,6 @@ In der klassischen Menü-Ansicht können Sie einen neuen Kunde anlegen über
 In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Kundendaten* um neue Daten anzulegen.
 
 ![](http://xpecto.github.io/docs/img/img_1461138567329.png)
-
 
 Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
 
