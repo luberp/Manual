@@ -88,7 +88,6 @@ Der Reiter *Umsätze* zeigt die Summe aller Einnahmen, die durch Abschließen ei
 
 ![](http://xpecto.github.io/docs/img/img_1461167205291.png)
 
-
 Der Reiter *Auswertungen* ist zweigeteilt: *Links* und *Google Maps*.
 Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittlerportal und können direkt im Browser die genaue Adresse des Vermittlers sehen.
 Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die geographische Verteilung der Kunden und Vermittler auf der Landkarte zu sehen.
@@ -112,7 +111,6 @@ Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittlern keine
 Über den Menüpunkt *Datei  → Firmen* oder *Datei →Produkte* ist die Maske „xpectoPro Firmen und Produkte" erreichbar, über die die Firmen, Produkte und Gesellschaften verwaltet werden. Die Pflege über die Karrierestufen ermöglicht dabei eine einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. 
 
  ![](http://xpecto.github.io/docs/img/img_1461162961629.png)
- 
  
 In der Ansicht *Produkte* auf dem Reiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
  
