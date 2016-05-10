@@ -46,7 +46,7 @@ In dem darauf folgenden Dialog *Person oder Anschrift* kann eine neue Verknüpfu
 
 Für eine neue Verknüpfung öffnet sich die Maske *Adresse bearbeiten*.
 Wählen Sie hier einen Typ für Ihre Verknüpfung. 
-Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148844168.png), es eröffnet sich hier der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
+Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148844168.png), es öffnet sich hier der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
 
 ![](http://xpecto.github.io/docs/img/img_1461148513327.png)
 
