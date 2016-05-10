@@ -70,8 +70,7 @@ Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ere
 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159194556.png) können Sie das Ereignis bearbeiten. Um ein Ereignis zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159231005.png).
 
-In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Vertrag angelegt werden.
-werden die Belege 
+In dem Reiter *Belege* werden die Belege die durch Berechnungen erzeugt wurden angezeigt.
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
 Unter *Drittrechte* können die Ansprüche eines Dritten an dem Vertrag, erfasst werden. 
