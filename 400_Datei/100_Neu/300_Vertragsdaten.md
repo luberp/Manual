@@ -38,14 +38,13 @@ Diese Daten sind sofort einsehbar und bilden meist die maximale Provision die be
 
 Über den Reiter *Eigenschaften* können sie die Bemerkungen zum Vertrag anlegen und ändern.  Diese Bemerkungen zum Vertrag sind dynamisch und an Ihre Wünsche anpassbar. 
 
-Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*). 
+Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnungsparameter*, *Dokument* und dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren (siehe Handbuch *Neu → Produkte → Wertarten*). 
 
-xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
+xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Buchungen. 
 
 Der Reiter *Übertragung* zeigt ob der Vertrag  der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden.
 
-
-Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag die Partei gewechselt hat und zwar ob Rechtsvorgänger oder Rechtsnachfolger hat.
+Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag die Person gewechselt hat und zwar ob Rechtsvorgänger oder Rechtsnachfolger hat.
 
 ![](http://xpecto.github.io/docs/img/img_1461157812980.png)
 
