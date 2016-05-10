@@ -10,11 +10,11 @@ Hier wird der Dialog *Neuer Datensatz* geöffnet. Wählen Sie hier *Vertragsdate
 
 ![](http://xpecto.github.io/docs/img/img_1461151680852.png)
 
-Fall Sie sich nicht in der Vertragsmaske befinden klicken Sie dann auf der Pfeil  ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter Funktion *Neu* und dann auf *Vertragsdaten* um einen neuen Vertrag anzulegen. Der Pfeil unter einer Funktions weist darauf hin, dass Untermenüs existieren.
+Fall Sie sich nicht in der Vertragsmaske befinden klicken Sie dann auf der Pfeil  ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter Funktion *Neu* und dann auf *Vertragsdaten* um einen neuen Vertrag anzulegen. Der Pfeil unter einer Funktion weist darauf hin, dass Untermenüs existieren.
 
 ![](http://xpecto.github.io/docs/img/img_1461151120846.png)
 
-Es erscheint die Eingabeaufforderung *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und geben eine Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. 
+Es erscheint der Dialog *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und geben eine Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. 
 Es wird eine Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
 ![](http://xpecto.github.io/docs/img/img_1461151200710.png)
