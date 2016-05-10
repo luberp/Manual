@@ -1,11 +1,10 @@
-Eine der wesentlichen Aufgaben im Vertrieb ist der Verkauf von Produkten und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter, der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Branche, Firma und Position unterschiedlich. Wie die Provisionierung und die Provisionierungsmethoden in xpectoPro umgesetzt werden, wird [unten](#id1) beschrieben.
+Eine der wesentlichen Aufgaben im Vertrieb ist der Verkauf von Produkten und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter, der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Branche, Firma und Position unterschiedlich. Wie die Provisionierung und die Provisionierungsmethoden in xpectoPro umgesetzt werden, wird [unten](#id1) beschrieben. 
 
 In der klassischen Menüansicht betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159468938.png) oder das Menü *Datei → Neu → Vertriebspartner*, um einen neuen Vermittler anzulegen.
 
 In der modernen Menüansicht, wenn Sie sich gerade in der Vermittlermaske befinden, kann ein neuer Vermittler durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461160123775.png) angelegt werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461153154297.png)
-
 
 Fall Sie sich nicht in der Vermittlermaske befinden, klicken Sie auf den Pfeil ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter der Funktion *Neu* und dann auf *Vertriebspartner*, um einen neuen Vermittler anzulegen. Der Pfeil unter einer Funktion weist darauf hin, dass Untermenüs existieren.
 
@@ -20,7 +19,6 @@ Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben, bestätigen 
 Unter dem Reiter *Allgemein* sehen Sie eine Übersicht der Meldedaten, die eigentlichen Stammdaten des ausgewählten Vermittlers, sonstige Daten sowie die Web-Portal Daten. 
 
 ![](http://xpecto.github.io/docs/img/img_1461162279212.png)
-
 
 Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* und dienen der Anmeldung des Vermittlers am xpecto Webportal. Das Web-Portal kann ein Vermittlerinformationsportal sein. Das Informationsportal kann vom xpecto Kundensupport angepasst werden. Dies betrifft das Aussehen des Portals und den Zugriff auf den Content. Hier kann der Vermittler sehen, ob zum Beispiel ein Vertrag abgeschlossen ist. 
 Die hier eingetragenen Zugänge werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch freigeschalten oder gesperrt.
@@ -44,11 +42,9 @@ In dem darauffolgenden Dialog *Person oder Anschrift* bestimmen Sie, ob eine Ver
 
 ![](http://xpecto.github.io/docs/img/img_1438074839670.png)
 
-
 Falls Sie eine Verknüpfung hinzufügen möchten, öffnet sich die folgende Maske:
 
 ![](http://xpecto.github.io/docs/img/img_1438084400120.png)
-
 
 Wählen Sie hier einen Typ für Ihre Verknüpfung. Um eine Person einzufügen, klicken Sie im Eingabefeld *Link* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461165205134.png). Es öffnet sich der Suchdialog (siehe *Bearbeiten → Erweiterte Suche*). Durch einen Doppelklick auf die gewünschte Person werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die Person noch nicht angelegt wurde, können Sie im Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166047632.png) eine neue Person anlegen.
 
@@ -99,7 +95,7 @@ Der Reiter *Auswertungen* ist zweigeteilt: *Links* und *Google Maps*.
 Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittlerportal und können direkt im Browser die genaue Adresse des Vermittlers sehen.
 Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die geographische Verteilung der Kunden und Vermittler auf der Landkarte zu sehen.
 
-<a id="id1" **Provisionierung**</a>
+  <a id="id1">**Provisionierung **</a>
 
 Bei den in xpectoPro verwalteten Vertriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen Vermittler, ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist), in einer Baumstruktur organisiert sind. Häufig werben bestehende Vermittler weitere Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
 
