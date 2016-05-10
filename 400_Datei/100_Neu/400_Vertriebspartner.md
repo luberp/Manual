@@ -1,4 +1,4 @@
-Eine der wesentlichen Aufgaben im Vertrieb ist der Verkauf von Produkten und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter, der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Branche, Firma und Position unterschiedlich. Wie die Provisionierung und die Provisionierungsmethoden in xpectoPro umgesetzt werden, sehen Sie unten.
+Eine der wesentlichen Aufgaben im Vertrieb ist der Verkauf von Produkten und Dienstleistungen. Ein Vermittler ist ein Vertriebsmitarbeiter, der für erfolgreiche Vertragsabschlüsse eine Bonuszahlung enthält, eine sogenannte Vertriebsprovision. Die Höhe der Provision im Vertrieb ist je nach Branche, Firma und Position unterschiedlich. Wie die Provisionierung und die Provisionierungsmethoden in xpectoPro umgesetzt werden, wird [unten](#id1) beschrieben.
 
 In der klassischen Menüansicht betätigen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461159468938.png) oder das Menü *Datei → Neu → Vertriebspartner*, um einen neuen Vermittler anzulegen.
 
@@ -11,11 +11,9 @@ Fall Sie sich nicht in der Vermittlermaske befinden, klicken Sie auf den Pfeil !
 
 ![](http://xpecto.github.io/docs/img/img_1461151120846.png)
 
-
 Es wird die nächste freie Vermittlernummer vorgeschlagen. Falls Sie intern eine abweichende Nummerierung verwenden, können Sie manuell die nach Ihrer internen Richtlinie nächste freie Vermittlernummer eingeben. 
 
 ![](http://xpecto.github.io/docs/img/img_1461160772099.png)
-
 
 Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben, bestätigen Sie mit *OK*. 
 
@@ -27,7 +25,7 @@ Unter dem Reiter *Allgemein* sehen Sie eine Übersicht der Meldedaten, die eigen
 Die Feldgruppe *VP-Portal* beinhaltet die Eingabefelder *Benutzer* und *Passwort* und dienen der Anmeldung des Vermittlers am xpecto Webportal. Das Web-Portal kann ein Vermittlerinformationsportal sein. Das Informationsportal kann vom xpecto Kundensupport angepasst werden. Dies betrifft das Aussehen des Portals und den Zugriff auf den Content. Hier kann der Vermittler sehen, ob zum Beispiel ein Vertrag abgeschlossen ist. 
 Die hier eingetragenen Zugänge werden durch das Übertragen der Vermittlerdaten auf den Webserver (siehe *Import/Export → Tabellen synchronisieren*) automatisch freigeschalten oder gesperrt.
 
-In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt werden. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten [Provisionierung Methoden](#id1)).
+In der Feldgruppe *Struktur* kann die Karrierestufe ausgewählt werden. Die Karrierestufe dient der Verwendung eines Karriere-Systems (siehe unten [Provisionierung Methoden](#id2)).
 
 Der Reiter *Adressen* beinhaltet die folgenden Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer, Verwendung*.
 
@@ -38,7 +36,6 @@ Der Unterkarteireiter *Allgemein* beinhaltet die Stammdaten, die Sie hier änder
 In der modernen Menüansicht können Sie schnell zu den Stammdaten des Vermittlers über die Registerkarte *Vertrieb*, Funktion *Vermittler* gelangen.
 
 ![](http://xpecto.github.io/docs/img/img_1461165138201.png)
-
 
 Der Unterkarteireiter *Rollen* beinhaltet die Beziehungen zwischen Personen. Sie können hier eine Verknüpfung zu einer anderen Person herstellen oder eine neue Adresse für die Person hinzufügen. 
 Um eine Rolle anzulegen, klicken Sie in dem Unterkarteireiter *Rollen* auf die Schaltfläche:  ![](http://xpecto.github.io/docs/img/img_1461165104119.png). 
@@ -102,7 +99,7 @@ Der Reiter *Auswertungen* ist zweigeteilt: *Links* und *Google Maps*.
 Unter dem Unterkarteireiter *Links* haben Sie Zugang zum Vermittlerportal und können direkt im Browser die genaue Adresse des Vermittlers sehen.
 Der Unterkarteireiter *Google Maps* bietet Ihnen die Möglichkeit die geographische Verteilung der Kunden und Vermittler auf der Landkarte zu sehen.
 
- **Provisionierung** 
+<a id="id1" **Provisionierung**</a>
 
 Bei den in xpectoPro verwalteten Vertriebsgesellschaften handelt es sich in der Regel um Strukturvertriebe, bei denen Vermittler, ausgehend von einem Vertriebskopf (der ebenfalls als Vermittler in der Software erfasst ist), in einer Baumstruktur organisiert sind. Häufig werben bestehende Vermittler weitere Vermittler an, die dann in der Baumstruktur unter ihnen eingeordnet werden. 
 
@@ -110,7 +107,7 @@ In der Regel erhalten hierarchisch höhere Vermittler für Vertragsabschlüsse i
 
 Die Software bietet zwei alternative Methoden, um die Vermittlerstruktur und die Provisionssätze der Vermittler zu definieren: Die Erfassung individueller Provisionssätze oder die Verwendung eines Karriere-Systems. Die Definition des Strukturbaums erfolgt durch Verlinkung der einzelnen Vermittler untereinander. Je nachdem, welche der beiden oben genannten Methoden angewendet wird, funktioniert diese Verlinkung auf unterschiedliche Weise. Sie können die beiden Formen auch mischen und so die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
 
-  <a id="id1">**Provisionierung Methoden**</a>
+  <a id="id2">**Provisionierung Methoden**</a>
  
  - **Erfassung individueller Provisionssätze - die flexible Methode** 
 Bei Verwendung individueller Provisionssätze werden bei jedem Vermittler in dem Karteireiter *Provisionssätze* die Provisionssätze des Vermittlers eingetragen und die Höhe der Provisionen festgelegt. Hierbei repräsentiert ein Datensatz den Provisionssatz des ausgewählten Vermittlers für genau einen Provisionstyp, einer Firma, ein Produkt und einen Tarif.
