@@ -21,13 +21,13 @@ Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, sonstige 
 
 ![](http://xpecto.github.io/docs/img/img_1462198884759.png)
 
-Das Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Die Informationsportale können von xpecto Kundensupport angepasst werden, dies betrifft das Aussehen der  Portalen, die Anmeldedaten und den Zugriff auf Content. 
+Das Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Die Informationsportale können von xpecto Kundensupport angepasst werden. Dies betrifft das Aussehen der  Portalen, die Anmeldedaten und den Zugriff auf Content. 
 
 Unter dem Reiter *Adressen* können Sie die kundenspezifische Adressdaten, Bank- und Kontoverbindung sowie Steuerdaten anlegen. Die Kontoverbindungsinformationen werden nach der SEPA-Verordnung automatisch validiert und überprüft.  
 
 Der Reiter *Adressen* beinhaltet die folgende Unterkarteireiter: *Allgemein, Rollen, Kontoverbindungen, Legitimationsdaten, Kirchensteuer, Auslands-Steuer*, *Verwendung*.
 
-Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten die Sie hier ändern können. Das sind die gleiche Daten die unter dem Reiter *Allgemein* zu sehen sind.
+Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten die Sie hier ändern können. Das sind die gleichen Daten die auch unter dem Reiter *Allgemein* zu sehen sind.
 
 In der Feldgruppe *Verwendung* kann für die Adresse die Verwendung als Melde und Post oder falls gewünscht kann der Bereicht kundenspezifisch angepasst werden und für die Adresse mehrere Verwendungen eingefügt werden.  Die Meldeadresse ist die Adresse wo der Kunde angemeldet ist und wenn die Checkbox gesetzt ist die Adresse an der die Korrespondenz geschickt wird. 
 
