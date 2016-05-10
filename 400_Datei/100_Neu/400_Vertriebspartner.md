@@ -6,7 +6,7 @@ In der modernen Menüansicht, wenn Sie sich gerade in der Vermittlermaske befind
 
 ![](http://xpecto.github.io/docs/img/img_1461153154297.png)
 
-Fall Sie sich nicht in der Vermittlermaske befinden, klicken Sie auf den Pfeil ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter der Funktion *Neu* und dann auf *Vertriebspartner*, um einen neuen Vermittler anzulegen. Der Pfeil unter einer Funktion weist darauf hin, dass Untermenüs existieren.
+Falls Sie sich nicht in der Vermittlermaske befinden, klicken Sie auf der Pfeil ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter der Funktion *Neu* und dann auf *Vertriebspartner*, um einen neuen Vermittler anzulegen. Der Pfeil unter einer Funktion weist darauf hin, dass Untermenüs existieren.
 
 ![](http://xpecto.github.io/docs/img/img_1461151120846.png)
 
