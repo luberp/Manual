@@ -14,7 +14,7 @@ Unabhängig von Favoriten und markierter Datensatz kann ein Bericht erzeugt werd
 
 Wenn als Favorit eine *Briefvorlage* eingestellt würde, dann wird für jeder markierter Datensatz ein Bericht generiert der die Daten des Datensatzes enthält.
 
-Wie die Berichte als Favoriten angezeigt wird unten beschrieben (siehe unten [Favoriten anzeigen](#id2)).
+Wie die Berichte als Favoriten angezeigt wird unten beschrieben (siehe unten [Favoriten anzeigen](#id3)).
 
 
 Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden die dazu passende Berichte vorgeschlagen. 
@@ -36,7 +36,7 @@ verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
 
 ![](http://xpecto.github.io/docs/img/img_1439389795642.png)
 
-<a id="id2">**Favoriten anzeigen**</a>
+<a id="id3">**Favoriten anzeigen**</a>
 
 xpectoPro bietet an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Dazu muss der Bericht als *Allgemeiner Bericht*  für Favoriten markiert werden. (siehe Handbuch *Extras → Anpassen → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
