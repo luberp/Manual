@@ -42,9 +42,7 @@ Der Reiter *Werte* beinhaltet die Feldgruppen: *Verknüpfung*, *Wert*, *Berechnu
 
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Buchungen. 
 
-Der Reiter *Übertragung* zeigt ob der Vertrag  der Übertragung von vorhandenen Vertragsdaten auf andere Kunden. Eine Übertragung kann aus verschiedenen Gründen gemacht werden.
-
-Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag die Person gewechselt hat und zwar ob Rechtsvorgänger oder Rechtsnachfolger hat.
+Der Reiter *Übertragung* zeigt dann an, ob einen Vertrag die Person gewechselt hat und zwar ob Rechtsvorgänger oder Rechtsnachfolger hat. Eine Übertragung kann aus verschiedenen Gründen gemacht werden z. B. Erbfall, Aufteilung auf 2 weitere Personen, wegen Scheidung.
 
 ![](http://xpecto.github.io/docs/img/img_1461157812980.png)
 
