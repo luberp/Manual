@@ -25,7 +25,7 @@ Die Vertragsmaske enthält folgende Reiter: *Allgemein, Eigenschaften, Werte, OP
 
 ![](http://xpecto.github.io/docs/img/img_1461151792103.png)
 
-Der Reiter *Allgemein* teil sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
+Der Reiter *Allgemein* teilt sich in folgende Feldgruppen: *Allgemein*, *Daten*, *Auswertung*, *Status, Provision*, *Konten, Rateneinzug*,  *Beteiligung*. 
 Geben Sie die Daten zum Vertrag wie Tranche, Laufzeit, Zahlungsintervall usw. ein. 
 
 Eine entscheidende Feldgruppe  ist *Status, Provision*. Wählen Sie den entsprechenden Vermittler aus der Vermittlerliste  und bestätigen Sie mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461153950083.png). Damit werden die Provisionsansprüche erzeugt.
