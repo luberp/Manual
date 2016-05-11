@@ -1,4 +1,4 @@
-Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegte Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. Ein Bericht wird  für den gerade markierter Datensatz generiert.
+Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro erstellt werden können. Jeder in xpectoPro hinterlegter Bericht hat eine Bezeichnung, ein vordefiniertes Layout und eine Datenbankabfrage zum Befüllen von Platzhaltern. Ein Bericht wird für der markierte Datensatz generiert.
 
 In der klassischen Menü-Ansicht wird ein neuer Bericht generiert über den Menüpunkt  *Bearbeiten → Berichte erzeugen*, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) oder falls ein Favorit eingerichtet würde direkt in das Hauptfenster direkt neben das  Favoriten-Feld über die Schalftläche ![](http://xpecto.github.io/docs/img/img_1461680897090.png) *Druckvorschau /Seitenansicht*.
 
