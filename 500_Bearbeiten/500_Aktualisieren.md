@@ -1,1 +1,1 @@
-Aktualisieren dient dazu immer die zuletzt gespeicherte Datensätze angezeigt zu bekommen. Um Ihre Daten zu aktualisieren wählen Sie in der klassischen Menü-Ansicht *Bearbeiten → Aktualisieren* oder drücken Sie auf die F5-Taste.
+Aktualisieren dient dazu, die Anzeige aufzufrischen. Um Ihre Ansicht zu aktualisieren wählen Sie in der klassischen Menü-Ansicht *Bearbeiten → Aktualisieren* oder drücken Sie die F5-Taste.
