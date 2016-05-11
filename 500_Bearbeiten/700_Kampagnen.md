@@ -31,17 +31,17 @@ In der Feldgruppe *Aktion wählen* können Sie die Funktion die für Ihre Kampag
 
 Beispiel: Es sollen neue Kunden gefunden werden, und zwar aus dem Adressbestand sollen alle potentielle Kunden mit einer E-Mail Adresse, über neue Produkte informiert werden. Schreiben Sie allen Teilnehmer der Kampagne per E-Mail an. Die Schreiben hinterlegen Sie automatisch im Dokumenten-Archiv.
 
-Als erstes erstellen Sie die Abfrage um die Kunden auszuwählen. Starten Sie hier über Bearbeiten → Abfragen erstellen der *Abfragen und Listen* Editor. 
+Als erstes erstellen Sie die Abfrage um die Kunden auszuwählen. Starten Sie hier über *Bearbeiten → Abfragen erstellen* der *Abfragen und Listen* Editor. 
 
 ![](http://xpecto.github.io/docs/img/img_1461676078337.png)
 
-Nachdem Sie die Abfrage erstellt  und die benötigte Felder ausgewählt haben,  dann klicken Sie auf *Weiter*.
+Nachdem Sie die Abfrage erstellt  und die benötigte Felder ausgewählt haben klicken Sie auf *Weiter*.
 Starten Sie eine neue Kampagne über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461676124268.png). 
 
-Es wird eine neue Kampagne angelegt mit einem von xpectoPro automatisch generierten Namen angelegt.
-In dem Reiter Allgemein geben Sie *Informationskampagne* für den Namen und eine optionale Beschreibung für Ihre Kampagne an. Speichern Sie Ihre Änderungen.
+Es wird eine neue Kampagne mit einem von xpectoPro automatisch generierten Namen angelegt.
+In dem Reiter *Allgemein* geben Sie *Informationskampagne* für den Namen und eine optionale Beschreibung für Ihre Kampagne an. Speichern Sie Ihre Änderungen.
 
-In dem Reiter *Kampagne* wählen Sie unter Aktion *Berichte drucken* als Bericht das *Infoschreiben*, das vorher als *Verteiler für Kampagne* markiert würde. Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461940899447.png) werden Sie zu der Maske *Berichte und Textbausteine* weitergeleitet, um falls gewünscht einen anderen Bericht für die *Berichte drucken* Aktion zu wählen.
+In dem Reiter *Kampagne* wählen Sie unter Aktion *Berichte drucken* als Bericht das *Infoschreiben*, das vorher als *Verteiler für Kampagne* markiert würde. Die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461940899447.png) dient dazu um einen anderen Bericht für die Kampagne zu wählen. Dafür wird die Maske *Berichte und Textbausteine* geöffnet. Hier können die Einstellungen für einen anderen Bericht markiert werden (siehe Handbuch *Extras  → Anpassen  →  Berichte und Adressmuster*).
 
 ![](http://xpecto.github.io/docs/img/img_1461676474711.png)
 
