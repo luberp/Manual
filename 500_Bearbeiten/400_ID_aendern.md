@@ -1,5 +1,5 @@
 Über diesen Menüpunkt kann die Vermittler-, Kunden- oder Vertrags-ID geändert werden.  
-Um eine ID zu ändern wählen Sie in der klassischen Menü-Ansicht *Bearbeiten → ID ändern*. 
+Um eine ID zu ändern, wählen Sie in der klassischen Menü-Ansicht *Bearbeiten → ID ändern*. 
 
 Sie werden aufgefordert eine Nummer einzugeben. 
 
