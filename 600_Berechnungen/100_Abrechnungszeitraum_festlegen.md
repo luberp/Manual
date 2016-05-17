@@ -1,6 +1,6 @@
 Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechnung maßgeblich den Zeitraum bezeichnet. 
 
-In der klassischen Menü-Ansicht kann der Dialog zur Eingabe des Abrechnungszeitraums  über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder über Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbolleiste aufgerufen werden. 
+In der klassischen Menü-Ansicht kann der Dialog zur Eingabe des Abrechnungszeitraums  über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder durch ein Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbolleiste aufgerufen werden. 
 
 ![](http://xpecto.github.io/docs/img/img_1461750465009.png)
 
