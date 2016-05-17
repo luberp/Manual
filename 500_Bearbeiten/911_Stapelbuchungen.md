@@ -1,25 +1,24 @@
 xpectoPro enthält eine vollständige und zertifizierte Buchhaltung. Alle Einzahlungen, Forderungen, Dividenden, Gebühren und Auszahlungen werden innerhalb der Buchhaltung für jeden Anleger geführt. Die Buchung erfolgt mit einem vom Anwender vorgegebenen Kontenrahmen, typischerweise SKR03 oder SKR04.
 Da die meisten Buchungen automatisch vom System bei bestimmten Aktionen erzeugt werden, ist die genaue Kenntnis des Kontenrahmens für die tägliche Benutzung meist nicht relevant. 
 
+Die *Stapelbuchung*-Maske ermöglicht die manuelle Eingabe, die Änderung und die Suche von Buchungen. Für die Weitergabe der Buchungen und die Revisionssicherheit der Buchhaltung können Sie Buchungen festschreiben und in protokollierter Weise exportieren.
 
-Die Stapelbuchung-Maske ermöglicht die manuelle Eingabe, die Änderung und die Suche von Buchungen. Für die Weitergabe der Buchungen und die Revisionssicherheit der Buchhaltung können Sie Buchungen festschreiben und in protokollierter Weise exportieren.
+In der klassischen Menü-Ansicht gelangen Sie in die *Stapelbuchung* durch klicken  in Menü *Bearbeiten → Stapelbuchung*.
 
-In der klassischen Menü-Ansicht gelangen Sie in die Stapelbuchung durch klicken  in Menü *Bearbeiten → Stapelbuchung*.
-
-In der modernen Menü-Ansicht finden Sie die Stapelbuchung in der Registerkarte *Buchhaltung* Gruppe *Buchungsdaten.*
+In der modernen Menü-Ansicht finden Sie die *Stapelbuchung* in der Registerkarte *Buchhaltung* Gruppe *Buchungsdaten.*
 
 ![](http://xpecto.github.io/docs/img/img_1461684057429.png) 
 
-Die Stapelbuchung kann jeweils für ein bestimmtes Produkt samt seinen Buchungen, geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der Stapelbuchungs-Maske ein Produkt-Auswahl-Dialog angezeigt. Solange die Maske geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
+Die *Stapelbuchung* kann jeweils für ein bestimmtes Produkt samt seinen Buchungen, geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der *Stapelbuchung*-Maske ein Produkt-Auswahl-Dialog angezeigt. Solange die Maske geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
 
 Die Maske *Stapelbuchung* ist das zentrale Werkzeug zur Verwaltung von Buchungsdaten der Fondsbuchhaltung. Sie ist im wesentlichen in vier Funktionsbereiche untergliedert:
  
- - Stapel-Erfassung
- -  Suchen / Ändern
- -  Buchungen festschreiben
- -  Buchungen exportieren
+ - *Stapel-Erfassung*
+ -  *Suchen / Ändern*
+ -  *Buchungen festschreiben*
+ -  *Buchungen exportieren*
 
-Jeder Funktionsbereich der Stapelbuchung definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Bearbeitungsbereich mit den Feldgruppen: *Buchung bearbeiten, Fremdwährung* und *Verarbeitungsinfos* - zum Anzeigen bzw. Bearbeiten einer Buchung, und eine Buchungsliste. Die jeweiligen von Anwender konfigurierten Filter bestimmen welche Buchungen in der Buchungsliste angezeigt werden. 
+Jeder Funktionsbereich der *Stapelbuchung* definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Bearbeitungsbereich mit den Feldgruppen: *Buchung bearbeiten, Fremdwährung* und *Verarbeitungsinfos* - zum Anzeigen bzw. Bearbeiten einer Buchung, und eine Buchungsliste. Die jeweiligen von Anwender konfigurierten Filter bestimmen welche Buchungen in der Buchungsliste angezeigt werden. 
  
 ![](http://xpecto.github.io/docs/img/img_1461685073709.png)
 
