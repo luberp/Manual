@@ -72,7 +72,7 @@ Unter dem Unterkarteireiter *Legitimationsdaten* können Sie die Dokumente erfas
 
 Der Unterkarteireiter *Kirchensteuer* dient dazu um auf die Kapitalertragsteuer zu erhebende Kirchensteuer einzutragen.  Damit werden die Kapitaleinkünfte besteuert, falls der Kunde Kirchenmitglied ist. Die Kirchensteuersätze die hier angesehen oder gepflegt werden, können über die Kirchensteuerabfrage vom Bundeszentralamt für Steuer abgeholt werden.
 
-Der Unterkarteireiter *Auslands-Steuer* ist relevant, wenn der Kunde Steuer im Ausland zahlt.
+Der Unterkarteireiter *Auslands-Steuer* dient dazu um Daten für Auslandsbeteiligungen aufzunehmen.
 
 Der Unterkarteireiter *Verwendung* zeigt die Referenzierung einer Adresse und zwar ob diese Adresse einen Verweis hat. Z.B. ist in dem Unterkarteireiter *Rollen* eine neue Person verknüpft wird dann bei der verknüpfte Person unter dem Unterkarteireiter *Verwendung* die Verknüpfung angezeigt.
 
