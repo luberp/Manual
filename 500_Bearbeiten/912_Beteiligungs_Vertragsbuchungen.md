@@ -1,4 +1,4 @@
-Die Funktion *Beteiligungs-/Vertragsbuchungen* dient der manuellen Buchungen und Korrekturen, für eine Vertrag oder Beteiligung.
+Die Funktion *Beteiligungs-/Vertragsbuchungen* ermöglicht die manuelle Eingabe Änderung und Suchen von  Buchungen für einen Vertrag oder Beteiligung.
 
 In den klassischen Menü-Ansicht klicken Sie unter Menü *Bearbeiten → Beteiligungs-/Vertragsbuchungen* um eine neue Buchung für einen Vertrag anzulegen.
 
