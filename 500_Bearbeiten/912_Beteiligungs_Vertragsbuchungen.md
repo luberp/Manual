@@ -1,8 +1,8 @@
-Die Funktion *Beteiligungs-/Vertragsbuchungen* ermöglicht die manuelle Eingabe Änderung und Suchen von  Buchungen für einen Vertrag oder Beteiligung.
+Die Funktion *Beteiligungs-/Vertragsbuchungen* ermöglicht die manuelle Eingabe, Änderung und Suchen von  Buchungen für einen Vertrag oder Beteiligung.
 
 In den klassischen Menü-Ansicht klicken Sie unter Menü *Bearbeiten → Beteiligungs-/Vertragsbuchungen* um eine neue Buchung für einen Vertrag anzulegen.
 
-In der modernen Menü-Ansicht wird eine neue Buchung angelegt in der Registerkarte *Buchhaltung* Gruppe *Buchungdaten*.
+In der modernen Menü-Ansicht wird eine neue Buchung angelegt in der Registerkarte *Buchhaltung* Gruppe *Buchungdaten* Funktion *Beteiligungs-Vetragsbuchungen*.
 
 ![](http://xpecto.github.io/docs/img/img_1461686191068.png)
 
@@ -10,14 +10,13 @@ Starten Sie die Funktion *Beteiligungs-/Vertragsbuchungen*. Falls Sie in dem Ver
 
 ![](http://xpecto.github.io/docs/img/img_1439988459598.png)
 
-Genau wie bei Stapelerfassung, haben Sie die Möglichkeit unter dem Reiter *Stapel-Erfassung* eine Ersterfassung von Buchungen. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden alle Buchungen angezeigt, die von dem aktuell angemeldeten Benutzer am selben Tag bereits erfasst wurden.
+Genau wie bei der Stapelerfassung, haben Sie die Möglichkeit unter dem Reiter *Stapel-Erfassung* eine Ersterfassung von Buchungen. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden alle Buchungen angezeigt, die von dem aktuell angemeldeten Benutzer am selben Tag bereits erfasst wurden.
 
 ![](http://xpecto.github.io/docs/img/img_1461686685179.png)
 
+Falls Sie einen anderen Vertrag für die Buchung wünschen, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439992255614.png). 
 
-Falls Sie eine andere Einstellung wünschen, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439992255614.png).
-
-In dem folgenden Dialog können Sie dann einen anderen Vertrag wählen:
+In dem folgenden Dialog können Sie dann einen anderen Vertrag für die Buchung wählen:
 
 ![](http://xpecto.github.io/docs/img/img_1461686722405.png)
 
