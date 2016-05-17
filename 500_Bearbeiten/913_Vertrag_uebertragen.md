@@ -12,7 +12,7 @@ Es wird der  Dialog *Übertragung* angezeigt.
  
 ![](http://xpecto.github.io/docs/img/img_1461689330179.png)
 
-Nachdem die Parameter eingegeben würden klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745086541.png) um den Nachfolger für den Vertrag einzutragen. 
+Nachdem Sie die Parameter für die Übertragung eingegeben haben, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745086541.png) um den Nachfolger für den Vertrag einzutragen. 
 
 Es eröffnet sich der Dialog *Kunden auswählen*. Der Dialog  bietet die Möglichkeit über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745563222.png) die erweiterte Suchfelder anzuzeigen. 
 Falls der Kunde noch nicht in der Datenbank vorhanden ist Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745391144.png) und Sie werden zu dem Dialog *Neue Person anlegen* weitergeleitet.
