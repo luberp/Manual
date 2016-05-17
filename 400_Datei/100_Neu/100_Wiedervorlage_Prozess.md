@@ -51,7 +51,7 @@ Die  weitere Aktionen für den Mahnprozess sind:
 | ![](http://xpecto.github.io/docs/img/img_1434096840070.png)    | beendet die Wiedervolage | 
 |![](http://xpecto.github.io/docs/img/img_1439219672662.png)|spezielle Aktion: Die gewählten Wiedervorlagen werden geschlossen|
 
-Der Dialog *Wiedervorlage Steuerung* dient dazu für einen Prozess mit einem bestimmten Prozessschritt eine gewünschte Aktion gleichzeitig für mehrere Wiedervorlagen zu wählen und durchzuführen.
+Der Dialog *Wiedervorlage Steuerung* dient dazu für einen Prozess mit einem bestimmten Prozessschritt eine gewünschte Aktion  für mehrere Wiedervorlagen gleichzeitig zu wählen und durchzuführen.
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461749256930.png) oder in der klassischen Menü-Ansicht auf *Bearbeiten → Wiedervorlage Steuerung* um den *Wiedervorlage Steuerung* um den Dialog zu öffnen. 
 
