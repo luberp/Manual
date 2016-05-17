@@ -1,6 +1,6 @@
-Die Funktion *Vertrag übertragen* dient der Übertratragsdaten auf andere Kunden. 
+Die Funktion *Vertrag übertragen* dient der Übertragung der Vertragsdaten auf einen anderen Kunden. 
 
-Um eine Übertragung durchzuführen markieren Sie den zu übertragenen Vertrag und wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
+Um einen bestehenden Vertrag zu übertragenen wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
 
 In der modernen Menü-Ansicht wählen Sie den Karteireiter *Berichte und Massenaktionen* Gruppe *Bearbeiten* Funktion *Vertrag übertragen*.
  ![](http://xpecto.github.io/docs/img/img_1461156880109.png) 
