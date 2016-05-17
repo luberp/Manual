@@ -15,12 +15,11 @@ Genau wie bei der Stapelerfassung, haben Sie die Möglichkeit unter dem Reiter *
 ![](http://xpecto.github.io/docs/img/img_1461686685179.png)
 
 Falls Sie einen anderen Vertrag für die Buchung wünschen, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439992255614.png). 
-
 In dem folgenden Dialog können Sie dann einen anderen Vertrag für die Buchung wählen:
 
 ![](http://xpecto.github.io/docs/img/img_1461686722405.png)
 
-Der Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Da der Filter Beteiligung/Vertag für den ausgewählten Vertrag eingestellt würde, können Sie hier, eine neue Buchung für diesen Vertrag anlegen. 
+Der Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Da der Filter *Beteiligung/Vertag* für den ausgewählten Vertrag eingestellt würde, können Sie hier, eine neue Buchung für den ausgewählten Vertrag anlegen.  
 
 ![](http://xpecto.github.io/docs/img/img_1461687440018.png)
 
