@@ -1,10 +1,10 @@
-Über *Erweiterte Suche* können Sie Kundendaten, Vertriebspartner, Adressen, Veranstaltungen.
+Über *Erweiterte Suche* können Sie Kundendaten, Vertriebspartner, Adressen, Veranstaltungen, Produkte suchen.
 
 In der klassischen Menü-Ansicht wird der Suchdialog über *Bearbeiten → Erweiterte Suche* oder über das Symbol  ![](http://xpecto.github.io/docs/img/img_1429027888314.png) in der *Symbolleiste*.
 
 ![](http://xpecto.github.io/docs/img/img_1461682745019.png)
 
-In der modernen Menü-Ansicht wird der Suchdialog in der Registerkarte *Suche*.
+In der modernen Menü-Ansicht kann der Suchdialog über die Registerkarte *Suche* in der Gruppe *Ziele* durch einen Klick auf die einzelne Schaltflächen gestartet werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461682359703.png)
 
