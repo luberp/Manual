@@ -6,7 +6,7 @@ In der modernen Menü-Ansicht kann der Dialog *Wiedervorlage Steuerung* in der R
 
 ![](http://xpecto.github.io/docs/img/img_1461142467369.png)
 
-Welche Einstellungen notwendig sind um einen Prozess zu starten wird und weitere Möglichkeiten zum Bearbeiten der Wiedervorlagen werden unter Handbuch *Datei → Neu → Wiedervorlage Prozess* beschrieben.
+Welche Einstellungen notwendig sind um einen Prozess zu starten und weitere Möglichkeiten zum Bearbeiten der Wiedervorlagen werden unter Handbuch *Datei → Neu → Wiedervorlage Prozess* beschrieben.
 
 
 ![](http://xpecto.github.io/docs/img/img_1461749682825.png)
