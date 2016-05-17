@@ -5,7 +5,7 @@ Die Kundenmaske wird automatisch beim Start von xpectoPro angezeigt.
 In der klassischen Menü-Ansicht können Sie einen neuen Kunde anlegen über 
  *Datei → Neu → Kunde* oder über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461145344584.png) *Kundendaten neu anlegen*.
 
-In der modernen Menü-Ansicht Klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Kundendaten* um neue Daten anzulegen.
+In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Schnellzugriff* auf *Neu* *Kundendaten* um neue Daten anzulegen.
 
 ![](http://xpecto.github.io/docs/img/img_1461138567329.png)
 
