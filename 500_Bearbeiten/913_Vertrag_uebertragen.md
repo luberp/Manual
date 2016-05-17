@@ -1,4 +1,4 @@
-Die Funktion *Vertrag übertragen* dient der Übertragung der Vertragsdaten auf einen anderen Kunden. 
+Die Funktion *Vertrag übertragen* dient der Übertragung der Vertragsdaten auf einen anderen Kunde. 
 
 Um einen bestehenden Vertrag zu übertragenen wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
 
