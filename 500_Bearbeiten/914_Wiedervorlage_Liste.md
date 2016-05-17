@@ -1,4 +1,4 @@
-Die Wiedervorlage Liste befindet sich im Hauptfenster und dient der Übersicht über alle fällige Wiedervorlagen. So können Sie die Liste nach Fälligkeitsdatum abarbeiten.
+Die *Wiedervorlage Liste* befindet sich im Hauptfenster und dient der Übersicht aller fälligen Wiedervorlagen. So können Sie die Liste nach Fälligkeitsdatum abarbeiten.
 Über die Funktion *Wiedervorlage Liste* wird die Anzeige der Wiedervorlage Liste im Hauptfenster ein- oder ausgeschaltet.
 
 ![](http://xpecto.github.io/docs/img/img_1461748772668.png)
