@@ -8,16 +8,18 @@ In der modernen Menü-Ansicht wählen Sie den Karteireiter *Berichte und Massena
  
 Um die Übertragung zu starten muss zuerst ein Vertrag ausgewählt werden, dann klicken Sie auf die Funktio *Vertrag übertragen*.
 
-Es wird der  Dialog *Übertragung* angezeigt.
+Es wird der  Dialog *Übertragung* angezeigt. Der Dialog bietet Ihnen die Möglichkeit eine Übertragung durchzuführen oder einen Vertrag zu beenden. 
  
 ![](http://xpecto.github.io/docs/img/img_1461689330179.png)
 
 Nachdem Sie die Parameter für die Übertragung eingegeben haben, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745086541.png) um den Nachfolger für den Vertrag einzutragen. 
 
-Es eröffnet sich der Dialog *Kunden auswählen*. Der Dialog  bietet die Möglichkeit über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745563222.png) die erweiterte Suchfelder anzuzeigen. 
-Falls der Kunde noch nicht in der Datenbank vorhanden ist Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745391144.png) und Sie werden zu dem Dialog *Neue Person anlegen* weitergeleitet.
+Es eröffnet sich hier der Dialog *Kunden auswählen*. Der Dialog  bietet die Möglichkeit über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461745563222.png) die erweiterte Suchfelder anzuzeigen. 
+
 
 ![](http://xpecto.github.io/docs/img/img_1461745295229.png)
+
+Falls der Kunde noch nicht angelegt wurde, können Sie in dem Dialog durch einen Klick ![](http://xpecto.github.io/docs/img/img_1461745391144.png) auf das Symbol  eine neue Person anzulegen.
 
 Durch einen Doppelklick auf den gesuchten Kunde wird der Dialog Kunden auswählen geschlossen und der Kunde ausgewählt und als Nachfolger eingefügt. 
 
