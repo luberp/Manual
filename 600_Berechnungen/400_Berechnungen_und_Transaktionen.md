@@ -18,7 +18,7 @@ Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und
 
 Diese dienen dazu, um Ihnen die Arbeit zu erleichtern, damit können Sie sehr einfach ![](http://xpecto.github.io/docs/img/img_1461762053607.png)  *Speichern*,  ![](http://xpecto.github.io/docs/img/img_1461762083830.png) Berechnungsprofile neu anlegen,  ![](http://xpecto.github.io/docs/img/img_1461762131361.png)*Transaktionen neu anlegen* und  ![](http://xpecto.github.io/docs/img/img_1461762156205.png) *aktuellen Datensatz löschen*.
 
-Um einen neuen Berechnungsprofil anzulegen  klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461762083830.png). Ein Berechnungsprofil kann mehrere Berechnungsläufe enthalten.
+Um einen neuen Berechnungsprofil anzulegen  klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461762083830.png). Ein Berechnungsprofil kann mehrere Berechnungsläufe enthalten, wie z.B. eine Zinsberechnung für mehrere Produkte.
 
 In dem Reiter *Konfiguration* werden die Allgemeinen Daten eingegeben, wie der Name und das Zeitintervall der Berechnung.
 
