@@ -4,7 +4,7 @@ Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle
 
 In der klassischen Menü-Ansicht kann die Provisionsberechnung gestartet über *Berechnungen → Provisionsberechnung*.
 
-In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerkarte *Vertrieb* Gruppe *Provisionen*.
+In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerkarte *Vertrieb* Gruppe *Provisionen* gestartet.
 
 ![](http://xpecto.github.io/docs/img/img_1461751530160.png)
 
@@ -20,8 +20,8 @@ In der Maske *Berechnungsverlauf starten* können Sie in der Dropdownliste ausw�
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
-Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie auf *Start*.
-Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in die Verträge eingefügt werden sollten. 
+Nachdem Sie die gewünschten Einschränkungen markiert haben, klicken Sie auf *Start*.
+Es öffnet sich ein Dialog wo abgefragt wird, ob die fehlenden Provisionen in die Verträge eingefügt werden sollten. 
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
@@ -29,7 +29,7 @@ Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in di
 
 ![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
-In der Maske *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. 
+In der Maske *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient  dazu, um Provisionsauszahlungen die verbucht werden sollen zu markieren. 
 
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
 
@@ -86,4 +86,3 @@ Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechn
 ![](http://xpecto.github.io/docs/img/img_1461759529178.png)
 
 Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
-
