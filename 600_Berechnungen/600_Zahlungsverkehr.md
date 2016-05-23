@@ -4,7 +4,7 @@ Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträ
 
 In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
 
-In der klassichen Menü-Ansicht kann das  *Zahlungsverkehr*-Dialog  über Menü*Berechnungen → Zahlungsverkehr* geöffnet werden. 
+In der klassichen Menü-Ansicht kann das  *Zahlungsverkehr*-Dialog  über Menü *Berechnungen → Zahlungsverkehr* geöffnet werden. 
 
 In der modernen Menü-Ansicht wird die Funktion *Zahlungsverkehr* unter Registerkarte *Buchhaltung* Gruppe *Buchungsdaten* angezeigt.
 
