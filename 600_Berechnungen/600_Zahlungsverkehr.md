@@ -26,7 +26,7 @@ Die Sollstellung kann auch gelöscht werden durch Betätigung der Schaltfläche 
 ![](http://xpecto.github.io/docs/img/img_1461830868799.png)
 
 In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe Hanbuch *Berechnungen → Offenen Posten*). 
-Aus einer OPOS Buchung wird ein Sollbuchungdatensatz erstellt und m oberen Bereich des Dialoges angezeigt. 
+Aus einer OPOS Buchung wird ein Sollbuchungdatensatz erstellt und im oberen Bereich des Dialoges angezeigt. 
 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png), werden die Sollbuchungen in Zahlungsdateien umgewandelt. 
 Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
