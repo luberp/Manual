@@ -9,9 +9,11 @@ Zu den Provisionsbuchungen gehören: *Abrechnungszeitraum festlegen, Provisionsb
 
 ## Abrechnungszeitraum festlegen
 
-Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechnung maßgeblich den Zeitraum bezeichnet. Der Dialog zur Eingabe des Abrechnungszeitraums kann über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder über Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbol- und Funktionsleiste aufgerufen werden. 
+Mit Abrechnungszeitraum wird der für die aktuelle Provisionsabrechnung maßgeblich den Zeitraum bezeichnet. 
 
-![](http://xpecto.github.io/docs/img/img_1431936837532.png)
+In der klassischen Menü-Ansicht kann der Dialog zur Eingabe des Abrechnungszeitraums über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder durch einen Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbolleiste aufgerufen werden. 
+
+![](http://xpecto.github.io/docs/img/img_1461750465009.png)
 
 In dem Dialog *Zeitraum wählen* gibt verschiedene Möglichkeiten eine Abrechnungszeitraum zu wählen.
 
@@ -27,18 +29,26 @@ In dem Dialog *Zeitraum wählen* gibt verschiedene Möglichkeiten eine Abrechnun
 | Halbjährlich     |2015H1 | 
 | Jährlich    |2015| 
 
-Der neu ausgewählte Zeitraum wird dann in der *Symbol -und Funktionsleiste* angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum es sich gerade handelt.
+![](http://xpecto.github.io/docs/img/img_1461750680530.png)
 
-![](http://xpecto.github.io/docs/img/img_1440598940441.png)
+Der neu ausgewählte Zeitraum wird dann in der *Symbolleiste* angezeigt, somit haben Sie immer eine Übersicht um welchen Zeitraum es sich gerade handelt.
 
 ## Provisionsberechnung
 
 Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. 
-Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe *Berechnungen → Abrechnungszeitraum festlegen*).
+Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe Handbuch *Berechnungen → Abrechnungszeitraum festlegen*). Der Zeitraum kann auch direkt in dem Fenster *Berechnungsveralauf starten* geändert werden.
 Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 
-Um die Provisionsberechnung zu starten klicken Sie im Menü *Bearbeiten* auf *Provisionsberechnung*. 
-In dem Fenster *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen für welche Provisionen die Berechnung durchgeführt wird.
+In der klassischen Menü-Ansicht kann die Provisionsberechnung gestartet über *Berechnungen → Provisionsberechnung*.
+
+In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerkarte *Vertrieb* Gruppe *Provisionen* gestartet.
+
+![](http://xpecto.github.io/docs/img/img_1461751530160.png)
+
+In der Maske *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen für welche Provisionen die Berechnung durchgeführt wird.
+
+![](http://xpecto.github.io/docs/img/img_1461751780442.png)
+
 
 |  Berechnung           |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -46,19 +56,17 @@ In dem Fenster *Berechnungsverlauf starten* können Sie in der Dropdownliste aus
 | 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
 | 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
 
-![](http://xpecto.github.io/docs/img/img_1440767716626.png)
-
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
-Nachdem Sie die gewünschten Einschränkungen ausgewählt haben, klicken Sie auf *Start*.
-Es öffnet sich ein Dialog, wo abgefragt wird, ob die fehlenden Provisionen in die Verträge eingefügt werden sollten. 
+Nachdem Sie die gewünschten Einschränkungen markiert haben, klicken Sie auf *Start*.
+Es öffnet sich ein Dialog wo abgefragt wird, ob die fehlenden Provisionen in die Verträge eingefügt werden sollten. 
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
 Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert, dann werden Sie zu dem *Berechnungslauf anzeigen und verbuchen* weitergeleitet.  Klicken Sie auf  *Nein*, um direkt in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
 
-![](http://xpecto.github.io/docs/img/img_1440748523514.png)
+![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
-Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient zum markieren von Provisionsauszahlungen die verbucht werden sollen. 
+In der Maske *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient  dazu, um Provisionsauszahlungen die verbucht werden sollen zu markieren. 
 
 ![](http://xpecto.github.io/docs/img/img_1440747927011.png)
 
@@ -72,15 +80,21 @@ Sie haben hier die Möglichkeit die berechnete Datensätze zu filtern. Der Filte
 
 Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432632280997.png). 
 
-![](http://xpecto.github.io/docs/img/img_1440748563962.png)
+Durch die Bestätigung mit *Ja* werden die die ausgewählten Provisionen verbucht. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
 
-Mit dieser Funktion verbuchen Sie die ausgewählten Provisionen. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
+![](http://xpecto.github.io/docs/img/img_1461756475178.png)
 
-![](http://xpecto.github.io/docs/img/img_1432632479268.png)
+Danach wird die Erfolgsmeldung *Die Verbuchung wurde erfolgreich durchgeführt* in dem Dialog *Verbuchung der Provisionsberechnung.*
 
-Wenn Sie hier auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.
+![](http://xpecto.github.io/docs/img/img_1461753606041.png)
 
-![](http://xpecto.github.io/docs/img/img_1440748640999.png)
+Wenn Sie in dem Dialog *Verbuchung der Provisionsabrechnung* auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.
+
+![](http://xpecto.github.io/docs/img/img_1461759266502.png)
+
+ Sie können hier jederzeit zwischen dem vorherigen Zeitraum und dem nächsten Zeitraum wechseln. Mit Hilfe der Pfeile können Sie nun einen anderen Zeitraum wählen.
+
+![](http://xpecto.github.io/docs/img/img_1461757224272.png)
 
 Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png) eine neue Buchung, wie z.B. einen Vorschuss, einfügen.
 Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441108231660.png), um die Liste der Abrechnungen zu aktualisieren.
@@ -89,113 +103,154 @@ Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf ![](ht
 
 In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen, den Speicherort festlegen und angeben, ob ein Begleitzettel erstellt werden soll.
 
-![](http://xpecto.github.io/docs/img/img_1440748885165.png)
+![](http://xpecto.github.io/docs/img/img_1461758647572.png)
 
-Wählen Sie hier *SEPA* aus, um eine SEPA-Datei zu erstellen. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und gespeichert. 
+Z.B. kann als Format *CSV* ausgewählt werden. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und angezeigt. 
 
-Nun kehren Sie zur Maske *Belegdruck und Auszahlungen* zurück.
+Nun kehren Sie zur Maske *Belegdruck und Auszahlungen* zurück duch Schliessen der Maske *Zahlungsdatei erstellen*.
+
+![](http://xpecto.github.io/docs/img/img_1461759310739.png)
 
 Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751219341.png) wieder gelöscht werden.
 
-Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
-
 Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751272141.png), so wählen Sie den zugehörigen Bericht (häufig *Provisionsabrechnung*) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. 
+
+![](http://xpecto.github.io/docs/img/img_1461759452003.png)
 
 Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechnung erzeugen ohne Belegnummer. Alternativ können Sie einen *Belegdruck* wählen, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen. 
 
- ![](http://xpecto.github.io/docs/img/img_1440748756680.png)
+![](http://xpecto.github.io/docs/img/img_1461759529178.png)
+
+Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
+
 
 ## verbuchte Provisionen Belege und Auszahlungen
 
-Über *Berechungen → verbuchte Provisionen, Belege und Auszahlungen* gelangen Sie in die Maske *Belegdruck und Auszahlungen*. Hier wird eine Auflistung der verbuchten Provisionen für das ausgewählte Zeitintervall angezeigt.
+Nachdem die Provisionen berechnet würden ist der nächste Schritt Belege drücken und Auszahlungen. 
+Diese Operationen können dann in der Maske *Belegdruck und Auszahlungen* durchgeführt werden.
 
-![](http://xpecto.github.io/docs/img/img_1441107222772.png)
+Über die klassischer Menü-Ansicht *Berechungen → verbuchte Provisionen, Belege und Auszahlungen* gelangen Sie in die Maske *Belegdruck und Auszahlungen*. 
+
+In der moderner Menü-Ansicht wird die Maske über die Registerkarte *Vertrieb* Gruppe *Provisionen* erreicht.
+
+![](http://xpecto.github.io/docs/img/img_1461757274487.png)
+
+Hier wird eine Auflistung der verbuchten Provisionen für das ausgewählte Zeitintervall angezeigt.
+
+![](http://xpecto.github.io/docs/img/img_1461757201408.png)
 
  Sie können hier jederzeit zwischen dem vorherigen Zeitraum und dem nächsten Zeitraum wechseln. Mit Hilfe der Pfeile können Sie nun einen anderen Zeitraum wählen.
 
-![](http://xpecto.github.io/docs/img/img_1441106666858.png).
+![](http://xpecto.github.io/docs/img/img_1461757224272.png)
 
-Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter *Berechnungen → Provisionsabrechnung* beschriebene Maske.
+Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter Handbuch *Berechnungen → Provisionsabrechnung* beschriebene Maske.
+
 
 
 ## Berechnungen und Transaktionen
 
 xpectoPro ermöglicht die Durchführung der verschiedensten Art an Berechnungen wie zum Beispiel Verlustverteilung, Entnahmen/Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung.
 
-Diese Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
-
  Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
  
- Die Berechnung der Buchungen wird über die Maske *xpectoPro Berechnungen und Transaktionen*
-durchgeführt. Die kann erreicht werden unter Menüleiste *Berechnungen → Berechnungen und Transaktionen*.
-Um einen neues *Berechnungsprofil* anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1441197553235.png).
+Die Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
+Die Berechnung der Buchungen wird über die Maske *Berechnungen und Transaktionen*
+durchgeführt. 
 
-In dem Reiter *Konfiguration* werden die Allgemeinen Daten eingegeben, wie der Name und das Zeitintervall.
+In der klassischen Menü-Ansicht kann die Maske über Menüleiste *Berechnungen → Berechnungen und Transaktionen*.
 
-![](http://xpecto.github.io/docs/img/img_1441196703230.png)
+In den modernen Menü-Ansicht wird die Maske über Registerkarte *Buchhaltung* Funktion *Berechnung* erreicht.
+
+![](http://xpecto.github.io/docs/img/img_1461761434171.png)
+
+Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und zwei Ansichten für Berechnungen und Transaktionen. 
+
+![](http://xpecto.github.io/docs/img/img_1461762972822.png)
+
+Diese dienen dazu, um Ihnen die Arbeit zu erleichtern, damit können Sie sehr einfach ![](http://xpecto.github.io/docs/img/img_1461762053607.png)  *Speichern*,  ![](http://xpecto.github.io/docs/img/img_1461762083830.png) Berechnungsprofile neu anlegen,  ![](http://xpecto.github.io/docs/img/img_1461762131361.png)*Transaktionen neu anlegen* und  ![](http://xpecto.github.io/docs/img/img_1461762156205.png) *aktuellen Datensatz löschen*.
+
+Um einen neuen Berechnungsprofil anzulegen  klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461762083830.png). Ein Berechnungsprofil kann mehrere Berechnungsläufe enthalten, wie z.B. eine Zinsberechnung für mehrere Produkte.
+
+In dem Reiter *Konfiguration* werden die Allgemeinen Daten eingegeben, wie der Name und das Zeitintervall der Berechnung.
 
 Wechseln Sie in dem Reiter *Berechnung*. 
 
-![](http://xpecto.github.io/docs/img/img_1441198492709.png)
+![](http://xpecto.github.io/docs/img/img_1461765354697.png)
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441197372050.png), können Sie eine Berechnung aus der vorherigen Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist.
-Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png), kopieren Sie eine markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197418881.png), kann eine markierte Berechnung gelöscht werden.
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441197372050.png) können Sie eine Berechnung aus der vorherigen Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist.
 
-Um eine neue Berechnung anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1441108798517.png). Wählen Sie dann das Produkt für das die Berechnung laufen soll.
+Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png) kopieren Sie eine in der Liste  der Berechnungen markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1461763926549.png), kann eine markierte Berechnung gelöscht werden.
 
-![](http://xpecto.github.io/docs/img/img_1441198576702.png)
+Um eine neue Berechnung anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461763883687.png). Wählen Sie dann das Produkt für das die Berechnung laufen soll.
 
-Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441188262764.png) können Sie in den *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
+![](http://xpecto.github.io/docs/img/img_1461765614179.png)
 
-![](http://xpecto.github.io/docs/img/img_1443793877824.png)
+Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461764018473.png) können Sie in den *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
 
-Die Berechnungen haben dabei eine Art (wie z.B. *Gebührenabrechnung, Gewinnverteilung, Zinsberechnung, Entnnahmeberechnung, Forderungsberechnung, Anteilskauf, Vertragsübertragung*), eine grundsätzliche Berechnungsmethode (wie z.B. *Tägliche Verzinsung*), Einschränkungen, Ergebnisse,  und Druck-Einstellungen. 
-Das Gegenkonto ist ein abgehende Bankkonto und wird belastet für alle Buchungen in der Berechnung.
+![](http://xpecto.github.io/docs/img/img_1461766010739.png)
+
 Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie auf *OK*.
 
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png), um die Werte-Liste zu erstellen. 
-
-![](http://xpecto.github.io/docs/img/img_1441199916775.png)
-
-Diese Werte-Liste für die markierte Berechnung, kann mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1441197139978.png) in der Daten-Spalte, gelöscht werden.
+Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen enthält. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png) um die Werte-Liste zu erstellen. 
 
 Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. 
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) resultiert die Buchungen-Liste.  Die Buchungen werden erstellt über ein Berechnungsskript oder über die Verbuchungsvorschriften zu dieser Wertart aus dem Produkt.                      
-Diese Buchhaltungsdaten werden dann bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe *Bearbeiten → Stapelbuchung*).
+Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) werden die Buchungen der Buchungen-Liste erstellt.  
 
-Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen enthält. 
+![](http://xpecto.github.io/docs/img/img_1461767168231.png)     
+      
+Diese Buchhaltungsdaten werden  bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe Handbuch *Bearbeiten → Stapelbuchung*).
 
-Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske *xpectoPro Berechnungen und Transaktionen* minimieren, oder verkleinern. 
+Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske *Berechnungen und Transaktionen* minimieren, oder verkleinern. 
 Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441205184520.png). 
 
-![](http://xpecto.github.io/docs/img/img_1441199681398.png)
+![](http://xpecto.github.io/docs/img/img_1461767435514.png)
 
 In dem *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungen die erzeugt werden, wenn Sie für diesen Vertrag eine Berechnung durchführen würden.
+Schließen Sie den Dialog um zurück zur Maske *Berechnungen und Transaktionen* zu kehren.
 
-Schließen Sie den Dialog um zurück zu *xpectoPro Berechnungen und Transaktionen* zu kehren.
+![](http://xpecto.github.io/docs/img/img_1461766372556.png)
 
-Von hier aus können Sie abschließenden Schritte durchführen:
-*Zahlungsverkehr* Überweisung/Zahlungsdateien und Belege erstellen 
-*Druck und Ausgabe* Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen.
+Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461766516907.png) kann die Transaktion gelöscht werden.
+In dem Dialog *Transaktion löschen* kann zwischen  gesamte Transaktion oder die Buchungen-Liste gewählt werden.
 
-Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png). Sie werden zum *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe *Berechnungen → Offene Posten*). 
+![](http://xpecto.github.io/docs/img/img_1461768487431.png)
+
+Wenn *Verbuchungen löschen* gewählt wird dann werden die Datensätze in der Buchungen-Liste gelöscht.
+
+Abschließenden Schritte in der Maske Berechnungen und Transaktionen sind:
+
+ - *Zahlungsverkehr* Überweisung/Zahlungsdateien und Belege erstellen
+ - *Druck und Ausgabe* Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen
+
+Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png). Sie werden zum *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe Handbuch *Berechnungen → Offene Posten*). 
 
 Unter *Druck und Ausgabe* kann eingestellt werden, ob jeder einzelne Beteiligte einen Einzelschreiben bekommt oder ob eine Liste gedruckt werden soll.
 
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht der als Bericht für *Berechungen Einzelschreiben* markiert sein muss. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
+![](http://xpecto.github.io/docs/img/img_1461768771193.png)
+
+
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht der als Bericht für *Berechungen Einzelschreiben* markiert sein muss. (siehe Hanbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
 ![](http://xpecto.github.io/docs/img/img_1441360646363.png)
 
 Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen, ohne eine Belegnummer zu vergeben.  Über *Belegdruck* wird das gleiche gemacht, jedoch unter Vergabe einer automatisch und lückenlos vergebener  Belegnummern.
 
-Um eine Übersichtsliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe *Extras → Berichte und Adressmuster → Berichte → Kategorien*).
+Um eine Übersichtsliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
 ![](http://xpecto.github.io/docs/img/img_1441360701050.png)
 
-Nun wechseln Sie zur Ansicht *Transaktionen*. Die Ansicht Transaktionen enthält alle vorhandene Transaktionen.
-Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
+Die Maske *Berechnungen und Transaktionen* enthält neben der Ansicht für Berechnungen einen Ansicht für  Transaktionen.
 
+Nun wechseln Sie zur Ansicht *Transaktionen*. Die Ansicht Transaktionen enthält alle vorhandene Transaktionen. 
+
+![](http://xpecto.github.io/docs/img/img_1461769210183.png)
+
+
+Der Ansicht kann in der modernen Menü-Ansicht über der Karteireiter *Buchhaltung* Gruppe *Werte*.
+![](http://xpecto.github.io/docs/img/img_1461761495681.png)
+
+Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
 
 ![](http://xpecto.github.io/docs/img/img_1441364859005.png)
 
@@ -210,22 +265,24 @@ Markieren Sie eine Transaktion um eine der folgende Aktionen durchzuführen:
 ## Offene Posten
 
 Offene Posten Liste dient als Nebenbuch der Buchführung. In der Nebenbuchhaltung wird eine nicht bezahlte Rechnungsposition auf dem Debitorenkonto bis zum Zeitpunkt der Zahlung (automatisch) als offener Posten geführt. 
-Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
+Mit Hilfe von xpectoPro erhalten Sie eine vollständige Liste aller offener Rechnungen. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet. Innerhalb dieses Dialoges können Sie weitere Funktionalitäten verwenden wie Überweisung, Lastschrift oder Posten verrechen.
 
-Unter diesen Menüpunkt werden Ihnen alle offenen Posten angezeigt. Dabei werden alle zugehörigen Konten berücksichtigt  - es werden sowohl Forderungen als auch Verbindlichkeiten aufgelistet.
+In der klassischen Menü-Ansicht wird der Dialog OPOS Verarbeitung über Menü *Berechnungen → Offenen Posten*  oder *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
 
-Wenn Sie aber vorher eine Beteiligung ![](http://xpecto.github.io/docs/img/img_1441372403820.png) oder einen Vertrag ![](http://xpecto.github.io/docs/img/img_1441373565478.png) markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
+In der modernen Menü-Ansicht wird die Funktion *offene Posten* über die Registerkarte *Buchhaltung* Gruppe *Buchungdaten* erreicht.
 
-Sie erreichen den *xpectoPro OPOS Verarbeitung* Dialog über *Berechnungen → Offene Posten*, oder unter *Berechnungen →Zahlungsverkehr → OPOS berechnen*.
+![](http://xpecto.github.io/docs/img/img_1461769970816.png)
 
-Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden. Rechnung mit einer Gutschrift ausgleichen.
+Wenn Sie aber vorher eine Beteiligung  oder einen Vertrag markiert haben, dann werden nur die zugehörigen offene Posten angezeigt.
 
-Der *OPOS Verarbeitung* Dialog berechnet die Buchungen für einstehende Einzahlungen und Auszahlungen. Diese Buchungen werden auf Basis von einen OPOS-Konto. Der OPOS-Konto muss unter *Produkte → Konten*  als  OPOS-Konto angelegt werden. 
+Da der *OPOS Verarbeitung* Dialog die Buchungen auf Basis von einen OPOS-Konto für einstehende Einzahlungen und Auszahlungen berechnet muss dieses Konto vorher unter *Produkte → Reiter Konten* als OPOS-Konto angelegt werden. 
+
+![](http://xpecto.github.io/docs/img/img_1461769707029.png)
 
 Der *OPOS Verarbeitung* Dialog enthält in dem oberen Bereich die Filterbedingungen, in der Mitte die Liste der 
 Posten für alle Beteiligungen, und unten die Details der Buchungen.
 
-![](http://xpecto.github.io/docs/img/img_1441702035355.png)
+Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden wie Rechnung mit einer Gutschrift ausgleichen.
 
 Überweisungen werden für Kreditoren (Gläubiger) erstellt. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440769189875.png), um eine Überweisung zu betätigen. 
 Eine Lastschrift ist die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen.
@@ -235,21 +292,16 @@ Geben Sie in dem folgenden Dialog das Ausführungsdatum an.
 
 ![](http://xpecto.github.io/docs/img/img_1441702086158.png)
 
-Nachdem Sie den Zahlungszweck und das abgehende Bankkonto eingegeben haben, öffnet sich der *Zahlungsverkehr*-Dialog. 
 
-![](http://xpecto.github.io/docs/img/img_1441702135963.png)
+Nachdem Sie den Zahlungswährung und Zahlungsverkehr eingegeben haben, öffnet sich der *Zahlungsverkehr*-Dialog. 
 
-Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier ein Sollbuchungs-Datensatz erstellt. Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
+![](http://xpecto.github.io/docs/img/img_1461771119658.png)
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
-Durch einen Doppelklick auf Details![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
+Aus einer OPOS Buchung wird eine Sollbuchung erstellt.  Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
-![](http://xpecto.github.io/docs/img/img_1441702289501.png)
+Der Zahlungsverkehr wird unter Handbuch *Berechnungen → Zahlungsverkehr* beschrieben.
 
-Durch einen Doppelklick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png),werden die Sollbuchungen in Zahlungsdateien umgewandelt. Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
-Bei der Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien (in dem unter *Extras → Einstellungen → Bank* Pfad, angegebenen Ordner angelegt): eine CSV-Datei, PDF Datei und die SEPA-Datei (Dateiendung .xml).
- 
-![](http://xpecto.github.io/docs/img/img_1441702499437.png)
+
 
 ## Zahlungsverkehr
 
@@ -259,41 +311,51 @@ Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträ
 
 In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
 
-Über *Berechnungen → Zahlungsverkehr* kann das *Zahlungsverkehr*-Dialog geöffnet werden. Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
+In der klassichen Menü-Ansicht kann das  *Zahlungsverkehr*-Dialog  über Menü *Berechnungen → Zahlungsverkehr* geöffnet werden. 
 
-![](http://xpecto.github.io/docs/img/img_1441985519757.png)
+In der modernen Menü-Ansicht wird die Funktion *Zahlungsverkehr* unter Registerkarte *Buchhaltung* Gruppe *Buchungsdaten* angezeigt.
+
+![](http://xpecto.github.io/docs/img/img_1461827801423.png)
+
+Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
 
 Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441715573070.png).  xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
-Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441720924595.png) wird die Plausibilitätsprüfung der einzelnen Daten gestartet. 
 
-![](http://xpecto.github.io/docs/img/img_1441717900163.png)
+![](http://xpecto.github.io/docs/img/img_1461830939718.png)
 
-Klicken Sie auf *Ja* um die Zahlungsaufträge zusammenzufassen.  
-Damit wird auf dem Konto des Kunden bei der Zusammenfassung nur 1 Buchungsposten (auf dessen Kontoauszug der Bank) angezeigt und in der Buchungstext können z. B. 5 Überweisungen zusammengehängt werden.
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
 
-![](http://xpecto.github.io/docs/img/img_1441716256692.png)
 
-Um die Details der einzelnen Sollstellungen anzeigen zu lassen klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1441717792618.png). Hier sehen Sie aus welchen Zahlungsaufträgen die Sollstellung enthält und welche Daten fehlerhaft sind. Die Fehlerhaften Einträge werden automatisch markiert und der Haken entfernt.
+Durch einen Doppelklick auf Details ![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441718401250.png) werden die Zahlungsverkehrsdateien in PDF- und CSV-Format erzeugt. 
+Die Sollstellung kann auch gelöscht werden durch Betätigung der Schaltfläche *Sollstellung löschen*.
 
-![](http://xpecto.github.io/docs/img/img_1440769740999.png)
+![](http://xpecto.github.io/docs/img/img_1461830868799.png)
 
-Noch dazu werden die verschiedene Ausgabeformate: PDF, CSV und XML in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordnersymbol, können Sie ihn öffnen. Die Dateien können dann über die entsprechenden Banksysteme eingereicht werden.
-Bei den einzelnen Verträgen würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieses Einzugs steht auf belastet da er zu Bank weitergegeben wurde. Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszugs-Manager. Das System erkannt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang ist somit abgeschlossen.
+In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe Hanbuch *Berechnungen → Offenen Posten*). 
+Aus einer OPOS Buchung wird ein Sollbuchungdatensatz erstellt und im oberen Bereich des Dialoges angezeigt. 
 
-In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe *Berechnungen → Offenen Posten*). 
-Aus einer OPOS Buchung wird eine Sollbuchung erstellt. Es wird hier ein Sollbuchungsdatensatz erstellt. Im oberen Bereich sind die erstellten Sollbuchungen zu sehen. 
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png), werden die Sollbuchungen in Zahlungsdateien umgewandelt. 
+Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
+
+![](http://xpecto.github.io/docs/img/img_1461831006328.png)
+
+Bei der Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien (in dem unter Menü *Extras → Einstellungen → Bank* Pfad, angegebenen Ordner angelegt): eine CSV-Datei, PDF Datei und die SEPA-Datei (Dateiendung .xml).
+Die Dateien werden in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordnersymbol, können Sie ihn öffnen. Die Dateien können dann über die entsprechenden Banksysteme eingereicht werden.
+Bei den einzelnen Verträgen würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieses Einzugs steht auf belastet da er zu Bank weitergegeben wurde. 
+Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszugs-Manager. Das System erkennt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang ist somit abgeschlossen.
+
 
 ## Probeberechnung
 
-Über das Menü *Berechnungen → Probeberechnungen* sind verschiedene Testberechnungen zu den vorgenannten Berechnungsmodulen aufrufbar. 
-Diese dienen der Fehlersuche eventuell auch durch die Endandwender um den Fehler selbsständig zu finden die nur an falsch eingestellten Werten liegen.
+In der klassischen Menü-Ansicht über das Menü *Berechnungen → Probeberechnungen* sind verschiedene Testberechnungen zu den  Berechnungsmodulen aufrufbar. 
+
+In der modernen Menü-Ansicht ist die Funktion *Provisionsberechnung* unter Registerkarte *Vertrieb* Gruppe *Provisionen* zu sehen.
+
+![](http://xpecto.github.io/docs/img/img_1461832876332.png)
+
 Bei den Testberechnungen werden dieselben Berechnungen durchgeführt, wie bei den realen Berechnungsläufen, jedoch werden nur die Log-Ausgaben der Berechnungsskripte angezeigt, aber keine Datensätze in der Datenbank erzeugt. Der Aufruf einer beliebigen Testberechnung durch den Anwender ist daher unschädlich.
-
-
-
-
+Diese dienen der Fehlersuche auch durch die Endanwender um den Fehler selbständig zu finden die nur an falsch eingestellten Werten liegen.
 
 
 ### Provisionstest

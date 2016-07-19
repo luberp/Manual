@@ -1,42 +1,40 @@
 Das xpectoPro Hauptfenster erreichen Sie nach dem erfolgreichem Starten der Software. 
 Hier haben Sie die Möglichkeit zwischen 2 Menü-Ansichten zu wechseln klassisch oder modern. Durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1460976709067.png) können Sie das Hauptfenster mit der klassischen oder modernen Funktionsleiste sehen.
 
-Das xpectoPro Hauptfenster enthält: Funktionsleiste klassisch/modern, Suche, Navigation, Wiedervorlage Liste, Eingabemaske und Statusleiste.
+Das xpectoPro Hauptfenster enthält folgende Menüleisten: Funktionsleiste klassisch/modern, Suche, Navigation, Wiedervorlage Liste, Eingabemaske und Statusleiste.
+
+![](http://xpecto.github.io/docs/img/img_1462283281018.png)
 
 Die klassische Funktionsleiste besteht aus: Menüleiste, Symbolleiste.
-
-![](http://xpecto.github.io/docs/img/img_1460975232635.png)
 
 Die moderne Funktionsleiste besteht aus: Registerkarten und  Gruppen (diese ersetzen die Menü- und Symbolleiste in der klassischen Ansicht). 
 
 Jede Registerkarte beinhaltet mehrere Gruppen, der jeweiligen Namen der Gruppe wird unten angegeben.
 Jede Gruppe beinhaltet mehrere Funktionen.  
 
-![](http://xpecto.github.io/docs/img/img_1460976271855.png)
+![](http://xpecto.github.io/docs/img/img_1462282387938.png)
 
 ## Menueleiste
 
-Durch klicken auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1460976709067.png) können Sie das Hauptfenster mit der klassischen oder modernen Funktionsleiste sehen.
+Durch Anklicken der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1460976709067.png) können Sie das Hauptfenster mit der klassischen oder modernen Funktionsleiste sehen.
 
 In der klassischen Ansicht besteht die Menüleiste aus folgenden Registerkarten: Datei, Bearbeiten, Berechnungen, Import/Export, Extras, Zusatzfunktionen, Hilfe. 
 
 ![](http://xpecto.github.io/docs/img/img_1430830864370.png)
 
+
 Die Menüeinträge werden durch einen einfachen Klick ausgewählt. Die Menüeinträge enthalten gegebenenfalls auch Untereinträge. Der Pfeil ![](http://xpecto.github.io/docs/img/img_1430311875340.png) hinter einem Menüpunkt weist darauf hin, dass Untermenüs existieren.
 
-
-Die moderne Funktionsleiste besteht aus: Registerkarten und Gruppen (diese ersetzen die Menü- und Symbolleiste in der klassischen Ansicht).
-
-
-Jede Registerkarte beinhaltet mehrere Gruppen, der jeweiligen Namen der Gruppe wird unten angegeben. Jede Gruppe beinhaltet mehrere Funktionen.
+Die moderne Funktionsleiste besteht aus: Registerkarten und Gruppen (diese ersetzen die Menü- und Symbolleiste in der klassischen Ansicht). Jede Registerkarte beinhaltet mehrere Gruppen, der jeweilige Name der Gruppe wird unten angegeben. Jede Gruppe beinhaltet mehrere Funktionen.
 
 ![](http://xpecto.github.io/docs/img/img_1461139243532.png)
 
-Wenn Sie auf eine Registerkarte klicken, werden die entsprechende Gruppen und Funktionen angezeigt.
+
+Wenn Sie auf eine Registerkarte klicken, werden die entsprechenden Gruppen und Funktionen angezeigt.
 
 Die Registerkarten in der modernen Ansicht sind: Schnellzugriff, Stammdaten, Vertrieb, Buchhaltung, Berichte und Massenaktionen, Datenbearbeitung, Suche, System, Hilfe, Individual.
 
-Der Schnellzugriff enthält die Gruppen Allgemein und Schnelldruck. Der Vorteil der Registerkarte Schnellzugriff ist, dass sie immer im Vordergrund vorhanden ist, im Gegensatz zu den Gruppen der anderen Registerkarten.
+Der Schnellzugriff enthält die Gruppen Allgemein und Schnelldruck. Der Vorteil der Registerkarte Schnellzugriff ist, dass sie immer im Vordergrund vorhanden ist im Gegensatz zu den Gruppen der anderen Registerkarten.
 
 Im Verlauf dieses Handbuchs werden Ihnen alle Menüpunkte erklärt.
 
@@ -44,7 +42,7 @@ Im Verlauf dieses Handbuchs werden Ihnen alle Menüpunkte erklärt.
 
 ## Symbolleiste
 
-Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
+Die Symbolleiste in der klassischen Ansicht besteht aus folgenden Elementen:
 
 |  Symbole und Funktionen          |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -57,7 +55,7 @@ Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
 | ![](http://xpecto.github.io/docs/img/img_1429027405943.png)      | Speichern | 
 | ![](http://xpecto.github.io/docs/img/img_1429027446779.png)      | Schnellerfassung: neuen Umsatz eingeben (Kunde + Vertrag) | 
 | ![](http://xpecto.github.io/docs/img/img_1429027549896.png)      | geht zum zuletzt ausgewählten Datensatz zurück | 
-| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen. |
+| ![](http://xpecto.github.io/docs/img/img_1429027617646.png)      | Bericht erzeugen |
 | ![](http://xpecto.github.io/docs/img/img_1429027648565.png)      | Bericht bearbeiten. Dialog: *xpectoPro Berichte und Textbausteine*| 
 | ![](http://xpecto.github.io/docs/img/img_1429027696041.png)      | zu den Firmen-Daten | 
 | ![](http://xpecto.github.io/docs/img/img_1429027763628.png)      | zu den Produkt-Daten | 
@@ -75,8 +73,8 @@ Die Symbolleiste in der klassischen Ansicht besteht aus folgende Elemente:
 
 ## Suche
 
-Das Suchfeld befindet sich in beiden Ansichten oben links unter der Symbolleiste und dient der schnelle Suche.
-Sie können die Suche nach Kunden, Verträge, Vertriebspartner direkt in das Suchfeld starten.
+Das Suchfeld befindet sich in beiden Ansichten oben links unter der Symbolleiste und dient der schnellen Suche.
+Sie können die Suche nach Kunden, Verträge, Vertriebspartner, Personen, Veranstaltungen direkt in das Suchfeld starten.
 
 ![](http://xpecto.github.io/docs/img/img_1461051792056.png)
 
@@ -91,10 +89,10 @@ Die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1461050283667.png) d
 ## Navigation
 
 Auf der linke Seite befindet sich die Navigation.
-Die Navigation beinhaltet folgende Bäume: Kunden, Vermittler, Personen, Veranstaltungen, Produkte.
-Jedes Element im Baum erhält seine eigene Ansicht und die entsprechende Eingabemaske, auf der rechte Seite.
+Die Navigation beinhaltet folgende Liste: Kunden, Vermittler, Personen, Veranstaltungen, Produkte.
+Jedes Element der Liste erhält seine eigene Ansicht und die entsprechende Eingabemaske, auf der rechte Seite.
 
-Der Baum *Kunden* beinhaltet alle Kunden die im System hinterlegt sind. 
+Die Liste *Kunden* beinhaltet alle Kunden die im System hinterlegt sind. 
 Wählen Sie einen Kunde ![](http://xpecto.github.io/docs/img/img_1461052236655.png) um die entsprechende Informationen in der Eingabemaske angezeigt zu bekommen.
 
 Das Symbol ![](http://xpecto.github.io/docs/img/img_1443183010492.png) signalisiert, dass Untereinträge vorhanden sind. Diese Untereinträge sind Beteiligungen die weitere Untereinträge in Form von Verträge enthalten. 
@@ -102,26 +100,26 @@ Durch eine Beteiligung erwirbt der Anleger einen oder mehrere Anteile an einen o
 
 ![](http://xpecto.github.io/docs/img/img_1461052326794.png)
 
-Der Baum *Vermittler* beinhaltet alle Vermittler die im System hinterlegt sind. Vermittler haben die wesentliche Aufgabe Produkte zu verkaufen und haben deswegen Ansprüche auf die festgelegten Provisionen.
+Die Liste *Vermittler* beinhaltet alle Vermittler die im System hinterlegt sind. Vermittler haben die wesentliche Aufgabe Produkte zu verkaufen und haben deswegen Ansprüche auf die festgelegten Provisionen.
 
-Der Baum *Personen* beinhaltet alle Personen, Vermittler und Kunden die im System hinterlegt sind. 
+Die Liste *Personen* beinhaltet alle Personen, Vermittler und Kunden die im System hinterlegt sind. 
 
-Unter dem Baum *Veranstaltungen* finden Sie alle Veranstaltungen die im System hinterlegt sind. 
+Unter der Liste *Veranstaltungen* finden Sie alle Veranstaltungen die im System hinterlegt sind. 
 
-Der Baum *Produkte* beinhaltet alle Produkte die im System hinterlegt sind.
+Die Liste *Produkte* beinhaltet alle Produkte die im System hinterlegt sind.
 
 ## Wiedervorlage Liste
 
-Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung und befindet sich in der Hauptfenster unten links. Mit Hilfe von Wiedervorlagen können sich einzelne Benutzer oder Arbeitsgruppen bestimmte Aufgaben merken und strukturiert abarbeiten.
+Wiedervorlagen sind ein wichtiges Element für die effiziente Verwaltung. Die Wiedervorlagenliste befindet sich in dem Hauptfenster unten links unterhalb der Navigation. Mit Hilfe von Wiedervorlagen können sich einzelne Benutzer oder Arbeitsgruppen bestimmte Aufgaben merken und strukturiert abarbeiten.
 
-Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu dieser Aufgabe anbieten. In der einfachsten Form können Sie nur die Angelegenheit als „erledigt" markieren. 
+Eine Wiedervorlage kann zu einem bestimmten Termin in der Oberfläche erscheinen und verschiedene Optionen zu dieser Aufgabe anbieten. In der einfachsten Form können Sie die Angelegenheit als „erledigt" markieren. 
 
-Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. Ein neuer Mitarbeiter kann so leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
+Die großen Vorteile der Verwaltung der Aufgaben innerhalb der Software ist die Unabhängigkeit von bestimmten Mitarbeitern. So kann beispielsweise ein neuer Mitarbeiter leicht die Aufgaben eines anderen Kollegen übernehmen. Die Ausweitung von Aufgaben auf mehrere Mitarbeiter ist ebenfalls kein Problem.
 
 ![](http://xpecto.github.io/docs/img/img_1461052865812.png)
 
-Was Sie in der Wiedervorlage Liste sehen wollen, kann durch die Optionen die den Filter anbietet, gesteuert werden. 
-Noch dazu können Sie die Wiedervorlage-Historie anzeigen ![](http://xpecto.github.io/docs/img/img_1430827803341.png), hier wird der Prozessverlauf für die markierte Wiedervorlage angezeigt. Das Symbol ![](http://xpecto.github.io/docs/img/img_1461052911310.png) lädt die Daten neu, nachdem Änderungen vorgenommen wurden.
+
+Welche Wiedervorlagen Sie in der Liste sehen wollen, können Sie durch die Optionen im Filter festlegen. Zudem können Sie sich die Wiedervorlage-Historie anzeigen lassen ![](http://xpecto.github.io/docs/img/img_1430827803341.png). Hier wird der Prozessverlauf für die markierte Wiedervorlage angezeigt. Das Symbol ![](http://xpecto.github.io/docs/img/img_1461052911310.png) lädt die Daten neu, nachdem Änderungen vorgenommen wurden.
 
 |  Symbol          |    Beschreibung     |  
 | ------------- |:-------------| 
@@ -130,7 +128,7 @@ Noch dazu können Sie die Wiedervorlage-Historie anzeigen ![](http://xpecto.gith
 
 ## Eingabemaske
 
-Nachfolgend wird die Eingabemaske mit ihren Bestandteilen vorgestellt. Die Eingabemaske befindet sich in der Mitte der Benutzeroberfläche. Jedes Navigations-Element im Baum enthält die entsprechende Eingabemaske auf der rechte Seite. Die Eingabemaske für das erste Element im Baum, erreichen Sie nach dem erfolgreichen Starten von xpectoPro. 
+Nachfolgend wird die Eingabemaske mit ihren Bestandteilen vorgestellt. Die Eingabemaske befindet sich in der Mitte der Benutzeroberfläche. Jedes Navigationselement im Baum enthält die entsprechende Eingabemaske auf der rechte Seite. Die Eingabemaske für das erste Element im Baum, erreichen Sie nach dem erfolgreichen Starten von xpectoPro. 
 
 Die Eingabemaske besteht in der Regel aus mehreren Reitern, die der Übersicht dienen. Jeder Reiter wird in mehrere Feldgruppen unterteilt. Diese Feldgruppen enthalten mehrere Eingabefelder, die mit Daten befüllt werden.
 Manche Feldgruppen stellen nur eine Übersicht der Stammdaten dar. Diese Felder sind ausgegraut und können nicht befüllt werden, wie z.B. bei Kunden oder Vermittler unter dem Reiter *Allgemein* Feldgruppe *Meldedaten*.
@@ -156,27 +154,28 @@ Da im täglichen Arbeitsalltag immer wieder Datumsfelder ausgefüllt werden müs
 
 ## Statusleiste
 
-Die Statusleiste ist die unterste Zeile im xpectoPro Oberfläche. Sie erfüllt drei Funktionen:
+Die Statusleiste ist die unterste Zeile in der xpectoPro Oberfläche. Sie erfüllt drei Funktionen:
 
  - Links: Statusfelder
  - Rechts: Bekanntgabe von Systemmeldungen (Fehlermeldungen)
  - Tracer 
 
-Der Tracer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer kann durch einen Doppelklick auf die Statusleiste gestartet werden. 
+Der Tracer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer wird durch einen Doppelklick auf der Statusleiste gestartet. 
 
 ![](http://xpecto.github.io/docs/img/img_1430151481175.png)
 
 |  Symbol          |    Bedeutung     |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1430151865416.png)  (Liste löschen)    | Liste der zuletzt verwendete Abfragen wird gelöscht | 
-| ![](http://xpecto.github.io/docs/img/img_1430152139096.png) | zuletzt verwendete Abfragen |
-|   ![](http://xpecto.github.io/docs/img/img_1430151530617.png)  (neuer Queryanalyser)  |Durch einen Klick auf dieses Symbol können Sie selbst SQL Abfragen erstellen| 
+| ![](http://xpecto.github.io/docs/img/img_1430151865416.png)  (Liste löschen)    | Liste der zuletzt verwendeten Abfragen wird gelöscht | 
+| ![](http://xpecto.github.io/docs/img/img_1430152139096.png) | Zuletzt verwendete Abfragen |
+|   ![](http://xpecto.github.io/docs/img/img_1430151530617.png)  (neuer Queryanalyzer)  |Durch Anklicken dieses Symbols können Sie selbst SQL-Abfragen erstellen| 
 |   ![](http://xpecto.github.io/docs/img/img_1430151617532.png)  (neues Tracewindow)  |Zeigt die Systemmeldungen| 
 |   ![](http://xpecto.github.io/docs/img/img_1430151808182.png) (Console)  | Visual Basic Code testen/ausführen | 
-| ![](http://xpecto.github.io/docs/img/img_1430151736894.png)  (Queryanalyser schließen)   | Durch einen Klick auf dieses Symbol können Sie den aktive Queryanalyser schließen.| 
+| ![](http://xpecto.github.io/docs/img/img_1430151736894.png)  (Queryanalyzer schließen)   | Durch Anklicken dieses Symbols können Sie den aktiven Queryanalyzer schließen.| 
 
 Um den Tracer zu Beenden klicken Sie auf *Schließen* ![](http://xpecto.github.io/docs/img/img_1438073429514.png).
 
-![](http://xpecto.github.io/docs/img/img_1431936241832.png) Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiger Werkzeug und erfordert Vorkenntnisse in SQL und Visual Basic. Die Aktionsabfragen wie z.B. Löschabfragen führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.
+
+![](http://xpecto.github.io/docs/img/img_1431936241832.png) Hier wurde davon ausgegangen, dass Sie die Berechtigung haben den Tracer zu starten. Der Tracer ist ein mächtiges Werkzeug und erfordert Kenntnisse in SQL und Visual Basic. Die Aktionsabfragen, wie zum Beispiel Löschabfragen, führen Änderungen an den Daten der zugrundeliegenden Tabellen durch, die Sie nicht mehr rückgängig machen können.
  
 
