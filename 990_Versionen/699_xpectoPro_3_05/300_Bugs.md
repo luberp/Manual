@@ -1,5 +1,3 @@
-## Bugs
-
 * Bug [#27726] Archivaufkleber drucken: zusätzliches Ereignis wurde erzeugt
 
 * Bug [#30654] Stapelbuchungsdialog - Softwareabsturz bei Eingabe des Exportdatums
