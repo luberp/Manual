@@ -7,8 +7,8 @@
 * Feature [#26584] Nachschlagslisten: Die Standardeinträge können jetzt per Knopf in der Maske nachgeladen werden
 
 * Feature [#27896] Tranchen: Möglichkeit der Erfassung von Tranchen zu einem Produkt (inkl. Platzierungs-Art und -Zeitraum sowie Gesamtvolumen).
-Das aktive Volumen wird automatisch berechnet und angezeigt.
-Bei der Vertragserfassung kann die zugehörige Tranche gewählt werden.
+  * Das aktive Volumen wird automatisch berechnet und angezeigt.
+  * Bei der Vertragserfassung kann die zugehörige Tranche gewählt werden.
 
 * Feature [#29124] Veranstaltungen: schriftliches Umlaufverfahren PDF auslesen
 Die Funktion zum Erkennen des Abstimmungsergebnisses wurde deutlich überarbeitet. Erkennungsrate,
