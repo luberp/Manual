@@ -61,7 +61,8 @@
 * Bug [#36399] Produkte_Wertarten: Währung und Bezeichnung Pflichtfelder
 
 * Bug [#36555] Wiedervorlage Seitenleiste: Anzeige wird automatisch beim Datensatzwechsel neu geladen, auch wenn eine Wiedervorlage geöffnet wurde
-Der Parameter WiedervorlageEditAutoClose kann zur Steuerung benutzt werden. Das alte Verhalten wäre WiedervorlageEditAutoClose=False
+
+   Der Parameter WiedervorlageEditAutoClose kann zur Steuerung benutzt werden. Das alte Verhalten wäre WiedervorlageEditAutoClose=False
 
 * Bug [#36713] Berichte: Briefpapier: Teilweise schlechte Qualität bei PDF-Vorlagen
 
@@ -108,7 +109,8 @@ Der Parameter WiedervorlageEditAutoClose kann zur Steuerung benutzt werden. Das 
 * Bug [#37555] Schnellerfassung: Probleme mit produktspezifischen Oberflächen 
 
 * Bug [#37585] Schnellkontakt: Nachträglich hinzugefügt E-Mail Adresse wird automatisch verworfen
-Schnellkontakt lässt nun per Hand erfasste E-Mail-Adressen im To zu.
+
+  Schnellkontakt lässt nun per Hand erfasste E-Mail-Adressen im To zu.
 
 * Bug [#37597] Rechtschreibung: Strasse -> Straße in einigen Feldern
 
@@ -119,8 +121,9 @@ Schnellkontakt lässt nun per Hand erfasste E-Mail-Adressen im To zu.
 * Bug [#37655] Adresse_Rollen: Anzeige verschönert
 
 * Bug [#37661] Sollbuchungen: manuelles Bearbeiten löscht Transaktionsnummer
-Speichern einer Sollbuchung mit Transaktionsnummer hat diese entfernt. Das Verhalten wurde korrigiert.
-Die Transaktionsnummer wird nun nicht mehr entfernt.
+
+  Speichern einer Sollbuchung mit Transaktionsnummer hat diese entfernt. Das Verhalten wurde korrigiert.
+   Die Transaktionsnummer wird nun nicht mehr entfernt.
 
 * Bug [#37681] Suchdialog: Suche nach Key/ID möglich
 
@@ -149,7 +152,8 @@ Die Transaktionsnummer wird nun nicht mehr entfernt.
 * Bug [#37969] Zahlungsverkehr: Monaco ist ein SEPA-Land
 
 * Bug [#37995] Produkte_Wertarten: ID darf nicht leer sein
-Validierung für ID eingebaut (not empty)
+
+   Validierung für ID eingebaut (not empty)
 
 * Bug [#37996] Berechnungen: beschleunigte Berechnung hat Probleme mit nicht gefüllten Datumsfeldern in Werten
 
