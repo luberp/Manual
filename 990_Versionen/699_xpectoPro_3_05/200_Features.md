@@ -20,7 +20,7 @@
 	DDL wird komplett abgefragt statt wie bisher je Feld
 
 * Feature [#33732] PDF Verarbeitung: MassenPDFs können mit den internen Werkzeugen beliebig geteilt werden
-	Die trainierbare Texterkennung ermöglicht die einache Trennung von Massen-PDFs (speziell bei Datenübernahmen) auf Einzelschreiben.
+   Die trainierbare Texterkennung ermöglicht die einache Trennung von Massen-PDFs (speziell bei Datenübernahmen) auf Einzelschreiben.
 
 * Feature [#34115] Kombidokument: den alten Begriff "Metabericht" in allen Dialogen und Anzeigen ersetzt
 
