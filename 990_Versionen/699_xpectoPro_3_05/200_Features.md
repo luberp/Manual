@@ -7,20 +7,20 @@
 * Feature [#26584] Nachschlagslisten: Die Standardeinträge können jetzt per Knopf in der Maske nachgeladen werden
 
 * Feature [#27896] Tranchen: Möglichkeit der Erfassung von Tranchen zu einem Produkt (inkl. Platzierungs-Art und -Zeitraum sowie Gesamtvolumen).
-  * Das aktive Volumen wird automatisch berechnet und angezeigt.
-  * Bei der Vertragserfassung kann die zugehörige Tranche gewählt werden.
+	* Das aktive Volumen wird automatisch berechnet und angezeigt.
+	* Bei der Vertragserfassung kann die zugehörige Tranche gewählt werden.
 
 * Feature [#29124] Veranstaltungen: schriftliches Umlaufverfahren PDF auslesen
-Die Funktion zum Erkennen des Abstimmungsergebnisses wurde deutlich überarbeitet. Erkennungsrate,
-Geschwindigkeit und Benutzerfreundlichkeit wurden verbessert.
+	Die Funktion zum Erkennen des Abstimmungsergebnisses wurde deutlich überarbeitet. Erkennungsrate,
+	Geschwindigkeit und Benutzerfreundlichkeit wurden verbessert.
 
 * Feature [#31538] Nachschlagslisten: Beschreibungen dürfen jetzt auch Zeilenumbrüche haben. Diese bitte mit "\n" angeben.
 
 * Feature [#32143] Softwarestart: TestDB: Feldprüfungen beschleunigt
-DDL wird komplett abgefragt statt wie bisher je Feld
+	DDL wird komplett abgefragt statt wie bisher je Feld
 
 * Feature [#33732] PDF Verarbeitung: MassenPDFs können mit den internen Werkzeugen beliebig geteilt werden
-Die trainierbare Texterkennung ermöglicht die einache Trennung von Massen-PDFs (speziell bei Datenübernahmen) auf Einzelschreiben.
+	Die trainierbare Texterkennung ermöglicht die einache Trennung von Massen-PDFs (speziell bei Datenübernahmen) auf Einzelschreiben.
 
 * Feature [#34115] Kombidokument: den alten Begriff "Metabericht" in allen Dialogen und Anzeigen ersetzt
 
