@@ -1,5 +1,3 @@
-## Highlights
-
 In diese Version sind 911 Änderungspakete eingeflossen, die sich aus insgesamt 373 Anforderungen unserer Kunden ergeben.
 Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf vier Punkte hinweisen:
 
