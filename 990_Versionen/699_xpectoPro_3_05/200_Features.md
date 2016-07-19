@@ -1,5 +1,3 @@
-## Features
-
 * Feature [#22810] Adressen: Staatsangehörigkeit als eigenes Feld in der Ländertabelle z.B. "deutsch"
 
 * Feature [#25716] Fieldmap: Proxy-Felder können jetzt auch korrekte Owner benutzen
