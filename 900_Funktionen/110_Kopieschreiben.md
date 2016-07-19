@@ -20,8 +20,8 @@ Somit kann durch einen generischen Text einfach drauf verwiesen werden, dass im 
 
 
 * Einmalige Konfiguration des Kopieschreiben/Vorbriefschreibens:
-** Über den Einstellungen Dialog der Software kann die Einstellung "CCWatermarkSettings" angepasst werden über die gesteuert wird welcher Text (Standardmäßig "KOPIE") und mit welchen Eigenschaften (Schrifart, Schriftgröße, Drehung, etc.) auf dem eigentlichen Hauptschreiben an den Kunden aufgedruckt werden soll.
-** Außerdem ist die Anlage eines Berichts mit dem festen Namen "Kopie-Anschreiben" notwendig.
+..* Über den Einstellungen Dialog der Software kann die Einstellung "CCWatermarkSettings" angepasst werden über die gesteuert wird welcher Text (Standardmäßig "KOPIE") und mit welchen Eigenschaften (Schrifart, Schriftgröße, Drehung, etc.) auf dem eigentlichen Hauptschreiben an den Kunden aufgedruckt werden soll.
+..* Außerdem ist die Anlage eines Berichts mit dem festen Namen "Kopie-Anschreiben" notwendig.
 Dieser Bericht kann selbst angelegt werden oder aber aus den xpecto Vorlagen heruntergeladen werden. Dabei ist es sogar möglich, dass der Bericht "Kopie-Anschreiben" ein Bericht vom Typ "Kombidokument" ist, welcher dann z. B. für die verschiedenen Produkte einen anderen Vorbrief (z. B. mit anderem Text oder Briefpapier) liefert/druckt.
 In diesem Fall muss die Abfrage der Einzelnen (Unter-)Berichte des Kombidokuments "Kopie-Anschreiben" entsprechend intelligent sein um das korrekte Schreiben zu liefern.
 
