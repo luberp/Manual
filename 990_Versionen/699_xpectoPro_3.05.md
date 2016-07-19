@@ -1,5 +1,20 @@
 # xpectoPro 3.05. - 18.07.2016
 
+## Highlights
+
+In die Version sind 911 Änderungspakete eingeflossen die sich aus insgesamt 373 Anforderungen unserer Kunden ergeben.
+Als Schwerpunkte möchten wir dennoch nur drei Punkte nennen:
+
+* Vorbriefe/Kopieschrieben
+In Kombination mit den individuelle Adressverwendungen und deren Kopieschreiben ist es nötig Vorbriefe vor einzelne Schreiben zu setzen. Diese Funktion wurde nun tief in xpectoPro integriert und ist an vielen Stellen nutzbar. Der Wunschversand (z.B. Post/Mail/Web) kann damit ebenso kombiniert werden wie umfangreiche Kombidokumente.
+
+* Berechnungen
+In den letzten Jahren haben wir die Berechnungen zu einer sehr umfangreichen Funktion ausgebaut. Durch die vor 2 Jahren neu geschaffene Beteiligungsebene und die Nutzung durch viele Kunden, wollten wir Berechnungsläufe auch direkt auf dieser Ebene ermöglichen. Zusätzlich können Berechnungen nur auch direkt auf Werten ablaufen.
+
+* Veranstaltungen
+Das Modul für die Durchführung von Gesellschafterversammlungen und anderen Veranstaltungen wurde deutlich erweitert. Die Vertretungsregelungen wurden nochmals erweitert und die Verarbeitung von Rückläufern ist deutlich schneller, besser zu bedienen und erkennt die Kreuze sehr zuverlässig.
+
+
 ## Features
 
 * Feature [#22810] Adressen: Staatsangehörigkeit als eigenes Feld in der Ländertabelle z.B. "deutsch"
@@ -160,7 +175,6 @@ Die Anzeige der Werte verzichtet auf Angaben zu Sollbuchungen und offenen Posten
 * Feature [#36582] Performance: Geschwindigkeitsverbesserung durch automatische Datenbank-Indizes auf weiteren Feldkombinationen
 
 * Feature [#36616] Berichte: Automatischer Druck von Vorbriefen
-MAINFEATURE
 
 * Feature [#36636] Beteiligung_Handelsregister: zusätzliche Anzeige des Gesamtbetrages der Beteiligung
 
@@ -228,7 +242,6 @@ am Buchungstext sind sofort aktiv.
 Alle Berechnungen können jetzt direkt auf der Beteiligungsebene durchgeführt werden. Summen und Salden
 werden über alle Verträge (und Beteiligungsbuchungen) hinweg summiert. Als Ergebnis erhält man
 einen Wert je Beteiligung.
-MAINFEATURE
 
 * Feature [#37330] Adressen: Neues Feld NameZusatz für Adressen
 
@@ -264,7 +277,6 @@ Als neue Bewertungsgrundlage können Werte benutzt werden. Die Werte können als
 Beispiel: WertArtA+WertArtB-WertArtC
 Es werden alle aktiven (=nicht veralteten) Werte im eingestellten Zeitraum summiert.Die Bezugsgrundlage ist
 dabei WE_Buchungsdatum in Bezug auf den eingestellten Zeitraum. WE_Buchungsdatum muß daher befüllt sein.
-MAINFEATURE
 
 * Feature [#37435] Berechnungen: Testberechnung für alle Verträge
 Der neue Testmodus "Gesamt" berechnet die ausgewählte Berechnung für alle Verträge und zeigt die Ergebnisse an. 
@@ -337,10 +349,10 @@ Zur Anlageerfahrung gibt es ein neues Feld "Informations-Quellen" zur Angabe der
 
 * Feature [#38087] Listen: Hyperlinks mit Schlüsseln (z.B. VertragsNr) die einen Schrägstrich enthalten funktionieren jetzt korrekt
 
-* Bug [#27726] Archivaufkleber drucken: zusätzliches Ereignis wurde erzeugt
-
 
 ## Bugs
+
+* Bug [#27726] Archivaufkleber drucken: zusätzliches Ereignis wurde erzeugt
 
 * Bug [#30654] Stapelbuchungsdialog - Softwareabsturz bei Eingabe des Exportdatums
 
