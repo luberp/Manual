@@ -5,7 +5,7 @@
 In die Version sind 911 Änderungspakete eingeflossen die sich aus insgesamt 373 Anforderungen unserer Kunden ergeben.
 Als Schwerpunkte möchten wir dennoch nur drei Punkte nennen:
 
-### Vorbriefe/Kopieschrieben
+### Vorbriefe/Kopieschreiben
 
 In Kombination mit den individuelle Adressverwendungen und deren Kopieschreiben ist es nötig Vorbriefe vor einzelne Schreiben zu setzen. Diese Funktion wurde nun tief in xpectoPro integriert und ist an vielen Stellen nutzbar. Der Wunschversand (z.B. Post/Mail/Web) kann damit ebenso kombiniert werden wie umfangreiche Kombidokumente.
 
