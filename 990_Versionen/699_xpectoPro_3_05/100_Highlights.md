@@ -15,6 +15,6 @@ In den letzten Jahren haben wir die Berechnungen zu einer sehr umfangreichen Fun
 
 Das Modul für die Durchführung von Gesellschafterversammlungen und anderen Veranstaltungen wurde deutlich erweitert. Die Vertretungsregelungen wurden nochmals erweitert und die Verarbeitung von Rückläufern ist deutlich schneller, besser zu bedienen und erkennt die Abstimmungsergebnisse sehr zuverlässig.
 
-### [Ticketsystem (http://help.xpecto.de/Funktionen/Ticketsystem)
+### [Ticketsystem] (http://help.xpecto.de/Funktionen/Ticketsystem)
 
 xpectoPro enthält eine direkte Integration zum xpecto Ticketsystem. Damit kann der Kunde selbst die offenen Aufgaben erstellen, einsehen und bearbeiten. 
