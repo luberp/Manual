@@ -1,4 +1,4 @@
-In diese Version sind 911 Änderungspakete eingeflossen, die sich aus insgesamt 373 Anforderungen unserer Kunden ergeben.
+In diese Version sind 373 Anforderungen unserer Kunden eingeflossen.
 Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf vier Punkte hinweisen:
 
 ### [Vorbriefe/Kopieschreiben](http://help.xpecto.de/Funktionen/Kopieschreiben)
