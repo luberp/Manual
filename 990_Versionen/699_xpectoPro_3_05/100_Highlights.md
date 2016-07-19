@@ -1,7 +1,7 @@
 ## Highlights
 
 In diese Version sind 911 Änderungspakete eingeflossen, die sich aus insgesamt 373 Anforderungen unserer Kunden ergeben.
-Trotz der Vielzahl der verbesserten Funktionen, möchten wir dennoch nur drei Punkte als besondere Erweiterungen nennen:
+Trotz der Vielzahl der verbesserten Funktionen, möchten wir dennoch nur vier Punkte als besondere Erweiterungen nennen:
 
 ### Vorbriefe/Kopieschreiben
 
@@ -14,3 +14,7 @@ In den letzten Jahren haben wir die Berechnungen zu einer sehr umfangreichen Fun
 ### Veranstaltungen
 
 Das Modul für die Durchführung von Gesellschafterversammlungen und anderen Veranstaltungen wurde deutlich erweitert. Die Vertretungsregelungen wurden nochmals erweitert und die Verarbeitung von Rückläufern ist deutlich schneller, besser zu bedienen und erkennt die Abstimmungsergebnisse sehr zuverlässig.
+
+### Ticketsystem
+
+xpectoPro enthält eine direkte Integration zum xpecto Ticketsystem. Damit kann der Kunde selbst die offenen Aufgaben erstellen, einsehen und bearbeiten. 
