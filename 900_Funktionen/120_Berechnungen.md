@@ -38,6 +38,24 @@ Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich
 
 ### Allgemein
 
-   * Name: Ein sprechender Name für exakt diese Berechnung in diesem Zeitraum. Der Name wir im Regelfall auch als Buchungstext für die späteren Buchungen und Werte benutzt. Ein guter 
+   * Name: Ein sprechender Name für exakt diese Berechnung in diesem Zeitraum. Der Name wir im Regelfall auch als Buchungstext für die späteren Buchungen und Werte benutzt. Ein guter Name wäre "Steuerliches Ergebnis 2014" oder "Basiszinsen 2014M10". Wenn der Name den Zeitraum enthält, wird der Name beim Kopieren von einer Periode zur nächsten Periode entsprechend geändert.
+   * Berechnungsart: xpectoPro ermöglich sehr unterschiedliche Berechnungsarten
+    * Gebührenabrechnung: Ziel ist die Berechnung von Gebühren, Kosten oder anderen Werte für einzelne Verträge die dann aber gesammelt an Empfänger weitergegeben werden. (z.B. Verwaltungsgebühren, Provisionsabrechnung zwischen Produkt und Alleinvertrieb)
+    * Gewinnverteilung: Verteilung von Gewinnen, Verlusten an Verträge und Beteiligungen
+    * Zinsberechnung: Durchführung einer Zinsberechnung 
+    * Entnahmeberechnung: Berechnungen für die regelmäßige Kapitalminderung in Verträgen (z.B. Entnahmepläne)
+    * Forderungsberechnung: Berechnungen von Forderungen ggü. Endkunden (z.B. Darlehensfinanzierungen, Finanzierungsrunden ...)
+    * Anteilskauf: Berechnungen von Anteilskäufen oder Depoteinbuchungen auf Basis von Kapitalständen (z.B. Edelmetalle, Aktien, Anteile)
+    * VertragsÜbertragung: Diese Berechnungsart wird im Normalfall nicht über den Berechnungsdialog durchgeführt. Die Berechnungsart wird intern vom Übertragungsmodul verwendet.
+  * Beschreibung: Eine kurze Beschreibung der Berechnung für Anwender und Mitarbeiter.
+  * Produkt: Für welches Produkt ist diese Berechnung angelegt
+  * Wertart/Zusatz: Welche Wertart soll mit dieser Berechnung erzeugt werden
+  * Ebene: Sollen die Berechnungen auf Vertrags- oder Beteiligungsebene ablaufen
+  * Zeitraum: Der Zeitraum für die Summierung von Werten oder für die Auswertung von Salden, kann abweichend von der Periode sein
+  * Buchungsdatum: Datum zu dem die Werte und Buchungen gebucht werden
+  * Anlass: Der Anlaß der Berechnung. Der Wert kann für die Organisation der Berechnungen benutzt werden. (z.B. Erklärung, Prüfung ...)
+
+### Datenbasis
+
 
 
