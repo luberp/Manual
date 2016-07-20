@@ -34,11 +34,11 @@ In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich
 Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt.
 Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
 #Status
-Neu: Ticket ist noch nicht bearbeitet.
-Angenommen: Ticket ist in Bearbeitung.
-Prüfen: Ticket wurde bearbeitet und der Erfolg sollte vom Melder überprüft werden.
-Erledigt: Ticket ist abgeschlossen.
-Abgewiesen: Ticket wurde gelöscht.
+* *Neu*: Ticket ist noch nicht bearbeitet.
+* *Angenommen*: Ticket ist in Bearbeitung.
+* *Prüfen*: Ticket wurde bearbeitet und der Erfolg sollte vom Melder überprüft werden.
+* *Erledigt*: Ticket ist abgeschlossen.
+* *Abgewiesen*: Ticket wurde gelöscht.
 
 #Nachträgliches Bearbeiten von Tickets
 Durch einen Klick auf den Stift öffnet sich erneut die Maske aus der Erfassung.
