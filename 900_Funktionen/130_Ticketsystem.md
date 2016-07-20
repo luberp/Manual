@@ -7,9 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><h1 id="allgemein">Allgemein</h1>
-
-<p>xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter <em>Hilfe -&gt; Tickets</em>. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über <em>„Anlegen“</em> ein neues Ticket einpflegen oder über <em>„Übersicht“</em> Ihre bestehenden Tickets verwalten.  <br>
+<body><div class="container"><p>xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter <em>Hilfe -&gt; Tickets</em>. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über <em>„Anlegen“</em> ein neues Ticket einpflegen oder über <em>„Übersicht“</em> Ihre bestehenden Tickets verwalten.  <br>
  <img src="http://xpecto.github.io/docs/img/img_TS_001.png" alt="" title=""> <br>
 Voraussetzung um das Ticketsystem nutzen zu können ist, dass bei dem jeweiligen Melder/User eine E-Mail-Adresse hinterlegt ist. Diese können Sie, sofern nicht schon geschehen, unter <em>System -&gt; Benutzer</em>, Rechte in das Feld <em>„E-Mail“</em>  unter dem Reiter „Benutzer“ eintragen. Achtung, die Änderung ist erst nach einem Neustart von xpectoPro wirksam.  <br>
  <img src="http://xpecto.github.io/docs/img/img_TS_002.png" alt="" title=""></p>
