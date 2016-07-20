@@ -9,12 +9,6 @@
 </head>
 <body><div class="container"><h2 id="ticketsystem">Ticketsystem</h2>
 
-<p><em>Achtung! Inhalte in Bearbeitung</em> <br>
-<em>Achtung! Inhalte in Bearbeitung</em> <br>
-<em>Achtung! Inhalte in Bearbeitung</em></p>
-
-
-
 <h1 id="allgemein">Allgemein</h1>
 
 <p>xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter <em>Hilfe -&gt; Tickets</em>. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über <em>„Anlegen“</em> ein neues Ticket einpflegen oder über <em>„Übersicht“</em> Ihre bestehenden Tickets verwalten.  <br>
