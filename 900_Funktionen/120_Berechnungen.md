@@ -26,4 +26,18 @@ Berechnungen können mit dem Lösch-Symbol über der Liste gelöscht werden. Dab
 
 Die Löschungen werden erst nach dem Speichern in die Datenbank geschrieben.
 
-## 
+## Berechnete Summen anzeigen
+
+Berechnungen erzeugen viele Einzeldaten wie Werte oder Buchungen. Oft ist die Gesamtsumme dieser Buchungen interessant oder die Summer der aktuell noch offenen Posten. Durch die Funktion "berechnete Summen anzeigen" werden für jede Berechnung diese Werte errechnet und in drei weiteren Spalten in der Liste angezeigt. Die Errechnung der Spalten kann einige Zeit in Anspruch nehmen.
+
+## Berechnungs-Parameter
+
+Die einzelnen Parameter einer Berechnungen bestimmen alle Eigenschaften des Ablaufs. Große Sorgfalt sollte daher bei Änderungen herrschen. Sie können sich jederzeit an unsere Kundenbetreuung bei Fragen oder Unsicherheiten wenden.
+
+Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich am Ablauf der Berechnung orientieren.
+
+### Allgemein
+
+   * Name: Ein sprechender Name für exakt diese Berechnung in diesem Zeitraum. Der Name wir im Regelfall auch als Buchungstext für die späteren Buchungen und Werte benutzt. Ein guter 
+
+
