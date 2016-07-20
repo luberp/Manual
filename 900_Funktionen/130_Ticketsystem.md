@@ -7,9 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><h2 id="ticketsystem">Ticketsystem</h2>
-
-<h1 id="allgemein">Allgemein</h1>
+<body><div class="container"><h1 id="allgemein">Allgemein</h1>
 
 <p>xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter <em>Hilfe -&gt; Tickets</em>. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über <em>„Anlegen“</em> ein neues Ticket einpflegen oder über <em>„Übersicht“</em> Ihre bestehenden Tickets verwalten.  <br>
  <img src="http://xpecto.github.io/docs/img/img_TS_001.png" alt="" title=""> <br>
