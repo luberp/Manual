@@ -6,17 +6,22 @@ Voraussetzung um das Ticketsystem nutzen zu können ist, dass bei dem jeweiligen
 
  ![](http://xpecto.github.io/docs/img/img_TS_002.png)
 ###Anlegen
-Wenn Sie direkt ein neues Ticket anlegen möchten drücken Sie die Schaltfläche *„Anlegen“.*
-Dies öffnet, zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets, beginnend mit der Auswahl der Art des Tickets (*Ticket-Typ*). Hier haben Sie die Möglichkeit ihr Ticket bereits im Vorfeld zu klassifizieren. Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen mitgeteilt wird. *Bug* (Fehler) sowie *Feature* (Neuentwicklung) Tickets gehen direkt an das Entwicklungsteam, Supporttickets hingegen an das gesamte Supportteam. Sollten Sie unsicher sein, um was es sich bei ihrem Anliegen genau handelt, wählen Sie bitte *Support*. Hier wird Ihr Ticket dann im Zweifelsfall weiter verteilt.
+Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*). Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen zugeteilt wird. 
+
+* Als Standard wählen Sie bitte *Support*. 
+* *Bug* (Fehler), sowie *Feature* (Neuentwicklung) Tickets gehen direkt an das Entwicklungsteam. Diese Typen sollten nur nach Absprache angewählt werden.
+
+ 
 
  ![](http://xpecto.github.io/docs/img/img_TS_003.png)
 
-Sobald Sie sich für einen Typ entschieden haben, öffnet sich Ihnen die Ticketoberfläche.
+Sobald Sie sich für einen Typ entschieden haben, öffnet sich die Ticketoberfläche.
 
  ![](http://xpecto.github.io/docs/img/img_TS_004.png)
 
 Unter *Betreff* geben Sie bitte eine kurze, *aussagekräftige* Zusammenfassung ihres Anliegens ein.
-Bei Beschreibung können Sie ihr Anliegen ausführlicher darstellen. Sollte es sich um ein ungewöhnliches/ungewolltes Verhalten handeln, bitten wir Sie, uns nach Möglichkeit, mitzuteilen wann genau (bei welchem *Arbeitsablauf*) es auftritt und am besten auch ein Beispiel (*Kunde, Vertrag, Produkt, Bericht, …*) zu nennen.
+
+Bei Beschreibung können Sie ihr Anliegen ausführlicher darstellen. In der Beschreibung sollte stehen, wann genau (bei welchem *Arbeitsablauf*) es auftritt und auch in welchem Zusammenhang  (*Kunde, Vertrag, Produkt, Bericht, …*).
 
 Abschließend können Sie ihr Ticket priorisieren.  
 
@@ -26,11 +31,11 @@ Durch einen Klick auf den Button „…“ öffnet sich ein Popup, mit Erklärun
 
  ![](http://xpecto.github.io/docs/img/img_TS_006.png)
 
-Wenn Sie nun mit allen Ihren Eingaben zufrieden sind, können Sie durch Drücken des OK-Buttons ein Ticket erstellen. Das neue Ticket wird direkt an uns übermittelt und in Ihrer Übersicht als neuer Eintrag angezeigt. 
+Jetzt können Sie das neue Ticket erstellen. Das neue Ticket wird direkt an uns übermittelt und in Ihrer Übersicht als neuer Eintrag angezeigt. 
 
  ![](http://xpecto.github.io/docs/img/img_TS_007.png)
 
-Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so bitten wir Sie uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zuzusenden. Wichtig hierbei ist, dass der Betreff die Ticketnummer mit dem Nummernzeichen "#"  enthält (z.B. #38145).
+Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so bitten wir Sie uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zuzusenden. Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
 ###Übersicht
 In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie den Status der Bearbeitung der Tickets.
 
@@ -43,8 +48,8 @@ Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
 ###Status
 * *Neu*: Ticket ist noch nicht bearbeitet.
 * *Angenommen*: Ticket ist in Bearbeitung.
-* *Prüfen*: Ticket wurde bearbeitet und der Erfolg sollte vom Melder überprüft werden.
-* *Erledigt*: Ticket ist abgeschlossen.
+* *Prüfen*: Ticket ist fertig bearbeitet (und kann nun überprüft werden).
+* *Erledigt*: Ticket ist abgeschlossen (wird durch den Kunden durchgeführt).
 * *Abgewiesen*: Ticket wurde gelöscht.
 
 ###Nachträgliches Bearbeiten von Tickets
@@ -57,5 +62,9 @@ Hier kann das Ticket nun bearbeitet werden.
 ![](http://xpecto.github.io/docs/img/img_TS_010.png)
 
 Über einen Klick auf den Button *„Betreff/Beschreibung anpassen“* wird der Betreff und die Beschreibung wieder zur Bearbeitung freigegeben und können angepasst werden.
+
 Auch ist die Priorität änderbar.
-Durch einen Klick auf *„Ticket schließen“* wird das Ticket geschlossen und der Status auf erledigt gesetzt. Bei *„Ticket erneut öffnen“* kann ein gelöschtes, geschlossenes oder zu prüfendes Ticket wieder geöffnet werden. Der Status wird hier wieder automatisch auf *neu* gesetzt.
+
+Durch einen Klick auf *„Ticket schließen“* wird das Ticket geschlossen und der Status auf erledigt gesetzt. 
+
+Bei *„Ticket erneut öffnen“* kann ein gelöschtes, geschlossenes oder zu prüfendes Ticket wieder geöffnet werden. Der Status wird hier wieder automatisch auf *neu* gesetzt. Das Ticket erscheint automatisch wieder beim xpecto-Mitarbeiter in der Inbox des Ticketsystems.
