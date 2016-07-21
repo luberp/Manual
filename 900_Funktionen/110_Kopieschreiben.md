@@ -1,5 +1,3 @@
-# Kopieschreiben
-
 Über die in xpectoPro integrierte Funktionalität Kopieschreiben ist es möglich eine Kopie eines Original-Schreibens, z. B. des Annahmeschreibens, an eine andere Adresse zusätzlich zu versenden.
 Dabei ist es sogar möglich an beliebig viele Adressen eine Kopie zu versenden.
 
