@@ -9,7 +9,7 @@
 </head>
 <body><div class="container"><p>Berechnungen</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469115259450.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1469115731207.png" alt="" title=""></p>
 
 <p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
