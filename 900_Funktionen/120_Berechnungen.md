@@ -17,7 +17,7 @@
 
 <p>Nach der Erstellung eines Profils zeigt der Dialog direkt den Reiter “Berechnungen” an. Dort können Berechnungen angelegt, durchgeführt, ausgewertet, verarbeitet und gelöscht werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469115731207.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1469116225042.png" alt="" title=""></p>
 
 <h2 id="berechnungen-anlegen">Berechnungen anlegen</h2>
 
