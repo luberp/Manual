@@ -7,11 +7,7 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Berechnungen</p>
-
-<p><img src="http://xpecto.github.io/docs/img/img_1469115731207.png" alt="" title=""></p>
-
-<p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
+<body><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
@@ -20,6 +16,8 @@
 <p>Profile haben selbst nur wenige Einstellungen im Reiter “Konfiguration”. Sie können den Namen des Profils setzen und ein Intervall für die Berechnungen angeben. Bei monatlichen Zinsberechnungen würde “monatlich” gut passen, für Jahresabschlüsse und deren Verteilungen ist “jährlich” die richtige Wahl. Profile enthalten für jeden Zeitraum unterschiedliche Berechnungen. Die Navigation innerhalb eines Profil geschieht ebenfalls auf Basis dieser Intervalle und Zeiträume. Sie können in jährlichen Profilen dann zwischen den Jahren umschalten und in monatlichen Profilen die einzelnen Monate durchblättern. Die Beschreibung des Profils ermöglicht eine Dokumentation der gedachten Aufgabe für andere Anwender.</p>
 
 <p>Nach der Erstellung eines Profils zeigt der Dialog direkt den Reiter “Berechnungen” an. Dort können Berechnungen angelegt, durchgeführt, ausgewertet, verarbeitet und gelöscht werden. </p>
+
+<p><img src="http://xpecto.github.io/docs/img/img_1469115731207.png" alt="" title=""></p>
 
 <h2 id="berechnungen-anlegen">Berechnungen anlegen</h2>
 
