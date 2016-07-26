@@ -1,6 +1,4 @@
 
-120_Berechnungen.md 
-
 <p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
@@ -61,5 +59,3 @@
 </ul>
 
 <p></p><h3 id="datenbasis">Datenbasis</h3> <br>
-<p></p></div></body>
-</html>
