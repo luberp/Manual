@@ -1,5 +1,13 @@
-
-<p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>120_Berechnungen.md</title>
+<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+</head>
+<body><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
@@ -35,6 +43,8 @@
 
 <p>Die einzelnen Parameter einer Berechnungen bestimmen alle Eigenschaften des Ablaufs. Große Sorgfalt sollte daher bei Änderungen herrschen. Sie können sich jederzeit an unsere Kundenbetreuung bei Fragen oder Unsicherheiten wenden.</p>
 
+<p><img src="http://xpecto.github.io/docs/img/img_1469547844984.png" alt="" title=""></p>
+
 <p>Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich am Ablauf der Berechnung orientieren.</p>
 
 <h3 id="allgemein">Allgemein</h3>
@@ -58,4 +68,5 @@
 <li>Anlass: Der Anlaß der Berechnung. Der Wert kann für die Organisation der Berechnungen benutzt werden. (z.B. Erklärung, Prüfung …)</li></ul></li>
 </ul>
 
-<p></p><h3 id="datenbasis">Datenbasis</h3> <br>
+<p></p><p></p><h3 id="datenbasis">Datenbasis</h3> <br></div></body>
+</html>
