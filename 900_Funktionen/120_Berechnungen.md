@@ -1,24 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>120_Berechnungen.md</title>
-<link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-</head>
-<body><div class="container"><p> <br>
- <br>
- <br>
- <br>
- <br>
-120_Berechnungen.md <br>
-</p>
 
+120_Berechnungen.md 
 
-
-<p> <br>
-</p><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p></div><p></p>
+<p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
