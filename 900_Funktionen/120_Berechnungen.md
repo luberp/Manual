@@ -7,7 +7,18 @@
 <link rel="stylesheet" href="https://stackedit.io/res-min/themes/base.css" />
 <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
 </head>
-<body><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
+<body><div class="container"><p> <br>
+ <br>
+ <br>
+ <br>
+ <br>
+120_Berechnungen.md <br>
+</p>
+
+
+
+<p> <br>
+</p><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p></div><p></p>
 
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
@@ -17,7 +28,7 @@
 
 <p>Nach der Erstellung eines Profils zeigt der Dialog direkt den Reiter “Berechnungen” an. Dort können Berechnungen angelegt, durchgeführt, ausgewertet, verarbeitet und gelöscht werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469116225042.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/img/img_1469546950163.png" alt="" title=""></p>
 
 <h2 id="berechnungen-anlegen">Berechnungen anlegen</h2>
 
@@ -29,29 +40,21 @@
 
 <p>Die Berechnungen werden erst nach dem Speichern in die Datenbank geschrieben.</p>
 
-
-
 <h2 id="berechnungen-löschen">Berechnungen löschen</h2>
 
 <p>Berechnungen können mit dem Lösch-Symbol über der Liste gelöscht werden. Dabei können nur Berechnungen gelöscht werden die nicht durchgeführt wurden oder deren Daten vorab gelöscht wurden.</p>
 
 <p>Die Löschungen werden erst nach dem Speichern in die Datenbank geschrieben.</p>
 
-
-
 <h2 id="berechnete-summen-anzeigen">Berechnete Summen anzeigen</h2>
 
 <p>Berechnungen erzeugen viele Einzeldaten wie Werte oder Buchungen. Oft ist die Gesamtsumme dieser Buchungen interessant oder die Summer der aktuell noch offenen Posten. Durch die Funktion “berechnete Summen anzeigen” werden für jede Berechnung diese Werte errechnet und in drei weiteren Spalten in der Liste angezeigt. Die Errechnung der Spalten kann einige Zeit in Anspruch nehmen.</p>
-
-
 
 <h2 id="berechnungs-parameter">Berechnungs-Parameter</h2>
 
 <p>Die einzelnen Parameter einer Berechnungen bestimmen alle Eigenschaften des Ablaufs. Große Sorgfalt sollte daher bei Änderungen herrschen. Sie können sich jederzeit an unsere Kundenbetreuung bei Fragen oder Unsicherheiten wenden.</p>
 
 <p>Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich am Ablauf der Berechnung orientieren.</p>
-
-
 
 <h3 id="allgemein">Allgemein</h3>
 
@@ -74,7 +77,6 @@
 <li>Anlass: Der Anlaß der Berechnung. Der Wert kann für die Organisation der Berechnungen benutzt werden. (z.B. Erklärung, Prüfung …)</li></ul></li>
 </ul>
 
-
-
-<h3 id="datenbasis">Datenbasis</h3></div></body>
+<p></p><h3 id="datenbasis">Datenbasis</h3> <br>
+<p></p></div></body>
 </html>
