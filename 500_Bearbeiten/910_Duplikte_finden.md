@@ -17,5 +17,6 @@ Wählen Sie ein Datenbasis z.B. Kundendaten. Das System listet nach kurzer Warte
 
 Über die Schaltfläche *Anzeigen* werden die Stammdaten des Datensatzes z.B. Kunde im Hauptfenster angezeigt. 
 
-Bitte markieren Sie dem Datensatz den Sie behalten möchten.
-Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1421247414670.png) wird der nicht markierter Datensatz entfernt und der verbleibende Datensatz aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den neuen Kunden übertragen.
+Bitte markieren Sie den Datensatz den Sie behalten möchten im oberen Bereich. Es werden in der Liste alle Felder aufgelistet die in den beiden Datensätzen unterschiedlich sind. Sie können den jeweiligen "Gewinner" für die Zusammenführung mit der Maus einfach für jedes Feld getrennt auswählen.
+
+Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1421247414670.png) wird der nicht markierte Datensatz entfernt und der verbleibende Datensatz mit den gewählten Werten aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den neuen Kunden übertragen.
