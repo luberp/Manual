@@ -1,6 +1,6 @@
 * Feature [#35335] Adressmaske
 
-Das Feld Geburtsland auf der Adressmaske ist jetzt eine Search-Box.
+   Das Feld Geburtsland auf der Adressmaske ist jetzt eine Search-Box.
 
 * Feature [#36403] Offene Posten Maske im Vertrag, Produkt bzw. der Beteiligung
 
