@@ -29,11 +29,11 @@
   
    * Modul-Konfiguration
    Durch den Klick auf die Modul-Konfiguration können folgende Parameter eingestellt werden:
-   # Modus: 15a oder 15b
-   # Berechnungsbasis: Alle Wertarten für das Kapitalkonto und für das zu verteilende Ergebnis
+      * Modus: 15a oder 15b
+      * Berechnungsbasis: Alle Wertarten für das Kapitalkonto und für das zu verteilende Ergebnis
       Die Wertarten dürfen dabei in eigenen Zeilen stehen und können ein Vorzeichen (-/+) haben
       Die Summierung dieser Werte erfolgt über aktive Werte innerhalb der Periode.
-   # Ausgabe: In welche Wertart sollen die "Verrechenbaren Verluste" gespeichert werden und welchen Text sollen diese Werte erhalten.
+      * Ausgabe: In welche Wertart sollen die "Verrechenbaren Verluste" gespeichert werden und welchen Text sollen diese Werte erhalten.
       (An den Text wird automatisch die aktuelle Periode angehängt.) Zusätzlich wird diese Wertart auch für die Summierung der "Verrechenbaren Verluste"
       benutzt. Diese werden über den gesamten Vertrag (15b) oder über die letzten 10 Jahre summiert (15a).
       
