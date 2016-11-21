@@ -72,7 +72,7 @@
  
 * Feature [#38272] Rückfragen und Kommunikation über das Ticket-System
 
-   Neuer Status "rückfrage", wenn der Support Rückfragen zu einem Ticket hat. Rückfragen können über die Ticket-Beschreibung beantwortet werden. Bei jeder Ergänzung der Beschreibung wird automatisch eine Trennlinie, das Datum und die E-Mail-Adresse des Benutzers eingefügt.
+   Neuer Status "Rückfrage", wenn der Support Rückfragen zu einem Ticket hat. Rückfragen können über die Ticket-Beschreibung beantwortet werden. Bei jeder Ergänzung der Beschreibung wird automatisch eine Trennlinie, das Datum und die E-Mail-Adresse des Benutzers eingefügt.
 
 * Feature [#38295] Synchronisation
 
@@ -99,7 +99,7 @@
    Die Erstellung des Zahlungsverkehr kann jetzt mehrere Bankverbindungen nutzen und frägt je Währung nach.
    Bei Berechnungen kann die Bankverbindung für Fonds- und Hauswährung getrennt festgelegt werden.
    
-* Feature [#38508] Neues Feld Vorgang bei Legitimationsdaten
+* Feature [#38508] Neues Feld "Vorgang" bei Legitimationsdaten
 
    Auf der Maske für die Legitimationsdaten gibt es ein neues Feld Vorgang für eine eventuelle Vorgangs-Nummer (z.B. bei Online/Video-Identifizierung)
    
@@ -139,7 +139,7 @@
    Die Standardeinstellung für den Wunschversand (Einstellung DefaultDesiredShippingType) wurde nun (für neue Datenbanken) von "E-Mail" auf "Post" geändert.
    Außerdem wurde die Standard-Einstellung für den zu versendenden E-Mail Bericht (Einstellung DesiredShippingTypeEMailReport) auf "E-Mail-Anschreiben bei Wunschversand" gesetzt.
    
-* Feature [#38968] Neues Vertragsfeld Vertriebsneutral
+* Feature [#38968] Neues Vertragsfeld "vertriebsneutral"
 
 * Feature [#38977] Legitimation
 
