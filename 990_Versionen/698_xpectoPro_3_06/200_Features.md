@@ -27,20 +27,18 @@
    Die Benutzung der 15a/b Berechnung in den Berechnungen erfolgt über den neuen Typ "Modul". Vorab muss das Kaptialkonto bestimmt und das Ergebnis verteilt sein.
    Die Konfiguration der einzelnen Wertarten und Bedingungen ist in zwei Ebenen zu machen:
   
-   * Modul-Konfiguration
-   Durch den Klick auf die Modul-Konfiguration können folgende Parameter eingestellt werden:
+   * Modul-Konfiguration (Durch den Klick auf die Modul-Konfiguration können folgende Parameter eingestellt werden):
+   
       * Modus: 15a oder 15b
       * Berechnungsbasis: Alle Wertarten für das Kapitalkonto und für das zu verteilende Ergebnis.
       Die Wertarten dürfen dabei in eigenen Zeilen stehen und können ein Vorzeichen (-/+) haben.
       Die Summierung dieser Werte erfolgt über aktive Werte innerhalb der Periode.
-      * Ausgabe: In welche Wertart sollen die "Verrechenbaren Verluste" gespeichert werden und welchen Text sollen diese Werte erhalten.
-      (An den Text wird automatisch die aktuelle Periode angehängt.) Zusätzlich wird diese Wertart auch für die Summierung der "Verrechenbaren Verluste" benutzt. Diese werden über den gesamten Vertrag (15b) oder über die letzten 10 Jahre summiert (15a).
-      
-   * Berechnungs-Konfiguration
-   Das Modul liefert als Standardwert das "Anrechenbare Ergebnis" zurück und wird mit der "Wertart" der Berechnung gespeichert. Als Text
-   für diese Werte wird der "Name" verwendet (wie immer). Um echte Werte zu bekommen (und nicht nur 0er-Werte mit korrekter Bewertung),
-   muss als Zinsmethode "Endstand" und als Zähler/Nenner jeweils 1,00 eingegeben werden. Damit wird die Bewertung 1:1 in den Betrag übernommen.
-   
+      * Ausgabe: In welche Wertart sollen die "Verrechenbaren Verluste" gespeichert werden und welchen Text sollen diese Werte erhalten.  (An den Text wird automatisch die aktuelle Periode angehängt.) Zusätzlich wird diese Wertart auch für die Summierung der "Verrechenbaren Verluste" benutzt. Diese werden über den gesamten Vertrag (15b) oder über die letzten 10 Jahre summiert (15a).
+
+   * Berechnungs-Konfiguration:
+
+       * Das Modul liefert als Standardwert das "Anrechenbare Ergebnis" zurück und wird mit der "Wertart" der Berechnung gespeichert. Als Text für diese Werte wird der "Name" verwendet (wie immer). Um echte Werte zu bekommen (und nicht nur 0er-Werte mit korrekter Bewertung), muss als Zinsmethode "Endstand" und als Zähler/Nenner jeweils 1,00 eingegeben werden. Damit wird die Bewertung 1:1 in den Betrag übernommen.
+  
 * Feature [#37176] Erfassung der CRS/FATCA-Selbstauskunft
 
    Möglichkeit zur Erfassung der CRS/FATCA-Selbstauskunft und der resultierenden Meldungspflicht in der Personenansicht. Die Erstellung der CRS-XML-Daten wird im Meldecenter von aifExpert erledigt.
@@ -134,7 +132,8 @@
 * Feature [#38849] Wiedervorlagen/Prozesse können jetzt auch für beliebige Personen angelegt werden (bisher nur für Vermitler/Kunden/Verträge).
 
 * Feature [#38877] xpectoPro enthält jetzt Funktionen für die Sanktionslisten aus EU, UK und US. 
-Für die PEP-Liste ziehen wir die (in der EU) ziehmlich vollständige Liste aus der Wikipedia. Die Funktion kann direkt über den Knopf neben dem Feld Nachname in der Maske "Adresse/Allgemein" ausgeführt werden. Die entsprechenden Listen können direkt heruntergeladen werden. Der Import dauert aber in der Regel 1-2 Stunden. Die Treffer werden in einem kleinen Dialog gesammelt angezeigt. Es werden 4 Felder in die Prüfung einbezogen: Nachname, Vorname, Firmennname und Geburtsdatum. Als Test können Politiker benutzt werden (Nachname=Obama, Vorname=Barack, Geburtsdatum + Firma=leer)
+   
+   Für die PEP-Liste ziehen wir die (in der EU) ziehmlich vollständige Liste aus der Wikipedia. Die Funktion kann direkt über den Knopf neben dem Feld Nachname in der Maske "Adresse/Allgemein" ausgeführt werden. Die entsprechenden Listen können direkt heruntergeladen werden. Der Import dauert aber in der Regel 1-2 Stunden. Die Treffer werden in einem kleinen Dialog gesammelt angezeigt. Es werden 4 Felder in die Prüfung einbezogen: Nachname, Vorname, Firmennname und Geburtsdatum. Als Test können Politiker benutzt werden (Nachname=Obama, Vorname=Barack, Geburtsdatum + Firma=leer)
 
 * Feature [#38964] Wunschversand - Standardeinstellung verändert
    Die Standardeinstellung für den Wunschversand (Einstellung DefaultDesiredShippingType) wurde nun (für neue Datenbanken) von "E-Mail" auf "Post" geändert.
