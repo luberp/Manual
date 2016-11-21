@@ -4,7 +4,7 @@
 
 * Feature [#36403] Offene Posten Maske im Vertrag, Produkt bzw. der Beteiligung
 
-   Anpassung der Spalten je nach Sichtweise
+   Anpassung der Spalten je nach Sichtweise.
 
 * Feature [#36663] Stapelbuchungsdialog - Festschreiben von Buchungen
 
@@ -24,22 +24,21 @@
    
 * Feature [#37140] Berechnungen nach EStG § 15a und § 15b
 
-   Die Benutzung der 15a/b Berechnung in den Berechnungen erfolgt über den neuen Typ "Modul". Vorab muß das Kaptialkonto bestimmt und das Ergebnis verteilt sein.
+   Die Benutzung der 15a/b Berechnung in den Berechnungen erfolgt über den neuen Typ "Modul". Vorab muss das Kaptialkonto bestimmt und das Ergebnis verteilt sein.
    Die Konfiguration der einzelnen Wertarten und Bedingungen ist in zwei Ebenen zu machen:
   
    * Modul-Konfiguration
    Durch den Klick auf die Modul-Konfiguration können folgende Parameter eingestellt werden:
       * Modus: 15a oder 15b
-      * Berechnungsbasis: Alle Wertarten für das Kapitalkonto und für das zu verteilende Ergebnis
-      Die Wertarten dürfen dabei in eigenen Zeilen stehen und können ein Vorzeichen (-/+) haben
+      * Berechnungsbasis: Alle Wertarten für das Kapitalkonto und für das zu verteilende Ergebnis.
+      Die Wertarten dürfen dabei in eigenen Zeilen stehen und können ein Vorzeichen (-/+) haben.
       Die Summierung dieser Werte erfolgt über aktive Werte innerhalb der Periode.
       * Ausgabe: In welche Wertart sollen die "Verrechenbaren Verluste" gespeichert werden und welchen Text sollen diese Werte erhalten.
-      (An den Text wird automatisch die aktuelle Periode angehängt.) Zusätzlich wird diese Wertart auch für die Summierung der "Verrechenbaren Verluste"
-      benutzt. Diese werden über den gesamten Vertrag (15b) oder über die letzten 10 Jahre summiert (15a).
+      (An den Text wird automatisch die aktuelle Periode angehängt.) Zusätzlich wird diese Wertart auch für die Summierung der "Verrechenbaren Verluste" benutzt. Diese werden über den gesamten Vertrag (15b) oder über die letzten 10 Jahre summiert (15a).
       
    * Berechnungs-Konfiguration
    Das Modul liefert als Standardwert das "Anrechenbare Ergebnis" zurück und wird mit der "Wertart" der Berechnung gespeichert. Als Text
-   für diese Werte wird der "Name" verwendet. (wie immer) Um echte Werte zu bekommen (und nicht nur 0er-Werte mit korrekter Bewertung),
+   für diese Werte wird der "Name" verwendet (wie immer). Um echte Werte zu bekommen (und nicht nur 0er-Werte mit korrekter Bewertung),
    muss als Zinsmethode "Endstand" und als Zähler/Nenner jeweils 1,00 eingegeben werden. Damit wird die Bewertung 1:1 in den Betrag übernommen.
    
 * Feature [#37176] Erfassung der CRS/FATCA-Selbstauskunft
@@ -67,7 +66,7 @@
 
 * Feature [#37984] Datentypänderungsmeldung nach Softwareupdate deaktiviert
 
-   Die Meldung, dass sich ein Datentyp einer Spalte geändert hat wurde nun deaktiviert und wird nun nur noch intern protokolliert.
+   Die Meldung, dass sich ein Datentyp einer Spalte geändert hat, wurde nun deaktiviert und wird nun nur noch intern protokolliert.
 
 * Feature [#38267] Standardwährung der Bankverbindung bei Neuanlage
 
@@ -113,16 +112,15 @@
 * Feature [#38650] Berechnungen: neuer Berechnungstyp "Modul" für integrierte und von xpecto gepflegte Funktionen
 
    Die Darstellung der Berechnungstypen auf der Maske Berechnungen_Parameter hat sich verändert. Die einzelnen Möglichkeiten werden jetzt alternativ dargestellt und sind über Optionsbuttons auswählbar.
-   Für die einzelnen Einstellungen zu den Berechnungstypen ist damit mehr Platz. Den neuen Typ "Modul" kann man über eine mitgelieferte, zusätzliche Oberfläche konfigurieren. Das System ist einfach erweiterbar und
-   ermöglicht individuelle Einstellungsdialoge für die von uns gelieferten Module.
+   Für die einzelnen Einstellungen zu den Berechnungstypen ist damit mehr Platz. Den neuen Typ "Modul" kann man über eine mitgelieferte, zusätzliche Oberfläche konfigurieren. Das System ist einfach erweiterbar und ermöglicht individuelle Einstellungsdialoge für die von uns gelieferten Module.
    
 * Feature [#38665] aifExpert: Druckvorschau im Risikomanager
 
-* Feature [#38682] Nachschlagsliste TwoFactorAuthMethods geändert in ZweiFaktorAuthMethode (Listenbezeichnungen einheitlich deutsch)
+* Feature [#38682] Nachschlagsliste TwoFactorAuthMethods geändert in ZweiFaktorAuthMethode (Listenbezeichnungen einheitlich deutsch).
 
 * Feature [#38762] Tracer: Löschung von Datensätze
 
-   Wenn im Tracer Datensätze mit Änderungsverfolgung gelöscht werden erscheint bei Benutzern mit Admin-Rechten eine Nachfrage, ob auch abhängige Datensätze mitgelöscht werden sollen.
+   Wenn im Tracer Datensätze mit Änderungsverfolgung gelöscht werden, erscheint bei Benutzern mit Admin-Rechten eine Nachfrage, ob auch abhängige Datensätze mitgelöscht werden sollen.
 
 * Feature [#38790] Nachschlagsliste für den Bildungsstand
 
@@ -135,14 +133,11 @@
    
 * Feature [#38849] Wiedervorlagen/Prozesse können jetzt auch für beliebige Personen angelegt werden (bisher nur für Vermitler/Kunden/Verträge).
 
-* Feature [#38877] xpectoPro enthält jetzt Funktionen für die Sanktionslisten aus EU, UK und US. Für die PEP-Liste ziehen wir die (in der EU) ziemlich vollständige Liste aus der Wikipedia. Die Funktion kann
-
-   direkt über den Knopf neben dem Feld Nachname in der Maske "Adresse/Allgemein" ausgeführt werden. Die entsprechenden Listen können direkt heruntergeladen werden, der Import dauert
+* Feature [#38877] xpectoPro enthält jetzt Funktionen für die Sanktionslisten aus EU, UK und US. Für die PEP-Liste ziehen wir die (in der EU) ziehmlich vollständige Liste aus der Wikipedia. Die Funktion kann direkt über den Knopf neben dem Feld Nachname in der Maske "Adresse/Allgemein" ausgeführt werden. Die entsprechenden Listen können direkt heruntergeladen werden. Der Import dauert
    aber in der Regel 1-2 Stunden. Die Treffer werden in einem kleinen Dialog gesammelt angezeigt. Es werden 4 Felder in die Prüfung einbezogen: Nachname, Vorname, Firmennname und Geburtsdatum.
    Als Test können Politiker benutzt werden (Nachname=Obama, Vorname=Barack, Geburtsdatum + Firma=leer)
 
 * Feature [#38964] Wunschversand - Standardeinstellung verändert
-
    Die Standardeinstellung für den Wunschversand (Einstellung DefaultDesiredShippingType) wurde nun (für neue Datenbanken) von "E-Mail" auf "Post" geändert.
    Außerdem wurde die Standard-Einstellung für den zu versendenden E-Mail Bericht (Einstellung DesiredShippingTypeEMailReport) auf "E-Mail-Anschreiben bei Wunschversand" gesetzt.
    
@@ -190,18 +185,18 @@
 
 * Feature [#39279] Erzeugung des Zahlungsverkehrs - Zusammenfassung der verschiedenen Fehler
 
-   Bei der Erzeugung von Zahlungsverkehr aus offenen Posten, werden viele Zustände überprüft die verhindern, dass der Zahlungsverkehr erstellt werden kann. Der neue Fehlerdialog fasst alle Probleme in einer einheitlichen Weise zusammen und ermöglicht den Export einer Einzelliste.
+   Bei der Erzeugung von Zahlungsverkehr aus offenen Posten, werden viele Zustände überprüft, die verhindern, dass der Zahlungsverkehr erstellt werden kann. Der neue Fehlerdialog fasst alle Probleme in einer einheitlichen Weise zusammen und ermöglicht den Export einer Einzelliste.
    
 * Feature [#39285] DataGrids: neue Option "zu Kampagne hinzufügen"
 
 * Feature [#39286] Tracer - Button "Kampagne" um Auswahl der Kampagnenart erweitert
 
-   Aus dem Abfrage-Tracer heraus kann nun ausgewählt welche Art der Kampagne gestartet werden soll.
-   Aktuell gibt es die 2 Arten: "Dynamische Daten (Abfrage speichern)" und "Statische Daten (Aktuelle Liste speichern)".
-   Bei der Dynamischen Kampagne wird die Abfrage bei jeder Ausführung der Kampagne erneut Ausführung und die aktuellen Daten neu geladen.
+   Aus dem Abfrage-Tracer heraus kann nun ausgewählt werden, welche Art der Kampagne gestartet werden soll.
+   Aktuell gibt es zwei Arten: "Dynamische Daten (Abfrage speichern)" und "Statische Daten (Aktuelle Liste speichern)".
+   Bei der Dynamischen Kampagne wird die Abfrage bei jeder Ausführung der Kampagne erneut gestartet und die aktuellen Daten neu geladen.
    Bei der Statischen Kampagne hingegeben werden die Ergebnisdatensätze, welchem beim Erzeugen der Kampagne vorhanden waren, tatsächlich gespeichert. Diese Liste verändert sich somit bei einer späteren Ausführung nicht und liefert immer die gleichen/ursprünglichen Ergebnisse.
    
-* Feature [#39287] Kampagnen: Schaltfläche zum entfernen eines Datensatz aus einer statischen Kampagne eindeutiger benannt: statt "Aus Liste löschen" => "Ausgewählte Empfänger entfernen"
+* Feature [#39287] Kampagnen: Schaltfläche zum Entfernen eines Datensatz aus einer statischen Kampagne eindeutiger benannt: statt "Aus Liste löschen" => "Ausgewählte Empfänger entfernen"
 
 * Feature [#39291] Menüpunkt "Zu Kampagne hinzufügen"
 
@@ -213,7 +208,7 @@
    
 * Feature [#39314] Rechtesystem
 
-   Die DataHideXX-Rechte können jetzt auch als verbietende Rechte angegeben werden. Damit können einzelne Daten bei bestimmten Benutzern/Gruppen einfach unterdrückt werden. (z.B. bestimmte Gruppen von Vermittlern)
+   Die DataHideXX-Rechte können jetzt auch als verbietende Rechte angegeben werden. Damit können einzelne Daten bei bestimmten Benutzern/Gruppen einfach unterdrückt werden (z.B. bestimmte Gruppen von Vermittlern).
    
 * Feature [#39559] Kontodaten zuweisen: Tastaturkürzel Strg+S 
 
@@ -221,7 +216,7 @@
    
 * Feature [#39579] Buchungen zuweisen
 
-   verbesserte Fortschrittsanzeigen beim Aufteilen der Offenen Posten
+   Verbesserte Fortschrittsanzeigen beim Aufteilen der Offenen Posten
    
 * Feature [#39599] Backupfunktion: Wiederherstellen einer Datenbank
 
@@ -232,20 +227,19 @@
    Die Spalte für die Buchungssumme der Werte wird nun weiter vorne angezeigt.
    
 * Feature [#39666] Die neue Scriptengine wird jetzt auch für Berechnungen benutzt. Module und Scripte werden damit identisch behandelt. Achtung:
-
-   folgende Methoden müssen auf "Overrides" gestellt werden: FondsInterestCalculation, FondsReturnCalculation, FondsTaxCalculation
+   Folgende Methoden müssen auf "Overrides" gestellt werden: FondsInterestCalculation, FondsReturnCalculation, FondsTaxCalculation.
    Die Patch-Funktion versucht dies automatisch zu erledigen. Die Scripte sind damit inkompatibel zwischen den beiden Versionen.
    Die Berechnungen können jetzt ganz allgemein 3 Einsprungpunkte benutzen:
    
-   * FondsCalculation: Berechnung der Bewertungen, je Vertrag oder Beteiligung
-   * PostFondsCalculation: Berechnungen für alle Werte/Buchungen in einem Aufruf (vor einer evtl. Gewinnverteilung)
-   * FondsTaxCalculation: Berechnungen von Steuern oder anderen nachgelagerten Dingen auf Basis der Buchungen je Vertrag (nur für Vertragsebene), wird beim erzeugen der Buchungen aufgerufen
+   * FondsCalculation: Berechnung der Bewertungen, je Vertrag oder Beteiligung.
+   * PostFondsCalculation: Berechnungen für alle Werte/Buchungen in einem Aufruf (vor einer evtl. Gewinnverteilung).
+   * FondsTaxCalculation: Berechnungen von Steuern oder anderen nachgelagerten Dingen auf Basis der Buchungen je Vertrag (nur für Vertragsebene), wird beim Erzeugen der Buchungen aufgerufen.
    
 * Feature [#39713] Benutzerrechte - Priorität für Gruppen
 
    Die Überlagerung von Rechten aus Benutzergruppen können nun über eine numerische Priorität gesteuert werden. Default wird immer als erstes angewandt, danach werden Domänen-Gruppenmitgliedschaften in der angegebenen Reihenfolge (aufsteigend) angewandt, danach xpecto-interne Benutzergruppenzuordnungen.
    Das bedeutet, dass eine Gruppe mit einem höheren Wert, bereits getroffene Einstellungen aus den niedriger priorisierten Gruppen überschreiben kann.
-   Als letztes werden dann noch die Benutzerspezifisch spezifizierten Rechte angewandt.
+   Als letztes werden dann noch die benutzerspezifischen Rechte angewandt.
 
 * Feature [#39729] Benutzerrechte: Effektive Berechtigungen für den ausgewählten Benutzer anzeigen
 
@@ -256,9 +250,8 @@
 * Feature [#39791] Buchungen zuweisen: Retourenbehandlung verbessert
 
    Retouren werden meist direkt von der Bank mit Gebühren belegt. Der Betrag weicht damit vom Ursprungsbetrag ab. Die Erkennung dieser Gebühr wurde nun verbessert:
-   Die beiden Parameter ImportAssignFeePercent und ImportAssignFeeFix geben die maximale Gebühr an die in einem Posten stecken kann. Die Berechnung erfolgt mit folgender Formel:
-   MaximaleGebühr = ImportAssignFeeFix + (Buchungssumme * ImportAssignFeePercent). Wenn die Retoure jetzt um weniger als die berechnete MaximaleGebühr reduziert ist, wird der Posten
-   trotzdem erkannt. Im nächsten Stable-Release gibt es eine neue Vorschlagsfunktion für Buchungen, die Verbuchung des Rests ist dann wesentlich komfortabler.
+   Die beiden Parameter ImportAssignFeePercent und ImportAssignFeeFix geben die maximale Gebühr an, die in einem Posten stecken kann. Die Berechnung erfolgt mit folgender Formel:
+   MaximaleGebühr = ImportAssignFeeFix + (Buchungssumme * ImportAssignFeePercent). Wenn die Retoure jetzt um weniger als die berechnete MaximaleGebühr reduziert ist, wird der Posten trotzdem erkannt. Im nächsten Stable-Release gibt es eine neue Vorschlagsfunktion für Buchungen, die Verbuchung des Rests ist dann wesentlich komfortabler.
    
 * Feature [#39809] Überarbeitung der Mitarbeiter Stammdaten Maske
 
@@ -278,8 +271,8 @@
    
 * Feature [#39943] Adressen auf Beteiligungsebene - Prüfung der Verwendung auf Eindeutigkeit
 
-   Bei der Anlage einer Beteiligungsspezifischen Adresse wird nun geprüft, ob es bereits eine Adresse mit der gleichen Verwendung (z. B. Post) zu dieser Beteiligung gibt.
-   Ist dies der Fall, so erhält der Benutzer vor dem Speichern die Möglichkeit zu entscheiden welche der beiden Adressen die gewählte Verwendung (z. B. Post) erhalten soll.
+   Bei der Anlage einer beteiligungsspezifischen Adresse wird nun geprüft, ob es bereits eine Adresse mit der gleichen Verwendung (z. B. Post) zu dieser Beteiligung gibt.
+   Ist dies der Fall, so erhält der Benutzer vor dem Speichern die Möglichkeit zu entscheiden, welche der beiden Adressen die gewählte Verwendung (z.B. Post) erhalten soll.
    
 * Feature [#39963] Legal Entity Identifier (LEI): Prüfroutinen und Abfrageschnittstelle integriert
 
@@ -290,8 +283,7 @@
 * Feature [#40169] Änderungsverfolgung: Alle Änderungen protokollieren
 
    xpectoPro protokolliert nun jede Datenänderung. Die bisher selektive Protokollierung für wichtige Tabellen (über LogTableChanges) wird nun auf alle Daten ausgedehnt. 
-   Öffentliche Tabellen (Banken, Orte ...) und binäre Daten werden nicht protokolliert. Bei Massentabellen (Buchungen, Werte ...) wird die Erstellung des Datensatzes
-   direkt im Datensatz selbst protokolliert, die Änderungsverfolgung startet hier bei der nachträglichen manuellen Änderung oder Löschung.
+   Öffentliche Tabellen (Banken, Orte, ...) und binäre Daten werden nicht protokolliert. Bei Massentabellen (Buchungen, Werte, ...) wird die Erstellung des Datensatzes direkt im Datensatz selbst protokolliert. Die Änderungsverfolgung startet hier bei der nachträglichen manuellen Änderung oder Löschung.
    
 * Feature [#40198] Buchungen zuweisen: Verbuchung der Rücküberweisungen/Rücklastschriften vor Auflösung des Sammlers verbieten
 
@@ -305,7 +297,7 @@
    
 * Feature [#40361] Erweiterung für A2A
 
-   Beim starten der Software mit TestDB (z. B. nach einem Softwareupdate von xpectoPro) werden nun auch bestimmte Funktion in A2A aktualisiert.
+   Beim Starten der Software mit TestDB (z. B. nach einem Softwareupdate von xpectoPro) werden nun auch bestimmte Funktion in A2A aktualisiert.
    
 * Feature [#40439] PEP: direkter Hinweis in Kunde_Kopfzeile
 
