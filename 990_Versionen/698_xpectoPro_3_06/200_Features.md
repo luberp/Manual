@@ -8,7 +8,7 @@
 
 * Feature [#36663] Stapelbuchungsdialog - Festschreiben von Buchungen
 
-   Warnhinweis mit möglicher Blockierung anderer Benutzer wegen Sperrung der Buchungsdatentabelle beim Festschreiben der Buchungen
+   Warnhinweis mit möglicher Blockierung anderer Benutzer wegen Sperrung der Buchungsdatentabelle beim Festschreiben der Buchungen.
    
 * Feature [#37049] Stapelbuchungsdialog - Summenanzeige im Filter
 
