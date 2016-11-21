@@ -11,7 +11,7 @@ xpectoPro protokolliert jede Datenändernung. Die Änderungsverfolgung muss (und
 
 ### Suche
 
-Die Standardsuche in xpectoPro kann direkt einzelne Felder abfragen. (z.B. "Meier PLZ:84030", "Meier Produkt:Fonds2")
+Die Standardsuche in xpectoPro kann direkt einzelne Felder abfragen (z.B. "Meier PLZ:84030", "Meier Produkt:Fonds2").
 
 ### Portale / Onlinezeichnung
 
