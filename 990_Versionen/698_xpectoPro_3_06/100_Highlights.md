@@ -1,7 +1,7 @@
 In diese Version sind 201 Anforderungen unserer Kunden eingeflossen.
 Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf einige Punkte hinweisen:
 
-*### FKaustG/CRS GwG/Pep
+### *FKaustG/CRS GwG/Pep
 
 xpectoPro unterstützt nun die nötigen Merkmale für die zukünftigen Meldepflichten. Zusätzlich sind in der Personenerfassung nun direkte Prüfungen gegen die Sanktionslisten (EU/UK/US) integriert.
 
