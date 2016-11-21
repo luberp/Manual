@@ -7,7 +7,7 @@ xpectoPro unterstützt nun die nötigen Merkmale für die zukünftigen Meldepfli
 
 #### Änderungsverfolgung
 
-xpectoPro protokolliert jede Datenändernung. Die Änderungsverfolgung muss (und kann) nicht mehr konfiguriert werden.
+xpectoPro protokolliert nun alle Datenänderungen. Die Änderungsverfolgung muss nicht mehr konfiguriert werden, die zugehörige Einstellung wurde deshalb entfernt.
 
 #### Suche
 
