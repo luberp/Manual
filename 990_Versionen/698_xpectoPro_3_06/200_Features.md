@@ -133,9 +133,8 @@
    
 * Feature [#38849] Wiedervorlagen/Prozesse können jetzt auch für beliebige Personen angelegt werden (bisher nur für Vermitler/Kunden/Verträge).
 
-* Feature [#38877] xpectoPro enthält jetzt Funktionen für die Sanktionslisten aus EU, UK und US. Für die PEP-Liste ziehen wir die (in der EU) ziehmlich vollständige Liste aus der Wikipedia. Die Funktion kann direkt über den Knopf neben dem Feld Nachname in der Maske "Adresse/Allgemein" ausgeführt werden. Die entsprechenden Listen können direkt heruntergeladen werden. Der Import dauert
-   aber in der Regel 1-2 Stunden. Die Treffer werden in einem kleinen Dialog gesammelt angezeigt. Es werden 4 Felder in die Prüfung einbezogen: Nachname, Vorname, Firmennname und Geburtsdatum.
-   Als Test können Politiker benutzt werden (Nachname=Obama, Vorname=Barack, Geburtsdatum + Firma=leer)
+* Feature [#38877] xpectoPro enthält jetzt Funktionen für die Sanktionslisten aus EU, UK und US. 
+Für die PEP-Liste ziehen wir die (in der EU) ziehmlich vollständige Liste aus der Wikipedia. Die Funktion kann direkt über den Knopf neben dem Feld Nachname in der Maske "Adresse/Allgemein" ausgeführt werden. Die entsprechenden Listen können direkt heruntergeladen werden. Der Import dauert aber in der Regel 1-2 Stunden. Die Treffer werden in einem kleinen Dialog gesammelt angezeigt. Es werden 4 Felder in die Prüfung einbezogen: Nachname, Vorname, Firmennname und Geburtsdatum. Als Test können Politiker benutzt werden (Nachname=Obama, Vorname=Barack, Geburtsdatum + Firma=leer)
 
 * Feature [#38964] Wunschversand - Standardeinstellung verändert
    Die Standardeinstellung für den Wunschversand (Einstellung DefaultDesiredShippingType) wurde nun (für neue Datenbanken) von "E-Mail" auf "Post" geändert.
