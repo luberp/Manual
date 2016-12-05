@@ -16,8 +16,8 @@ Für die Installation von aifExpert werden Administratorrechte benötigt.
 ----------
 
 
-Systemvoraussetzungen
----------------------
+###Systemvoraussetzungen
+
 
 *Server:*
 
@@ -37,8 +37,8 @@ Systemvoraussetzungen
 
 ----------
 
-Installation der Software
--------------------------
+###Installation der Software
+
 
 Starten Sie die Datei setup.exe von der xpecto Website.
 
@@ -66,8 +66,8 @@ Zum Starten von aifExpert klicken Sie im Startmenü auf den Eintrag aifExpert.
 
 ----------
 
-Verbindung zur Datenbank herstellen
------------------------------------
+###Verbindung zur Datenbank herstellen
+
 
 Alle benötigten Einstellungen, um die aifExpert Client-Applikation mit einer Datenbank zu verbinden, sind in einer xpecto Einstellungsdatei gespeichert.
 
