@@ -46,18 +46,9 @@ Als Benutzer von Microsoft Windows bestätigen Sie die Sicherheitswarnung, die a
 
 Das Setup beginnt nun mit der Vorbereitung der Installation und entpackt die aifExpert Installationsdateien.
 
-![](http://xpecto.github.io/docs/img/img_1430135544227.png)
-
-
 In dem darauf folgenden Dialog bestimmen Sie den Ordner, in welchem  aifExpert installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner beizubehalten. Bestätigen Sie den Dialog mit *Weiter*.
 
-![](http://xpecto.github.io/docs/img/img_1430134632060.png)
-
-
 Bestätigen Sie die Installation mit *Weiter*, um die Installation zu starten. aifExpert wird nun auf Ihrem Rechner installiert. 
-
-![](http://xpecto.github.io/docs/img/img_1430134674440.png)
-
 
 Beenden Sie die Installation mit der Schaltfläche *Fertigstellen.* Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport.
 
