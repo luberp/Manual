@@ -12,14 +12,16 @@ Erfassung und Simulation des Risikos der Unternehmung
 
 Im Bereich des Risikomanagements ermöglicht aifExpert ein umfassendes Risikocontrolling.
 
+
 ----------
- 
 
-*Liquiditätsmanagement*
 
-Planung der Liquidität für Produkte und Gesellschaften
+*Meldewesen*
 
-Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs.
+Meldungen für Bundesbank, BaFin und BZSt
+
+Im Bereich des Meldewesens ermöglicht aifExpert automatisierte Meldungen an die Bundesbank. die BaFin/Esma und das Bundeszentralamt für Steuern.
+
 
 ----------
  
@@ -31,14 +33,15 @@ Verwaltung der Assets und erzielten Renditen
 Im Portfoliomanagement unterstützt der aifExpert die Verwaltung der erworbenen Vermögensgegenstände der AIFs.
 
 ----------
+
+*Liquiditätsmanagement*
+
+Planung der Liquidität für Produkte und Gesellschaften
+
+Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs.
  
-*Meldewesen*
-
-Meldungen für Bundesbank, BaFin und BZSt
-
-Im Bereich des Meldewesens ermöglicht aifExpert automatisierte Meldungen an die Bundesbank. die BaFin/Esma und das Bundeszentralamt für Steuern.
-
-----------
+ ----------
+ 
  
 *Reporting*
 
