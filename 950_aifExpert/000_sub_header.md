@@ -1,7 +1,10 @@
-In xpectoPro finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie besondere Informationen und  Zugriff auf das Handbuch, Fernwartung und Tickets.
-
-![](http://xpecto.github.io/docs/img/img_1462259955820.png)
-
+1. [Über aifExpert](http://help.xpecto.de/aifExpert_Ueber)
+2. [Installation](http://help.xpecto.de/aifExpert_Installation)
+3. [Risikomanagement](http://help.xpecto.de/aifExpert_Risikomanagement)
+4. [Meldewesen](http://help.xpecto.de/aifExpert_Meldewesen)
+5. [Portfoliomanagement](http://help.xpecto.de/aifExpert_Portfoliomanagement)
+6. [Liquiditätsmanagement](http://help.xpecto.de/aifExpert_Liquiditätsmanagement)
+7. [Hilfe](http://help.xpecto.de/aifExpert_Hilfe)
 
 
 
