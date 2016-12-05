@@ -8,21 +8,21 @@ werden. Ebenfalls können FIBU-Systeme, wie DATEV, Navision u.w. integriert werd
 
 ----------
 
-#####Risikomanagement
+####Risikomanagement
 Erfassung und Simulation des Risikos der Unternehmung
 
 Im Bereich des Risikomanagements ermöglicht aifExpert ein umfassendes Risikocontrolling.
 
 ----------
 
-#####Liquiditätsmanagement
+####Liquiditätsmanagement
 Planung der Liquidität für Produkte und Gesellschaften
 
 Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs.
 
 ----------
 
-#####Portfoliomanagement
+####Portfoliomanagement
 
 Verwaltung der Assets und erzielten Renditen
 
@@ -30,7 +30,7 @@ Im Portfoliomanagement unterstützt der aifExpert die Verwaltung der erworbenen 
 
 ----------
 
-#####Meldewesen
+####Meldewesen
 
 Meldungen für Bundesbank, BaFin und BZSt
 
@@ -38,7 +38,7 @@ Im Bereich des Meldewesens ermöglicht aifExpert automatisierte Meldungen an die
 
 ----------
 
-#####Reporting
+####Reporting
 
 Berichte und Auswertungen
 
