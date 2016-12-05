@@ -12,7 +12,7 @@ in die Unternehmensplanung einzubeziehen.
 
 ----------
 
-*Umsetzung*
+####Umsetzung
 
 Der Erwerb der Vermögensgegenstände ist dabei sehr flexibel. Je Asset können beliebige
 Investitionsrunden und untergeordnete Zahlungstranchen definiert werden. Die erworbenen
@@ -31,3 +31,6 @@ Wertebestimmung je Anteil kann durch die umfassenden Daten aus der Anlegerverwal
 und dem Portfoliomanagement ohne Datenbrüche durchgeführt werden.
 Durch die vollständige Abbildung der Vermögensgegenstände der AIFs ist die Kommunikation
 mit der Verwahrstelle und den Anlegern deutlich vereinfacht.
+
+
+----------
