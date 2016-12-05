@@ -1,6 +1,6 @@
 In aifExpert finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie besondere Informationen und  Zugriff auf das Handbuch, Fernwartung und Tickets.
 
-![](http://xpecto.github.io/docs/img/img_1462259955820.png)
+![](http://xpecto.github.io/docs/img/aifExpert2.png)
 
 
 ----------
@@ -10,11 +10,11 @@ In aifExpert finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie b
 
 In der Menü-Ansicht finden Sie die Informationen über die Registerkarte *Hilfe* Gruppe *Informationen*.
 
-![](http://xpecto.github.io/docs/img/img_1462265466938.png)
+![](http://xpecto.github.io/docs/img/aifExpert3.png)
 
 Durch einen Klick auf die Funktion *über aifExpert* wird das Übersichtsfenster geöffnet
 
-![](http://xpecto.github.io/docs/img/img_1462265081478.png)
+![](http://xpecto.github.io/docs/img/aifExpert4.png)
 
 Drücken Sie die Escape-Taste oder Klicken Sie auf das Fenster um dieses zu schließen.
 
@@ -36,11 +36,11 @@ Unter Fernwartung können Sie einen Fernzugriff starten für einen bestimmten Su
 
 In der Menü-Ansicht kann die Funktion über Registerkarte *Hilfe* Gruppe *Fernwartung* aufgerufen werden.
 
-![](http://xpecto.github.io/docs/img/img_1462266866843.png)
+![](http://xpecto.github.io/docs/img/aifExpert5.png)
 
 In der Dialog Fernwartung gibt noch die Möglichkeiten eine E-Mail an Support zu schicken oder den gewünschten Support-Arbeitsplatz anrufen.
 
-![](http://xpecto.github.io/docs/img/img_1462267276631.png)
+![](http://xpecto.github.io/docs/img/aifExpert10.png)
 
 
 ----------
@@ -52,7 +52,7 @@ Die Funktion *Handbuch* bietet einen schnellen Zugriff auf das Handbuch.
 
 In der Menü-Ansicht ist das Handbuch unter die Registerkarte *Hilfe* Funktion *Handbuch* zu finden.
 
-![](http://xpecto.github.io/docs/img/img_1462269395258.png)
+![](http://xpecto.github.io/docs/img/aifExpert6.png)
 
 
 ----------
@@ -62,7 +62,7 @@ In der Menü-Ansicht ist das Handbuch unter die Registerkarte *Hilfe* Funktion *
 
 xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* Ihre bestehenden Tickets verwalten. 
 
- ![](http://xpecto.github.io/docs/img/img_TS_001.png)
+ ![](http://xpecto.github.io/docs/img/aifExpert9.png)
 
 ####Voraussetzung 
 
@@ -79,12 +79,12 @@ xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in
 
 ####Anlegen
 
-> Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die
-> Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto
-> Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst
-> haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*).
-> Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen
-> zugeteilt wird. 
+>![](http://xpecto.github.io/docs/img/aifExpert7.png)
+
+> Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst
+> haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*).Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen zugeteilt wird.
+> 
+> 
 > 
 > * Als Standard wählen Sie bitte *Support*. 
 > * *Bug* (Fehler), sowie 
@@ -118,11 +118,12 @@ xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in
 > Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so bitten wir Sie uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zuzusenden.
 > Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
 
-
 ####Übersicht
+> ![](http://xpecto.github.io/docs/img/aifExpert8.png)
 
-> In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie den Status der Bearbeitung der Tickets.
-> 
+>In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie den Status der Bearbeitung der Tickets.
+>  
+
 >  ![](http://xpecto.github.io/docs/img/img_TS_008.png)
 > 
 > Über *„neues Ticket anlegen“* kann wie vorher beschrieben, ein neues Ticket angelegt werden. Über *„bestehendes Tickets“* können Tickets, die bereits bei xpecto erfasst wurden, anhand ihrer Ticketnummer in
@@ -155,5 +156,8 @@ xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in
 > 
 > Bei *„Ticket erneut öffnen“* kann ein gelöschtes, geschlossenes oder zu prüfendes Ticket wieder geöffnet werden. Der Status wird hier wieder automatisch auf *neu* gesetzt. Das Ticket erscheint automatisch
 > wieder beim xpecto-Mitarbeiter in der Inbox des Ticketsystems.
+
+
+
 
 
