@@ -28,3 +28,7 @@ Das Handbuch ist nun über http://help.xpecto.de/aifExpert aufrufbar und wird ku
 #####Änderungsverfolgung
 aifExpert protokolliert nun alle Datenänderungen. Die Änderungsverfolgung muss nicht mehr konfiguriert werden, die zugehörige Einstellung wurde deshalb entfernt.
 
+
+----------
+
+
