@@ -1,11 +1,7 @@
-**aifExpert** unterstützt verschiedene Aufgabenbereiche einer Kapitalverwaltungsgesellschaft. Während
-die Anlegerverwaltung, die Anlegerbuchhaltung und die Vertriebssteuerung von unserer bewährten
-Lösung **xpectoPro** erledigt wird, stellt **aifExpert** zusätzliche Funktionen für die gesamte Unternehmung
-zur Verfügung.
+**aifExpert** unterstützt verschiedene Aufgabenbereiche einer Kapitalverwaltungsgesellschaft. Während die Anlegerverwaltung, die Anlegerbuchhaltung und die Vertriebssteuerung von unserer bewährten Lösung **xpectoPro** erledigt wird, stellt **aifExpert** zusätzliche Funktionen für die gesamte Unternehmung zur Verfügung.
 
+**aifExpert** knüpft nahtlos an das System von **xpectoPro** an und kann an weitere Systeme angebunden werden. Ebenfalls können FIBU-Systeme, wie DATEV, Navision u.w. integriert werden. 
 
-**aifExpert** knüpft nahtlos an das System von **xpectoPro** an und kann an weitere Systeme angebunden
-werden. Ebenfalls können FIBU-Systeme, wie DATEV, Navision u.w. integriert werden.
 
 ----------
 
