@@ -6,7 +6,7 @@ Bundeszentralamts für Steuern elektronisch per Knopfdruck zu übertragen.
 ----------
 
 
-*Umsetzung*
+####Umsetzung
 
 Die hierfür benötigten Daten werden in speziellen Erfassungsmasken in aifExpert hinterlegt.
 Schnittstellen zu bestehenden Systemen, wie xpectoPro etc. können implementiert werden.
@@ -20,17 +20,17 @@ geringstmöglichem Zeitaufwand IT-gestützt zu organisieren.
 
 ----------
 
-*Meldung für Bundesbank*
+####Meldung für Bundesbank
 
 
 ----------
 
-*Meldung für BaFin / ESMA*
+####Meldung für BaFin / ESMA
 
 
 ----------
 
-*Meldung für BZSt*
+####Meldung für BZSt
 
 
 ----------
