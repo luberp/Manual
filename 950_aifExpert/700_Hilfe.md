@@ -1,11 +1,12 @@
-In xpectoPro finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie besondere Informationen und  Zugriff auf das Handbuch, Fernwartung und Tickets.
+In aifExpert finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie besondere Informationen und  Zugriff auf das Handbuch, Fernwartung und Tickets.
 
 ![](http://xpecto.github.io/docs/img/img_1462259955820.png)
 
 
 ----------
+
 Ueber
-=====
+-----
 
 In der Menü-Ansicht finden Sie die Informationen über die Registerkarte *Hilfe* Gruppe *Informationen*.
 
@@ -15,7 +16,7 @@ Durch einen Klick auf die Funktion *über aifExpert* wird das Übersichtsfenster
 
 ![](http://xpecto.github.io/docs/img/img_1462265081478.png)
 
-Machen Sie darauf einen Klick um das Fenster zu schließen.
+Drücken Sie die Escape-Taste oder Klicken Sie auf das Fenster um dieses zu schließen.
 
 
 ----------
