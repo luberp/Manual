@@ -1,4 +1,4 @@
-1. [Über aifExpert](http://help.xpecto.de/aifExpert_Ueber)
+1. [Über aifExpert](http://help.xpecto.de/Ueber)
 2. [Installation](http://help.xpecto.de/aifExpert_Installation)
 3. [Risikomanagement](http://help.xpecto.de/aifExpert_Risikomanagement)
 4. [Meldewesen](http://help.xpecto.de/aifExpert_Meldewesen)
