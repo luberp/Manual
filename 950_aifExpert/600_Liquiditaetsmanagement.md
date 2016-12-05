@@ -5,7 +5,7 @@ von verschiedenen Kennzahlen wie z.B. der Eigenkapitalquote durchgeführt werden
 
 ----------
 
-*Umsetzung*
+####Umsetzung
 
 Durch die Hinterlegung von Formeln und Abhängigkeiten können die Auswirkungen von
 bestimmten Annahmen sehr genau aufgezeigt und dargestellt werden. Mithilfe der Verknüpfung einzelner Planungsposten mit den entsprechenden Risiken können Simulationen für unterschiedliche zukünftige
