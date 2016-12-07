@@ -4,7 +4,7 @@ Lösung xpectoPro erledigt wird, stellt aifExpert zusätzliche Funktionen für d
 zur Verfügung.
 
 aifExpert knüpft nahtlos an das System von xpectoPro an und kann an weitere Systeme angebunden
-werden. Ebenfalls können FIBU-Systeme, wie DATEV, Navision u.w. integriert werden.
+werden.
 
 ----------
 
