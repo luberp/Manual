@@ -4,9 +4,10 @@ Dieses Handbuch beschreibt **keine** administrativen Aufgaben wie zum Beispiel d
 
 In diesem Handbuch wird nur die Installation der Client-Applikation und die Herstellung der Verbindung zu einer bestehenden Datenbank beschrieben. 
 
-Die aifExpert Installations-CD enthält alle zur Installation benötigten Dateien. Eine aktuelle Installationsdatei steht außerdem unter folgender Adresse zum Download bereit:
+Die aifExpert Installations-CD enthält alle zur Installation benötigten Dateien. 
+Eine aktuelle Installationsdatei steht außerdem unter folgender Adresse zum Download bereit:
 
-http://www.xpecto.de/down/setup.msi
+http://www.xpecto.de/down/aifExpert.msi (wird demnächst zur Verfügung gestellt)
 
 Bitte beachten Sie die Schreibweise (Groß- und Kleinschreibung) der URLs!
 
@@ -21,8 +22,10 @@ Für die Installation von aifExpert werden Administratorrechte benötigt.
 
 *Server:*
 
- - Microsoft SQL Server 2012/2014/2016 Datenzuwachs: ca. 200-2.000MB/a
- - Zentrales Verzeichnis für restliche Daten Datenzuwachs: ca. 1GB/a
+ - Microsoft SQL Server 2012/2014/2016 
+	 - Datenzuwachs: ca. 200-2.000MB/a
+ - Zentrales Verzeichnis für restliche Daten 
+	 - Datenzuwachs: ca. 1GB/a
 
 *Arbeitsstation:*
 
@@ -40,7 +43,7 @@ Für die Installation von aifExpert werden Administratorrechte benötigt.
 ###Installation der Software
 
 
-Starten Sie die Datei setup.exe von der xpecto Website.
+Starten Sie die heruntergeladene Datei aifExpert.exe von der xpecto Website.
 
 Als Benutzer von Microsoft Windows bestätigen Sie die Sicherheitswarnung, die auf einen unbekannten Herausgeber hinweist mit	*Ausführen* und die darauf folgende Sicherheitswarnung der Benutzerkontensteuerung mit *Zulassen.*
 
