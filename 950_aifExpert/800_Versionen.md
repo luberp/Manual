@@ -11,7 +11,7 @@ Sie finden zu jeder Version eine Auflistung aller Änderungen wie Fehlerbehebung
 
 ###Highlights
 #####Ribbon-Menü & Layout
-aifExpert besitzt nun eine moderne und übersichtliche Menüstruktur. Gleichzeitig wurden jegliche Oberflächen einer umfassen Layout-Prüfung unterzogen und ggf. angepasst.
+aifExpert besitzt nun eine moderne und übersichtliche Menüstruktur. Gleichzeitig wurden jegliche Oberflächen einer umfassenden Layout-Prüfung unterzogen und ggf. angepasst.
 #####Funktionen
 aifExpert wurde um vielfältige Funktionen in allen Bereichen erweitert, um die Nutzung der Software für den Anwender so angenehm wie möglich zu gestalten.
 #####Performance
@@ -23,6 +23,7 @@ aifExpert wird nun standardmäßig im Risikomanagement-Bereich mit einem umfangr
 #####Standard-Berichte
 Im Bereich des Berichtswesens können standardisierte Auswertungen und Berichte für das Risikomanagement im Berichte-Modul vom xpecto Webserver runtergeladen werden. 
 Für das Meldewesen wurden für die jeweiligen Meldungen zusätzliche Standard-Berichte implementiert, um eine Gegenprüfung und Sicherung in lesbarer Form zu gewährleisten. 
+Um die Berichte zu benutzen muss im Berichts-Editor im Fenster "Neuen Bericht erstellen"  im Reiter "xpecto Vorlagen" die jeweiligen Berichte ausgewählt und heruntergeladen werden.
 #####Handbuch
 Das Handbuch ist nun über http://help.xpecto.de/aifExpert aufrufbar und wird kurzfristig um weitere Inhalte erweitert.
 #####Änderungsverfolgung
