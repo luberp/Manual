@@ -19,7 +19,7 @@ Der Start des aifExpert wurde deutlich durch Verbesserungen im Code beschleunigt
 #####Meldewesen - Trennung der Meldungen
 Um eine bessere Übersichtlichkeit und Handhabung des komplexen Themas "Meldewesen" zu gewährleisten, wurden die jeweiligen Meldungsarten aufgeteilt und die Auswahl in einem Sub-Menü implementiert. 
 #####Standard-Risikokatalog
-aifExpert wird nun standardmäßig im Risikomanagement-Bereich mit einem umfangreichen Standardkatalog ausgeliefert. Dieser wurde in Zusammenarbeit mit einer KVG erarbeitet und ermöglicht die sofortige Benutzung des Risikomanagements.
+aifExpert wird nun standardmäßig im Risikomanagement-Bereich mit einem umfangreichen Standardkatalog ausgeliefert. Dieser wurde in Zusammenarbeit mit einer KVG erarbeitet und ermöglicht die sofortige Benutzung des Risikomanagement-Moduls.
 #####Standard-Berichte
 Im Bereich des Berichtswesens können standardisierte Auswertungen und Berichte für das Risikomanagement im Berichte-Modul vom xpecto Webserver runtergeladen werden. 
 Für das Meldewesen wurden für die jeweiligen Meldungen zusätzliche Standard-Berichte implementiert, um eine Gegenprüfung und Sicherung in lesbarer Form zu gewährleisten. 
