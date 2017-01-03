@@ -1,38 +1,51 @@
-####Risikocontrolling
+aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer  mfassenden und detaillierten Betrachtung des Gesamtrisikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
 
-aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten.
+ - Risikoidentifikation
+ - Risikobeurteilung
+ - Risikosteuerung
+ - Risikoüberwachung
+ - Risikokommunikation
 
-> <p> Erläuterung </p>
+umfangreiche Methoden, Oberflächen und Funktionalitäten.
 
-> <p>Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden. </p>
+######Erläuterung
+
+Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.
+
+Nach MaRisk (AT 4.3.2) müssen die Risikosteuerungs- und -controllingprozesse  gewährleisten, dass die wesentlichen Risiken – auch aus ausgelagerten Aktivitäten und Prozessen – frühzeitig erkannt, vollständig erfasst und in angemessener Weise dargestellt werden können.
+
+Nach KAGB § 28 Abs. Satz 1 hat die KVG ein angemessenes Risikomanagementsystem zu verfügen und nach § 29 Abs. 1 eine dauerhafte Risikocontrollingfunktion einzurichten und aufrechtzuerhalten.
 
 ----------
 
-####Risikokatalog & Ebenen & Objekte
+###Risikoidentifikation
 
-Um den Anforderungen nach einer umfassenden und detaillierten Betrachtung des Gesamtrisikoprofils
-und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte sowie der unterschiedlichen zugrunde liegenden Parameter.
+Durch die die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte sowie der unterschiedlichen zugrunde liegenden Parameter kann einer umfangreichen und strukturierten Risikoidentifikation Rechnung getragen werden.
+
+####Risikokatalog & Ebenen & Objekte
 
 Diese Stammdaten bilden die Grundlage für den sinnvollen und effektiven Umgang sowie einen definierten Rahmen für die Bewertung von Risiken. 
 
 Um eine sofortige Benutzung des aifExpert zu ermöglichen, wird ein standardisierter Risikokatalog sowie alle notwendigen Parameter bei der Installation ausgeliefert. Der Katalog sowie diese Informationen wurden gemeinsam mit einer KVG erarbeitet und können flexibel je nach Anforderung angepasst und verändert werden.
 
- 
-
-*Erläuterung*
-*Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.*
+######Erläuterung
+Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.
 
 ![](http://xpecto.github.io/docs/img/aifExpert11.png)
 
-#####Risikokategorien
+----------
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko1.png)
+#####Risikokategorien
 
 Im Risikokatalog werden die Risikoarten - eingruppiert in Risikokategorien - übersichtlich aufgelistet. Bei der Auswahl / Anlage einer Risikokategorie kann diese mit einer Beschreibung versehen werden.
 
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko1.png)
+
+----------
+
 #####Risikoarten
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko2.png)
+
 
 Innerhalb einer Risikokategorie kann eine beliebig große Anzahl an Risikoarten hinterlegt werden. Die Risikoarten selbst können mit vielfältige Informationen hinterlegt werden. 
 
@@ -42,7 +55,12 @@ Weiterhin kann hinterlegt werden innerhalb welcher Phase dieses Risiko auftreten
 
 Zusätzliche Textfelder ermöglichen die Beschreibung der Risikoart sowie Bearbeitungshinweise für diese zu hinterlegen.
 
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko2.png)
+
+----------
+
 #####Phasen
+Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese sollen den Lebenszyklus eines AIF abbilden. Durch die Hinterlegung der Phasen je Risikoart (d.h. welches Risikoart kann in welcher Phase vorkommen) kann letztendlich in der Risikoüberwachung eine spezifische Risikobetrachtung anhand der jeweiligen Phasen erfolgen
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko3.png)
 
@@ -54,21 +72,23 @@ Im Reiter "Stufen" können beliebig Schadensaußmaße hinterlegt werden. Neben d
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala der Wahrscheinlichkeiten können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
 Die Kategorisierung der Risikoklassen ist auch innerhalb des Reiters "Stufen" flexibel möglich.
 
-*Erläuterung*
-*Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.*
+######Erläuterung
+Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
+
+----------
 
 #####Wahrscheinlichkeiten
-
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko5.png)
 
 Im Reiter "Wahrscheinlichkeiten" können beliebig Eintrittswahrscheinlichkeiten hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 10% Wahrscheinlichkeit ist innerhalb der Stufe "unwahrscheinlich" einzuordnen, da "unwahrscheinlich" von 0% - 20% gilt). 
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
 
+######Erläuterung
+Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
 
-*Erläuterung*
-*Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.*
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko5.png)
 
-----
+----------
+
 #####Prognosen
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko6.png)
