@@ -149,7 +149,7 @@ Zur Übersicht aller Risiken steht eine Liste im Menü-Reiter "Risikomanagement 
  - Grün: Risikoklasse 1 & 2
  - Ring: Risikoklasse 0
 
-Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschloßen werden. Letztere beziehen sich auf die aktuellste Bewertung. 
+Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich auf die aktuellste Bewertung. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko11.png)
 
@@ -157,12 +157,19 @@ Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "A
 
 ###Risikobewertung
 
-Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter
-Eintrittswahrscheinlichkeit, Ausmaß und Erwartungswert benutzt, durchgeführt werden.
-Durch diese Bewertung ergibt sich dann die Risikokennzahl sowie eine Risikoklasse. Je Risiko
-sind dabei mehrere Bewertungen möglich.
+Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter Eintrittswahrscheinlichkeit (Wahrscheinlichkeit), Schadensausmaß (Stufe) und Erwartungswert (Risikowert) benutzt, durchgeführt werden.  Innerhalb der Bewertung können auf die drei Parameter Stufe, Wahrscheinlichkeit und Risikowert bestimmt und hinterlegt werden. Die Parameter Stufe und Wahrscheinlichkeit können bequem per Schieberegler oder auch durch eine Eingabe hinterlegt werden. Durch die zugrunde liegenden Stammdaten werden die Bezeichnungen der Parameter, die Risikoklasse sowie der gewichtete Risikowert dynamisch angezeigt und berechnet. 
+
+ - Gewichteter Risikowert = Risikowert * Faktor der Stufe * Faktor der Wahrscheinlichkeit
+ - RisikoKlasse = Definition im Risikokatalog anhand Stufe und Wahrscheinlichkeit
+
+Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So kann eine Datei mit der Bewertung oder eine Prognose-Art hinterlegt werden. 
+
+Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in dem Feld "Bemerkungen" und der Betätigung der Schaltfläche "erledigt". Nach der Betätigung wird diese Bewertung unveränderbar, d.h. revisionssicher, gespeichert. Dabei wird diese dann als aktuellste Bewertung in jegliche Auswertungen verwendet und wird in der Anzeige im Unterreiter "Allgemein" mit seinen Kennzahlen angezeigt. Bewertungen können jedoch auch ohne die Betätigung der Schaltfläche "erledigt" weiter bearbeitet und offen gelassen werden. Hintergrund der Funktionalität ist die Notwendigkeit nach einem nachvollziehbaren und revisionssicheren Risikomanagementsystem. Bedeutet, dass Risikobewertungen, die überwacht und kommuniziert werden, müssen zurückverfolgbar sein und nicht mehr nachträglich verändert werden können. Damit soll sichergestellt werden, dass eine historische Betrachtung der Risikosituation möglich ist. Ein weiterer Vorteil stellt das Rechtesystem von aifExpert dar. So kann bestimmt werden, dass nur bestimmte Personen den verbindlichen Abschluss einer Risikobewertung durchführen können.
+
+Die gespeicherten Bewertungen, sei es offen oder auch geschlossen, können im Unterreiter "Bewertungen" betrachtet und zurückverfolgt werden.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko12.png)
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko13.png)
 
 ----------
