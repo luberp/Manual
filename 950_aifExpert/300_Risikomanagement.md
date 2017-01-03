@@ -176,11 +176,20 @@ Die gespeicherten Bewertungen, sei es offen oder auch geschlossen, können im Un
 ###Maßnahmen
 
 Neben der klassischen Risikobewertungen können je Risiko unterschiedliche risikomindernde
-Maßnahmen hinterlegt werden. Durch die hinterlegte Berechnungslogik können bereits
-durchgeführte Maßnahmen das Risiko mindern.
+Maßnahmen hinterlegt werden. Dabei können je Maßnahme unterschiedliche Informationen hinterlegt werden. Die Maßnahmen können dabei in eine der drei vorhandenen Arten (Vorbeugend, Eventual, Notfall) eingeordnet werden und mit einem Effizienz-Faktor versehen werden. Dieser Effizienz-Faktor spielt bei der Berechnung des gewichteten Risikowertes im Rahmen der Risikoüberwachung eine Rolle.  Dabei werden durch die hinterlegte Berechnungslogik durchgeführte Maßnahmen das Risiko mindern. Heißt, wenn Maßnahmen umgesetzt sind (Feld "Umgesetzt" hat einen Wert) wird der gewichtete Risikowert um den Effizienz-Faktor gemindert.
 
+ *Beispiel*
+ *Maßnahme mit Effizienz von 20% wurde umgesetzt. Das Risiko mit dem ursprünglichen gewichteten Wert von 1.000 € wurde um 20% gemindert. Der neue gewichtete Risikowert beträgt 800 €.*
+
+Die Maßnahmen können entweder risikobezogen im Unterreiter "Maßnahmen" oder allgemein im Reiter "Maßnahmen" betrachtet und verwaltet werden. Im Letzteren werden alle angelegten Maßnahmen angezeigt.
+
+######Erläuterungen
+Nach MaRisk (4.3.2) sollen geeignete Maßnahmen gewährleisten, dass die Risiken und die damit
+verbundenen Risikokonzentrationen unter Berücksichtigung der Risikotragfähigkeit und der
+Risikotoleranzen wirksam begrenzt und überwacht werden können.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko14.png)
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko15.png)
 
 ----------
@@ -192,6 +201,9 @@ gespeichert und stehen somit auch für Reporting-Funktionen zur Verfügung.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
 
+
+######Erläuterungen
+Nach MaRisk (BTR 4) 
 
 ----------
 
