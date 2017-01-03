@@ -159,12 +159,12 @@ Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "A
 
 Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter Eintrittswahrscheinlichkeit (Wahrscheinlichkeit), Schadensausmaß (Stufe) und Erwartungswert (Risikowert) benutzt, durchgeführt werden.  Innerhalb der Bewertung können auf die drei Parameter Stufe, Wahrscheinlichkeit und Risikowert bestimmt und hinterlegt werden. Die Parameter Stufe und Wahrscheinlichkeit können bequem per Schieberegler oder auch durch eine Eingabe hinterlegt werden. Durch die zugrunde liegenden Stammdaten werden die Bezeichnungen der Parameter, die Risikoklasse sowie der gewichtete Risikowert dynamisch angezeigt und berechnet. 
 
- - Gewichteter Risikowert = Risikowert * Faktor der Stufe * Faktor der Wahrscheinlichkeit
+ - Gewichteter Risikowert = Risikowert * Faktor der Stufe (in %) * Faktor der Wahrscheinlichkeit (in %)
  - RisikoKlasse = Definition im Risikokatalog anhand Stufe und Wahrscheinlichkeit
 
 Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So kann eine Datei mit der Bewertung oder eine Prognose-Art hinterlegt werden. 
 
-Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in dem Feld "Bemerkungen" und der Betätigung der Schaltfläche "erledigt". Nach der Betätigung wird diese Bewertung unveränderbar, d.h. revisionssicher, gespeichert. Dabei wird diese dann als aktuellste Bewertung in jegliche Auswertungen verwendet und wird in der Anzeige im Unterreiter "Allgemein" mit seinen Kennzahlen angezeigt. Bewertungen können jedoch auch ohne die Betätigung der Schaltfläche "erledigt" weiter bearbeitet und offen gelassen werden. Hintergrund der Funktionalität ist die Notwendigkeit nach einem nachvollziehbaren und revisionssicheren Risikomanagementsystem. Bedeutet, dass Risikobewertungen, die überwacht und kommuniziert werden, müssen zurückverfolgbar sein und nicht mehr nachträglich verändert werden können. Damit soll sichergestellt werden, dass eine historische Betrachtung der Risikosituation möglich ist. Ein weiterer Vorteil stellt das Rechtesystem von aifExpert dar. So kann bestimmt werden, dass nur bestimmte Personen den verbindlichen Abschluss einer Risikobewertung durchführen können.
+Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in dem Feld "Bemerkungen" und der Betätigung der Schaltfläche "erledigt". Nach der Betätigung wird diese Bewertung unveränderbar, d.h. revisionssicher, gespeichert. Dabei wird diese dann als aktuellste Bewertung in jegliche Auswertungen verwendet und wird in der Anzeige im Unterreiter "Allgemein" mit seinen Kennzahlen angezeigt. Bewertungen können jedoch auch ohne die Betätigung der Schaltfläche "erledigt" weiter bearbeitet und offen gelassen werden. Hintergrund der Funktionalität ist die Notwendigkeit nach einem nachvollziehbaren und revisionssicheren Risikomanagementsystem. Bedeutet, dass Risikobewertungen, die überwacht und kommuniziert werden,  zurückverfolgbar sein müssen und nicht mehr nachträglich verändert werden können. Damit soll sichergestellt werden, dass eine historische Betrachtung des Risikoprofils möglich ist. Ein weiterer Vorteil stellt das Rechtesystem von aifExpert dar. So kann bestimmt werden, dass nur bestimmte Personen den verbindlichen Abschluss einer Risikobewertung durchführen können.
 
 Die gespeicherten Bewertungen, sei es offen oder auch geschlossen, können im Unterreiter "Bewertungen" betrachtet und zurückverfolgt werden.
 
@@ -199,11 +199,10 @@ Um der Anforderung des MaRisk Rechnung zu tragen und ein umfängliches Risikoman
 
 Die Schadensfälle werden in der zentralen Datenbank gespeichert und stehen somit auch für Reporting-Funktionen zur Verfügung.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
-
-
 ######Erläuterungen
 Nach MaRisk (BTR 4) sollen Schadensfälle jährlich der Geschäftsleitung berichtet werden. Diese Anforderung impliziert damit, dass Schadensfälle aufgenommen und gespeichert werden müssen. In welcher Art und Weise wird nach MaRisk nicht vorgegeben. 
+
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
 
 ----------
 
@@ -247,4 +246,6 @@ Zur Risikokommunikation können folgende Methoden im aifExpert implementiert wer
  - Festlegung von Terminen & Zyklen
  - Festlegung von Verantwortlichkeiten und Anzeige der entsprechenden Risiken
  - Implementierung von Hintergrunddiensten mit unterschiedlichen Auslösern und Funktionen
- - Zur Verfügung stellen eines Analyse-Systems je Stakholder (siehe http://www.talonec.com/produkte/biexpert/
+ - Zur Verfügung stellen eines Analyse-Systems je Stakeholder mit dem System [biExpert](http://www.talonec.com/produkte/biexpert/)
+
+----------
