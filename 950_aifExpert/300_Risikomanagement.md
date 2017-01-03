@@ -2,9 +2,9 @@
 
 aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten.
 
->*Erläuterung*
+> <p> Erläuterung </p>
 
->*Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.*
+> <p>Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden. </p>
 
 ----------
 
