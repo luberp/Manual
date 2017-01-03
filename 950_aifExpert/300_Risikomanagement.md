@@ -129,14 +129,40 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko8.png)
 
 ----------
-###Risikobewertung
+
+###Risikosteuerung
+
+####Risikoanlage
 
 Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenenstruktur und der Risikoobjekte
-erstellt aifExpert automatisch zu jedem Risikoobjekt die jeweiligen einzelnen Risiken. Diese
-Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter
+kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfläche "Neu" oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Objekt die jeweiligen Risiken erstellt.
+
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko9.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko10.png)
+
+####Risikoübersicht
+Zur Übersicht aller Risiken steht eine Liste im Menü-Reiter "Risikomanagement - Risiko" zur Verfügung. Diese Liste ermöglicht die Suche, Auswahl, Sortierung und einen Kurzüberblick über die identifizierten Risiken. Um eine schnellen Überblick zu gewährleisten wurden neben den wichtigsten Informationen auch eine Ampelfunktionalität innerhalb dieser Liste implementiert. Die Ampel zeigt dabei farblich die jeweilige zugrunde liegende Risikoklasse:
+
+ - Rot: Risikoklasse 4 & 5
+ - Gelb: Risikoklasse 3
+ - Grün: Risikoklasse 1 & 2
+ - Ring: Risikoklasse 0
+
+Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschloßen werden. Letztere beziehen sich auf die aktuellste Bewertung. 
+
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko11.png)
+
+----------
+
+###Risikobewertung
+
+Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter
 Eintrittswahrscheinlichkeit, Ausmaß und Erwartungswert benutzt, durchgeführt werden.
 Durch diese Bewertung ergibt sich dann die Risikokennzahl sowie eine Risikoklasse. Je Risiko
 sind dabei mehrere Bewertungen möglich.
+
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko12.png)
 
 ----------
 ####Maßnahmen
