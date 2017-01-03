@@ -7,7 +7,7 @@ aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der 
  - Risikokommunikation
 
 umfangreiche Methoden, Oberflächen und Funktionalitäten.
-<br>
+
 ######Erläuterung
 
 Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.
@@ -27,25 +27,20 @@ Durch die die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hier
 Diese Stammdaten bilden die Grundlage für den sinnvollen und effektiven Umgang sowie einen definierten Rahmen für die Bewertung von Risiken. 
 
 Um eine sofortige Benutzung des aifExpert zu ermöglichen, wird ein standardisierter Risikokatalog sowie alle notwendigen Parameter bei der Installation ausgeliefert. Der Katalog sowie diese Informationen wurden gemeinsam mit einer KVG erarbeitet und können flexibel je nach Anforderung angepasst und verändert werden.
-<br>
+
 ######Erläuterung
 Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.
-<br>
-<br>
+
 ![](http://xpecto.github.io/docs/img/aifExpert11.png)
-<br>
-<br>
 
 ----------
 
 #####Risikokategorien
 
 Im Risikokatalog werden die Risikoarten - eingruppiert in Risikokategorien - übersichtlich aufgelistet. Bei der Auswahl / Anlage einer Risikokategorie kann diese mit einer Beschreibung versehen werden.
-<br>
-<br>
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko1.png)
-<br>
-<br>
+
 
 ----------
 
@@ -58,21 +53,21 @@ Essenziell und wichtig für den weiteren Prozess ist die Verknüpfung mit einer 
 Weiterhin kann hinterlegt werden innerhalb welcher Phase dieses Risiko auftreten kann.
 
 Zusätzliche Textfelder ermöglichen die Beschreibung der Risikoart sowie Bearbeitungshinweise für diese zu hinterlegen.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko2.png)
-<br>
-<br>
+
+
 
 ----------
 
 ####Phasen
 Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese sollen den Lebenszyklus eines AIF abbilden. Durch die Hinterlegung der Phasen je Risikoart (d.h. welches Risikoart kann in welcher Phase vorkommen) kann letztendlich in der Risikoüberwachung eine spezifische Risikobetrachtung anhand der jeweiligen Phasen erfolgen
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko3.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -81,14 +76,14 @@ Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese sollen
 Im Reiter "Stufen" können beliebig Schadensaußmaße hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 90% Schadensausmaß ist innerhalb der Stufe "schwer" einzuordnen, da "schwer" von 81% - 100% gilt). 
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala der Wahrscheinlichkeiten können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
 Die Kategorisierung der Risikoklassen ist auch innerhalb des Reiters "Stufen" flexibel möglich.
-<br>
+
 ######Erläuterung
 Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko4.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -96,14 +91,14 @@ Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Fo
 
 Im Reiter "Wahrscheinlichkeiten" können beliebig Eintrittswahrscheinlichkeiten hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 10% Wahrscheinlichkeit ist innerhalb der Stufe "unwahrscheinlich" einzuordnen, da "unwahrscheinlich" von 0% - 20% gilt). 
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
-<br>
+
 ######Erläuterung
 Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko5.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -143,11 +138,11 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 
 *Beispiel 4*
 *Die KVG betreut mehrere Emittenten. Bei der Betrachtung des Gesamtrisikoprofils, d.h. aller vorhandenen und identifizierten Risiken, werden die Risiken der KVG selbst sowie aller Emittenten, deren AIF und deren Assets betrachtet.*
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko8.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -157,14 +152,14 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 
 Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenenstruktur und der Risikoobjekte
 kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfläche "Neu" oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Objekt die jeweiligen Risiken erstellt.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko9.png)
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko10.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -177,11 +172,11 @@ Zur Übersicht aller Risiken steht eine Liste im Menü-Reiter "Risikomanagement 
  - Ring: Risikoklasse 0
 
 Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich auf die aktuellste Bewertung. 
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko11.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -197,14 +192,13 @@ Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So
 Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in dem Feld "Bemerkungen" und der Betätigung der Schaltfläche "erledigt". Nach der Betätigung wird diese Bewertung unveränderbar, d.h. revisionssicher, gespeichert. Dabei wird diese dann als aktuellste Bewertung in jegliche Auswertungen verwendet und wird in der Anzeige im Unterreiter "Allgemein" mit seinen Kennzahlen angezeigt. Bewertungen können jedoch auch ohne die Betätigung der Schaltfläche "erledigt" weiter bearbeitet und offen gelassen werden. Hintergrund der Funktionalität ist die Notwendigkeit nach einem nachvollziehbaren und revisionssicheren Risikomanagementsystem. Bedeutet, dass Risikobewertungen, die überwacht und kommuniziert werden,  zurückverfolgbar sein müssen und nicht mehr nachträglich verändert werden können. Damit soll sichergestellt werden, dass eine historische Betrachtung des Risikoprofils möglich ist. Ein weiterer Vorteil stellt das Rechtesystem von aifExpert dar. So kann bestimmt werden, dass nur bestimmte Personen den verbindlichen Abschluss einer Risikobewertung durchführen können.
 
 Die gespeicherten Bewertungen, sei es offen oder auch geschlossen, können im Unterreiter "Bewertungen" betrachtet und zurückverfolgt werden.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko12.png)
-<br>
-<br>
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko13.png)
-<br>
-<br>
+
+
 
 ----------
 ###Maßnahmen
@@ -216,19 +210,19 @@ Maßnahmen hinterlegt werden. Dabei können je Maßnahme unterschiedliche Inform
  *Maßnahme mit Effizienz von 20% wurde umgesetzt. Das Risiko mit dem ursprünglichen gewichteten Wert von 1.000 € wurde um 20% gemindert. Der neue gewichtete Risikowert beträgt 800 €.*
 
 Die Maßnahmen können entweder risikobezogen im Unterreiter "Maßnahmen" oder allgemein im Reiter "Maßnahmen" betrachtet und verwaltet werden. Im Letzteren werden alle angelegten Maßnahmen angezeigt.
-<br>
+
 ######Erläuterungen
 Nach MaRisk (4.3.2) sollen geeignete Maßnahmen gewährleisten, dass die Risiken und die damit
 verbundenen Risikokonzentrationen unter Berücksichtigung der Risikotragfähigkeit und der
 Risikotoleranzen wirksam begrenzt und überwacht werden können.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko14.png)
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko15.png)
-<br>
-<br>
+
+
 
 ----------
 ###Schadensfälle
@@ -236,14 +230,14 @@ Risikotoleranzen wirksam begrenzt und überwacht werden können.
 Um der Anforderung des MaRisk Rechnung zu tragen und ein umfängliches Risikomanagementsystem anbieten zu können, wurde im aifExpert der Bereich "Schadensfälle" implementiert. Hier können Schadensfälle angelegt  und mit weiteren Informationen versehen werden. Gleichzeitig können diese mit einem Risiko verknüpft werden um eine Nachvollziehbarkeit zu gewährleisten (Falls ein Schadenfall ein materialisiertes Risiko darstellt). 
 
 Die Schadensfälle werden in der zentralen Datenbank gespeichert und stehen somit auch für Reporting-Funktionen zur Verfügung.
-<br>
+
 ######Erläuterungen
 Nach MaRisk (BTR 4) sollen Schadensfälle jährlich der Geschäftsleitung berichtet werden. Diese Anforderung impliziert damit, dass Schadensfälle aufgenommen und gespeichert werden müssen. In welcher Art und Weise wird nach MaRisk nicht vorgegeben. 
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
-<br>
-<br>
+
+
 
 ----------
 
@@ -260,7 +254,7 @@ und zum Versand der Berichte führen. Beim prozessgesteuerten Berichtswesen erfo
 Die Berichte können dabei Kennzahlen berechnen, Limits prüfen und komplexe Berechnungen durchführen. Die Daten des Berichts und der Bericht selbst werden in Standardformaten wie XLS, PDF oder CSV bereitgestellt.
 
 Im Bereich des Risikomanagements stehen dabei standardisierte Berichte zum herunterladen zur Verfügung. Diese Berichte ermöglichen eine sofortige Risikoüberwachung der wichtigsten Kennzahlen und Informationen wie Risikoprofil je Ebene / Objekt, Risikomatrix, Aggreggationen, Termine, Maßnahmen u.v.m. und können entsprechend der Anforderungen angepasst udn verändert werden.
-<br>
+
 ######Erläuterungen
 Um Entscheidungen treffen zu können und  Informationen im betrieblichen Alltag  auszutauschen, sind Manager auf besondere Güte sowie Verfügbarkeit der Informationen angewiesen.
 Dabei soll das Reporting das operative sowie strategische Management mit Informationen für  Planung, Entscheidung und Controlling versorgen.
@@ -268,17 +262,17 @@ Dabei soll das Reporting das operative sowie strategische Management mit Informa
 Im Risikomanagement findet sich im MaRisk die Notwendigkeit nach einem Berichtswesen im Abschnitt AT 4.3.2. Demnach muss der  Geschäftsleitung regelmäßig über die  gegenwärtige Risikosituation berichtet werden. Auch der BaFin müssen nach § 35 Abs.1 KAGB alle signifikanten Risikokennzahlen vorgelegt werden.
 
 Neben diesen rechtlichen Anforderungen besitzt jede KVG praktische und spezifische Anforderungen an das Reporting, welches die KVG mit aktuellen Informationen zur richtigen Zeit mit der gewünschten Qualität  versorgt.
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko18.png)
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko19.png)
-<br>
-<br>
+
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko20.png)
-<br>
-<br>
+
+
 
 ----------
 
