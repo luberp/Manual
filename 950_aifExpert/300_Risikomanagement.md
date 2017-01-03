@@ -1,7 +1,7 @@
 aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer  mfassenden und detaillierten Betrachtung des Gesamtrisikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
 
  - Risikoidentifikation
- - Risikobeurteilung
+ - Risikobewertung
  - Risikosteuerung
  - Risikoüberwachung
  - Risikokommunikation
@@ -163,20 +163,38 @@ Durch diese Bewertung ergibt sich dann die Risikokennzahl sowie eine Risikoklass
 sind dabei mehrere Bewertungen möglich.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko12.png)
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko13.png)
 
 ----------
-####Maßnahmen
+###Maßnahmen
 
 Neben der klassischen Risikobewertungen können je Risiko unterschiedliche risikomindernde
 Maßnahmen hinterlegt werden. Durch die hinterlegte Berechnungslogik können bereits
 durchgeführte Maßnahmen das Risiko mindern.
 
 
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko14.png)
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko15.png)
+
 ----------
-####Schadensfälle
+###Schadensfälle
 
 Materialisierte Risiken können im aifExpert als Schadensfälle angelegt werden und mit weiteren
 Informationen versehen werden. Die Schadensfälle werden in der zentralen Datenbank
 gespeichert und stehen somit auch für Reporting-Funktionen zur Verfügung.
 
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
+
+
+----------
+
+### Risikoüberwachung
+
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko18.png)
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko19.png)
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko20.png)
+
+----------
+
+### Risikokommunikation
 
