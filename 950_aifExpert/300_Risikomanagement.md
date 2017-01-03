@@ -195,19 +195,35 @@ Risikotoleranzen wirksam begrenzt und überwacht werden können.
 ----------
 ###Schadensfälle
 
-Materialisierte Risiken können im aifExpert als Schadensfälle angelegt werden und mit weiteren
-Informationen versehen werden. Die Schadensfälle werden in der zentralen Datenbank
-gespeichert und stehen somit auch für Reporting-Funktionen zur Verfügung.
+Um der Anforderung des MaRisk Rechnung zu tragen und ein umfängliches Risikomanagementsystem anbieten zu können, wurde im aifExpert der Bereich "Schadensfälle" implementiert. Hier können Schadensfälle angelegt  und mit weiteren Informationen versehen werden. Gleichzeitig können diese mit einem Risiko verknüpft werden um eine Nachvollziehbarkeit zu gewährleisten (Falls ein Schadenfall ein materialisiertes Risiko darstellt). 
+
+Die Schadensfälle werden in der zentralen Datenbank gespeichert und stehen somit auch für Reporting-Funktionen zur Verfügung.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
 
 
 ######Erläuterungen
-Nach MaRisk (BTR 4) 
+Nach MaRisk (BTR 4) sollen Schadensfälle jährlich der Geschäftsleitung berichtet werden. Diese Anforderung impliziert damit, dass Schadensfälle aufgenommen und gespeichert werden müssen. In welcher Art und Weise wird nach MaRisk nicht vorgegeben. 
 
 ----------
 
 ### Risikoüberwachung
+
+Zur Risikoüberwachung stellt der aifExpert vielfältige Methoden zur Verfügung.
+Neben einer allgemeinen Risikoübersicht mithilfe der funktionalen Risikoliste und einer Risikomatrix im Unterreiter "Matrix" stellt das Reporting-Modul ein umfangreiches Berichtswesen zur Verfügung.
+
+ 
+
+#####Erläuterungen
+Um Entscheidungen treffen zu können und  Informationen im betrieblichen Alltag  auszutauschen, sind Manager auf besondere Güte sowie Verfügbarkeit der Informationen angewiesen.
+Dabei soll das Reporting das operative sowie strategische Management mit Informationen für  Planung, Entscheidung und Controlling versorgen.
+
+Im Risikomanagement findet sich im MaRisk die Notwendigkeit nach einem Berichtswesen im Abschnitt AT 4.3.2. Demnach muss der  Geschäftsleitung regelmäßig über die  gegenwärtige Risikosituation berichtet werden. Auch der BaFin müssen nach § 35 Abs.1 KAGB alle signifikanten Risikokennzahlen vorgelegt werden.
+
+Neben diesen rechtlichen Anforderungen besitzt jede KVG praktische und spezifische Anforderungen an das Reporting, welches die KVG mit aktuellen Informationen zur richtigen Zeit mit der gewünschten Qualität  versorgt.
+
+
+
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko18.png)
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko19.png)
