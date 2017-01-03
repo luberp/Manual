@@ -59,12 +59,12 @@ Zusätzliche Textfelder ermöglichen die Beschreibung der Risikoart sowie Bearbe
 
 ----------
 
-#####Phasen
+####Phasen
 Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese sollen den Lebenszyklus eines AIF abbilden. Durch die Hinterlegung der Phasen je Risikoart (d.h. welches Risikoart kann in welcher Phase vorkommen) kann letztendlich in der Risikoüberwachung eine spezifische Risikobetrachtung anhand der jeweiligen Phasen erfolgen
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko3.png)
 
-#####Stufen
+####Stufen
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko4.png)
 
@@ -77,7 +77,7 @@ Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Fo
 
 ----------
 
-#####Wahrscheinlichkeiten
+####Wahrscheinlichkeiten
 
 Im Reiter "Wahrscheinlichkeiten" können beliebig Eintrittswahrscheinlichkeiten hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 10% Wahrscheinlichkeit ist innerhalb der Stufe "unwahrscheinlich" einzuordnen, da "unwahrscheinlich" von 0% - 20% gilt). 
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
@@ -89,20 +89,21 @@ Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mi
 
 ----------
 
-#####Prognosen
+####Prognosen
+Im Reiter "Prognosen" können beliebig viele Prognose-Arten hinterlegt werden. Je Prognose-Art wird dabei eine Bezeichnung sowie Faktoren je Zeitraum hinterlegt. Diese Faktoren können mithilfe von Schiebereglern positiv wie auch negativ eingestellt werden. Verwendet werden die Prognose-Arten letztendlich bei der Risikobewertung. Dabei kann bei einer Bewertung eines Risikos eine Prognose-Art hinterlegt werden. Anschließend kann im Rahmen der Risikoüberwachung eine Prognose für den jeweiligen Zeitraum erstellt werden. Dabei werden die entsprechenden Kennzahlen mit dem jeweiligen Faktor der zugrunde liegenden Prognose-Art berechnet.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko6.png)
 
-#####Ebenen
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko7.png)
-
+----------
+####Ebenen
 
 Die hinterlegten Ebenen sollen zur Gruppierung dienen und stellen die Betrachtungsgruppe dar (z.B. AIF, Emittenten etc.). Die Ebenen sind essenziell und voraussetzend für die Anlage von Risikoobjekten. Durch diese Eingruppierung können im Prozess des Risikomonitoring Kennzahlen und Informationen je Ebene evaluiert und analysiert werden.
 
-#####Risikoobjekte
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko7.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko8.png)
+----------
+####Risikoobjekte
 
 Die einzelnen gepflegten Risikoobjekte stellen das jeweilige zu betrachtende Objekt dar und müssen zu einer Ebene zugeordnet werden. 
 
@@ -125,10 +126,10 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 *Beispiel 4*
 *Die KVG betreut mehrere Emittenten. Bei der Betrachtung des Gesamtrisikoprofils, d.h. aller vorhandenen und identifizierten Risiken, werden die Risiken der KVG selbst sowie aller Emittenten, deren AIF und deren Assets betrachtet.*
 
-
+![](http://xpecto.github.io/docs/img/aifExpert_Risiko8.png)
 
 ----------
-####Risikobewertung
+###Risikobewertung
 
 Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenenstruktur und der Risikoobjekte
 erstellt aifExpert automatisch zu jedem Risikoobjekt die jeweiligen einzelnen Risiken. Diese
@@ -136,14 +137,6 @@ Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die 
 Eintrittswahrscheinlichkeit, Ausmaß und Erwartungswert benutzt, durchgeführt werden.
 Durch diese Bewertung ergibt sich dann die Risikokennzahl sowie eine Risikoklasse. Je Risiko
 sind dabei mehrere Bewertungen möglich.
-
-
-----------
-
-####Prognose
-
-Zur fundierten Prognose können verschiedene Prognose-Arten angelegt und den einzelnen Risikobewertungen
-zugeordnet werden.
 
 ----------
 ####Maßnahmen
