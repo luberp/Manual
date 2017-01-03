@@ -2,8 +2,8 @@
 
 aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten.
 
-> Erläuterung
-> Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.
+*Erläuterung*
+*Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.*
 
 ----------
 
@@ -18,8 +18,8 @@ Um eine sofortige Benutzung des aifExpert zu ermöglichen, wird ein standardisie
 
  
 
-> Erläuterung
-Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.
+*Erläuterung*
+*Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.*
 
 ![](http://xpecto.github.io/docs/img/aifExpert11.png)
 
@@ -53,8 +53,8 @@ Im Reiter "Stufen" können beliebig Schadensaußmaße hinterlegt werden. Neben d
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala der Wahrscheinlichkeiten können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
 Die Kategorisierung der Risikoklassen ist auch innerhalb des Reiters "Stufen" flexibel möglich.
 
-> Erläuterung
-Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
+*Erläuterung*
+*Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.*
 
 #####Wahrscheinlichkeiten
 
@@ -63,8 +63,8 @@ Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Fo
 Im Reiter "Wahrscheinlichkeiten" können beliebig Eintrittswahrscheinlichkeiten hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 10% Wahrscheinlichkeit ist innerhalb der Stufe "unwahrscheinlich" einzuordnen, da "unwahrscheinlich" von 0% - 20% gilt). 
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
 
-> Erläuterung
-Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
+*Erläuterung*
+*Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.*
 
 #####Prognosen
 
@@ -90,17 +90,17 @@ Im Abschreibungslauf (Diese Funktion ist für bereits durchgeführte oder vergan
 
 Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarchie-Strukturen etabliert und beliebig viele Abhängigkeiten & Wechselbeziehungen gepflegt werden.  
 
-> Beispiel 1
-> AIF1 und AIF2 investieren in Asset1 in unterschiedlichen Höhen. Bei der Betrachtung des Risikoprofils des AIF1 dürfen die Risiken des Asset1 nur anteilig mit einfließen.
-> 
-> Beispiel 2
-> AIF3 hält eine Investition von 10% am AIF4. Jegliche Risiken vom AIF4 selbst und seiner Assets fließen zu 10% in die Betrachtung des Risikoprofils des AIF3 mit ein.
-> 
-> Beispiel 3
-> Emittent1 hat AIF1 und AIF2 aufgesetzt. Bei der Betrachtung des Risikoprofils des Emittent1 müssen alle Risiken des AIF1, AIF2 und deren Assets mit einfließen.
-> 
->Beispiel 4
->Die KVG betreut mehrere Emittenten. Bei der Betrachtung des Gesamtrisikoprofils, d.h. aller vorhandenen und identifizierten Risiken, werden die Risiken der KVG selbst sowie aller Emittenten, deren AIF und deren Assets betrachtet. 
+*Beispiel 1*
+*AIF1 und AIF2 investieren in Asset1 in unterschiedlichen Höhen. Bei der Betrachtung des Risikoprofils des AIF1 dürfen die Risiken des Asset1 nur anteilig mit einfließen.*
+
+*Beispiel 2*
+*AIF3 hält eine Investition von 10% am AIF4. Jegliche Risiken vom AIF4 selbst und seiner Assets fließen zu 10% in die Betrachtung des Risikoprofils des AIF3 mit ein.*
+ 
+*Beispiel 3*
+*Emittent1 hat AIF1 und AIF2 aufgesetzt. Bei der Betrachtung des Risikoprofils des Emittent1 müssen alle Risiken des AIF1, AIF2 und deren Assets mit einfließen.*
+
+*Beispiel 4*
+*Die KVG betreut mehrere Emittenten. Bei der Betrachtung des Gesamtrisikoprofils, d.h. aller vorhandenen und identifizierten Risiken, werden die Risiken der KVG selbst sowie aller Emittenten, deren AIF und deren Assets betrachtet.*
 
 
 
