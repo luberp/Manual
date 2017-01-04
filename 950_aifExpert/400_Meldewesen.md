@@ -125,12 +125,18 @@ Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert
 
 #####5. Meldungen - Ausfüllen
 
-Nachdem die Bestandteile der Meldung definiert worden sind, werden die zu meldenden Posten automatisch durch die Verbindung Meldungsart > Planung > Bestandteile (Meldung) erstellt und können nun mit den entsprechenden Werten befüllt werden. 
+Nachdem die Bestandteile der Meldung definiert worden sind, werden die zu meldenden Posten automatisch durch die Verbindung Meldungsart > Planung > Bestandteile (Meldung) erstellt und können nun mit den entsprechenden Werten befüllt werden. Die Schaltfläche "Werte abfragen" ermöglicht dabei die automatisierte Befüllung der Posten mit den entsprechenden Werten. Voraussetzend ist aber dafür die Hinterlegung der Datenherkunft beim entsprechenden Posten (siehe 2. Planungen).
+Nachdem die entsprechenden Werte mit den dazugehörigen Daten ausgefüllt worden sind müssen die Daten gespeichert werden. Entweder über die Betätigung der Schaltfläche "Speichern" oder durch den Speichern-Dialog (sollte die Oberfläche oder Auswahl gewechselt werden oder das Programm geschlossen werden).
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen12.png)
 
 
-#####6. Aktion - Prüfung anhand Bericht
+#####6. Aktion - Prüfung anhand Bericht (optional)
+
+Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten und der Meldung zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Dieser Bericht wird in der Berichtsvorschau geöffnet und kann in unterschiedliche Formate gespeichert und gedruckt werden. Um den Bericht "Bundesbankmeldung" nutzen zu können müssen im Berichts-Editor im Fenster "Neuen Bericht erstellen" im Reiter "xpecto Vorlagen" der Bericht "Bundesbankmeldung" ausgewählt und heruntergeladen werden.
+
+*Beispiel:*
+*Der hier vorgestellte Bericht repräsentiert die Meldung für Dezember 2016 (2016M12). Hier wurden die Bestandteile Bbk 10390 und Bbk 10391 des Produktes "IIF" ausgewählt und deren Posten mit Beispielwerten befüllt.*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen13.png)
 
@@ -139,15 +145,25 @@ Nachdem die Bestandteile der Meldung definiert worden sind, werden die zu melden
 
 #####7. Aktion - Erstellung der Datei
 
+Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vollständig zu betrachten. Nun kann die Meldung als Datei erzeugt werden. Dabei nutzt der aifExpert das von der Bundesbank fest vorgeschriebene Schema. Um die Meldung zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei der aifExpert die Meldung als .xml-Datei auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen15.png)
 
-
 #####8. Benutzeraktion - Hochladen
+
+Nachdem die Datei erstellt wurde kann der Anwender die Dateien im Benutzerportal der Bundesbank hochladen. Eine automatisierte Schnittstelle, d.h. die Abgabe der Meldung aus dem aifExpert heraus, ist derzeit noch nicht möglich.
 
 #####9. Aktion - Kopie einer Meldung für neuen Zeitraum
 
+Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu können, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Dies kann entweder durch eine neue Periode, eine Nachmeldung oder eine Änderungsmeldung notwendig werden. Um die Daten in eine neue Periode zu kopieren muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. Bei einer Nachmeldung oder Änderungsmeldung (d.h. eine zusätzliche Meldung in der selben Periode) muss im Dialog der entsprechende Zeitraum im Format *YYYY* M *MM* eingegeben werden. Dabei erstellt der aifExpert eine zusätzliche Meldung für diese Periode. Zur Unterscheidung wird dabei jedoch eine neue Dateinummer (fortlaufende Nummer, die bei 1 beginnt). Das bedeutet, dass je Periode beliebig viele Meldungen, möglich sind.
+
+*Beispiel:*
+*Kopie der Meldung vom Dezember 2016 (2016M12) 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen16.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen17.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen18.png)
 
 ----------
 
