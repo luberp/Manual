@@ -84,6 +84,7 @@ Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen6.png)
 
+----------
 
 #####2. Planungen
 Nachdem die jeweiligen Meldungsarten definiert sind, erfolgt die Zuordnung der Produkte zur jeweiligen Meldungsart. Bedeutet, dass nun die Definition erfolgt, welche Produkte mit welchen Vordrucken überhaupt gemeldet werden können. Innerhalb dieser Definition wird auch festgelegt, welche Posten je Produkt je Meldungsart gemeldet werden sollen. Um eine Produkt (in diesem Fall eine "Planung") einer Meldungsart zuweisen zu können, muss die jeweilige Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem das jeweilige Produkt ausgewählt wurde, wird dieses als Planung innerhalb der jeweiligen Meldungsart in der linken Liste angezeigt und kann nun im mittleren Bereich bearbeitet werden. Hier kann nun flexibel definiert werden, welche Posten für dieses Produkt gemeldet werden. Zwar können hier auch meldungsartfremde Posten hinterlegt werden, jedoch werden diese durch die hinterlegte Programmlogik letztendlich nicht gemeldet werden können, solange diese nicht im allgemeinen Aufbau der Meldungsart hinterlegt sind. Je Planung kann zusätzlich eine Abfrage im Feld "Datenherkunft-Posten" hinterlegt werden, um eine automatisierte Hinterlegung mit definierten Posten zu ermöglichen. Voraussetzend dafür ist eine vorhandene Definition der Posten im der Datenbank. Weiterhin kann je Posten im Bereich "Datenherkunft - Werte" unterschiedliche Quellen und Abfragen hinterlegt werden, die eine automatisierte Befüllung im Schritt 5. Meldung - Ausfüllen der Werte je Posten ermöglichen. 
@@ -100,6 +101,8 @@ Nachdem die jeweiligen Meldungsarten definiert sind, erfolgt die Zuordnung der P
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen9.png)
 
+----------
+
 #####3. Meldungen - Allgemein
 
 Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planungen definiert ist kann die tatsächliche Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten bzw. mehreren Vordrucken innerhalb einer einzigen Meldung. Die Anlage der Meldung erfolgt mithilfe der Schalfläche "Neu" im Menü. Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "Bbk Melder" befüllt werden. Essenzielle Felder sind dabei:
@@ -114,6 +117,8 @@ Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planu
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen10.png)
 
+----------
+
 #####4. Meldungen - Bestandteile
 
 Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert werden, welche Planungen innerhalb dieser Meldung gemeldet werden sollen. Durch diese Funktion ist es möglich innerhalb einer Bundesbank-Meldung unterschiedliche Vordrucke für unterschiedliche Produkte zu melden. Zu beachten ist in diesem Bereich auch das Auswahlfeld "Erstmeldung". Sollte das Produkt zum ersten Mal der Bundesbank gemeldet werden, so ist dieses Feld für die jeweilige Planung in der entsprechenden Meldung zu aktivieren.
@@ -123,6 +128,8 @@ Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen11.png)
 
+----------
+
 #####5. Meldungen - Ausfüllen
 
 Nachdem die Bestandteile der Meldung definiert worden sind, werden die zu meldenden Posten automatisch durch die Verbindung Meldungsart > Planung > Bestandteile (Meldung) erstellt und können nun mit den entsprechenden Werten befüllt werden. Die Schaltfläche "Werte abfragen" ermöglicht dabei die automatisierte Befüllung der Posten mit den entsprechenden Werten. Voraussetzend ist aber dafür die Hinterlegung der Datenherkunft beim entsprechenden Posten (siehe 2. Planungen).
@@ -130,6 +137,7 @@ Nachdem die entsprechenden Werte mit den dazugehörigen Daten ausgefüllt worden
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen12.png)
 
+----------
 
 #####6. Aktion - Prüfung anhand Bericht (optional)
 
@@ -142,6 +150,7 @@ Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vol
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen14.png)
 
+----------
 
 #####7. Aktion - Erstellung der Datei
 
@@ -149,16 +158,20 @@ Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vol
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen15.png)
 
+----------
+
 #####8. Benutzeraktion - Hochladen
 
 Nachdem die Datei erstellt wurde kann der Anwender die Dateien im Benutzerportal der Bundesbank hochladen. Eine automatisierte Schnittstelle, d.h. die Abgabe der Meldung aus dem aifExpert heraus, ist derzeit noch nicht möglich.
+
+----------
 
 #####9. Aktion - Kopie einer Meldung für neuen Zeitraum
 
 Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu können, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Dies kann entweder durch eine neue Periode, eine Nachmeldung oder eine Änderungsmeldung notwendig werden. Um die Daten in eine neue Periode zu kopieren muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. Bei einer Nachmeldung oder Änderungsmeldung (d.h. eine zusätzliche Meldung in der selben Periode) muss im Dialog der entsprechende Zeitraum im Format *YYYY* M *MM* eingegeben werden. Dabei erstellt der aifExpert eine zusätzliche Meldung für diese Periode. Zur Unterscheidung wird dabei jedoch eine neue Dateinummer (fortlaufende Nummer, die bei 1 beginnt). Das bedeutet, dass je Periode beliebig viele Meldungen, möglich sind.
 
 *Beispiel:*
-*Kopie der Meldung vom Dezember 2016 (2016M12) 
+*Kopie der Meldung vom Dezember 2016 (2016M12). Anlage einer zweiten Meldung mit Dateinummer 2. Innerhalb der Bestandteile wurde die Bbk 10392 des Produktes "IIF" ausgewählt.*
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen16.png)
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen17.png)
@@ -169,6 +182,54 @@ Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu kö
 
 ###Meldung für BaFin / ESMA
 
+#####1. Meldungsarten
+
+Nachdem die Stammdaten korrekt und vollständig hinterlegt wurden beginnt nun der Prozess zur Erstellung der Meldung. 
+
+Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstellung der Meldungsart kann durch die Betätigung der Schaltfläche "Neu" erfolgen. Im Reiter "Allgemein" kann diese benannt und mit einem Intervall und einer Fristigkeit versehen werden. 
+
+Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermöglichen, ist die Meldungsarten "EsmaAIF" bei der Installation bereits hinterlegt. 
+
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
+
+----------
+
+#####2. Planungen
+
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
+
+----------
+
+#####3. Meldungen - Allgemein
+
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
+
+----------
+
+#####4. Meldungen - Bestandteile
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
+
+----------
+
+#####5. Aktion - Prüfung anhand Bericht (optional)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
+
+#####7. Aktion - Erstellung der Datei
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen24.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen25.png)
+
+#####8. Benutzeraktion - Hochladen
+
+#####9. Aktion - Kopie einer Meldung für neuen Zeitraum
 
 ----------
 
