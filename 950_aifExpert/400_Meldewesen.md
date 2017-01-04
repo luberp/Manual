@@ -212,21 +212,29 @@ Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeu
 
 #####3. Meldungen - Allgemein
 
-Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planungen definiert ist kann die tatsächliche Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten bzw. mehreren Vordrucken innerhalb einer einzigen Meldung. Die Anlage der Meldung erfolgt mithilfe der Schalfläche "Neu" im Menü. Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "Bbk Melder" befüllt werden. Essenzielle Felder sind dabei:
+Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planungen definiert ist kann die Erstellung der AIFM- und der AIF- Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten, d.h mehreren AIF-Meldungen. Die Anlage der Meldung erfolgt mithilfe der Schalfläche "Neu" im Menü. Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "BaFin/ESMA-Meldung" befüllt werden. Essenzielle Felder sind dabei:
 
  - Bereich "Allgemein"
 	 - Gesellschaft
 	 - Periode
  - Bereich "Datei"
 	 - Datei (Dateipfad - wird zum Erstellen der Datei benötigt)
- - Bereich "Bbk Melder"
+ - Bereich "BaFin/ESMA Meldung"
 	 - Alle Angaben
 
+Die Felder der anderen Bereich sind optional und werden für die AIFM-Meldung verwendet. 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
 
 ----------
 
 #####4. Meldungen - Bestandteile
+
+Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert werden, welche Planungen innerhalb der AIF-Meldung gemeldet werden sollen. Zu beachten ist in diesem Bereich auch das Auswahlfeld "Erstmeldung". Sollte das Produkt zum ersten Mal der BaFin/ESMA gemeldet werden, so ist dieses Feld für die jeweilige Planung in der entsprechenden Meldung zu aktivieren. Je Planung können nun die entsprechenden Daten und Informationen je gefordertem Artikel gemeldet werden.
+
+ 
+
+*Beispiel*
+*In der Meldung 2016 für die BaFin wurden die Planungen EsmaAIF der Produktes "IIF" hinterlegt. Das heißt, dass nun für diese Planung die entsprechenden Daten je nach erfordertem Artikel hinterlegt werden.*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
 
