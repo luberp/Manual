@@ -30,11 +30,11 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
 			 - Wertgesichert
 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen1.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen1.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen2.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen2.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen3.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen3.png)
 
 
  - Gesellschaften
@@ -48,9 +48,9 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
 		 - Land, PLZ, Wohnort
 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen26.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen26.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen27.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen27.png)
 
 ----------
 
@@ -71,17 +71,17 @@ Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
  - Bbk10391: Monatliche Meldung für Investmentvermögen (Vordruck 10391)
  - Bbk10392: Monatliche Meldung für Investmentvermögen – Neubewertung (Vordruck 10392)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen4.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen4.png)
 
 *Beispiel*
 *Es wurde die Meldungsart Bbk10390, welches den Bundesbank-Vordruck 10390 repräsentiert, erstellt und im Bereich "Aufbau" mit dem zu meldenden Posten "Art_Inhaber_Geschlossen" hinterlegt.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen5.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen5.png)
 
 *Beispiel*
 *Es wurde die Meldungsart Bbk10391, welches den Bundesbank-Vordruck 10391 repräsentiert, erstellt und im Bereich "Aufbau" mit den möglichen zu meldenden Posten hinterlegt.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen6.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen6.png)
 
 ----------
 
@@ -93,17 +93,17 @@ Nachdem die jeweiligen Meldungsarten definiert sind, erfolgt die Zuordnung der P
  - Für Bbk 10392: Schnittstelle zu Buchhaltungsdaten
 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
 
 *Beispiel:*
 *Es wurde zur Bbk10390 die Planung "IIF" hinterlegt. Zur Planung wurde der Posten "Inhaber private Haushalte" vom Typ "Art_Inhaber_Geschlossen" hinterlegt.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen8.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen8.png)
 
 *Beispiel:*
 *Es wurde zur Bbk10391 die Planung "IIF" hinterlegt. Zur Planung wurde verschiedene Posten von den definierten Typen hinterlegt.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen9.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen9.png)
 
 ----------
 
@@ -119,7 +119,7 @@ Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planu
  - Bereich "Bbk Melder"
 	 - Alle Angaben
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen10.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen10.png)
 
 ----------
 
@@ -130,7 +130,7 @@ Nachdem der Meldungskopf definiert wurde, kann im Reiter "Bestandteile" definier
 *Beispiel*
 *In der Meldung 2016M12 für die Bundesbank wurden die Planungen Bbk10390 und Bbk10391 der Produktes "IIF" hinterlegt. Das heißt, dass innerhalb dieser Meldung die beiden Vordrucke 10390 und 10391 für das Produkt "IIF" erstellt werden.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen11.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen11.png)
 
 ----------
 
@@ -139,7 +139,7 @@ Nachdem der Meldungskopf definiert wurde, kann im Reiter "Bestandteile" definier
 Nachdem die Bestandteile der Meldung definiert worden sind, werden die zu meldenden Posten automatisch durch die Verbindung Meldungsart > Planung > Bestandteile (Meldung) erstellt und können nun mit den entsprechenden Werten befüllt werden. Die Schaltfläche "Werte abfragen" ermöglicht dabei die automatisierte Befüllung der Posten mit den entsprechenden Werten. Voraussetzend ist aber dafür die Hinterlegung der Datenherkunft beim entsprechenden Posten (siehe 2. Planungen).
 Nachdem die entsprechenden Werte mit den dazugehörigen Daten ausgefüllt worden sind, müssen die Daten gespeichert werden. Entweder über die Betätigung der Schaltfläche "Speichern" oder durch den Speichern-Dialog (sollte die Oberfläche / Auswahl gewechselt werden oder das Programm geschlossen werden).
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen12.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen12.png)
 
 ----------
 
@@ -150,9 +150,9 @@ Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vol
 *Beispiel:*
 *Der hier vorgestellte Bericht repräsentiert die Meldung für Dezember 2016 (2016M12). Hier wurden die Bestandteile Bbk 10390 und Bbk 10391 des Produktes "IIF" ausgewählt und deren Posten mit Beispielwerten befüllt.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen13.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen13.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen14.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen14.png)
 
 ----------
 
@@ -160,7 +160,7 @@ Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vol
 
 Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vollständig zu betrachten. Nun kann die Meldung als Datei erzeugt werden. Dabei nutzt der aifExpert das von der Bundesbank fest vorgeschriebene Schema. Um die Meldung zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldung als .xml-Datei auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen15.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen15.png)
 
 ----------
 
@@ -177,11 +177,11 @@ Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu kö
 *Beispiel:*
 *Kopie der Meldung vom Dezember 2016 (2016M12). Anlage einer zweiten Meldung mit Dateinummer 2. Innerhalb der Bestandteile wurde die Bbk 10392 des Produktes "IIF" ausgewählt.*
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen16.png)
+> > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen16.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen17.png)
+> > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen17.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen18.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen18.png)
 
 ----------
 
@@ -196,7 +196,7 @@ Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstel
 Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermöglichen, ist die Meldungsarten "EsmaAIF" bei der Installation bereits hinterlegt. 
 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
 
 ----------
 
@@ -204,9 +204,9 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte anhand der BaFin/Esma-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "EsmaAIF" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem das jeweilige Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart " EsmaAIF" in der linken Liste angezeigt.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
 
 ----------
 
@@ -224,7 +224,7 @@ Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planu
 
 Die Felder der anderen Bereich sind optional und werden für die AIFM-Meldung verwendet. 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
 
 ----------
 
@@ -237,7 +237,7 @@ Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert
 *Beispiel*
 *In der Meldung 2016 für die BaFin wurden die Planungen EsmaAIF der Produktes "IIF" und des Produktes "SIF" hinterlegt. Nun können je Planung die entsprechenden Daten je Artikel gepflegt werden. Bei der Erstellung der AIF-Meldung werden jeweils die hinterlegten Daten von "IIF" und "SIF" verwendet.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
 
 ----------
 
@@ -247,7 +247,7 @@ Nachdem jegliche notwendigen Felder mit Werten versehen worden sind, sind die AI
 
 Ein standardisierter Bericht zur AIF-Meldung ist derzeit noch nicht vorhanden.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
 
 ----------
 
@@ -255,11 +255,11 @@ Ein standardisierter Bericht zur AIF-Meldung ist derzeit noch nicht vorhanden.
 
 Nachdem jegliche notwendigen Felder mit Werten versehen worden sind, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Nun können die Meldungen als Dateien erzeugt werden. Dabei nutzt der aifExpert das von der ESMA fest vorgeschriebene Schema. Um die Meldungen zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien und in komprimierter Form als .xml.gz-Dateien (GZIP) auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen24.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen24.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen25.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen25.png)
 
 ----------
 
