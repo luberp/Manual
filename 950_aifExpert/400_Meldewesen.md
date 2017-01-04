@@ -73,12 +73,12 @@ Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen4.png)
 
-*Beispiel*
+*Beispiel:*
 *Es wurde die Meldungsart Bbk10390, welches den Bundesbank-Vordruck 10390 repräsentiert, erstellt und im Bereich "Aufbau" mit dem zu meldenden Posten "Art_Inhaber_Geschlossen" hinterlegt.*
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen5.png)
 
-*Beispiel*
+*Beispiel:*
 *Es wurde die Meldungsart Bbk10391, welches den Bundesbank-Vordruck 10391 repräsentiert, erstellt und im Bereich "Aufbau" mit den möglichen zu meldenden Posten hinterlegt.*
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen6.png)
@@ -127,7 +127,7 @@ Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planu
 
 Nachdem der Meldungskopf definiert wurde, kann im Reiter "Bestandteile" definiert werden, welche Planungen innerhalb dieser Meldung gemeldet werden sollen. Durch diese Funktion ist es möglich innerhalb einer Bundesbank-Meldung unterschiedliche Vordrucke für unterschiedliche Produkte zu melden. Zu beachten ist in diesem Bereich auch das Auswahlfeld "Erstmeldung". Sollte das Produkt zum ersten Mal der Bundesbank gemeldet werden, so ist dieses Feld für die jeweilige Planung in der entsprechenden Meldung zu aktivieren.
 
-*Beispiel*
+*Beispiel:*
 *In der Meldung 2016M12 für die Bundesbank wurden die Planungen Bbk10390 und Bbk10391 der Produktes "IIF" hinterlegt. Das heißt, dass innerhalb dieser Meldung die beiden Vordrucke 10390 und 10391 für das Produkt "IIF" erstellt werden.*
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen11.png)
@@ -234,7 +234,7 @@ Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert
 
  
 
-*Beispiel*
+*Beispiel:*
 *In der Meldung 2016 für die BaFin wurden die Planungen EsmaAIF der Produktes "IIF" und des Produktes "SIF" hinterlegt. Nun können je Planung die entsprechenden Daten je Artikel gepflegt werden. Bei der Erstellung der AIF-Meldung werden jeweils die hinterlegten Daten von "IIF" und "SIF" verwendet.*
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
