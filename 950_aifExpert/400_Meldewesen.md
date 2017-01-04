@@ -159,7 +159,7 @@ Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vol
 
 #####7. Aktion - Erstellung der Datei
 
-Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vollständig zu betrachten. Nun kann die Meldung als Datei erzeugt werden. Dabei nutzt der aifExpert das von der Bundesbank fest vorgeschriebene Schema. Um die Meldung zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei der aifExpert die Meldung als .xml-Datei auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
+Nachdem jegliche Posten mit Werten versehen worden sind, ist die Meldung als vollständig zu betrachten. Nun kann die Meldung als Datei erzeugt werden. Dabei nutzt der aifExpert das von der Bundesbank fest vorgeschriebene Schema. Um die Meldung zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldung als .xml-Datei auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen15.png)
 
@@ -223,18 +223,19 @@ Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planu
 	 - Alle Angaben
 
 Die Felder der anderen Bereich sind optional und werden für die AIFM-Meldung verwendet. 
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
 
 ----------
 
 #####4. Meldungen - Bestandteile
 
-Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert werden, welche Planungen innerhalb der AIF-Meldung gemeldet werden sollen. Zu beachten ist in diesem Bereich auch das Auswahlfeld "Erstmeldung". Sollte das Produkt zum ersten Mal der BaFin/ESMA gemeldet werden, so ist dieses Feld für die jeweilige Planung in der entsprechenden Meldung zu aktivieren. Je Planung können nun die entsprechenden Daten und Informationen je gefordertem Artikel gemeldet werden.
+Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert werden, welche Planungen innerhalb der AIF-Meldung gemeldet werden sollen. Zu beachten ist in diesem Bereich auch das Auswahlfeld "Erstmeldung". Sollte das Produkt zum ersten Mal der BaFin/ESMA gemeldet werden, so ist dieses Feld für die jeweilige Planung in der entsprechenden Meldung zu aktivieren. Je Planung können nun die entsprechenden Daten und Informationen je gefordertem Artikel gemeldet werden. 
 
  
 
 *Beispiel*
-*In der Meldung 2016 für die BaFin wurden die Planungen EsmaAIF der Produktes "IIF" hinterlegt. Das heißt, dass nun für diese Planung die entsprechenden Daten je nach erfordertem Artikel hinterlegt werden.*
+*In der Meldung 2016 für die BaFin wurden die Planungen EsmaAIF der Produktes "IIF" und des Produktes "SIF" hinterlegt. Nun können je Planung die entsprechenden Daten je Artikel gepflegt werden. Bei der Erstellung der AIF-Meldung werden jeweils die hinterlegten Daten von "IIF" und "SIF" verwendet.*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
 
@@ -242,9 +243,17 @@ Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert
 
 #####5. Aktion - Prüfung anhand Bericht (optional)
 
+Nachdem jegliche notwendigen Felder mit Werten versehen worden sind, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten und der AIFM-Meldung zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Dieser Bericht wird in der Berichtsvorschau geöffnet und kann in unterschiedliche Formate gespeichert und gedruckt werden. Um den Bericht "EsmaMeldung" nutzen zu können müssen im Berichts-Editor im Fenster "Neuen Bericht erstellen" im Reiter "xpecto Vorlagen" der Bericht "EsmaMeldung" ausgewählt und heruntergeladen werden. 
+
+Ein standardisierter Bericht zur AIF-Meldung ist derzeit noch nicht vorhanden.
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
 
-#####7. Aktion - Erstellung der Datei
+----------
+
+#####6. Aktion - Erstellung der Datei
+
+Nachdem jegliche notwendigen Felder mit Werten versehen worden sind, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Nun können die Meldungen als Dateien erzeugt werden. Dabei nutzt der aifExpert das von der ESMA fest vorgeschriebene Schema. Um die Meldungen zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien und in komprimierter Form als .xml.gz-Dateien (GZIP) auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
 
@@ -252,9 +261,17 @@ Nachdem der Meldungskopf definiert wurde kann im Reiter "Bestandteile" definiert
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen25.png)
 
-#####8. Benutzeraktion - Hochladen
+----------
 
-#####9. Aktion - Kopie einer Meldung für neuen Zeitraum
+#####7. Benutzeraktion - Hochladen
+
+Nachdem die Datei erstellt wurde kann der Anwender die Dateien im Melde- und Veröffentlichungssystem der BaFin (MVP-Portal) hochladen.
+
+----------
+
+#####8. Aktion - Kopie einer Meldung für neuen Zeitraum
+
+Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu können, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Um die Daten in eine neue Periode zu kopieren muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. 
 
 ----------
 
