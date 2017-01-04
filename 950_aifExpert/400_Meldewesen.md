@@ -22,6 +22,8 @@ geringstmöglichem Zeitaufwand IT-gestützt zu organisieren.
 
 ####Meldung für Bundesbank
 
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen1.png)
+
 
 ----------
 
