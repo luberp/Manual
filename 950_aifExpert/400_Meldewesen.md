@@ -177,9 +177,9 @@ Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu kö
 *Beispiel:*
 *Kopie der Meldung vom Dezember 2016 (2016M12). Anlage einer zweiten Meldung mit Dateinummer 2. Innerhalb der Bestandteile wurde die Bbk 10392 des Produktes "IIF" ausgewählt.*
 
-> > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen16.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen16.png)
 
-> > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen17.png)
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen17.png)
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen18.png)
 
