@@ -1,4 +1,4 @@
-aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer  mfassenden und detaillierten Betrachtung des Gesamtrisikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
+aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer  umfassenden und detaillierten Betrachtung des Risikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
 
  - Risikoidentifikation
  - Risikobewertung
@@ -21,11 +21,11 @@ Nach KAGB § 28 Abs. Satz 1 hat die KVG ein angemessenes Risikomanagementsystem 
 
 Durch die die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte sowie der unterschiedlichen zugrunde liegenden Parameter kann einer umfangreichen und strukturierten Risikoidentifikation Rechnung getragen werden.
 
-####Risikokatalog & Ebenen & Objekte
+####Risikokatalog
 
 Diese Stammdaten bilden die Grundlage für den sinnvollen und effektiven Umgang sowie einen definierten Rahmen für die Bewertung von Risiken. 
 
-Um eine sofortige Benutzung des aifExpert zu ermöglichen, wird ein standardisierter Risikokatalog sowie alle notwendigen Parameter bei der Installation ausgeliefert. Der Katalog sowie diese Informationen wurden gemeinsam mit einer KVG erarbeitet und können flexibel je nach Anforderung angepasst und verändert werden.
+Um eine sofortige Benutzung des aifExpert zu ermöglichen, wird ein standardisierter Risikokatalog sowie alle notwendigen Parameter bei der Installation ausgeliefert. Der Katalog sowie die Parameter wurden gemeinsam mit einer KVG erarbeitet und können flexibel je nach Anforderung angepasst und verändert werden.
 
 ######Erläuterung
 Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.
@@ -46,7 +46,7 @@ Im Risikokatalog werden die Risikoarten - eingruppiert in Risikokategorien - üb
 
 Innerhalb einer Risikokategorie kann eine beliebig große Anzahl an Risikoarten hinterlegt werden. Die Risikoarten selbst können mit vielfältige Informationen hinterlegt werden. 
 
-Essenziell und wichtig für den weiteren Prozess ist die Verknüpfung mit einer Ebene. Dabei sollte bestimmt werden innerhalb welcher Ebene dieses Risiko auftreten kann (z.B. AIF, Emmitenten, Asset etc.).
+Essenziell und wichtig für den weiteren Prozess ist die Verknüpfung mit einer Ebene. Dabei sollte bestimmt werden, innerhalb welcher Ebene dieses Risiko auftreten kann (z.B. AIF, Emmitent, Asset etc.).
 
 Weiterhin kann hinterlegt werden innerhalb welcher Phase dieses Risiko auftreten kann.
 
@@ -58,7 +58,7 @@ Zusätzliche Textfelder ermöglichen die Beschreibung der Risikoart sowie Bearbe
 
 ####Phasen
 
-Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese sollen den Lebenszyklus eines AIF abbilden. Durch die Hinterlegung der Phasen je Risikoart (d.h. welches Risikoart kann in welcher Phase vorkommen) kann letztendlich in der Risikoüberwachung eine spezifische Risikobetrachtung anhand der jeweiligen Phasen erfolgen
+Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese bilden den Lebenszyklus eines AIF ab. Durch die Hinterlegung der Phasen je Risikoart im Risikokatalog (d.h. welche Risikoart kann in welcher Phase vorkommen) kann letztendlich in der Risikoüberwachung eine spezifische Risikobetrachtung anhand der jeweiligen Phase erfolgen.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko3.png)
 
@@ -66,9 +66,10 @@ Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese sollen
 
 ####Stufen
 
-Im Reiter "Stufen" können beliebig Schadensaußmaße hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 90% Schadensausmaß ist innerhalb der Stufe "schwer" einzuordnen, da "schwer" von 81% - 100% gilt). 
-Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala der Wahrscheinlichkeiten können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
-Die Kategorisierung der Risikoklassen ist auch innerhalb des Reiters "Stufen" flexibel möglich.
+Im Reiter "Stufen" können beliebig Schadensaußmaße hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 15% Schadensausmaß ist innerhalb der Stufe "gering" einzuordnen, da "gering" von 0% - 20% gilt). 
+Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala der Wahrscheinlichkeiten können letztendlich fünf Risikoklassen gebildet und in eine Risikomatrix eingeordnet werden (siehe Risikoüberwachung).
+
+Die Kategorisierung der Risikoklassen ist innerhalb des Reiters "Stufen" flexibel möglich.
 
 ######Erläuterung
 Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
@@ -93,6 +94,13 @@ Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mi
 
 Im Reiter "Prognosen" können beliebig viele Prognose-Arten hinterlegt werden. Je Prognose-Art wird dabei eine Bezeichnung sowie Faktoren je Zeitraum hinterlegt. Diese Faktoren können mithilfe von Schiebereglern positiv wie auch negativ eingestellt werden. Verwendet werden die Prognose-Arten letztendlich bei der Risikobewertung. Dabei kann bei einer Bewertung eines Risikos eine Prognose-Art hinterlegt werden. Anschließend kann im Rahmen der Risikoüberwachung eine Prognose für den jeweiligen Zeitraum erstellt werden. Dabei werden die entsprechenden Kennzahlen mit dem jeweiligen Faktor der zugrunde liegenden Prognose-Art berechnet.
 
+*Beispiel 1:* 
+*Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "6 Monate" erstellt. Das Risiko1 mit dem Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.* 
+*1.000 x 1,02 (2% Prognose-Faktor) = 1.020 € Risikowert im Prognose-Zeitraum "6 Monate"*
+*Beispiel 2:*
+*Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "1 Jahr" erstellt. Das Risiko1 mit dem Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.*
+*1.000 x 1,02 (2% Prognose-Faktor) x 1,04 (4% Prognose-Faktor) = 1060,80 € Risikowert im Prognose-Zeitraum "1 Jahr"*
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko6.png)
 
 ----------
@@ -116,16 +124,16 @@ Im Abschreibungslauf (Diese Funktion ist für bereits durchgeführte oder vergan
 
 Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarchie-Strukturen etabliert und beliebig viele Abhängigkeiten & Wechselbeziehungen gepflegt werden.  
 
-*Beispiel 1*
+*Beispiel 1:*
 *AIF1 und AIF2 investieren in Asset1 in unterschiedlichen Höhen. Bei der Betrachtung des Risikoprofils des AIF1 dürfen die Risiken des Asset1 nur anteilig mit einfließen.*
 
-*Beispiel 2*
+*Beispiel 2:*
 *AIF3 hält eine Investition von 10% am AIF4. Jegliche Risiken vom AIF4 selbst und seiner Assets fließen zu 10% in die Betrachtung des Risikoprofils des AIF3 mit ein.*
  
-*Beispiel 3*
+*Beispiel 3:*
 *Emittent1 hat AIF1 und AIF2 aufgesetzt. Bei der Betrachtung des Risikoprofils des Emittent1 müssen alle Risiken des AIF1, AIF2 und deren Assets mit einfließen.*
 
-*Beispiel 4*
+*Beispiel 4:*
 *Die KVG betreut mehrere Emittenten. Bei der Betrachtung des Gesamtrisikoprofils, d.h. aller vorhandenen und identifizierten Risiken, werden die Risiken der KVG selbst sowie aller Emittenten, deren AIF und deren Assets betrachtet.*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko8.png)
@@ -136,8 +144,8 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 
 ####Risikoanlage
 
-Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenenstruktur und der Risikoobjekte
-kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfläche "Neu" oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Objekt die jeweiligen Risiken erstellt.
+Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenen, Risikoobjekte und der Parameter
+kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfläche "Neu" oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Risikoobjekt die jeweiligen Risiken erstellt.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko9.png)
 
@@ -147,14 +155,14 @@ kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfl�
 
 ####Risikoübersicht
 
-Zur Übersicht aller Risiken steht eine Liste im Menü-Reiter "Risikomanagement - Risiko" zur Verfügung. Diese Liste ermöglicht die Suche, Auswahl, Sortierung und einen Kurzüberblick über die identifizierten Risiken. Um eine schnellen Überblick zu gewährleisten wurden neben den wichtigsten Informationen auch eine Ampelfunktionalität innerhalb dieser Liste implementiert. Die Ampel zeigt dabei farblich die jeweilige zugrunde liegende Risikoklasse:
+Nachdem alle identifizierten Risiken erstellt worden sind stehen diese zur Übersicht in Listenform im Menü-Reiter "Risikomanagement - Risiko" zur Verfügung. Diese Liste ermöglicht die Auswahl, Suche, Sortierung und gibt einen Kurzüberblick über die identifizierten Risiken. Um eine schnellen Überblick zu gewährleisten wurde neben den wichtigsten Informationen auch eine Ampelfunktionalität innerhalb dieser Liste implementiert. Die Ampel zeigt dabei farblich die jeweilige zugrunde liegende Risikoklasse:
 
  - Rot: Risikoklasse 4 & 5
  - Gelb: Risikoklasse 3
  - Grün: Risikoklasse 1 & 2
  - Ring: Risikoklasse 0
 
-Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stest auf die aktuellste abgeschlossene Bewertung. 
+Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stets auf die aktuellste abgeschlossene Bewertung. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko11.png)
 
