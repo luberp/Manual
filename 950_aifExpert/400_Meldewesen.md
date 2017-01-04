@@ -12,10 +12,64 @@ Neben diesen umfangreichen Meldepflichten verabschiedete der Gesetzgeber das Ges
 
 ----------
 
-###Meldung für Bundesbank
+#####Stammdaten
+
+Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf die gemeinsame Datenbasis von xpectoPro zu. Um korrekte und vollständige Meldungen abgeben zu können, müssen folgende Stammdaten gepflegt sein:
+
+ - Produkte
+	 - Reiter "Allgemein" > Bereich "Produktdefinition"
+		 - Produkt-Name
+	 - Reiter "Allgemein" > Bereich "Produkt-Gesellschaft"
+		 - Firmenname
+		 - Straße
+		 - Land, PLZ, Wohnort
+	 - Reiter "Parameter" > Bereich "Reporting"
+		 - Alles notwendig, optional sind
+			 - BaFin ID (notwendig für BaFin Meldung)
+			 - Legal-Entity ID (notwendig für BaFin Meldung)
+			 - Mindesthaltedauer (Jahre)
+			 - Wertgesichert
+
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen1.png)
 
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen2.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen3.png)
+
+
+ - Gesellschaften
+	 - Reiter "Allgemein" > Bereich "Allgemein"
+		 - Name
+		 - Bundesbank ID (notwendig für BuBa Meldung)
+		 - BaFin ID (notwendig für BaFin Meldung)
+		 - Legal-Entity ID (notwendig für BaFin Meldung)
+	 - Reiter "Allgemein" > Bereich "Adresse"
+		 - Straße
+		 - Land, PLZ, Wohnort
+
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen26.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen27.png)
+
+----------
+
+###Meldung für Bundesbank
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen4.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen5.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen6.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen8.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen9.png)
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen10.png)
 
 ----------
 
