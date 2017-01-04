@@ -57,9 +57,30 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
 
 ###Meldung für Bundesbank
 
+#####1. Meldungsarten
+Nachdem die Stammdaten korrekt und vollständig hinterlegt wurden beginnt nun der Prozess zur Erstellung der Meldung. 
+
+Im ersten Schritt müssen die jeweiligen Meldungsarten erstellt und definiert werden. Das sind in diesem Fall die einzelnen Formulare der Bundesbank. Im Reiter "Aufbau" kann zu der jeweiligen Meldungsart die möglichen zu meldenden Posten hinterlegt werden. Diese Basis bewirkt, dass innerhalb dieser Meldungsart keine anderen Posten je Planung versehentlich gemeldet werden können. (siehe 2. Planungen)
+
+Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermöglichen, sind die wichtigsten Meldungsarten und deren Aufbau bei der Installation bereits hinterlegt. 
+
+Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
+
+ - Bbk10389: Allgemeine Angaben zur meldenden Gesellschaft (Vordruck 10389)
+	 - Wird automatisch erstellt und vor den anderen Bundesbank-Meldungen gesetzt
+ - Bbk10390: Allgemeine Angaben für das einzelne Investmentvermögen (Vordruck 10390)
+ - Bbk10391: Monatliche Meldung für Investmentvermögen (Vordruck 10391)
+ - Bbk10392: Monatliche Meldung für Investmentvermögen – Neubewertung (Vordruck 10392)
+
+*Beispiel*
+*Es wurde die Meldungsart Bbk10390, welches den Bundesbank-Vordruck 10390 repräsentiert, erstellt und im Bereich "Aufbau" mit dem zu meldenden Posten "Art_Inhaber_Geschlossen" hinterlegt.*
+
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen4.png)
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen5.png)
+
+*Beispiel*
+*Es wurde die Meldungsart Bbk103901, welches den Bundesbank-Vordruck 10391 repräsentiert, erstellt und im Bereich "Aufbau" mit den möglichen zu meldenden Posten hinterlegt.*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen6.png)
 
