@@ -87,7 +87,12 @@ Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
 ----------
 
 #####2. Planungen
-Nachdem die jeweiligen Meldungsarten definiert sind, erfolgt die Zuordnung der Produkte zur jeweiligen Meldungsart. Bedeutet, dass nun die Definition erfolgt, welche Produkte mit welchen Vordrucken überhaupt gemeldet werden können. Innerhalb dieser Definition wird auch festgelegt, welche Posten je Produkt je Meldungsart gemeldet werden sollen. Um eine Produkt (in diesem Fall eine "Planung") einer Meldungsart zuweisen zu können, muss die jeweilige Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem das jeweilige Produkt ausgewählt wurde, wird dieses als Planung innerhalb der jeweiligen Meldungsart in der linken Liste angezeigt und kann nun im mittleren Bereich bearbeitet werden. Hier kann nun flexibel definiert werden, welche Posten für dieses Produkt gemeldet werden. Zwar können hier auch meldungsartfremde Posten hinterlegt werden, jedoch werden diese durch die hinterlegte Programmlogik letztendlich nicht gemeldet werden können, solange diese nicht im allgemeinen Aufbau der Meldungsart hinterlegt sind. Je Planung kann zusätzlich eine Abfrage im Feld "Datenherkunft-Posten" hinterlegt werden, um eine automatisierte Hinterlegung mit definierten Posten zu ermöglichen. Voraussetzend dafür ist eine vorhandene Definition der Posten im der Datenbank. Weiterhin kann je Posten im Bereich "Datenherkunft - Werte" unterschiedliche Quellen und Abfragen hinterlegt werden, die eine automatisierte Befüllung im Schritt 5. Meldung - Ausfüllen der Werte je Posten ermöglichen. 
+Nachdem die jeweiligen Meldungsarten definiert sind, erfolgt die Zuordnung der Produkte zur jeweiligen Meldungsart. Bedeutet, dass nun die Definition erfolgt, welche Produkte mit welchen Vordrucken überhaupt gemeldet werden können. Innerhalb dieser Definition wird auch festgelegt, welche Posten je Produkt je Meldungsart gemeldet werden sollen. Um eine Produkt (in diesem Fall eine "Planung") einer Meldungsart zuweisen zu können, muss die jeweilige Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem das jeweilige Produkt ausgewählt wurde, wird dieses als Planung innerhalb der jeweiligen Meldungsart in der linken Liste angezeigt und kann nun im mittleren Bereich bearbeitet werden. Hier kann nun flexibel definiert werden, welche Posten für dieses Produkt gemeldet werden. Zwar können hier auch meldungsartfremde Posten hinterlegt werden, jedoch werden diese durch die hinterlegte Programmlogik letztendlich nicht gemeldet werden können, solange diese nicht im allgemeinen Aufbau der Meldungsart hinterlegt sind. Je Planung kann zusätzlich eine Abfrage im Feld "Datenherkunft-Posten" hinterlegt werden, um eine automatisierte Hinterlegung mit definierten Posten zu ermöglichen. Voraussetzend dafür ist eine vorhandene Definition der Posten im der Datenbank. Weiterhin kann je Posten im Bereich "Datenherkunft - Werte" unterschiedliche Quellen und Abfragen hinterlegt werden, die eine automatisierte Befüllung im Schritt 5. Meldung - Ausfüllen der Werte je Posten ermöglichen. Voraussetzungen für die automatisierte Befüllung sind 
+
+ - Für Bbk 10390: korrekte Vertrags- und Anlegerdaten aus xpectoPro 
+ - Für Bbk 10391: Schnittstelle zu Buchhaltungsdaten
+ - Für Bbk 10392: Schnittstelle zu Buchhaltungsdaten
+
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
 
@@ -197,6 +202,9 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 #####2. Planungen
 
+Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte anhand der BaFin/Esma-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "EsmaAIF" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem das jeweilige Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart " EsmaAIF" in der linken Liste angezeigt.
+
+![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
 
@@ -204,6 +212,15 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 #####3. Meldungen - Allgemein
 
+Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planungen definiert ist kann die tatsächliche Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten bzw. mehreren Vordrucken innerhalb einer einzigen Meldung. Die Anlage der Meldung erfolgt mithilfe der Schalfläche "Neu" im Menü. Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "Bbk Melder" befüllt werden. Essenzielle Felder sind dabei:
+
+ - Bereich "Allgemein"
+	 - Gesellschaft
+	 - Periode
+ - Bereich "Datei"
+	 - Datei (Dateipfad - wird zum Erstellen der Datei benötigt)
+ - Bereich "Bbk Melder"
+	 - Alle Angaben
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
 
