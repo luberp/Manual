@@ -1,4 +1,4 @@
-aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer  umfassenden und detaillierten Betrachtung des Risikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
+aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer umfassenden und detaillierten Betrachtung des Risikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
 
  - Risikoidentifikation
  - Risikobewertung
@@ -9,17 +9,17 @@ aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der 
 umfangreiche Methoden, Oberflächen und Funktionalitäten.
 
 ######Erläuterung
-Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetreten Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von unterschiedlichen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.
+Risikomanagement ist heutzutage als eine notwendige Unternehmenstätigkeit zu betrachten. Ein fundiertes und kontinuierliches Risikomanagement kann den Unternehmenserfolg steigern und die Unternehmensexistenz sichern. Der Begriff „Risiko“ wird als wahrscheinliche Abweichung vom geplanten und eingetretenen Ereignis definiert. Im engeren Sinne wird dabei die negative Abweichung - die Gefahr - verstanden. Risiken können mithilfe von verschiedenen Unterscheidungskriterien in Risikoarten eingeordnet und ähnliche Risiken in Risikokategorien zusammengefasst werden.
 
 Nach MaRisk (AT 4.3.2) müssen die Risikosteuerungs- und -controllingprozesse  gewährleisten, dass die wesentlichen Risiken – auch aus ausgelagerten Aktivitäten und Prozessen – frühzeitig erkannt, vollständig erfasst und in angemessener Weise dargestellt werden können.
 
-Nach KAGB § 28 Abs. Satz 1 hat die KVG ein angemessenes Risikomanagementsystem zu verfügen und nach § 29 Abs. 1 eine dauerhafte Risikocontrollingfunktion einzurichten und aufrechtzuerhalten.
+Nach KAGB § 28 Abs. 1 hat die KVG über ein angemessenes Risikomanagementsystem zu verfügen und nach § 29 Abs. 1 eine dauerhafte Risikocontrollingfunktion einzurichten und aufrechtzuerhalten.
 
 ----------
 
 ###Risikoidentifikation
 
-Durch die die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte sowie der unterschiedlichen zugrunde liegenden Parameter kann einer umfangreichen und strukturierten Risikoidentifikation Rechnung getragen werden.
+Durch die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte, sowie der unterschiedlichen zugrunde liegenden Parameter, kann einer umfangreichen und strukturierten Risikoidentifikation Rechnung getragen werden.
 
 ####Risikokatalog
 
@@ -44,7 +44,7 @@ Im Risikokatalog werden die Risikoarten - eingruppiert in Risikokategorien - üb
 
 #####Risikoarten
 
-Innerhalb einer Risikokategorie kann eine beliebig große Anzahl an Risikoarten hinterlegt werden. Die Risikoarten selbst können mit vielfältige Informationen hinterlegt werden. 
+Innerhalb einer Risikokategorie kann eine beliebig große Anzahl an Risikoarten hinterlegt werden. Die Risikoarten selbst können mit vielfältigen Informationen hinterlegt werden. 
 
 Essenziell und wichtig für den weiteren Prozess ist die Verknüpfung mit einer Ebene. Dabei sollte bestimmt werden, innerhalb welcher Ebene dieses Risiko auftreten kann (z.B. AIF, Emmitent, Asset etc.).
 
@@ -119,7 +119,7 @@ Die einzelnen gepflegten Risikoobjekte stellen das jeweilige zu betrachtende Obj
 
 Jedes Objekt kann dabei noch mit weiteren Kennzahlen wie Investition und Unternehmenswert hinterlegt werden.
 
-Daneben können im Bereich der "Insolvenz" im Falle einer Insolvenz des Objektes zwei Funktionen angestoßen werden. Im Bewertungslauf (Diese Funktion ist für Insolvenzen im laufenden Jahr gedacht) werden jegliche Risiken des Objektes mit Ausnahme des Unternehmensrisiko deaktiviert. Beim Unternehmensrisiko wird eine neue Bewertung angelegt mit den Parametern (Risikowert = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%).
+Daneben können im Falle einer Insolvenz des Objektes im Bereich der "Insolvenz" zwei Funktionen angestoßen werden. Im Bewertungslauf (Diese Funktion ist für Insolvenzen im laufenden Jahr gedacht) werden jegliche Risiken des Objektes mit Ausnahme des Unternehmensrisiko deaktiviert. Beim Unternehmensrisiko wird eine neue Bewertung angelegt mit den Parametern (Risikowert = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%).
 Im Abschreibungslauf (Diese Funktion ist für bereits durchgeführte oder vergangene Insolvenzen gedacht)  wird zu jedem Risiko eine neue Bewertung mit den Parametern (Risikowert = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%) hinterlegt.
 
 Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarchie-Strukturen etabliert und beliebig viele Abhängigkeiten & Wechselbeziehungen gepflegt werden.  
@@ -145,7 +145,7 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 ####Risikoanlage
 
 Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenen, Risikoobjekte und der Parameter
-kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfläche "Neu" oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Risikoobjekt die jeweiligen Risiken erstellt.
+kann die Anlage von Risiken entweder manuell (über die Betätigung der Schaltfläche "Neu") oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche "Fehlende Risiken erstellen" betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Risikoobjekt die jeweiligen Risiken erstellt.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko9.png)
 
@@ -155,14 +155,14 @@ kann die Anlage von Risiken entweder manuell über die Betätigung der Schaltfl�
 
 ####Risikoübersicht
 
-Nachdem alle identifizierten Risiken erstellt worden sind stehen diese zur Übersicht in Listenform im Menü-Reiter "Risikomanagement - Risiko" zur Verfügung. Diese Liste ermöglicht die Auswahl, Suche, Sortierung und gibt einen Kurzüberblick über die identifizierten Risiken. Um eine schnellen Überblick zu gewährleisten wurde neben den wichtigsten Informationen auch eine Ampelfunktionalität innerhalb dieser Liste implementiert. Die Ampel zeigt dabei farblich die jeweilige zugrunde liegende Risikoklasse:
+Nachdem alle identifizierten Risiken erstellt worden sind stehen diese zur Übersicht in Listenform im Menü-Reiter "Risikomanagement - Risiko" zur Verfügung. Diese Liste ermöglicht die Auswahl, Suche, Sortierung und gibt einen Kurzüberblick über die identifizierten Risiken. Um eine schnellen Überblick zu gewährleisten, wurde neben den wichtigsten Informationen auch eine Ampelfunktionalität innerhalb dieser Liste implementiert. Die Ampel zeigt dabei farblich die jeweilige zugrunde liegende Risikoklasse:
 
  - Rot: Risikoklasse 4 & 5
  - Gelb: Risikoklasse 3
  - Grün: Risikoklasse 1 & 2
  - Ring: Risikoklasse 0
 
-Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen, Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stets auf die aktuellste abgeschlossene Bewertung. 
+Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen und Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stets auf die aktuellste abgeschlossene Bewertung. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko11.png)
 
@@ -175,9 +175,9 @@ Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche 
  - Gewichteter Risikowert = Risikowert * Faktor der Stufe (in %) * Faktor der Wahrscheinlichkeit (in %)
  - RisikoKlasse = Definition im Risikokatalog anhand Stufe und Wahrscheinlichkeit
 
-Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So kann eine Datei mit der Bewertung oder eine Prognose-Art hinterlegt werden. 
+Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So kann eine Datei mit der Bewertung oder einer Prognose-Art hinterlegt werden. 
 
-Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in dem Feld "Bemerkungen" und der Betätigung der Schaltfläche "erledigt". Nach der Betätigung wird diese Bewertung unveränderbar, d.h. revisionssicher, gespeichert. Dabei wird diese dann als aktuellste Bewertung in jegliche Auswertungen verwendet und wird in der Anzeige im Unterreiter "Allgemein" mit seinen Kennzahlen angezeigt. Bewertungen können jedoch auch ohne die Betätigung der Schaltfläche "erledigt" weiter bearbeitet und offen gelassen werden. Hintergrund der Funktionalität ist die Notwendigkeit nach einem nachvollziehbaren und revisionssicheren Risikomanagementsystem. Bedeutet, dass Risikobewertungen, die überwacht und kommuniziert werden,  zurückverfolgbar sein müssen und nicht mehr nachträglich verändert werden dürfen. Damit soll sichergestellt werden, dass eine historische Betrachtung des Risikoprofils möglich ist. Ein weiterer Vorteil stellt das Rechtesystem von aifExpert dar. So kann bestimmt werden, dass nur bestimmte Personen den verbindlichen Abschluss einer Risikobewertung durchführen können.
+Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in den Feldern "Stufe", "Wahrscheinlichkeit", "Risikowert", "Bemerkungen" und der Betätigung der Schaltfläche "erledigt". Nach der Betätigung wird diese Bewertung unveränderbar, d.h. revisionssicher, gespeichert. Dabei wird diese dann als aktuellste Bewertung in jeglichen Auswertungen verwendet und wird in der Anzeige im Unterreiter "Allgemein" mit seinen Kennzahlen angezeigt. Bewertungen können jedoch auch ohne die Betätigung der Schaltfläche "erledigt" weiter bearbeitet und offen gelassen werden. Hintergrund der Funktionalität ist die Notwendigkeit nach einem nachvollziehbaren und revisionssicheren Risikomanagementsystem. Bedeutet, dass Risikobewertungen, die überwacht und kommuniziert werden,  zurückverfolgbar sein müssen und nicht mehr nachträglich verändert werden dürfen. Damit soll sichergestellt werden, dass eine historische Betrachtung des Risikoprofils möglich ist. Ein weiterer Vorteil stellt das Rechtesystem von aifExpert dar. So kann bestimmt werden, dass nur bestimmte Personen den verbindlichen Abschluss einer Risikobewertung durchführen können.
 
 Die gespeicherten Bewertungen, sei es offen oder auch geschlossen, können im Unterreiter "Bewertungen" betrachtet und zurückverfolgt werden.
 
@@ -224,9 +224,9 @@ Nach MaRisk (BTR 4) sollen Schadensfälle jährlich der Geschäftsleitung berich
 
 Zur Risikoüberwachung stellt der aifExpert vielfältige Methoden zur Verfügung.
 
-Neben einer allgemeinen Risikoübersicht mithilfe der funktionalen Risikoliste und einer Risikomatrix im Unterreiter "Matrix" stellt das Reporting-Modul ein umfangreiches Berichtswesen zur Verfügung.
+Neben einer allgemeinen Risikoübersicht mithilfe der funktionalen Risikoliste und einer Risikomatrix (Unterreiter "Matrix") stellt das Reporting-Modul ein umfangreiches Berichtswesen zur Verfügung.
 
-Um den u.g. Anforderungen zu begegnen, bietet aifExpert mithilfe von Berichtsgeneratoren ein flexibles und auf die Anforderungen  zugeschnittenes Reporting. Die Berichtsgeneratoren vom aifExpert können dabei adhoc oder automatisiert Berichte erstellen und versenden.
+Um den u.g. Anforderungen zu begegnen, bietet aifExpert mithilfe von Berichtsgeneratoren ein flexibles und auf die Anforderungen  zugeschnittenes Reporting. Die Berichtsgeneratoren des aifExpert können dabei adhoc oder automatisiert Berichte erstellen und versenden.
 
 Die automatisierten Berichte können entweder termin-, prozess- oder ereignisgesteuert erzeugt werden. Beim termingesteuerten Berichtswesen können ein oder mehrere Zeitpunkte gesetzt werden, die dann zur Erzeugung
 und zum Versand der Berichte führen. Beim prozessgesteuerten Berichtswesen erfolgt die Erstellung und der Versand in einem definierten Prozessschritt. Beim ereignisgesteuerten Berichtswesen erfolgt die Erzeugung und der Versand anhand eines definierten Ereignisses.
