@@ -112,13 +112,11 @@ Nachdem die jeweiligen Meldungsarten definiert sind, erfolgt die Zuordnung der P
 
 ####3. Meldungen - Allgemein
 
-Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planungen definiert ist, kann die tatsächliche Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten bzw. mehreren Vordrucken innerhalb einer einzigen Meldung. Die Anlage der Meldung erfolgt mithilfe der Schalfläche "Neu" im Menü-Reiter. Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "Bbk Melder" befüllt werden. Essenzielle Felder sind dabei:
+Nachdem nun die Definition der Stammdaten und möglichen Meldungsarten und Planungen definiert ist, kann die tatsächliche Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten bzw. mehreren Vordrucken innerhalb einer einzigen Meldung. Die Anlage der Meldung erfolgt mithilfe der Schaltfläche "Neu" im Menü-Reiter. Anschließend müssen im Reiter "Allgemein" die Felder der zwei Bereiche "Allgemein" und "Bbk Melder" befüllt werden. Essenzielle Felder sind dabei:
 
  - Bereich "Allgemein"
 	 - Gesellschaft
 	 - Periode
- - Bereich "Datei"
-	 - Datei (Dateipfad - wird zum Erstellen der Datei benötigt)
  - Bereich "Bbk Melder"
 	 - Alle Angaben
 
@@ -161,7 +159,7 @@ Nachdem jegliche Posten mit Werten versehen wurden, ist die Meldung als vollstä
 
 ####7. Aktion - Erstellung der Datei
 
-Nachdem jegliche Posten mit Werten versehen wurden, ist die Meldung als vollständig zu betrachten. Nun kann die Meldung als Datei erzeugt werden. Dabei nutzt der aifExpert das von der Bundesbank fest vorgeschriebene Schema. Um die Meldung zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldung als .xml-Datei auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
+Nachdem jegliche Posten mit Werten versehen wurden, ist die Meldung als vollständig zu betrachten. Nun kann die Meldung als Datei erzeugt werden. Dabei nutzt der aifExpert das von der Bundesbank fest vorgeschriebene Schema. Um die Meldung zu erstellen muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen" im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldung als .xml-Datei auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert.
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen15.png)
 
@@ -175,7 +173,7 @@ Nachdem die Datei erstellt wurde kann der Anwender die Dateien im Benutzerportal
 
 ####9. Aktion - Kopie einer Meldung für neuen Zeitraum
 
-Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu können, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Dies kann entweder durch eine neue Periode, eine Nachmeldung oder eine Änderungsmeldung notwendig werden. Um die Daten in eine neue Periode zu kopieren muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. Bei einer Nachmeldung oder Änderungsmeldung (d.h. eine zusätzliche Meldung in der selben Periode) muss im Dialog der entsprechende Zeitraum im Format *YYYY* M *MM* (Beispiel: 2016M07) eingegeben werden. Dabei erstellt der aifExpert eine zusätzliche Meldung für diese Periode. Zur Unterscheidung wird dabei jedoch eine neue Dateinummer (fortlaufende Nummer, die bei 1 beginnt). Das bedeutet, dass je Periode beliebig viele Meldungen, möglich sind.
+Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu können, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Dies kann entweder durch eine neue Periode, eine Nachmeldung oder eine Änderungsmeldung notwendig werden. Um die Daten in eine neue Periode zu kopieren muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. Bei einer Nachmeldung oder Änderungsmeldung (d.h. eine zusätzliche Meldung in der selben Periode) muss im Dialog der entsprechende Zeitraum im Format *YYYY* M *MM* (Beispiel: 2016M07) eingegeben werden. Dabei erstellt der aifExpert eine zusätzliche Meldung für diese Periode. Zur Unterscheidung wird dabei jedoch eine neue Dateinummer gesetzt (fortlaufende Nummer, die bei 1 beginnt). Das bedeutet, dass je Periode beliebig viele Meldungen möglich sind.
 
 *Beispiel:*
 *Kopie der Meldung vom Dezember 2016 (2016M12). Anlage einer zweiten Meldung mit Dateinummer 2. Innerhalb der Bestandteile wurde die Bbk 10392 des Produktes "IIF" ausgewählt.*
@@ -194,7 +192,7 @@ Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu kö
 
 Nachdem die Stammdaten korrekt und vollständig hinterlegt wurden, beginnt nun der Prozess zur Erstellung der Meldung. 
 
-Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstellung der Meldungsart kann durch die Betätigung der Schaltfläche "Neu" erfolgen. Im Reiter "Allgemein" kann diese benannt und mit einem Intervall und einer Fristigkeit versehen werden. 
+Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstellung der Meldungsart kann durch die Betätigung der Schaltfläche "Neu" im Menü-Reiter erfolgen. Im Reiter "Allgemein" kann diese benannt und mit einem Intervall und einer Fristigkeit versehen werden. 
 
 Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermöglichen, ist die Meldungsart "EsmaAIF" bei der Installation bereits hinterlegt. 
 
@@ -205,7 +203,7 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 ####2. Planungen
 
-Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte anhand der BaFin/Esma-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "EsmaAIF" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem ein Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart "EsmaAIF" in der linken Liste angezeigt.
+Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte (Fonds) anhand der BaFin/Esma-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "EsmaAIF" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planung" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem ein Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart "EsmaAIF" in der linken Liste angezeigt.
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
 
@@ -215,13 +213,11 @@ Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeu
 
 ####3. Meldungen - Allgemein
 
-Nachdem nun die Definition der Stammdaten, Meldungsarten und Planungen definiert ist kann die Erstellung der AIFM- und der AIF- Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten, d.h. mehreren AIF-Meldungen. Die Anlage der Meldung erfolgt im Menü-Reiter mithilfe der Schaltfläche "Neu". Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "BaFin/ESMA-Meldung" befüllt werden. Dabei sind folgende Felder essenziell:
+Nachdem nun die Definition der Stammdaten, Meldungsarten und Planungen definiert ist, kann die Erstellung der AIFM- und der AIF-Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten, d.h. mehreren AIF-Meldungen. Die Anlage der Meldung erfolgt mithilfe der Schaltfläche "Neu" im Menü-Reiter. Anschließend müssen im Reiter "Allgemein" die Felder der drei Bereiche "Allgemein", "Datei" und "BaFin/ESMA-Meldung" befüllt werden. Dabei sind folgende Felder essenziell:
 
  - Bereich "Allgemein"
 	 - Gesellschaft
 	 - Periode
- - Bereich "Datei"
-	 - Datei (Dateipfad - wird zum Erstellen der Datei benötigt)
  - Bereich "BaFin/ESMA Meldung"
 	 - Alle Angaben
 
@@ -256,7 +252,7 @@ Ein standardisierter Bericht zur AIF-Meldung ist derzeit noch nicht vorhanden.
 
 ####6. Aktion - Erstellung der Datei
 
-Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Nun können die Meldungen als Dateien erzeugt werden. Dabei nutzt der aifExpert das von der ESMA fest vorgeschriebene Schema. Um die Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien und in komprimierter Form als .xml.gz-Dateien (GZIP) auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. 
+Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Nun können die Meldungen als Dateien erzeugt werden. Dabei nutzt der aifExpert das von der ESMA fest vorgeschriebene Schema. Um die Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien und in komprimierter Form als .xml.gz-Dateien (GZIP) auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert.
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
 
