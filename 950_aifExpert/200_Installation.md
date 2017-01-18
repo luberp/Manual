@@ -7,7 +7,8 @@ In diesem Handbuch wird nur die Installation der Client-Applikation und die Hers
 Die aifExpert Installations-CD enthält alle zur Installation benötigten Dateien. 
 Eine aktuelle Installationsdatei steht außerdem unter folgender Adresse zum Download bereit:
 
-http://www.xpecto.de/down/aifExpert.msi
+http://www.xpecto.de/down/aifExpert.msi (64Bit)
+https://www.xpecto.de/down/aifExpert_x32.msi (32Bit)
 
 Bitte beachten Sie die Schreibweise (Groß- und Kleinschreibung) der URLs!
 
