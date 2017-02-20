@@ -78,8 +78,6 @@ Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
 		- Beteiligung_OEPP
 		- Beteiligung_Sonst
 		- Container
-		- Derivate_Aktiva
-		- Derivate_Passiva
 		- Energie_Anlagen
 		- Grundstuecke_Bebaut
 		- Grundstuecke_Unbebaut
