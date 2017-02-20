@@ -73,6 +73,19 @@ Folgende Meldungsarten sind bereits hinterlegt bzw. implementiert:
  - Bbk10390: Allgemeine Angaben für das einzelne Investmentvermögen (Vordruck 10390)
  - Bbk10391: Monatliche Meldung für Investmentvermögen (Vordruck 10391)
  - Bbk10392: Monatliche Meldung für Investmentvermögen – Neubewertung (Vordruck 10392)
+ 	- Wird automatisch erstellt sobald folgende Posten von einer bestehenden Bbk10391-Meldung verändert werden:
+		- Beteiligung_Immogesellschaft
+		- Beteiligung_OEPP
+		- Beteiligung_Sonst
+		- Container
+		- Derivate_Aktiva
+		- Derivate_Passiva
+		- Energie_Anlagen
+		- Grundstuecke_Bebaut
+		- Grundstuecke_Unbebaut
+		- Luftfahrzeuge
+		- Schiffe
+		- Sonstige_NF_Verm
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen4.png)
 
@@ -186,6 +199,16 @@ Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anbieten zu kö
 
 ----------
 
+####10. Aktion - Löschen
+
+Die Löschung von Datensätzen und Einträgen erfolgt nach einem standardisierten Schema. 
+Dabei stellt dieses sicher, dass nur Datensätze gelöscht werden können, die nicht mehr von anderen Einträgen referenziert werden. 
+D.h. Eine Löschung einer Meldung kann nur erfolgen, wenn die darunterliegenen Pläne (Formulare - Bereich "Bestandteile") gelöscht wurden.
+Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Einträg in der linken Liste.
+Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Bestandteile") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
+
+----------
+
 ##Meldung für BaFin / ESMA
 
 ####1. Meldungsarten
@@ -271,6 +294,16 @@ Nachdem die Datei erstellt wurde, kann der Anwender die Dateien im Melde- und Ve
 ####8. Aktion - Kopie einer Meldung für neuen Zeitraum
 
 Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anzubieten, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Um die Daten in eine neue Periode zu kopieren, muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. 
+
+----------
+
+####9. Aktion - Löschen
+
+Die Löschung von Datensätzen und Einträgen erfolgt nach einem standardisierten Schema. 
+Dabei stellt dieses sicher, dass nur Datensätze gelöscht werden können, die nicht mehr von anderen Datensätzen referenziert werden. 
+D.h. Eine Löschung einer Meldungsart kann nur erfolgen, wenn die darunterliegenen Posten gelöscht wurden.
+Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Einträg in der linken Liste.
+Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Aufbau") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
 
 ----------
 
