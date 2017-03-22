@@ -18,7 +18,7 @@ Im Bereich des Risikomanagements ermöglicht aifExpert ein umfassendes Risikocon
 ####Liquiditätsmanagement
 Planung der Liquidität für Produkte und Gesellschaften
 
-Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs.
+Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs & Gesellschaften usw..
 
 ----------
 
