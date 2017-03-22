@@ -1,4 +1,4 @@
-aifExpert setzt auf Standardisierung & Automatisierung und bietet die Möglichkeit, die Informationen entsprechend den Vorgaben der deutschen Bundesbank, der BaFin sowie des Bundeszentralamts für Steuern elektronisch per Knopfdruck zu übertragen. 
+Die Software aifExpert setzt auf Standardisierung & Automatisierung und bietet die Möglichkeit, die Informationen entsprechend den Vorgaben der deutschen Bundesbank, der BaFin sowie des Bundeszentralamts für Steuern elektronisch per Knopfdruck zu übertragen. 
 
 Die hierfür benötigten Daten werden in speziellen Erfassungsmasken in aifExpert hinterlegt. Schnittstellen zu bestehenden Systemen, wie xpectoPro etc. können implementiert werden. Dadurch reduziert sich der manuelle Erfassungsaufwand erheblich, zusätzlich werden in dem integrierten Änderungsprotokoll- und dem Rechtesystem alle Veränderungen lückenlos dokumentiert.
 
@@ -55,7 +55,9 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen27.png)
 
+
 ----------
+
 
 ##Meldung für Bundesbank
 
