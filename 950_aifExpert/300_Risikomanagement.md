@@ -66,13 +66,13 @@ Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese bilden
 
 ####Stufen
 
-Im Reiter "Stufen" können beliebig Schadensaußmaße hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 15% Schadensausmaß ist innerhalb der Stufe "gering" einzuordnen, da "gering" von 0% - 20% gilt). 
+Im Reiter "Stufen" können beliebig Schadenshöhen hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 15% Schadenshöhe ist innerhalb der Stufe "gering" einzuordnen, da "gering" von 0% - 20% gilt). 
 Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala der Wahrscheinlichkeiten können letztendlich fünf Risikoklassen gebildet und in eine Risikomatrix eingeordnet werden (siehe Risikoüberwachung).
 
 Die Kategorisierung der Risikoklassen ist innerhalb des Reiters "Stufen" flexibel möglich.
 
 ######Erläuterung
-Das Schadensaußmaß wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung des Schadensaußmaßes eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
+Die Schadenshöhe wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung der Schadenshöhe eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko4.png)
 
@@ -95,10 +95,10 @@ Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mi
 Im Reiter "Prognosen" können beliebig viele Prognose-Arten hinterlegt werden. Je Prognose-Art wird dabei eine Bezeichnung sowie Faktoren je Zeitraum hinterlegt. Diese Faktoren können mithilfe von Schiebereglern positiv wie auch negativ eingestellt werden. Verwendet werden die Prognose-Arten letztendlich bei der Risikobewertung. Dabei kann bei einer Bewertung eines Risikos eine Prognose-Art hinterlegt werden. Anschließend kann im Rahmen der Risikoüberwachung eine Prognose für den jeweiligen Zeitraum erstellt werden. Dabei werden die entsprechenden Kennzahlen mit dem jeweiligen Faktor der zugrunde liegenden Prognose-Art berechnet.
 
 *Beispiel 1:* 
-*Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "6 Monate" erstellt. Das Risiko1 mit dem Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.* 
+*Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "6 Monate" erstellt. Das Risiko1 mit dem gewichteten Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.* 
 *1.000 x 1,02 (2% Prognose-Faktor) = 1.020 € Risikowert im Prognose-Zeitraum "6 Monate"*
 *Beispiel 2:*
-*Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "1 Jahr" erstellt. Das Risiko1 mit dem Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.*
+*Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "1 Jahr" erstellt. Das Risiko1 mit der gewichteten Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.*
 *1.000 x 1,02 (2% Prognose-Faktor) x 1,04 (4% Prognose-Faktor) = 1060,80 € Risikowert im Prognose-Zeitraum "1 Jahr"*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko6.png)
@@ -170,9 +170,10 @@ Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "A
 
 ###Risikobewertung
 
-Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter Eintrittswahrscheinlichkeit (Wahrscheinlichkeit), Schadensausmaß (Stufe) und Erwartungswert (Risikowert) benutzt, durchgeführt werden.  Innerhalb der Bewertung können die drei Parameter Stufe, Wahrscheinlichkeit und Risikowert bestimmt und hinterlegt werden. Die Parameter Stufe und Wahrscheinlichkeit können bequem per Schieberegler oder auch durch eine Eingabe hinterlegt werden. Durch die zugrunde liegenden Stammdaten werden die Bezeichnungen der Parameter, die Risikoklasse sowie der gewichtete Risikowert dynamisch angezeigt und berechnet. 
+Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter Eintrittswahrscheinlichkeit (Wahrscheinlichkeit), Schadenshöhe (Stufe) und Schadenwirkung benutzt, durchgeführt werden.  Innerhalb der Bewertung können die drei Parameter Schadenshöhe, Wahrscheinlichkeit und Schadenwirkung bestimmt und hinterlegt werden. Die Parameter Schadenshöheund Wahrscheinlichkeit können bequem per Schieberegler oder auch durch eine Eingabe hinterlegt werden. Durch die zugrunde liegenden Stammdaten werden die Bezeichnungen der Parameter, die Risikoklasse, der Risikowert sowie der gewichtete Risikowert dynamisch angezeigt und berechnet. 
 
- - Gewichteter Risikowert = Risikowert * Faktor der Stufe (in %) * Faktor der Wahrscheinlichkeit (in %)
+ - Risikowert = Schadenwirkung * Faktor der Schadenshöhe (in %)
+ - Gewichteter Risikowert = Schadenwirkung * Faktor der Schadenshöhe (in %) * Faktor der Wahrscheinlichkeit (in %)
  - RisikoKlasse = Definition im Risikokatalog anhand Stufe und Wahrscheinlichkeit
 
 Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So kann eine Datei mit der Bewertung oder einer Prognose-Art hinterlegt werden. 
