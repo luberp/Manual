@@ -174,7 +174,7 @@ Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche 
 
  - Risikowert = Schadenwirkung * Faktor der Schadenshöhe (in %)
  - Gewichteter Risikowert = Schadenwirkung * Faktor der Schadenshöhe (in %) * Faktor der Wahrscheinlichkeit (in %)
- - RisikoKlasse = Definition im Risikokatalog anhand Stufe und Wahrscheinlichkeit
+ - Risikoklasse = Definition im Risikokatalog anhand Schadenshöhe und Wahrscheinlichkeit
 
 Zusätzlich können weitere Informationen zu der Bewertung hinterlegt werden. So kann eine Datei mit der Bewertung oder einer Prognose-Art hinterlegt werden. 
 
