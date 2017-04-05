@@ -119,8 +119,8 @@ Die einzelnen gepflegten Risikoobjekte stellen das jeweilige zu betrachtende Obj
 
 Jedes Objekt kann dabei noch mit weiteren Kennzahlen wie Investition und Unternehmenswert hinterlegt werden.
 
-Daneben können im Falle einer Insolvenz des Objektes im Bereich der "Insolvenz" zwei Funktionen angestoßen werden. Im Bewertungslauf (Diese Funktion ist für Insolvenzen im laufenden Jahr gedacht) werden jegliche Risiken des Objektes mit Ausnahme des Unternehmensrisiko deaktiviert. Beim Unternehmensrisiko wird eine neue Bewertung angelegt mit den Parametern (Risikowert = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%).
-Im Abschreibungslauf (Diese Funktion ist für bereits durchgeführte oder vergangene Insolvenzen gedacht)  wird zu jedem Risiko eine neue Bewertung mit den Parametern (Risikowert = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%) hinterlegt.
+Daneben können im Falle einer Insolvenz des Objektes im Bereich der "Insolvenz" zwei Funktionen angestoßen werden. Im Bewertungslauf (Diese Funktion ist für Insolvenzen im laufenden Jahr gedacht) werden jegliche Risiken des Objektes mit Ausnahme des Unternehmensrisiko deaktiviert. Beim Unternehmensrisiko wird eine neue Bewertung angelegt mit den Parametern (Schadenwirkung = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%).
+Im Abschreibungslauf (Diese Funktion ist für bereits durchgeführte oder vergangene Insolvenzen gedacht)  wird zu jedem Risiko eine neue Bewertung mit den Parametern (Schadenwirkung = 1 €; Wahrscheinlichkeit = 100%; Stufe= 100%) hinterlegt.
 
 Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarchie-Strukturen etabliert und beliebig viele Abhängigkeiten & Wechselbeziehungen gepflegt werden.  
 
