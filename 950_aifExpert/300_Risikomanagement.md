@@ -1,6 +1,6 @@
 aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer umfassenden und detaillierten Betrachtung des Risikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
 
- - Risikoidentifikation
+ - Risikoerfassung
  - Risikobewertung
  - Risikosteuerung
  - Risikoüberwachung
@@ -17,9 +17,9 @@ Nach KAGB § 28 Abs. 1 hat die KVG über ein angemessenes Risikomanagementsystem
 
 ----------
 
-###Risikoidentifikation
+###Risikoerfassung
 
-Durch die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte, sowie der unterschiedlichen zugrunde liegenden Parameter, kann einer umfangreichen und strukturierten Risikoidentifikation Rechnung getragen werden.
+Durch die strukturierte Anlage eines Risikokataloges, von Ebenen, einer hierarchischen Struktur der einzelnen Risikoobjekte, sowie der unterschiedlichen zugrunde liegenden Parameter, kann einer umfangreichen und strukturierten Risikoerfassung Rechnung getragen werden.
 
 ####Risikokatalog
 
@@ -81,7 +81,7 @@ Die Schadenshöhe wird definiert als qualitatives Maß für die möglichen Folge
 ####Wahrscheinlichkeiten
 
 Im Reiter "Wahrscheinlichkeiten" können beliebig Eintrittswahrscheinlichkeiten hinterlegt werden. Neben der Benennung werden Faktoren hinterlegt, die bestimmen in welchem prozentualen Rahmen diese Stufe gilt. (z.B. 10% Wahrscheinlichkeit ist innerhalb der Stufe "unwahrscheinlich" einzuordnen, da "unwahrscheinlich" von 0% - 20% gilt). 
-Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes können letztendlich fünf Risikoklassen gebildet und in eine Risikomap eingeordnet werden (siehe Risikomatrix).
+Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes können letztendlich fünf Risikoklassen gebildet und in eine Risikomatrix eingeordnet werden (siehe Risikoüberwachung).
 
 ######Erläuterung
 Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
@@ -96,10 +96,10 @@ Im Reiter "Prognosen" können beliebig viele Prognose-Arten hinterlegt werden. J
 
 *Beispiel 1:* 
 *Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "6 Monate" erstellt. Das Risiko1 mit dem gewichteten Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.* 
-*1.000 x 1,02 (2% Prognose-Faktor) = 1.020 € Risikowert im Prognose-Zeitraum "6 Monate"*
+*1.000 x 1,02 (2% Prognose-Faktor) = 1.020 € gewichteter Risikowert im Prognose-Zeitraum "6 Monate"*
 *Beispiel 2:*
 *Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "1 Jahr" erstellt. Das Risiko1 mit der gewichteten Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.*
-*1.000 x 1,02 (2% Prognose-Faktor) x 1,04 (4% Prognose-Faktor) = 1060,80 € Risikowert im Prognose-Zeitraum "1 Jahr"*
+*1.000 x 1,02 (2% Prognose-Faktor) x 1,04 (4% Prognose-Faktor) = 1060,80 € gewichteter Risikowert im Prognose-Zeitraum "1 Jahr"*
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko6.png)
 
@@ -145,7 +145,7 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 ####Risikoanlage
 
 Nach der erfolgreichen Anlage des Risikokatalogs, der Ebenen, Risikoobjekte und der Parameter
-kann die Anlage von Risiken entweder manuell (über die Betätigung der Schaltfläche "Neu") oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" die Schaltfläche "Fehlende Risiken erstellen" betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Risikoobjekt die jeweiligen Risiken erstellt.
+kann die Anlage von Risiken entweder manuell (über die Betätigung der Schaltfläche "Neu") oder über die automatisierte Funktion des aifExpert erfolgen. Dabei muss im Menü-Reiter "Aktionen" die Schaltfläche "Fehlende Risiken erstellen" betätigt werden. Durch die Verbindung Risikoart > Ebenen > Risikoobjekte werden zu jedem Risikoobjekt die jeweiligen Risiken erstellt.
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko9.png)
 
@@ -162,7 +162,7 @@ Nachdem alle identifizierten Risiken erstellt worden sind stehen diese zur Über
  - Grün: Risikoklasse 1 & 2
  - Ring: Risikoklasse 0
 
-Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen und Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Risikowert, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stets auf die aktuellste abgeschlossene Bewertung. 
+Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen und Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Schadenwirkung, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stets auf die aktuellste abgeschlossene Bewertung. 
 
 ![](http://xpecto.github.io/docs/img/aifExpert_Risiko11.png)
 
@@ -170,7 +170,7 @@ Je nach Auswahl innerhalb der Liste können im rechten Bereich im Unterreiter "A
 
 ###Risikobewertung
 
-Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter Eintrittswahrscheinlichkeit (Wahrscheinlichkeit), Schadenshöhe (Stufe) und Schadenwirkung benutzt, durchgeführt werden.  Innerhalb der Bewertung können die drei Parameter Schadenshöhe, Wahrscheinlichkeit und Schadenwirkung bestimmt und hinterlegt werden. Die Parameter Schadenshöheund Wahrscheinlichkeit können bequem per Schieberegler oder auch durch eine Eingabe hinterlegt werden. Durch die zugrunde liegenden Stammdaten werden die Bezeichnungen der Parameter, die Risikoklasse, der Risikowert sowie der gewichtete Risikowert dynamisch angezeigt und berechnet. 
+Die Risiken können nun mithilfe der klassischen qualitativen Bewertung, welche die Parameter Eintrittswahrscheinlichkeit, Schadenshöhe und Schadenwirkung benutzt, durchgeführt werden.  Innerhalb der Bewertung können die drei Parameter Schadenshöhe, Wahrscheinlichkeit und Schadenwirkung bestimmt und hinterlegt werden. Die Parameter Schadenshöhe und Wahrscheinlichkeit können bequem per Schieberegler oder auch durch eine Eingabe hinterlegt werden. Durch die zugrunde liegenden Stammdaten werden die Bezeichnungen der Parameter, die Risikoklasse, der Risikowert sowie der gewichtete Risikowert dynamisch angezeigt und berechnet. 
 
  - Risikowert = Schadenwirkung * Faktor der Schadenshöhe (in %)
  - Gewichteter Risikowert = Schadenwirkung * Faktor der Schadenshöhe (in %) * Faktor der Wahrscheinlichkeit (in %)
@@ -232,7 +232,7 @@ Um den u.g. Anforderungen zu begegnen, bietet aifExpert mithilfe von Berichtsgen
 Die automatisierten Berichte können entweder termin-, prozess- oder ereignisgesteuert erzeugt werden. Beim termingesteuerten Berichtswesen können ein oder mehrere Zeitpunkte gesetzt werden, die dann zur Erzeugung
 und zum Versand der Berichte führen. Beim prozessgesteuerten Berichtswesen erfolgt die Erstellung und der Versand in einem definierten Prozessschritt. Beim ereignisgesteuerten Berichtswesen erfolgt die Erzeugung und der Versand anhand eines definierten Ereignisses.
 
-Die Berichte können dabei Kennzahlen berechnen, Limits prüfen und komplexe Berechnungen durchführen. Die Daten des Berichts und der Bericht selbst werden in Standardformaten wie XLS, PDF oder CSV bereitgestellt.
+Die Berichte können dabei Kennzahlen berechnen, Limits prüfen, Simulationen und komplexe Berechnungen durchführen. Die Daten des Berichts und der Bericht selbst werden in Standardformaten wie XLS, PDF oder CSV bereitgestellt.
 
 Im Bereich des Risikomanagements stehen dabei standardisierte Berichte zum herunterladen zur Verfügung. Diese Berichte ermöglichen eine sofortige Risikoüberwachung der wichtigsten Kennzahlen und Informationen wie Risikoprofil je Ebene / Objekt, Risikomatrix, Aggreggationen, Termine, Maßnahmen u.v.m. und können entsprechend der Anforderungen angepasst und verändert werden.
 
