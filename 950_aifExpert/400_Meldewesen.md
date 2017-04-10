@@ -41,15 +41,14 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
  - Gesellschaften
 	 - Reiter "Allgemein" > Bereich "Allgemein"
 		 - Name
-		 - Bundesbank ID (notwendig für BuBa Meldung)
+		 - Bundesbank ID (notwendig für Bbk Meldung)
 		 - BaFin ID (notwendig für BaFin Meldung)
 		 - Legal-Entity ID (optional für BaFin Meldung)
- 	 - Reiter "Allgemein" > Bereich "Firma / Gemeinschaft"
-		 - Name
 	 - Reiter "Allgemein" > Bereich "Adresse"
 		 - Straße
 		 - Land, PLZ, Wohnort
-
+	 - Reiter "Allgemein" > Bereich "Firma / Gemeinschaft"
+		 - Name
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen26.png)
 
