@@ -1,7 +1,7 @@
 * Feature [#34014] xpecto Backup
 
-xpecto Datenbankbackup Dialog - Filteroption der zu sichernden Tabellen
-Es werden nur noch die in der Ansicht gefilterten Tabellen gesichert. Bei der Suche/Filterung ist es neben den Tabellenkürzel oder TabellenIDs auch möglich nach einem Produkt/Owner zu filtern.
+   xpecto Datenbankbackup Dialog - Filteroption der zu sichernden Tabellen
+  Es werden nur noch die in der Ansicht gefilterten Tabellen gesichert. Bei der Suche/Filterung ist es neben den Tabellenkürzel oder    TabellenIDs auch möglich nach einem Produkt/Owner zu filtern.
 
 * Feature [#37322] DataGridView: ColumnConfiguration: dynamisches Row/Cellstyling
 Alle Listen können jetzt dynamische Formatierungen (Farbe, Schrift ...) je Zeile auf Basis des Zeileninhalts anzeigen.
