@@ -1,6 +1,6 @@
 Betriebssystem: Microsoft Windows 7/ 8 / 8.1 / 10
 Platform: .NET Framework 4.5
-Microsoft SQL Server 2016 Express (empfohlen)
+Microsoft SQL Server 2012/ 2014/ 2016 Express (empfohlen)
 
 Hardware:
 
