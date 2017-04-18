@@ -10,7 +10,7 @@
    
 * Feature [#38106] Neues Standardfeld US_Position
 
-   Neues Standardfeld US_Position für die Position des Benutzers innerhalb des Unternehmens (z. B. Leiter Kundenbetreuung)
+   Neues Standardfeld US_Position für die Position des Benutzers innerhalb des Unternehmens (z. B. Leiter Kundenbetreuung).
    
 * Feature [#40166] Zahlungsverkehrdialog - Sollstellungstest
 
@@ -18,7 +18,7 @@
    
 * Feature [#40196] ProcessDesigner: Ausrichtung am Raster
 
-  Prozessdesigner: Ausrichtung der einzelnen Pfeil und Zustände am Raster
+  Prozessdesigner: Ausrichtung der einzelnen Pfeil und Zustände am Raster.
   
 * Feature [#40562] Sortierung in Überweisungsdatenträgern
 
@@ -46,7 +46,7 @@
   
 * Feature [#42178] Vertrag-Allgemein
 
-  Neue Vertrag_Allgemein Oberfläche mit Umstellung auf Zweckkonten
+  Neue Vertrag_Allgemein Oberfläche mit Umstellung auf Zweckkonten.
   
 * Feature [#42803] Stapelbuchung: Storno in geschlossenen Buchungsperioden
 
@@ -63,3 +63,7 @@
 * Feature [#43338] Übertragungen
 
   Bei einer Vertrags-Übertragung in einer geschlossenen Buchungsperiode erfolgen die Übertragungs-Buchungen zum ersten Datum einer nicht    geschlossenen Periode.
+  
+ * Feature [#40876] SEPA Version 3.0
+ 
+  Umstellung auf die Version "SEPA 3.0".
