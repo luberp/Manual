@@ -6,7 +6,7 @@ Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf einige Punkte h
 Integration der Rechtschreibprüfung in Wordberichten.
 
 #### Tastenkürzel 
-Folgende Funktionen können nun über folgende Tastenkürzel ausgeführt werden:
+Folgende Funktionen können nun über Tastenkürzel ausgeführt werden:
 "Strg + N" zur Anlage eines neuen Datensatzes.
 "Strg + S" zum Speichern eines Datensatzes.
 
@@ -23,3 +23,5 @@ Im Wunschversand ist nun die Option "nur Archivieren" auswählbar, wodurch die d
 #### Mehrseitige Stimmzettel
 Unterstützung der Erstellung und Verarbeitung mehrseitiger Stimmzettel.
 
+#### Tooltip
+Bei gedrückter Strg-Taste wird beim Überfahren (MouseOver-Event) eines Tabellenfeldnamens oder der FieldID eine Bemerkung in Form eines Tooltip angezeigt.
