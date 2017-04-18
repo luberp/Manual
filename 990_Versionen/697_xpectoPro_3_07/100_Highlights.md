@@ -3,7 +3,7 @@ In diese Version sind viele Anforderungen unserer Kunden eingeflossen.
 Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf einige Punkte hinweisen:
 
 #### Rechtschreibprüfung in Wordberichten
-Integration der Rechtschreibprüfung in Wordberichten.
+Innerhalb von Wordberichten wurde eine Rechtschreibprüfung integriert.
 
 #### Tastenkürzel 
 Folgende Funktionen können nun über Tastenkürzel ausgeführt werden:
@@ -21,7 +21,7 @@ Im Ticketsystem können nun zu einem Ticket Dateien hinzugefügt werden.
 Im Wunschversand ist nun die Option "nur Archivieren" auswählbar, wodurch die die Versandsperre umgangen und die Schreiben nur archiviert werden
 
 #### Mehrseitige Stimmzettel
-Unterstützung der Erstellung und Verarbeitung mehrseitiger Stimmzettel.
+Mehrseitige Stimmzettel können nun verarbeitet und mit einer Unterstützung erstellt werden.
 
 #### Tooltip
 Bei gedrückter Strg-Taste wird beim Überfahren (MouseOver-Event) eines Tabellenfeldnamens oder der FieldID eine Bemerkung in Form eines Tooltip angezeigt.
