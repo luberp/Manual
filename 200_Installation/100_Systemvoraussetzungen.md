@@ -1,7 +1,7 @@
 
 Server:
 
--    Microsoft Windows 2003/ 2008/ 2012/ 2016
+-    Microsoft Windows 2008/ 2012/ 2016
 
 -    NET Framework 4.5
 
