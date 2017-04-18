@@ -1,19 +1,25 @@
 
-In diese Version sind 201 Anforderungen unserer Kunden eingeflossen.
+In diese Version sind viele Anforderungen unserer Kunden eingeflossen.
 Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf einige Punkte hinweisen:
 
-#### FKaustG/CRS GwG/Pep
+#### Rechtschreibprüfung in Wordberichten
+Integration der Rechtschreibprüfung in Wordberichten.
 
-xpectoPro unterstützt nun die nötigen Merkmale für die zukünftigen Meldepflichten. Zusätzlich sind in der Personenerfassung nun direkte Prüfungen gegen die Sanktionslisten (EU/UK/US) integriert.
+#### Tastenkürzel 
+Folgende Funktionen können nun über folgende Tastenkürzel ausgeführt werden:
+"Strg + N" zur Anlage eines neuen Datensatzes.
+"Strg + S" zum Speichern eines Datensatzes.
 
-#### Änderungsverfolgung
+#### Anzeige archivierter Läufe der Kampagnen 
+Im Kampagnen-Dialog gibt es nun einen neuen Reiter "Archivierte Läufe" der alle Läufe zur ausgewählten Kampagne anzeigt.
+Außerdem können die zugehörigen Ereignisse gelöscht werden. Dabei können vorab bestimmte Ereignisse an-/abgewählt werden.
 
-xpectoPro protokolliert nun alle Datenänderungen. Die Änderungsverfolgung muss nicht mehr konfiguriert werden, die zugehörige Einstellung wurde deshalb entfernt.
+#### Datei-Upload im Ticketsystem
+Im Ticketsystem können nun zu einem Ticket Dateien hinzugefügt werden.
 
-#### Suche
+#### Neue Option im "Wunschversand"
+Im Wunschversand ist nun die Option "nur Archivieren" auswählbar, wodurch die die Versandsperre umgangen und die Schreiben nur archiviert werden
 
-Die Standardsuche in xpectoPro kann direkt einzelne Felder abfragen (z.B. "Meier PLZ:84030", "Meier Produkt:Fonds2").
+#### Mehrseitige Stimmzettel
+Unterstützung der Erstellung und Verarbeitung mehrseitiger Stimmzettel.
 
-#### Portale / Onlinezeichnung
-
-Die Funktionen für Webportale haben sich in den letzten Monaten stark erweitert. Der direkte Vertragsabschluss für Endkunden ist möglich. Vertriebspartner können Materialen online bestellen. Alle Benutzer können sich mit zusätzlichen Sicherheitsmerkmalen anmelden (z.B. mTan, weiteres Webkonto).
