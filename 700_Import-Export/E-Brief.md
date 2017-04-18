@@ -5,5 +5,6 @@ Dieses Modul dient dem Export von Korrespondenz-Daten über einen externen Diens
 ![](http://xpecto.github.io/docs/img/E-Brief/E-Brief_Menue_Klassik.png)
 
  - Werkzeuge → Briefversand (moderne Ansicht)
+
  ![](http://xpecto.github.io/docs/img/E-Brief/E-Brief_Menue_Modern.png)
 
