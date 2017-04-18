@@ -66,4 +66,4 @@
   
  * Feature [#40876] SEPA Version 3.0
  
-  Umstellung auf die Version "SEPA 3.0".
+  Umstellung auf die Version "SEPA 3.0". 
