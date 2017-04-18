@@ -25,10 +25,10 @@ Für die Installation von aifExpert werden Administratorrechte benötigt.
 *Server:*
 
 -  Microsoft Windows 2003/ 2008/ 2012/ 2016
- - .NET Framework 4.5 
- - Microsoft SQL Server 2016 express (empfohlen)
+- .NET Framework 4.5 
+- Microsoft SQL Server 2016 express (empfohlen)
 	 - Datenzuwachs: ca. 200-2.000MB/a
- - Zentrales Verzeichnis für restliche Daten 
+- Zentrales Verzeichnis für restliche Daten 
 	 - Datenzuwachs: ca. 1GB/a
 
 *Arbeitsstation:*
