@@ -64,6 +64,6 @@
 
   Bei einer Vertrags-Übertragung in einer geschlossenen Buchungsperiode erfolgen die Übertragungs-Buchungen zum ersten Datum einer nicht    geschlossenen Periode.
   
- * Feature [#40876] SEPA Version 3.0
+* Feature [#40876] SEPA Version 3.0
  
-    Umstellung auf die Version "SEPA 3.0". 
+  Umstellung auf die Version "SEPA 3.0". 
