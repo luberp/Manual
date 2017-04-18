@@ -31,7 +31,7 @@ Für die Installation von aifExpert werden Administratorrechte benötigt.
 - Zentrales Verzeichnis für restliche Daten 
 	 - Datenzuwachs: ca. 1GB/a
 
-*Arbeitsstation:*
+*Client:*
 
  - Betriebssystem: Microsoft Windows 7/ 8 / 8.1 / 10
  - Prozessor: Intel oder vergleichbare CPU mit mindestens 1GHz
