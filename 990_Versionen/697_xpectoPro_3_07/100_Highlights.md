@@ -7,8 +7,10 @@ Innerhalb von Wordberichten wurde eine Rechtschreibprüfung integriert.
 
 #### Tastenkürzel 
 Folgende Funktionen können nun über Tastenkürzel ausgeführt werden:
+
   "Strg + N" zur Anlage eines neuen Datensatzes.
-  "Strg + S" zum Speichern eines Datensatzes.
+ 
+ "Strg + S" zum Speichern eines Datensatzes.
 
 #### Anzeige archivierter Läufe der Kampagnen 
 Im Kampagnen-Dialog gibt es nun einen neuen Reiter "Archivierte Läufe" der alle Läufe zur ausgewählten Kampagne anzeigt.
