@@ -10,6 +10,9 @@ Server:
 
 -    Microsoft SQL Server 2012/ 2014/ 2016 Express (empfohlen)
 
+Client:
+
+ -   Microsoft Windows 7/ 8 / 8.1 / 10
 
  -   Prozessor: Intel oder vergleichbare CPU mit mindestens 1GHz
 
