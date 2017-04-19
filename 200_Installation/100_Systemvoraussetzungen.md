@@ -5,18 +5,16 @@ Server:
 
 -    NET Framework 4.5
 
--    Microsoft SQL Server 2012/ 2014/ 2016 Express (empfohlen)
+-    Microsoft SQL Server 2012/ 2014/ 2016 (empfohlen)
 
 Client:
 
- -   Microsoft Windows 7/ 8 / 8.1 / 10
+ -   Microsoft Windows 7/ 8 / 10
 
  -   Prozessor: Intel oder vergleichbare CPU mit mindestens 1GHz
 
- -   Hauptspeicher: Mindestens 1024MB 
+ -   Hauptspeicher: Mindestens 2048 MB 
 
- -   Festplatte: Mindestens 100MB freier Festplattenspeicher
 
- -   Grafikkarte: Empfohlen mindestens 16Bit Farbtiefe und 1024x768 Bildpunkte
 
 
