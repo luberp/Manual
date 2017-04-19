@@ -45,4 +45,4 @@ Final müssen die Daten zur Weiterverarbeitung noch über den Button "Freigeben"
 
 
 Im Menüpunkt "Abgeschlossene" wird Ihnen eine Historie der abgeschlossenen Vorgänge angezeigt. 
-![](http://xpecto.github.io/docs/img/E-Brief/Abgeschlossen.png)
+![](http://xpecto.github.io/docs/img/E-Brief/Abgeschlossen.gif)
