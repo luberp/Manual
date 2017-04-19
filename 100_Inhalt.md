@@ -65,6 +65,8 @@
 * 7.5. [Kunden- und Vertragsdaten importieren](http://help.xpecto.de/Import-Export/Kunden-_und_Vertragsdaten_importieren)
 * 7.6. [Allgemeiner Import](http://help.xpecto.de/Import-Export/Allgemeiner_Import)
 *  7.7. [Buchungsexport](http://help.xpecto.de/Import-Export/Buchungsexport)
+*  7.8. [E-Brief](http://help.xpecto.de/Import-Export/E-Brief)
+
 8.   [Menü: Extras](http://help.xpecto.de/Extras)
 *  8.1. [Zusatzfunktionen](http://help.xpecto.de/Extras/Zusatzfunktionen)
 *  8.2. [Einstellungen](http://help.xpecto.de/Extras/Einstellungen)
