@@ -31,5 +31,8 @@ Anschließend kann die Selektion mit dem Dialog ![](http://xpecto.github.io/docs
 
 ----------
 
+Nach erfolgreichem Upload stehen die Daten nun auf dem Server des Dienstleisters im Status "Warten auf Freigabe" zur Verfügung.
+
+![](http://xpecto.github.io/docs/img/E-Brief/Warten_auf_Freigabe.png)
 
 
