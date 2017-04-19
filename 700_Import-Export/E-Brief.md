@@ -54,4 +54,3 @@ Im Menüpunkt "Abgeschlossene" wird Ihnen eine Historie der abgeschlossenen Vorg
 ![](http://xpecto.github.io/docs/img/E-Brief/Abgeschlossen.gif)
 
 
-Siehe auch -> http://help.xpecto.de/Bearbeiten/Kampagnen
