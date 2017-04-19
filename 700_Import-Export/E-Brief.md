@@ -37,6 +37,12 @@ Nach erfolgreichem Upload stehen die Daten nun auf dem Server des Dienstleisters
 
 
 ----------
-Final müssen die Daten zur Weiterverarbeitung noch über den Button "Freigeben" freigegeben werden.
+Final müssen die Daten zur Weiterverarbeitung noch über den Button "Freigeben" freigegeben werden, erst nach der Freigabe werden die Daten über den Dienstleister weiterverarbeitet.
 ![](http://xpecto.github.io/docs/img/E-Brief/Warten_auf_Freigabe1.png)
 
+
+----------
+
+
+Im Menüpunkt "Abgeschlossene" wird Ihnen eine Historie der abgeschlossenen Vorgänge angezeigt. 
+![](http://xpecto.github.io/docs/img/E-Brief/Abgeschlossen.png)
