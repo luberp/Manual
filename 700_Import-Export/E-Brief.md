@@ -26,7 +26,8 @@ Anschließend öffnet sich der Dialog zum Export und Upload der Daten zum Dienst
 
 Im Fenster "Aufträge" sehen Sie nun alle Kampagnen die für den Export zur Verfügung gestellt wurden. Unter "Dokumente des Auftrags" sind alle Dokumente gelistet die dieser Kampagne zugehörig sind, an dieser Stelle können final einzelne Dokumente storniert / gelöscht werden. 
 
-Anschließend kann die Selektion mit dem Dialog ![](http://xpecto.github.io/docs/img/E-Brief/Dokumente_Hochladen.png) an den Dienstleiter übergeben werden. *Bitte beachten Sie dass der Upload unter Umständen eine lange Zeit in Anspruch nehmen kann, es empfiehlt sich daher den Upload nicht im laufenden Tagesgeschäft zu starten.*
+Anschließend kann die Selektion mit dem Dialog ![](http://xpecto.github.io/docs/img/E-Brief/Dokumente_Hochladen.png) an den Dienstleiter übergeben werden. 
+![](http://xpecto.github.io/docs/img/img_1431936241832.png) *Bitte beachten Sie dass der Upload unter Umständen eine lange Zeit in Anspruch nehmen kann, es empfiehlt sich daher den Upload nicht im laufenden Tagesgeschäft zu starten.*
 
 
 ----------
