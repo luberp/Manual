@@ -24,7 +24,7 @@ Anschließend öffnet sich der Dialog zum Export und Upload der Daten zum Dienst
 
 ![](http://xpecto.github.io/docs/img/E-Brief/E-Brief_Statusanzeige.png)
 
-Im Fenster "Aufträge" sehen Sie  alle Kampagnen die für den Export zur Verfügung gestellt wurden. 
+Im Fenster "Aufträge" sehen Sie  alle Kampagnen die für den Export zur Verfügung gestellt wurden. 
 Unter "Dokumente des Auftrags" sind alle Dokumente gelistet die dieser Kampagne zugehörig sind, 
 an dieser Stelle können final einzelne Dokumente storniert / gelöscht werden. 
 
@@ -34,7 +34,7 @@ Anschließend kann die Selektion mit dem Dialog ![](http://xpecto.github.io/docs
 
 ----------
 
-Nach erfolgreichem Upload stehen die Daten nun auf dem Server des Dienstleisters im Status "Warten auf Freigabe" zur Verfügung.
+Nach erfolgreichem Upload stehen die Daten nun auf dem Server des Dienstleisters im Status "Warte auf Freigabe" zur Verfügung.
 
 ![](http://xpecto.github.io/docs/img/E-Brief/Warten_auf_Freigabe.png)
 
