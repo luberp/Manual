@@ -9,16 +9,9 @@ Dieses Modul dient dem Export und Versand von Korrespondenz über einen externen
 ![](http://xpecto.github.io/docs/img/E-Brief/E-Brief_Menue_Klassik.png)
 
 
-----------
-
-
  - Werkzeuge → Versand (moderne Ansicht)
 
 ![](http://xpecto.github.io/docs/img/E-Brief/E-Brief_Menue_Modern.png)
-
-
-----------
-
 
 Anschließend öffnet sich der Dialog zum Export und Upload der Daten zum Dienstleister.
 
@@ -29,9 +22,6 @@ Unter "Dokumente des Auftrags" sind alle Dokumente gelistet die dieser Kampagne 
 an dieser Stelle können final einzelne Dokumente storniert / gelöscht werden. 
 
 Anschließend kann die Selektion mit dem Dialog ![](http://xpecto.github.io/docs/img/E-Brief/Dokumente_Hochladen.png) an den Dienstleiter übergeben werden. 
-
-
-----------
 
 Nach erfolgreichem Upload stehen die Daten nun auf dem Server des Dienstleisters im Status "Warte auf Freigabe" zur Verfügung.
 
