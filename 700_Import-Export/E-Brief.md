@@ -36,3 +36,7 @@ Nach erfolgreichem Upload stehen die Daten nun auf dem Server des Dienstleisters
 ![](http://xpecto.github.io/docs/img/E-Brief/Warten_auf_Freigabe.png)
 
 
+----------
+Final müssen die Daten zur Weiterverarbeitung noch über den Button "Freigeben" freigegeben werden.
+![](http://xpecto.github.io/docs/img/E-Brief/Warten_auf_Freigabe1.png)
+
