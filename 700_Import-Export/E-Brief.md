@@ -24,7 +24,7 @@ Anschließend öffnet sich der Dialog zum Export und Upload der Daten zum Dienst
 
 ![](http://xpecto.github.io/docs/img/E-Brief/E-Brief_Statusanzeige.png)
 
-Im Fenster "Aufträge" sehen Sie nun alle Kampagnen die für den Export zur Verfügung gestellt wurden. 
+Im Fenster "Aufträge" sehen Sie  alle Kampagnen die für den Export zur Verfügung gestellt wurden. 
 Unter "Dokumente des Auftrags" sind alle Dokumente gelistet die dieser Kampagne zugehörig sind, 
 an dieser Stelle können final einzelne Dokumente storniert / gelöscht werden. 
 
