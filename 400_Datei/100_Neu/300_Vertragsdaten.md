@@ -64,7 +64,7 @@ wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461
 
 Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. 
 
-![](http://xpecto.github.io/docs/img/img_1461159331075.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/de/Ereignis_zur_Beteiligung.png)
 
 Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
