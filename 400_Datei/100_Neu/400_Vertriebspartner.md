@@ -8,7 +8,7 @@ In der modernen Menüansicht, wenn Sie sich gerade in der Vermittlermaske befind
 
 Falls Sie sich nicht in der Vermittlermaske befinden, klicken Sie auf den Pfeil ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter der Funktion *Neu* und dann auf *Vertriebspartner*, um einen neuen Vermittler anzulegen. Der Pfeil unter einer Funktion weist darauf hin, dass Untermenüs existieren.
 
-![](http://xpecto.github.io/docs/img/img_1461151120846.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/de/Neu_Vertriebspartner.png)
 
 Es wird die nächste freie Vermittlernummer vorgeschlagen. Falls Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinie eine freie Nummer. 
 
