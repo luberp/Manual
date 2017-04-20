@@ -3,7 +3,7 @@ Hier haben Sie die Möglichkeit zwischen 2 Menü-Ansichten zu wechseln klassisch
 
 Das xpectoPro Hauptfenster enthält folgende Menüleisten: Funktionsleiste klassisch/modern, Suche, Navigation, Wiedervorlage Liste, Eingabemaske und Statusleiste.
 
-![](http://xpecto.github.io/docs/img/img_1462283281018.png)
+![](http://xpecto.github.io/docs/xpecto/Einfuehrung_Oberflaeche/klassische_Maske.png)
 
 Die klassische Funktionsleiste besteht aus: Menüleiste, Symbolleiste.
 
@@ -12,4 +12,4 @@ Die moderne Funktionsleiste besteht aus: Registerkarten und  Gruppen (diese erse
 Jede Registerkarte beinhaltet mehrere Gruppen, der jeweiligen Namen der Gruppe wird unten angegeben.
 Jede Gruppe beinhaltet mehrere Funktionen.  
 
-![](http://xpecto.github.io/docs/img/img_1462282387938.png)
+![](http://xpecto.github.io/docs/xpecto/Einfuehrung_Oberflaeche/moderne_Maske.png)
