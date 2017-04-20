@@ -4,17 +4,17 @@ Als Benutzer von Microsoft Windows bestätigen Sie die Sicherheitswarnung, die a
 
 Das Setup beginnt nun mit der Vorbereitung der Installation und entpackt die xpectoPro Installationsdateien.
 
-![](http://xpecto.github.io/docs/img/img_1430135544227.png)
+![](http://xpecto.github.io/docs/xpecto/Installation/Installation_der_Software/Setup.png)
 
 
-In dem darauf folgenden Dialog bestimmen Sie den Ordner, in welchem  xpectoPro installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner beizubehalten. Bestätigen Sie den Dialog mit *Weiter*.
+In dem darauf folgenden Dialog bestimmen Sie den Ordner, in welchem  xpectoPro installiert werden soll. Es wird empfohlen, den vorgeschlagenen Ordner beizubehalten.  Bestätigen Sie den Dialog mit *Weiter*.
 
-![](http://xpecto.github.io/docs/img/img_1430134632060.png)
+![](http://xpecto.github.io/docs/xpecto/Installation/Installation_der_Software/Setup_Folder.png)
 
 
 Bestätigen Sie die Installation mit *Weiter*, um die Installation zu starten. xpectoPro wird nun auf Ihrem Rechner installiert. 
 
-![](http://xpecto.github.io/docs/img/img_1430134674440.png)
+![](http://xpecto.github.io/docs/xpecto/Installation/Installation_der_Software/Setup2.png)
 
 
 Beenden Sie die Installation mit der Schaltfläche *Fertigstellen.* Bei Problemen während der Installation wenden Sie sich bitte an den xpecto Kundensupport.
