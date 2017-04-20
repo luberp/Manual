@@ -6,7 +6,7 @@ Die Statusleiste ist die unterste Zeile in der xpectoPro Oberfläche. Sie erfül
 
 Der Tracer ist ein Werkzeug zur Programmablaufverfolgung.  Der Tracer wird durch einen Doppelklick auf der Statusleiste gestartet. 
 
-![](http://xpecto.github.io/docs/img/img_1430151481175.png)
+![](http://xpecto.github.io/docs/xpecto/Einfuehrung_Oberflaeche/Statusleiste/Tracer.png)
 
 |  Symbol          |    Bedeutung     |  
 | ------------- |:-------------| 
