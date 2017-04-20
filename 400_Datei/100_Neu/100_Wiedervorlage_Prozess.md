@@ -55,7 +55,7 @@ Der Dialog *Wiedervorlage Steuerung* dient dazu für einen Prozess mit einem bes
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461749256930.png) oder in der klassischen Menü-Ansicht auf *Bearbeiten → Wiedervorlage Steuerung* um den *Wiedervorlage Steuerung* um den Dialog zu öffnen. 
 
-In der modernen Menü-Ansicht kann der Dialog *Wiedervorlage Steuerung* in der Registerkarte *Berichte und Massenaktionen* Gruppe *Erstellung* mit einem Klick auf die Funktion *Prozess-Steuerung* geöffnet werden.
+In der modernen Menü-Ansicht kann der Dialog *Wiedervorlage Steuerung* in der Registerkarte *Werkzeuge* Gruppe *Erstellung* mit einem Klick auf die Funktion *Prozess-Steuerung* geöffnet werden.
 ![](http://xpecto.github.io/docs/xpecto/Datei/de/Prozess_steuerung.png)
 
 Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstuffe 1 *Neuem Benutzer zuweisen*,  es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
