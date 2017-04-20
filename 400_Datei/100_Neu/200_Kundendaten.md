@@ -58,7 +58,7 @@ Um eine Rolle zu löschen wählen Sie das Symbol ![](http://xpecto.github.io/doc
 
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. 
 
-![](http://xpecto.github.io/docs/img/img_1438074994809.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/de/Rolle_neue_Adresse.png)
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
 Nachdem Sie die neuen Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
