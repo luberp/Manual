@@ -4,12 +4,15 @@ Umfangreichere Wiedervorlagen die mehrere Funktionen enthalten, werden so zu Pro
 Ein Prozess kann je nach Anforderung unterschiedliche Zustände haben und sehr komplex sein. 
 Die damit verbundenen Zustände und Aktionen können graphisch in der klassischen Menü-Ansicht über *Extras → Anpassen → Prozesse, Rechte und Batchjobs* angesehen bzw. angepasst werden. 
 
+###Prozesse anlegen / verwalten
 In der modernen Menü-Ansicht können die graphische Zustände und Aktionen unter Registerkarte *System* Gruppe *Anpassungen* Funktion *Prozesse*. 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/de/Prozesse.png)
 
 Prozesse können wesentlich kompliziertere Abläufe verwalten wie zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr. 
 Nachdem der Prozess definiert wurde kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. 
+
+###Prozesse zuweisen
 
 Die Wiedervorlagen können zu Kunden, Verträge, Vermittler, Personen und Veranstaltungen erzeugt werden. 
 
