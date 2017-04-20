@@ -49,7 +49,7 @@ Wählen Sie hier einen Typ für Ihre Verknüpfung (z. B. Ehepartner, Steuerberat
 
 Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148844168.png), es öffnet sich hier der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
 
-![](http://xpecto.github.io/docs/img/img_1461148513327.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/de/Rolle_neue_Verknuepfung.png)
 
 Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt wurde, können Sie in dem Suchdialog durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148931706.png), eine neue Person anlegen. In der Feldgruppe *Verwendung* können für die verknüpfte Person die Checkboxen gesetzt für *Verwendung* und *Kopie*. Falls die verknüpfte Person die Kopien der Korrespondenz bekommen sollte müssen hier die Checkboxen gesetzt werden.
 
