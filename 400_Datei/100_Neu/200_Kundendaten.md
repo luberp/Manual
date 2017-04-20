@@ -11,7 +11,7 @@ In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Schnellzugriff* 
 
 Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
 
-![](http://xpecto.github.io/docs/img/img_1461146426293.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/de/Kunde_neu.png)
 
 Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit *OK*. 
 
