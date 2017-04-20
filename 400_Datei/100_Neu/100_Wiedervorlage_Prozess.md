@@ -15,9 +15,9 @@ Die Wiedervorlagen können zu Kunden, Verträge, Vermittler, Personen und Verans
 
 In der klassischen Menü-Ansicht legen Sie eine neue Wiedervorlage an indem Sie auf *Datei → Neu → Wiedervorlage/Prozess* oder auf das Zahnradsymbol in der *Symbol- und Funktionsleiste*![](http://xpecto.github.io/docs/img/img_1427124269211.png) klicken.
 
-In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Datenbearbeitung* Gruppe *Zusatzfunktionen* auf die Funktion *Prozess starten*.
+In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Aktionen* Gruppe *Funktionen* auf die Funktion *Prozess starten*.
 
-![](http://xpecto.github.io/docs/img/img_1461141611483.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/de/Prozess_starten.png)
 
 Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen.  
 Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art: *Mahnprozess*.
