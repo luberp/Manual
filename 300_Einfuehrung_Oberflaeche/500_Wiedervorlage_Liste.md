@@ -14,4 +14,4 @@ Welche Wiedervorlagen Sie in der Liste sehen wollen, können Sie durch die Optio
 | ![](http://xpecto.github.io/docs/img/img_1430827803341.png)      | Wiedervorlage-Historie anzeigen | 
 | ![](http://xpecto.github.io/docs/img/img_1461052911310.png)    |Daten neu laden | 
 
-Wie Sie eine Wiedervorlage anlegen erfahren Sie hier: http://help.xpecto.de/Datei/Neu
+Wie Sie eine Wiedervorlage anlegen erfahren Sie hier: http://help.xpecto.de/Datei/Neu/Wiedervorlage_Prozess
