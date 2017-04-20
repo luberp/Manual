@@ -6,7 +6,7 @@ Die damit verbundenen Zustände und Aktionen können graphisch in der klassische
 
 In der modernen Menü-Ansicht können die graphische Zustände und Aktionen unter Registerkarte *System* Gruppe *Anpassungen* Funktion *Prozesse*. 
 
-![](http://xpecto.github.io/docs/img/img_1461142065801.png)
+![](https://github.com/xpecto/docs/tree/gh-pages/xpecto/Datei/de/Prozesse.png)
 
 Prozesse können wesentlich kompliziertere Abläufe verwalten wie zum Beispiel den Mahnprozess, den Zeichnungsprozess oder die Bearbeitung von Geburtstagslisten. Die Anzeige für die Benutzer bleibt dabei gleich, lediglich die möglichen Optionen werden mehr. 
 Nachdem der Prozess definiert wurde kann jeder Benutzer seine eigenen Wiedervorlagen erstellen. 
