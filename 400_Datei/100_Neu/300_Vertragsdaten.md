@@ -8,7 +8,7 @@ In der modernen Menü-Ansicht wenn Sie sich gerade in der Vertragsmaske befinden
 
 Hier wird der Dialog *Neuer Datensatz* geöffnet. Wählen Sie hier *Vertragsdaten* um einen neuen Vertrag anzulegen.
 
-![](http://xpecto.github.io/docs/img/img_1461151680852.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertragsdaten/Neuer_Datensatz.png)
 
 Fall Sie sich nicht in der Vertragsmaske befinden klicken Sie dann auf der Pfeil  ![](http://xpecto.github.io/docs/img/img_1461153569579.png) unter Funktion *Neu* und dann auf *Vertragsdaten* um einen neuen Vertrag anzulegen. Der Pfeil unter einer Funktion weist darauf hin, dass Untermenüs existieren.
 
@@ -17,7 +17,7 @@ Fall Sie sich nicht in der Vertragsmaske befinden klicken Sie dann auf der Pfeil
 Es erscheint der Dialog *neuen Vertrag erstellen*, hier wählen Sie ein Produkt und geben eine Vertragsnummer ein. Damit legen Sie die Beteiligung an einen Produkt fest. 
 Es wird eine Vertragsnummer vorgeschlagen, wenn Sie nicht damit einverstanden sind dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer.
 
-![](http://xpecto.github.io/docs/img/img_1461151200710.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertragsdaten/neuen_Vertrag_erstellen.png)
 
 Der neue Vertrag wird nach Bestätigung mit *OK* in der Beteiligung angezeigt.
 
@@ -64,7 +64,7 @@ wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461
 
 Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer Datei. 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/de/Ereignis_zur_Beteiligung.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertragsdaten/Ereignis_zur_Beteiligung.png)
 
 Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
