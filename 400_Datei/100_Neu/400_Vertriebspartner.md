@@ -12,7 +12,7 @@ Falls Sie sich nicht in der Vermittlermaske befinden, klicken Sie auf den Pfeil 
 
 Es wird die nächste freie Vermittlernummer vorgeschlagen. Falls Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinie eine freie Nummer. 
 
-![](http://xpecto.github.io/docs/img/img_1461160772099.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertriebspartner/Neuer_Datensatz.png)
 
 Nachdem Sie die gewünschte neue Vermittlernummer eingegeben haben, bestätigen Sie mit *OK*. 
 
@@ -42,17 +42,17 @@ Um eine Rolle anzulegen, klicken Sie in dem Unterkarteireiter *Rollen* auf die S
 
 In dem darauffolgenden Dialog *Person oder Anschrift* bestimmen Sie, ob eine Verknüpfung oder eine neue Anschrift angelegt werden soll.
 
-![](http://xpecto.github.io/docs/img/img_1438074839670.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertriebspartner/Person_oder_Anschrift.png)
 
 Falls Sie eine Verknüpfung hinzufügen möchten, öffnet sich die folgende Maske:
 
-![](http://xpecto.github.io/docs/img/img_1438084400120.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertriebspartner/Neue_Verknüpfung_anlegen.png)
 
-Wählen Sie hier einen Typ für Ihre Verknüpfung. Um eine Person einzufügen, klicken Sie im Eingabefeld *Link* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461165205134.png). Es öffnet sich der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). Durch einen Doppelklick auf die gewünschte Person werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die Person noch nicht angelegt würde, können Sie im Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166047632.png) eine neue Person anlegen.
+Wählen Sie hier einen Typ für Ihre Verknüpfung, diese sind bei einer Verknüpfung bereits vordefiniert. Um eine Person einzufügen, klicken Sie im Eingabefeld *Link* auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461165205134.png). Es öffnet sich der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). Durch einen Doppelklick auf die gewünschte Person werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die Person noch nicht angelegt würde, können Sie im Suchdialog durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166047632.png) eine neue Person anlegen.
 
-xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen, wie die Meldeadresse, Post, Lieferadresse usw. Im Dialog *Person oder Anschrift* haben Sie außerdem die Möglichkeit die Rollen für weitere Anschriften ohne spezielle Funktion zu nutzen.
+xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen, wie die Meldeadresse, Post, Lieferadresse usw. Im Dialog *Person oder Anschrift* haben Sie außerdem die Möglichkeit die Rollen für weitere Anschriften ohne spezielle Funktion zu nutzen. Im Gegensatz zur *Verknüpfung* steht Ihnen beim Typ allerdings hier nur der Wert *Anschrift* zur Verfügung.
 
-![](http://xpecto.github.io/docs/img/img_1438074994809.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertriebspartner/Neue_Anschrift_anlegen1.png)
 
 Durch Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adresse auf Richtigkeit geprüft werden oder eine neue Adresse vervollständigen. 
 Nachdem Sie die neuen Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
@@ -119,4 +119,4 @@ Bei Verwendung eines Karriere-Systems werden bei den einzelnen Vermittlern keine
  
 In der Ansicht *Produkte* auf dem Reiter *Provisionssätze* werden für das ausgewählte Produkt die Standard-Provisionssätze für die einzelnen Karrierestufen, Firmen, Provisionstypen und optional für die einzelnen Tarife definiert.
  
- ![](http://xpecto.github.io/docs/img/img_1461163074222.png)
+ ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Vertriebspartner/Firmen_und_Produkte.png)
