@@ -25,19 +25,19 @@ In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Aktionen* Gruppe
 Als nächstes müssen Sie die Art des Prozesses für Ihre Wiedervorlage auswählen.  
 Beispiel: Sie wollen einen Mahnprozess für einen Vertrag anlegen. Wählen Sie hier aus der Liste der möglichen Prozesse die Art: *Mahnprozess*.
 
-![](http://xpecto.github.io/docs/img/img_1427125664097.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Mahnprozess.png)
 
 Mahnprozess
 
 Die Details der Wiedervorlage können in den nächsten Dialog eingegeben werden. Sie beschreiben im Betreff, die Aufgabe zu diesem Kontakt, legen ein Fälligkeitsdatum an, und der Verantwortlicher Mitarbeiter.
 Ist der Fälligkeitszeitpunkt erreicht, öffnet sich die Wiedervorlage mit der Aufgabe.
 
-![](http://xpecto.github.io/docs/img/img_1461143363080.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Detail_Wiedervorlage.png)
 
 Mit einem Klick auf *OK* wird die Wiedervorlage abgespeichert und erscheint in der Wiedervorlage Liste. 
-Durch einen Doppelklick auf die Widervorlage kann die Wiedervorlage bearbeitet werden.
+Durch einen Doppelklick auf die Wiedervorlage kann die Wiedervorlage bearbeitet werden.
 
-![](http://xpecto.github.io/docs/img/img_1461143792976.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Detailansicht.png)
 
 In dem *Detailansicht* haben Sie die Möglichkeit die Wiedervorlage zu schließen, zu speichern oder der Verlauf anzuzeigen.
 In den Eingabefelder können Sie den Betreff und Beschreibung eingeben bzw. ändern, und noch dazu Attribute die den Prozesssteuerung beeinflussen, eingeben.
@@ -61,8 +61,8 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14617
 In der modernen Menü-Ansicht kann der Dialog *Wiedervorlage Steuerung* in der Registerkarte *Werkzeuge* Gruppe *Erstellung* mit einem Klick auf die Funktion *Prozess-Steuerung* geöffnet werden.
 ![](http://xpecto.github.io/docs/xpecto/Datei/de/Prozess_steuerung.png)
 
-Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstuffe 1 *Neuem Benutzer zuweisen*,  es wird ein neuer Benutzer abgefragt und diesem dann die gewählten Wiedervorlagen zugewiesen.
+Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstufe 1 selektieren um diese einem neuen Benutzer zur Weiterverarbeitung zuzuweisen, selektiv Wiedervorlagen schließen oder das Alarmdatum ändern.
 
-![](http://xpecto.github.io/docs/img/img_1461749682825.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Wiedervorlage_Steuerung.png)
 
-Durch drucken auf die Schaltfläche*Start* wird die ausgewählte Aktion für die Wiedervorlage ausgeführt. 
+Durch drucken auf die Schaltfläche *Start* wird die gewählte Aktion für die selektierten Wiedervorlagen ausgeführt. 
