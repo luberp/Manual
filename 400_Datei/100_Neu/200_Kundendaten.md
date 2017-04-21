@@ -11,7 +11,7 @@ In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Schnellzugriff* 
 
 Es wird die nächste freie Nummer vorgeschlagen, wenn Sie nicht damit einverstanden sind, dann vergeben Sie nach Ihrer internen Richtlinien eine freie Nummer. 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/de/Kunde_neu.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/Neuer_Datensatz.png)
 
 Nachdem Sie die gewünschte neue Kundennummer eingegeben haben, bestätigen Sie mit *OK*. 
 
@@ -19,7 +19,7 @@ Oben in der Eingabemaske stehen die Reiter *Allgemein, Adressen, Eigenschaften, 
 
 Unter dem Reiter *Allgemein* steht eine Übersicht von der Meldedaten, sonstige Daten, die Web-Portal Daten und die Beteiligungsübersicht.
 
-![](http://xpecto.github.io/docs/img/img_1462198884759.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/Allgemein.png)
 
 Das Web-Portal kann ein Vermittlerinformationsportal oder ein Kundeinformationsportal sein. Die Informationsportale können von xpecto Kundensupport angepasst werden. Dies betrifft das Aussehen der  Portalen, die Anmeldedaten und den Zugriff auf Content. 
 
@@ -31,7 +31,7 @@ Der Unterkarteireiter *Allgemein* beinhaltet die Kundenstammdaten die Sie hier �
 
 In der Feldgruppe *Verwendung* kann für die Adresse die Verwendung als Melde und Post oder falls gewünscht kann der Bereicht kundenspezifisch angepasst werden und für die Adresse mehrere Verwendungen eingefügt werden.  Die Meldeadresse ist die Adresse wo der Kunde angemeldet ist und wenn die Checkbox gesetzt ist die Adresse an der die Korrespondenz geschickt wird. 
 
-![](http://xpecto.github.io/docs/img/img_1461146656342.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/Adressen_Allgemein.png)
 
 In der modernen Menü-Ansicht können Sie schnell zu den Kunden Stammdaten gelangen unter Registerkarte *Stammdaten* Funktion *Kunden*.
 
@@ -42,14 +42,14 @@ Um eine Rolle anzulegen klicken Sie in dem Unterkarteireiter *Rollen* auf das Sy
 
 In dem darauf folgenden Dialog *Person oder Anschrift* kann eine neue Verknüpfung oder eine neue Anschrift erstellt werden. Als zweite Möglichkeit kann die Rolle als eine neue Anschrift ohne weitere Funktionen eingefügt werden. Darunter können mehrere Adressen für eine Person angelegt wie Meldeadresse, Post, Lieferadresse usw. 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/de/Rolle_neu.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/verknüpfte_Person_neu.png)
 
 Für eine neue Verknüpfung öffnet sich die Maske *Adresse bearbeiten*.
 Wählen Sie hier einen Typ für Ihre Verknüpfung (z. B. Ehepartner, Steuerberater-Adresse, Handlungsbevollmächtigerer etc.) um beim Kunden die Adresse mit der Verwendung zu speichern.
 
 Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148844168.png), es öffnet sich hier der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/de/Rolle_neue_Verknuepfung.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/verknüpfte_Person_Suche.png)
 
 Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt wurde, können Sie in dem Suchdialog durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148931706.png), eine neue Person anlegen. In der Feldgruppe *Verwendung* können für die verknüpfte Person die Checkboxen gesetzt für *Verwendung* und *Kopie*. Falls die verknüpfte Person die Kopien der Korrespondenz bekommen sollte müssen hier die Checkboxen gesetzt werden.
 
@@ -58,7 +58,7 @@ Um eine Rolle zu löschen wählen Sie das Symbol ![](http://xpecto.github.io/doc
 
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/de/Rolle_neue_Adresse.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/Verknuepfte_Adresse_ohne.png)
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
 Nachdem Sie die neuen Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
@@ -76,7 +76,7 @@ Der Unterkarteireiter *Auslands-Steuer* dient dazu um Daten für Auslandsbeteili
 
 Der Unterkarteireiter *Verwendung* zeigt die Referenzierung einer Adresse und zwar ob diese Adresse einen Verweis hat. Z.B. ist in dem Unterkarteireiter *Rollen* eine neue Person verknüpft wird dann bei der verknüpfte Person unter dem Unterkarteireiter *Verwendung* die Verknüpfung angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1461148599499.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/Adressen_Verwendung.png)
 
 Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zum Kunde erfasst werden.
 
@@ -89,7 +89,7 @@ Wählen Sie dazu die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461
 
 Wählen Sie das Datum, die Ereignisart: Telefonat und hinterlegen Sie - falls gewünscht - eine Verknüpfung zu einer zugehörigen Datei (wie z.B. die original E-Mail). 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/de/Ereignis_Kunde.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Kundendaten/Ereignis_zum_Kunden.png)
 
 Nachdem die eingegebenen Daten mit *OK* bestätigt haben, wird das Telefonat-Ereignis in der Liste  angezeigt.
 
