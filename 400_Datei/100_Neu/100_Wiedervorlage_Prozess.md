@@ -63,6 +63,6 @@ In der modernen Menü-Ansicht kann der Dialog *Wiedervorlage Steuerung* in der R
 
 Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstufe 1 selektieren um diese einem neuen Benutzer zur Weiterverarbeitung zuzuweisen, selektiv Wiedervorlagen schließen oder das Alarmdatum ändern.
 
-![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Wiedervorlage_Steuerung.png)
+ ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Wiedervorlage_Steuerung.png)
 
 Durch drucken auf die Schaltfläche *Start* wird die gewählte Aktion für die selektierten Wiedervorlagen ausgeführt. 
