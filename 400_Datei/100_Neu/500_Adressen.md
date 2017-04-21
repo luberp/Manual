@@ -20,22 +20,22 @@ Um eine Rolle anzulegen, klicken Sie in dem Unterkarteireiter *Rollen* auf das S
 
 xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen.
 
-![](http://xpecto.github.io/docs/img/img_1438074839670.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Adressen/verknüpfte_Person_neu.png)
 
 Für eine neue Verknüpfung öffnet sich die Maske *Adresse bearbeiten*.
 Wählen Sie hier einen Typ für Ihre Verknüpfung. 
 Um für die Verknüpfung gewünschte Person einzufügen, klicken Sie in das Eingabefeld *Link* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148844168.png). Es eröffnet sich hier der Suchdialog (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
 
-![](http://xpecto.github.io/docs/img/img_1461148513327.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Adressen/Neue_Verknüpfung_anlegen.png)
 
 Durch einen Doppelklick auf die gesuchte Person, werden die Felder automatisch mit den dazugehörigen Daten ausgefüllt. Falls die verknüpfte Person noch nicht angelegt wurde, können Sie in dem Suchdialog durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461148931706.png) eine neue Person anzulegen.
 
 Nachdem Sie die neue Daten eingegeben haben, klicken Sie auf *OK*.  Speichern Sie Ihre neue Daten mit *Strg + S* oder drücken Sie das Symbol ![](http://xpecto.github.io/docs/img/img_1461310396152.png).
 Um eine Rolle zu löschen, wählen Sie das Symbol ![](http://xpecto.github.io/docs/img/img_1461149341916.png).
 
-xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. 
+xpectoPro bietet Ihnen die Möglichkeit mehrere Adressen für eine Person anzulegen wie Meldeadresse, Post, Lieferadresse usw. In dem Dialog *Person oder Anschrift* haben Sie als zweite Möglichkeit die Rolle als eine neue Anschrift ohne weitere Funktionen einzufügen. Im Gegensatz zur Verknüpfung steht Ihnen unter *Typ* hier nur der Wert *Anschrift* zur Verfügung.
 
-![](http://xpecto.github.io/docs/img/img_1438074994809.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Adressen/Neue_Anschrift_anlegen.png)
 
 Durch Betätigung von der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1418999829813.png) kann die Adressse auf Richtigkeit geprüft werden oder kann eine neue Adresse vervollständigen. 
 Nachdem Sie die neue Anschriftsdaten eingegeben haben, klicken Sie auf *OK*. 
@@ -43,9 +43,9 @@ Speichern Sie Ihre neue Daten mit *Strg + S* oder drücken Sie das Symbol ![](ht
 
 Die neue Rolle wird dann in die Rollenliste angezeigt. Um eine Rolle aus der Liste zu löschen, wählen Sie die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461166237962.png).
                                                                                                                                        
-Falls Sie eine Verknüpfung hinzufügen möchten, öffnet sich der folgende Maske:
+Falls Sie eine Verknüpfung hinzufügen möchten, öffnet sich die folgende Maske:
 
-![](http://xpecto.github.io/docs/img/img_1438775743467.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Adressen/Verknuepfung_neu.png)
 
 Da eine Person mehrere Kontoverbindungen haben kann, haben Sie hier die Möglichkeit, unter dem Reiter *Kontoverbindungen* für eine Person mehrere Kontoverbindungen anzulegen.
 
