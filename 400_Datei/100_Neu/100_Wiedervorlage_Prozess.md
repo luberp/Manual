@@ -61,7 +61,7 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14617
 In der modernen Menü-Ansicht kann der Dialog *Wiedervorlage Steuerung* in der Registerkarte *Werkzeuge* Gruppe *Erstellung* mit einem Klick auf die Funktion *Prozess-Steuerung* geöffnet werden.
 ![](http://xpecto.github.io/docs/xpecto/Datei/de/Prozess_steuerung.png)
 
-Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstufe 1 selektieren um diese einem neuen Benutzer zur Weiterverarbeitung zuzuweisen, selektiv Wiedervorlagen schließen, Alarmdatum oder den Zustand ändern.
+Sie können z.B. alle fälligen Mahnprozesse mit der Mahnstufe 1 selektieren um diese einem neuen Benutzer zur Weiterverarbeitung zuzuweisen, selektiv Wiedervorlagen schließen, Alarmdatum oder Zustand ändern.
 
  ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Wiedervorlage_Prozess/Wiedervorlage_Steuerung.png)
 
