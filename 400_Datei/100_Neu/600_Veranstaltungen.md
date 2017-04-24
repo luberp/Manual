@@ -22,19 +22,19 @@ Um die Teilnehmer zu filtern klicken Sie in der Feldgruppe *Allgemein* auf die S
 
 In unserem Beispiel wollen wir alle Teilnehmer einladen die in dem PLZ beginnend mit 840 wohnen und einen angenommenen Vertrag haben.
 
-![](http://xpecto.github.io/docs/img/img_1461314777280.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Abfragen_und_Listen.png)
 
 Nachdem die Abfrage erstellt und gespeichert wurde, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461319694044.png) in der Feldgruppe *Aktionen*, um die gewünschte Teilnehmer in die Teilnehmerliste aufzunehmen. 
 Die Teilnehmerliste ist sofort unter dem Reiter *Teilnehmer* einsehbar. Hier kann die Teilnehmerliste auch bearbeitet werden. 
 Jetzt können die Einladugsschreiben (siehe Handbuch *Extras → Anpassen → Berichte und Adressmuster*) erstellt werden.
 
-Um die Einladungen für die Teilnehmer zu drucken, klicken Sie in dem Reiter *Allgemein* auf die  Schaltfläche *Einladungen drücken*.
+Um die Einladungen für die Teilnehmer zu drucken, klicken Sie in dem Reiter *Allgemein* auf die  Schaltfläche *Einladungen drucken*.
 
 ![](http://xpecto.github.io/docs/img/img_1461320327814.png)
 
 Über *Einladungen drucken* wird eine Kampagne erstellt (siehe Handbuch *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv abgelegt. Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht und der Drucker ausgewählt und die Checkbox *Berichte archiviert* markiert sein.
 
-![](http://xpecto.github.io/docs/img/img_1461322319878.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Kampagnen_und_Massendruck.png)
 
 Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie durch Schließen der *Kampagnen und Massendruck* - Dialog zum Hauptdialog zurück.
 
