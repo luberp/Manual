@@ -28,9 +28,9 @@ Nachdem die Abfrage erstellt und gespeichert wurde, klicken Sie auf die Schaltfl
 Die Teilnehmerliste ist sofort unter dem Reiter *Teilnehmer* einsehbar. Hier kann die Teilnehmerliste auch bearbeitet werden. 
 Jetzt können die Einladugsschreiben (siehe Handbuch *Extras → Anpassen → Berichte und Adressmuster*) erstellt werden.
 
-Um die Einladungen für die Teilnehmer zu drucken, klicken Sie in dem Reiter *Allgemein* auf die  Schaltfläche *Einladungen drucken*.
+Um die Einladungen für die Teilnehmer zu drucken, klicken Sie in dem Reiter *Abstimmergebnisse* auf die  Schaltfläche *Einladungen drucken*.
 
-![](http://xpecto.github.io/docs/img/img_1461320327814.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Abstimmergebnisse_Einladungen_drucken.png)
 
 Über *Einladungen drucken* wird eine Kampagne erstellt (siehe Handbuch *Bearbeiten → Kampagnen*). Einladungen werden auf Wunsch automatisch, je nach hinterlegter Präferenz versendet und bei Bedarf im Dokumenten-Archiv abgelegt. Dafür muss unter der Feldgruppe *Aktion auswählen* der Bericht und der Drucker ausgewählt und die Checkbox *Berichte archiviert* markiert sein.
 
@@ -38,9 +38,9 @@ Um die Einladungen für die Teilnehmer zu drucken, klicken Sie in dem Reiter *Al
 
 Starten Sie die Kampagne über die Schaltfläche *Start*. Nun kehren Sie durch Schließen der *Kampagnen und Massendruck* - Dialog zum Hauptdialog zurück.
 
-Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufern. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche *Stimmabgabe / Rückläufer erfassen* in der Feldgruppe *Aktionen*, öffnet sich die Maske für die entsprechende Veranstaltung. 
+Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und Verwaltung der Rückläufern. Rückläufer sind die Reaktionen auf die Einladungen. Durch die Betätigung der Schaltfläche *Anmeldung / Stimmabgabe* in der Feldgruppe *Abstimmergebnisse*, öffnet sich die Maske für die entsprechende Veranstaltung. 
 
-![](http://xpecto.github.io/docs/img/img_1461322959365.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Abstimmergebnisse_Anmeldung_Stimmabgabe.png)
 
 Die Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, welche für jeden Teilnehmer mehrere Optionen bietet um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
 
