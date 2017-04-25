@@ -42,15 +42,15 @@ Im schriftlichen Umlaufverfahren bietet xpectoPro die komfortable Erfassung  und
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Abstimmergebnisse_Anmeldung_Stimmabgabe.png)
 
-Die Ansicht: *Veranstaltungs-Teilnehmer* beinhaltet die Liste der Teilnehmer, welche für jeden Teilnehmer mehrere Optionen bietet um die Rückmeldung zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Rückmeldung erfassen, TOP erfassen, Beiratswahl erfassen, Individuelle Stimmzettel erfassen, Handzeichen erfassen, FormPro Import*.
+Die Ansicht: *alle Teilnehmer* beinhaltet die Liste der Teilnehmer welche über die Kampagne selektiert bzw. eingeladen wurden, hier stehen Ihnen für jeden Teilnehmer mehrere Optionen zur Verfügung um Rückmeldungen zu erfassen. Diese Optionen werden unter den folgenden Reiter dargestellt: *Anmeldung, Stimmabgabe einfach, Stimmabgabe pro TOP, Stimmabgabe per Handzeichen*.
 
-![](http://xpecto.github.io/docs/img/img_1461323343138.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Anmeldung_Stimmabgabe_1.png)
 
 Die Ansicht *Scandialog* dient dazu, um die schriftlich abgestimmte Rückmeldungen von Scanner einzulesen und die Ergebnisse der Abstimmung abzulegen.
 
 Zuletzt schließen Sie die Maske der Veranstaltung und kehren zur Hauptmaske zurück.
 										 									 
-Unter dem Reiter *Teilnehmer* können zu den schon automatisch eingefügte Teilnehmern neue Teilnehmer angelegt und individuell verwaltet werden. So können einzelne Teilnehmer eingefügt oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461320109663.png) entfernt werden.
+Unter dem Reiter *alle Teilnehmer* können zu den schon automatisch eingefügte Teilnehmern neue Teilnehmer angelegt und individuell verwaltet werden. So können einzelne Teilnehmer eingefügt oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461320109663.png) entfernt werden.
 
 Um einen neuen Teilnehmer einzufügen, klicken Sie in der Feldgruppe *Zuweisung* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461320082734.png).  Dann suchen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461327304888.png). Speichern Sie Ihre neuen Teilnehmer mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1461327217908.png) oder durch die Tastenkombination *Strg + S.*
 
