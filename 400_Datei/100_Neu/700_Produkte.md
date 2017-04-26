@@ -52,7 +52,7 @@ Dafür wählen Sie in *Berechnungen* in der Berechnungsliste auf *Zinsberechnung
 
 In dem Dialog *Berechnung erstellen* können Sie eine neue Berechnung oder eine Kopie von eine vorhanden Berechnung erstellen.
 
-![](http://xpecto.github.io/docs/img/img_1461572769392.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Berechnung_neu.png)
 
 Wenn Sie in dem Dialog *Berechnung anlegen*  *Neue Berechnung erstellen* wöhlen, werden Sie weitergeleitet zu *Berechnungen und Transaktionen* (siehe Handbuch *Berechnungen → Berechnungen und Transaktionen*).
 
