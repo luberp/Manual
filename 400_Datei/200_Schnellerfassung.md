@@ -39,7 +39,7 @@ Falls in der Eingabemaske *Dokumente* Feldgruppe *Aufkleber* ein Checkbox markie
 
 In der Startmaske über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443020139854.png) werden die Einstellungen für den Aufkleber gespeichert. Diese werden dann, für alle weitere Eingaben von Daten als Standard angezeigt.
 
-In der Startmaske über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern. Über die Onlineerfasung bzw. über eine Fremderfassung vorausgefüllte Daten (wo die VertragNr. bereits feststeht) und die vorerfassten Daten auf dem Webserver hinterlegt sind, können dann abgefragt werden und in dem Dialog Schnellerfassung befüllt werden.
+In der Startmaske über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst wurden, über den Web-Server synchronisiert und automatisch in den Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken nur auf Ihre Richtigkeit zu überprüfen, und zu Speichern. Über die Onlineerfassung bzw. über eine Fremderfassung vorausgefüllte Daten (wo die VertragNr. bereits feststeht) und die vorerfassten Daten auf dem Webserver hinterlegt sind, können hier abgefragt und im Dialog Schnellerfassung befüllt werden.
 
 Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, können Sie einen Vertrag einscannen. 
 
