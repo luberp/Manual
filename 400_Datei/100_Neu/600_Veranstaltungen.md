@@ -46,21 +46,11 @@ Die Ansicht: *alle Teilnehmer* beinhaltet die Liste der Teilnehmer welche über 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Anmeldung_Stimmabgabe_1.png)
 
-Die Ansicht *Scandialog* dient dazu, um die schriftlich abgestimmte Rückmeldungen von Scanner einzulesen und die Ergebnisse der Abstimmung abzulegen.
+Die Ansicht *Rückläuferverarbeitung* dient dazu, die schriftlich abgestimmten Rückmeldungen über einen  Scanner einzulesen und die Ergebnisse der Abstimmung abzulegen.
 
 Zuletzt schließen Sie die Maske der Veranstaltung und kehren zur Hauptmaske zurück.
-										 									 
-Unter dem Reiter *alle Teilnehmer* können zu den schon automatisch eingefügte Teilnehmern neue Teilnehmer angelegt und individuell verwaltet werden. So können einzelne Teilnehmer eingefügt oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461320109663.png) entfernt werden.
+								 									 
 
-Um einen neuen Teilnehmer einzufügen, klicken Sie in der Feldgruppe *Zuweisung* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461320082734.png).  Dann suchen Sie den gewünschten Teilnehmer mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461327304888.png). Speichern Sie Ihre neuen Teilnehmer mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1461327217908.png) oder durch die Tastenkombination *Strg + S.*
 
-Unter dem Reiter *Bevollmächtigte* können stellvertretende Personen angelegt und individuell verwaltet werden.
-Um einen neuen Bevollmächtigten einzufügen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439208928813.png) - *neuen Datensatz hinzufügen*  oder die Tastenkombination *Strg + N*.
- Geben Sie in das Eingabefeld *Person* den Namen der einzufügenden Person ein. Falls der Name nicht angezeigt wird, klicken Sie auf das Plus-Symbol neben dem Eingabefeld ![](http://xpecto.github.io/docs/img/img_1439210074824.png). Dadurch wird der Suchdialog *Adressen* geöffnet (siehe Handbuch *Bearbeiten → Erweiterte Suche*). 
 
-![](http://xpecto.github.io/docs/img/img_1461327544585.png)
 
-Hier können Sie nach eine bestimmte Person suchen, und durch einen Doppelklick einfügen.  
-Falls die gesuchte Person nicht vorhanden ist, dann kann sie als neuer Datensatz über das Symbol ![](http://xpecto.github.io/docs/img/img_1461327585227.png) im Suchdialog angelegt werden.
-
-Unter dem Reiter *Konfiguration* werden die eingescannte Veranstaltung-Stimmzettel in XML umgewandelt. Das Ergebnis der Abstimmung wird angezeigt.
