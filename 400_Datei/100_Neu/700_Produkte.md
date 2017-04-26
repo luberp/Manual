@@ -37,9 +37,9 @@ Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Ergebnis_Auswertung_Salden.png)
 
-In der Reiter *Beteiligungen* wird die detaillierte Liste der Anleger, die an den Produkt beteiligt sind angezeigt. 
+Der Reiter *Beteiligungen* zeigt detailliert eine Liste der Anleger, die an den Produkt beteiligt sind.
 
-![](http://xpecto.github.io/docs/img/img_1461570695006.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Beteiligung.png)
 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461571103101.png) können Sie eine Kampagne erstellen ( siehe Handbuch *Bearbeiten → Kampagnen*).
 
