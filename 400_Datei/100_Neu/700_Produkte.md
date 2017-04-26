@@ -41,8 +41,6 @@ Der Reiter *Beteiligungen* zeigt detailliert eine Liste der Anleger, die an den 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Beteiligung.png)
 
-Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461571103101.png) können Sie eine Kampagne erstellen ( siehe Handbuch *Bearbeiten → Kampagnen*).
-
 Unter der Reiter *Verträge* wird eine Liste aller Verträge für dieses Produkt angezeigt. Von hier können Sie auch eine Kampagne erstellen.
  
 Unter dem Reiter *Berechnungen* kann eine vorher angelegte Berechnung (siehe Handbuch *Berechnungen und Transaktionen*)  z.B. eine Zinsberechnung ausgeführt werden.
