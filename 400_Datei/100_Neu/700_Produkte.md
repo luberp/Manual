@@ -54,9 +54,9 @@ In dem Dialog *Berechnung erstellen* können Sie eine neue Berechnung oder eine 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Berechnung_neu.png)
 
-Wenn Sie in dem Dialog *Berechnung anlegen*  *Neue Berechnung erstellen* wöhlen, werden Sie weitergeleitet zu *Berechnungen und Transaktionen* (siehe Handbuch *Berechnungen → Berechnungen und Transaktionen*).
+Wenn Sie in dem Dialog *Berechnung anlegen*  *Neue Berechnung erstellen* wählen, werden Sie weitergeleitet zu *Berechnungen und Transaktionen* (siehe Handbuch *Berechnungen → Berechnungen und Transaktionen*).
 
-![](http://xpecto.github.io/docs/img/img_1461406481399.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Berechnung_und_Transaktionen.png)
 
 In dem Reiter *Übertragungen* wird eine Liste der Übertragungen für dieses Produkt angezeigt. 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461571103101.png) können Sie eine Kampagne erstellen ( siehe Handbuch *Bearbeiten → Kampagnen*).
