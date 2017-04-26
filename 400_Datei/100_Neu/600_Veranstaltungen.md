@@ -53,8 +53,6 @@ Die Ansicht *Rückläuferverarbeitung* dient dazu, die schriftlich abgestimmten 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Ruecklauferverarbeitung.png)
 
 
-
-Zuletzt schließen Sie die Maske der Veranstaltung und kehren zur Hauptmaske zurück.
 								 									 
 
 
