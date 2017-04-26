@@ -41,7 +41,7 @@ Der Reiter *Beteiligungen* zeigt detailliert eine Liste der Anleger, die an dem 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Beteiligung.png)
 
-Unter der Reiter *Verträge* wird eine Liste aller Kunden und deren Verträge für dieses Produkt angezeigt. 
+Unter dem Reiter *Verträge* wird eine Liste aller Kunden und deren Verträge für dieses Produkt angezeigt. 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Verträge.png)
  
