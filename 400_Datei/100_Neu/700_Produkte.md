@@ -37,7 +37,7 @@ Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Ergebnis_Auswertung_Salden.png)
 
-Der Reiter *Beteiligungen* zeigt detailliert eine Liste der Anleger, die an den Produkt beteiligt sind.
+Der Reiter *Beteiligungen* zeigt detailliert eine Liste der Anleger, die an dem Produkt beteiligt sind.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Beteiligung.png)
 
