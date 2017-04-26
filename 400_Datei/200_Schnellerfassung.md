@@ -38,6 +38,8 @@ In der Startmaske über die Schaltfläche ![](http://xpecto.github.io/docs/img/i
 
 In der Startmaske über die Schaltfläche: *vorerfasste Daten nutzen* werden die Daten die extern erfasst würden, über den Web-Server synchronisert und automatisch in dem Dialog eingefügt. Sie brauchen hier die Daten in den einzelnen Masken, auf Ihre Richtigkeit zu überprüfen, und dann zu Speichern. Über die Onlineerfasung bzw. über eine Fremderfassung vorausgefüllte Daten (wo die VertragNr. bereits feststeht) und die vorerfassten Daten auf dem Webserver hinterlegt sind, können dann abgefragt werden und in dem Dialog Schnellerfassung befüllt werden.
 
-Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, können Sie einen Vertrag einscannen, dafür brauchen sie eine installierte Webcam.
+Über die Schaltfläche: *Auftrag/Vertrag nur scannen*, können Sie einen Vertrag einscannen. 
 
-![](http://xpecto.github.io/docs/img/img_1443000902734.png)
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Für diese Funktion wird eine eine installierte Webcam vorausgesetzt.
+
+![](http://xpecto.github.io/docs/xpecto/Datei/Schnellerfassung/Kunde_und_Vertrag_erfassen.png)
