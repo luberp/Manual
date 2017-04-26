@@ -12,7 +12,7 @@ Bitte geben Sie hier ein Produktkürzel sowie einen Produktnamen ein, diese Anga
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Produkt_anlegen.jpg)
 
-Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege*.
+Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege, Dokumente*.
 
 ![](http://xpecto.github.io/docs/img/img_1461405662900.png)
 
