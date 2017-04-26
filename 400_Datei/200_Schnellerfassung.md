@@ -3,7 +3,7 @@ Der Dialog *Schnellerfassung* wird eingesetzt um eine große Menge an Stammdaten
 In der klassischen Menü-Ansicht kann der Dialog Schnellerfassung über *Datei → Schnellerfassung* oder in der Symbolleiste über ![](http://xpecto.github.io/docs/img/img_1442999858597.png) gestartet werden und dient der schnellen Eingabe von Datenmengen, die am häufigsten verwendet werden.
 Starten Sie die Schnellerfassung und klicken Sie auf die Schaltfläche *Daten manuell erfassen*, um mit der manuellen Eingabe zu starten.
 
-![](http://xpecto.github.io/docs/img/img_1461573607704.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Schnellerfassung/Schnellerfassung_starten.png)
 
 In der folgenden Eingabemasken werden Sie durch folgende Punkte geleitet:   
        
