@@ -29,7 +29,7 @@ Der Reiter *Auswertung* stellt eine grafische und tabellarische Ansicht des ausg
  
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch *Berechnungen → Zahlungsverkehr*) ein Datensatz mit Datum, Text, Betrag, Status und Fondskonto eingetragen.
  
-Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Produkt. Die hier hinterlegte Konten beziehen sich auf die unter *Firmen und Produkte* vorkonfigurierte Salden.
+Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Produkt. Die hier hinterlegte Konten beziehen sich auf die unter *Firmen und Produkte* vorkonfigurierten Salden.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Auswertung_Salden.png)
 
