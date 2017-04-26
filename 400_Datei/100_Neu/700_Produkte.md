@@ -41,7 +41,9 @@ Der Reiter *Beteiligungen* zeigt detailliert eine Liste der Anleger, die an den 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Beteiligung.png)
 
-Unter der Reiter *Verträge* wird eine Liste aller Verträge für dieses Produkt angezeigt. Von hier können Sie auch eine Kampagne erstellen.
+Unter der Reiter *Verträge* wird eine Liste aller Kunden und deren Verträge für dieses Produkt angezeigt. 
+
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Verträge.png)
  
 Unter dem Reiter *Berechnungen* kann eine vorher angelegte Berechnung (siehe Handbuch *Berechnungen und Transaktionen*)  z.B. eine Zinsberechnung ausgeführt werden.
 Dafür wählen Sie in *Berechnungen* in der Berechnungsliste auf *Zinsberechnung*. Dann klicken Sie auf die Schaltfläche *Berechnung anlegen*.
