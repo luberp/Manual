@@ -14,7 +14,7 @@ Von XpectoPro wird Ihnen an dieser Stelle außerdem die nächste freie Vertragsn
 
  - *Kunde suche* 
  
- Hier werden Ihnen alle bereits in xpectoPro vorhanden Personen / Kunden gelistet. Sie haben jedoch auch die Möglichkeit einen neuen Datensatz anzulegen.
+ Hier werden Ihnen alle bereits in xpectoPro vorhanden Personen / Kunden gelistet, Sie haben jedoch auch die Möglichkeit einen neuen Datensatz anzulegen.
  
  - *Kunde*
 Detailansicht des Kunden den Sie unter *Kunde suchen* ausgewählt haben, hier können weitere Daten zum Kunden erfasst werden.
