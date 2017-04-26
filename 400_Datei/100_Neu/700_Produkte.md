@@ -17,7 +17,7 @@ Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbu
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Produkt_Detail.png)
 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461568213135.png) werden Sie zur *Firmen und Produkte* Maske weitergeleitet, in der erweiterte Einstellungen zu den Produkten vorgenommen werden können (siehe Handbuch *Datei → Produkte*).
-![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Firmen_und_Produkte.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Firmen_Produkte.png)
 
 In der Vetragsmaske unter dem Reiter *Stammdaten* werden die Basisinformationen zum Produkt angezeigt.
 
