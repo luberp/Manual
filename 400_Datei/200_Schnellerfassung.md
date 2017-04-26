@@ -33,7 +33,7 @@ Von XpectoPro wird Ihnen an dieser Stelle außerdem die nächste freie Vertragsn
 
 Speichern Sie dann Ihre Eingaben über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443019951326.png). 
 
-Falls in der Eingabemaske *Dokumente* Feldgruppe *Aufkleber* ein Checkbox markiert würde, dann wird durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443019964944.png), der bzw. die Barcode-Aufkleber zur Registrierung des Dokumentes gedruckt.
+Falls in der Eingabemaske *Dokumente* Feldgruppe *Aufkleber* ein Checkbox markiert wurde,  wird durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1443019964944.png), der bzw. die Barcode-Aufkleber zur Registrierung des Dokumentes gedruckt.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Schnellerfassung/Dokumente_Aufkleber.png)
 
