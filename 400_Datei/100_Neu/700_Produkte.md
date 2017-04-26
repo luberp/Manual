@@ -30,7 +30,12 @@ Der Reiter *Auswertung* stellt eine grafische und tabellarische Ansicht des ausg
  Unter dem Reiter *Sollbuchungen* werden Informationen zu Lastschriften angezeigt. Für jede einzuziehende monatliche Rate wird hier automatisch (siehe Handbuch *Berechnungen → Zahlungsverkehr*) ein Datensatz mit Datum, Text, Betrag, Status und Fondskonto eingetragen.
  
 Der Reiter *Salden* beihaltet eine Saldenauswertung zu dem Produkt. Die hier hinterlegte Konten beziehen sich auf die unter *Firmen und Produkte* Maske vorkonfigurierte Salden.
+
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Auswertung_Salden.png)
+
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461570397385.png) werden die Buchungen zum Saldo angezeigt.
+
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Ergebnis_Auswertung_Salden.png)
 
 In der Reiter *Beteiligungen* wird die detaillierte Liste der Anleger, die an den Produkt beteiligt sind angezeigt. 
 
