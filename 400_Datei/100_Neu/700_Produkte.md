@@ -65,3 +65,5 @@ In dem Reiter *Belege* können Belegarten wie z.B. Rechnungen zu dem Produkt ang
 Für die in xpectoPro durchgeführte Abrechnungen können Belege mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden.
 
 Auf dem Karteireiter *Dokumente* werden Ereignisse zum aktuellen Produkt festgehalten.   
+
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Uebertragung_Belege_Dokumente.png)
