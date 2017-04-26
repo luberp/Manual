@@ -14,6 +14,8 @@ In der moderen Menü-Ansicht können Sie eine neue Veranstaltung über die Regis
 
  Zu jeder Veranstaltung können individuelle Tagesordnungspunkten (TOP) angelegt werden. 
 
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/TOP_neu.png)
+
 Unter dem Reiter *Allgemein* können über den Teilnehmerkreis alle Personen ausgewählt werden, die an der Veranstaltung teilnehmen sollen. 
 
 ![](http://xpecto.github.io/docs/img/img_1461314600710.png)
