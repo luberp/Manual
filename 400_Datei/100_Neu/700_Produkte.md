@@ -8,8 +8,9 @@ In der modernen Menü-Ansicht klicken Sie in der Registerkarte *Schnellzugriff* 
 ![](http://xpecto.github.io/docs/img/img_1462954011410.png)
 
 In dem Dialog *neues Produkt anlegen* wird der Name und die Konfigurationsdaten abgefragt.
+Bitte geben Sie hier ein Produktkürzel sowie einen Produktnamen ein, diese Angaben sind obligatorisch, eine Anlage ist ohne diese Angaben nicht möglich. Nachdem alle Daten und Eingaben abgeschlossen sind bestätigen Sie bitte den Dialog mit *OK*, im weiteren Verlauf werden Sie auf die Vertrags-Details weitergeleitet.
 
-![](http://xpecto.github.io/docs/img/img_1461405250623.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Produkte/Produkt_anlegen.jpg)
 
 Die Vetragsmaske enthält folgende Reiter: *Stammdaten, Auswertung, OPOS, Sollbuchungen, Salden, Beteiligungen, Verträge, Berechnungen, Übertragungen, Belege*.
 
