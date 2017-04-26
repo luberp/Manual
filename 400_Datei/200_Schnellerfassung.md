@@ -7,7 +7,8 @@ Starten Sie die Schnellerfassung und klicken Sie auf die Schaltfläche *Daten ma
 
 In der folgenden Eingabemasken werden Sie durch folgende Punkte geleitet:   
        
- - *Vertrags-Nr.*   
+ - *Vertrags-Nr.*  
+  
 An dieser Stelle wird das Produkt ausgewählt die bereits im System verfügbar sind.
 Von XpectoPro wird Ihnen an dieser Stelle die nächste freie Vertragsnummer vorgeschlagen, Sie können diese akzeptieren oder durch eine eigene Vertragsnummer ersetzen. 
 
