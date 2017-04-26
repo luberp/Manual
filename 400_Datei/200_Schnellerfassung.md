@@ -9,19 +9,22 @@ In der folgenden Eingabemasken werden Sie durch folgende Punkte geleitet:
        
  - *Vertrags-Nr.*  
   
-An dieser Stelle wird das Produkt ausgewählt die bereits im System verfügbar sind.
-Von XpectoPro wird Ihnen an dieser Stelle die nächste freie Vertragsnummer vorgeschlagen, Sie können diese akzeptieren oder durch eine eigene Vertragsnummer ersetzen. 
+ An dieser Stelle werden alle Produkte angezeigt die bereits im System verfügbar sind.
+Von XpectoPro wird Ihnen an dieser Stelle außerdem die nächste freie Vertragsnummer vorgeschlagen, Sie können diese akzeptieren oder durch eine eigene Vertragsnummer ersetzen. 
 
  - *Kunde suche* 
+ 
  Hier werden Ihnen alle bereits in xpectoPro vorhanden Personen / Kunden gelistet. Sie haben jedoch auch die Möglichkeit einen neuen Datensatz anzulegen.
  
  - *Kunde*
 Detailansicht des Kunden den Sie unter *Kunde suchen* ausgewählt haben, hier können weitere Daten zum Kunden erfasst werden.
 
  - *Vertrag*
+ 
  Hier können weiter Details zum Vertrag erfasst werden.
  
  - *Konto* 
+ 
  Kontoverbindung des Kunden.
  
  - *Dokumente*
