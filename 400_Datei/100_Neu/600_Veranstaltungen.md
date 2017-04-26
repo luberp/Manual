@@ -48,7 +48,8 @@ Die Ansicht: *alle Teilnehmer* beinhaltet die Liste der Teilnehmer welche über 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Anmeldung_Stimmabgabe_1.png)
 
-Die Ansicht *Rückläuferverarbeitung* dient dazu, die schriftlich abgestimmten Rückmeldungen, die über einen  Scanner erfasst wurden weiter zu verarbeiten. Alle hier gelisteten Dokumente wurden über einen Scanner erfasst und dem jeweiligen Kunden und Event zugeordnet. Der Status *prüfen* signalisiert Ihnen hier dass das Dokument zwar erfasst jedoch noch nicht geprüft bzw. verarbeitet wurde.
+Die Ansicht *Rückläuferverarbeitung* dient dazu, die schriftlich abgestimmten Rückmeldungen, die über einen  Scanner erfasst wurden weiter zu verarbeiten. Alle hier gelisteten Dokumente wurden über einen Scanner erfasst und dem jeweiligen Kunden und Event zugeordnet. 
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Der Status *prüfen* signalisiert Ihnen hier dass das Dokument zwar erfasst jedoch noch nicht geprüft bzw. verarbeitet wurde.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Neu/Veranstaltungen/Ruecklauferverarbeitung.png)
 
