@@ -1,4 +1,10 @@
 Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreiben oder Einladungen. Ermöglicht wird dies durch die Kombination aus Listenerstellung und der Nutzung dieser Daten für den Massendruck. 
+
+Sie erreichen diese Funktion in der klassischen Ansicht über *Bearbeiten → Kampagnen*. 
+In der modernen Ansicht über den Menüpunkt *Werkzeuge → Erstellung → Kampagne / Serienbrief*.
+
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Kampagne_Menueleiste.png)
+
 xpectoPro bietet als Datenquelle für die Kampagnen vordefinierte Verteiler, individuelle Abfragen oder statische Daten (siehe *Bearbeiten → Kampagne*).
 
 Die Funktion *Zu Kampagne hinzufügen* fügt Daten zu einer vorhandenen Kampagne ein. 
