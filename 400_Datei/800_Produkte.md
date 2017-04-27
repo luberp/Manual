@@ -55,9 +55,15 @@ In dem Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchun
 
 Unter dem Reiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
 
-Unter dem Karteireiter *Wechselkurse* werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt werden.
+Unter dem Karteireiter *Wechselkurse* werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt.
 
-Unter dem Reiter *Salden-Definition* können Sie die Salden konfigurieren. Neben den schon angelegte Salden können hier neue Salden über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461582240266.png) neue Gruppe ![](http://xpecto.github.io/docs/img/img_1461581915169.png) und neue Buchungskonten ![](http://xpecto.github.io/docs/img/img_1461581940776.png) angelegt werden.
+Unter dem Reiter *Salden-Definition* können Sie Salden konfigurieren. Neben den schon erfassten Daten können hier über die Schaltflächen 
+
+ - ![](http://xpecto.github.io/docs/img/img_1461582240266.png)
+ - ![](http://xpecto.github.io/docs/img/img_1461581915169.png)
+ - ![](http://xpecto.github.io/docs/img/img_1461581940776.png) 
+ 
+neue Salden, Gruppen und Buchungskonten angelegt werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461581709647.png)
 
@@ -66,3 +72,5 @@ In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen
 ![](http://xpecto.github.io/docs/img/img_1461581862253.png)
 
 Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
+
+![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Anteilsarten_Anteilspreise.png)
