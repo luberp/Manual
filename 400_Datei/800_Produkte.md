@@ -47,7 +47,7 @@ Außerdem kann auf dem Reiter *Konten* der Kontenplan für die Fondsnebenbuchhal
 Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte mit vom Anwender selbst angelegt werden, sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte die vom Anwender selbst angelegt wurden, sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
 
 In der Reiter *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
 
