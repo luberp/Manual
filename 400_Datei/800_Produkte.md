@@ -35,18 +35,18 @@ Der Reiter *Werte* beinhaltet die Zinsberechnung und dient dazu eine Kategorie d
 
 Der Reiter *Buchungsdaten* enthält die Liste der Buchungen die generell für ein Produkt anfallen. 
 
-In dem Reiter *Belege* können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
+Im Reiter *Belege* können Belegarten zum Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
 
-Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Verträgen (über Berechnungen und Transaktionen abgerechnet)
+Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Vertragsebene (über Berechnungen und Transaktionen abgerechnet)
 
-Unter dem Reiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, und zwar die Provisionssätze nach Karrierestufen (siehe *Datei → Neu → Vermittler → Provisionierung*) angelegt.
+Unter dem Reiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, explizit Provisionssätze nach Karrierestufen (siehe *Datei → Neu → Vermittler → Provisionierung*) angelegt.
 
-Unter Reiter dem *Status* können die verschiedene Status für das Produkt angelegt werden.
+Unter Reiter dem *Status* können verschiedene Statí für Produkte angelegt werden.
 
-Außerdem kann auf dem Reiter *Konten* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. 
+Außerdem kann auf dem Reiter *Konten* der Kontenplan für die Fondsnebenbuchhaltung hinterlegt werden. Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der zu verwaltenden Fonds geschehen. 
 Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
-Lassen Sie neue Produkte deshalb vom xpecto Kundensupport anlegen, der Kundensupport wird ein eindeutiges Kürzel vergeben und in diesem Zuge gleich das Produkt für das Webportal frei schalten. Produkte mit vom Anwender selbst vergebenen Kürzeln sind für die Datenübertragung zum Webportal gesperrt. 
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte mit vom Anwender selbst angelegt werden, sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
 
 In der Reiter *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
 
