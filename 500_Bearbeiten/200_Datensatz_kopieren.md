@@ -29,5 +29,12 @@ Im weiteren Verlauf werde Ihnen, je nachdem welcher Kategorie Ihre Neuanlage ang
 ----------
 
 
-Nachdem Sie die gewünschte neue Nummer eingegeben bzw. übernommen haben, bestätigen Sie mit *OK*.  
-Es ist nicht möglich, zwei Datensätze mit derselben Nummer zu speichern.
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Datensatz_kopieren/Kopie_Produkt.png) -> Einen bestehndes Produkt kopieren
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Ein kopieren eines Produktes ist in diesem Dialog leider technisch nicht möglich.
+
+
+----------
+
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Das Kopieren einer bestehenden Veranstaltung bedarf keiner weiteren Bestätigung. Diese steht Ihnen sofort nach dem Kopieren in der Selektion zur Verfügung.
