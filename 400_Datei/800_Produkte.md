@@ -9,7 +9,7 @@ In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreic
 
 Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten, Buchhaltung-Konten sowie allgemeine Daten zum Produkt erfasst werden, diese Maske beinhaltet die Stammdaten des Produktes.
 
-![](http://xpecto.github.io/docs/img/img_1461578413277.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Firmen_und_Produkte.png)
 
 Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der zu verwalteten Fonds geschehen. Alle weiteren Einstellungen zu den Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
