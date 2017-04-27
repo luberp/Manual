@@ -26,32 +26,32 @@ Wenn Sie in der Feldgruppe *Anzahl Verträge* auf das Symbol  ![](http://xpecto.
 ----------
 
 > ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
-> 
-> Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+
+ Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 
 ----------
 
 >![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_opos.png)
->
->Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt diese in eine Liste dar. 
+
+Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt diese in eine Liste dar. 
 
 ----------
 
 >![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Tarife.png)
->
->Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
+
+Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
 ----------
 
 >![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Tranchen.png)
->
->Der Reiter *Tranchen* dient zur Verteilung der Beträge in Teilen.
+
+Der Reiter *Tranchen* dient zur Verteilung der Beträge in Teilen.
 
 ----------
 
 >![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Kosten.png)
->
->Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
+
+Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
 ----------
 
