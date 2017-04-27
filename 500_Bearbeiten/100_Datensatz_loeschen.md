@@ -9,6 +9,7 @@ Es erscheint folgende Warnmeldung:
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Datensatz_loeschen/Datensatz_loeschen.png)
 
 *![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) In diesem Beispiel handelt es sich um einen Datensatz aus der Kategorie "Verträge", sie erkennen dieses am Kürzel "V" im Datensatz Namen.*
+     
 
 Bestätigen Sie den Dialog “Wollen Sie den Datensatz … wirklich löschen?” mit *Ja* wird der Datensatz aus der Datenbank gelöscht. Es erfolgt keine weitere Rückmeldung vom System.
 
