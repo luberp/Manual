@@ -23,7 +23,9 @@ Wenn Sie in der Feldgruppe  *Beteiligungsübersicht* auf das Symbol ![](http://x
 Wenn Sie in der Feldgruppe *Anzahl Verträge* auf das Symbol  ![](http://xpecto.github.io/docs/img/img_1461578510912.png) klicken wird Ihnen die Anzahl der Verträge für jeden Status angezeigt.
 
 Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
 Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar. 
+![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_OPOS.png)
 
 Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
