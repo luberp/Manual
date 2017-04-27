@@ -102,7 +102,7 @@ Unter dem Reiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt we
 ----------
 
 
-Unter Reiter dem *Status* können verschiedene Statí für Produkte angelegt werden.
+Unter dem Reiter  *Status* können verschiedene Statí für Produkte angelegt werden.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Status.png)
 
@@ -125,23 +125,39 @@ Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der 
 ----------
 
 
-Im *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
+Im Reiter *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Uebertragung.png)
 
-In dem Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. 
+
+----------
+
+
+Im Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wertarten.png)
 
 Die Verbuchungsvorschriften können in Berechnungen und Transaktionen verwendet werden, wenn kein Skript hinterlegt ist (siehe *Berechnungen → Berechnungen und Transaktionen*).
 
+
+----------
+
+
 Unter dem Reiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Waehrungen.png)
 
+
+----------
+
+
 Unter dem Karteireiter *Wechselkurse* werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt.
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wechselkurse.png)
+
+
+----------
+
 
 Unter dem Reiter *Salden-Definition* können Sie Salden konfigurieren. 
 
