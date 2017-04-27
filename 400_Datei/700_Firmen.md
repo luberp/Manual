@@ -28,8 +28,8 @@ Die Einstellungen auf den Karteireitern *Kosten* und *Konten* sind eng mit den B
 Unter dem Karteireiter *Karrierestufen* wird ein Provisionssatzmodell angelegt. Dabei wird die Höhe der Provisionen festgelegt. Die Provisionssätze können dabei je Karrierestufe oder individuell für jeden Vertriebspartner getrennt hinterlegt werden. Die Pflege über die Karrierestufen ermöglicht dabei eine sehr einfache Verwaltung, da für neue Produkte nur die Sätze in den Karrierestufen gepflegt werden müssen. Falls Sie die Sätze für einzelne Vertriebspartner individuell festlegen möchten, so ist auch dies möglich (siehe 3.3. Vermittler anlegen).
 Sie können die beiden Formen auch mischen und so nur die Sätze für bestimmte Produkte individuell festlegen. Für alle anderen Produkte gilt in diesem Fall dann die aktuelle Karrierestufe.
 
-Unter dem Karteireiter *Web-Dokumente* werden alle Dokumente die dem Vertriebspartner in dem Web-Portal zur Verfügung gestellt sind, verwaltet.
+Unter dem Karteireiter *Web-Dokumente* werden alle Dokumente die dem Vertriebspartner in dem Web-Portal zur Verfügung gestellt wurden, verwaltet.
 
-Unter *Gesellschaften* werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen über Produkte. 
+Unter *Gesellschaften* werden alle Gesellschaften die im System angelegt sind angezeigt. Eine Gesellschaft kann mehrere Firmen haben. Gesellschaften sind die Überebenen der Produkte. 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461576494147.png) können neue Gesellschaften angelegt werden.
 
