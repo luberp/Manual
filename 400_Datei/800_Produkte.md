@@ -34,7 +34,7 @@ Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge 
 ----------
 
 
-Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar. 
+Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt diese in eine Liste dar. 
 
 ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_opos.png)
 
