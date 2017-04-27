@@ -25,156 +25,126 @@ Wenn Sie in der Feldgruppe *Anzahl Verträge* auf das Symbol  ![](http://xpecto.
 
 ----------
 
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
-
+> ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
+> 
 > Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 
 ----------
 
-
-Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt diese in eine Liste dar. 
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_opos.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_opos.png)
+>
+>Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt diese in eine Liste dar. 
 
 ----------
 
-
-Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Tarife.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Tarife.png)
+>
+>Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
 ----------
 
-
-Der Reiter *Tranchen* dient zur Verteilung der Beträge in Teilen.
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Tranchen.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Tranchen.png)
+>
+>Der Reiter *Tranchen* dient zur Verteilung der Beträge in Teilen.
 
 ----------
 
-
-Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Kosten.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Kosten.png)
+>
+>Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
 ----------
 
-
-Der Reiter *Werte* beinhaltet die Zinsberechnung und dient dazu eine Kategorie der Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wertarten.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wertarten.png)
+>
+>Der Reiter *Werte* beinhaltet die Zinsberechnung und dient dazu eine Kategorie der Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
 
 ----------
 
-
-Der Reiter *Buchungsdaten* enthält die Liste der Buchungen die generell für ein Produkt anfallen. 
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Buchungsdaten.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Buchungsdaten.png)
+>
+>Der Reiter *Buchungsdaten* enthält die Liste der Buchungen die generell für ein Produkt anfallen. 
 
 ----------
 
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Belege.png)
+>
+>Im Reiter *Belege* können Belegarten zum Produkt angelegt werden. 
 
-Im Reiter *Belege* können Belegarten zum Produkt angelegt werden. 
+>Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Belege.png)
-
-Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
-
-Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Vertragsebene (über Berechnungen und Transaktionen abgerechnet)
-
+>Die Belege sind nicht auf Vertragsebene abgelegt, beinhalten aber Belege bzw. die Abrechnung passierte auf Vertragsebene (über Berechnungen und Transaktionen abgerechnet).
 
 ----------
 
-
-Unter dem Reiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, explizit Provisionssätze nach Karrierestufen (siehe *Datei → Neu → Vermittler → Provisionierung*) angelegt.
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Provisionssaetze.png)
-
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Provisionssaetze.png)
+>
+>Unter dem Reiter *Provisionssätze* kann das Defaultprovisionsmodell angelegt werden, explizit Provisionssätze nach Karrierestufen (siehe *Datei → Neu → Vermittler → Provisionierung*) angelegt.
 
 ----------
 
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Status.png)
 
-Unter dem Reiter  *Status* können verschiedene Statí für Produkte angelegt werden.
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Status.png)
-
+>Unter dem Reiter  *Status* können verschiedene Statí für Produkte angelegt werden.
 
 ----------
 
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Konten.png)
 
-Unter dem Reiter *Konten* können Kontenpläne für die Fondsnebenbuchhaltung hinterlegt werden. 
+>Unter dem Reiter *Konten* können Kontenpläne für die Fondsnebenbuchhaltung hinterlegt werden. 
 
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Konten.png)
-
-Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der zu verwaltenden Fonds geschehen. 
+>Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der zu verwaltenden Fonds geschehen. 
 Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
-Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
+>Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte die vom Anwender selbst angelegt wurden sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
-
-
-----------
-
-
-Im Reiter *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Uebertragung.png)
+>![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte die vom Anwender selbst angelegt wurden sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
 
 
 ----------
 
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Uebertragung.png)
+>
+>Im Reiter *Übertragung* können die benötigten Übertragungsparameter angelegt (siehe Handbuch *Datei  → Neu  → Vertragsdaten*).
 
-Im Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. 
+----------
 
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wertarten.png)
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wertarten.png)
 
+>Im Reiter *Wertarten* können für eine Kategorie wie z.B. Zinsen, Verbuchungsvorschriften definiert werden. 
 Die Verbuchungsvorschriften können in Berechnungen und Transaktionen verwendet werden, wenn kein Skript hinterlegt ist (siehe *Berechnungen → Berechnungen und Transaktionen*).
 
+----------
+
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Waehrungen.png)
+
+>Unter dem Reiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
 
 ----------
 
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wechselkurse.png)
 
-Unter dem Reiter *Währungen* können verschieden Währungen für das Produkt angelegt werden.
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Waehrungen.png)
-
+>Unter dem Karteireiter *Wechselkurse* werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt.
 
 ----------
 
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
 
-Unter dem Karteireiter *Wechselkurse* werden für die neu angelegten Währungen die Wechselkurse direkt von der EZB aufgerufen und angezeigt.
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Wechselkurse.png)
-
-
-----------
-
-
-Unter dem Reiter *Salden-Definition* können Sie Salden konfigurieren. 
-
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
-
+>Unter dem Reiter *Salden-Definition* können Sie Salden konfigurieren. 
 Neben den schon erfassten Daten können hier über die Schaltflächen 
 
- - ![](http://xpecto.github.io/docs/img/img_1461582240266.png)
- - ![](http://xpecto.github.io/docs/img/img_1461581915169.png)
- - ![](http://xpecto.github.io/docs/img/img_1461581940776.png) 
+> - ![](http://xpecto.github.io/docs/img/img_1461582240266.png)
+> - ![](http://xpecto.github.io/docs/img/img_1461581915169.png)
+> - ![](http://xpecto.github.io/docs/img/img_1461581940776.png) 
  
-neue Salden, Gruppen und Buchungskonten angelegt werden.
+>neue Salden, Gruppen und Buchungskonten angelegt werden.
 
-![](http://xpecto.github.io/docs/img/img_1461581709647.png)
+>![](http://xpecto.github.io/docs/img/img_1461581709647.png)
 
-In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
+>In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
 
-![](http://xpecto.github.io/docs/img/img_1461581862253.png)
+>![](http://xpecto.github.io/docs/img/img_1461581862253.png)
 
-Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
+>Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
 
-![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Anteilsarten_Anteilspreise.png)
+>![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Anteilsarten_Anteilspreise.png)
