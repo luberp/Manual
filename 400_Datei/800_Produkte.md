@@ -25,7 +25,7 @@ Wenn Sie in der Feldgruppe *Anzahl Verträge* auf das Symbol  ![](http://xpecto.
 
 ----------
 
-> ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
+ ![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Salden.png)
 
  Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 
