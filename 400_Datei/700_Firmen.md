@@ -12,7 +12,7 @@ Unter dem Ansicht *Firmen* werden die Vertriebsfirmen, in deren Namen Provisions
 Um eine neue Firma anzulegen klicken Sie in der Maske Firmen und Produkte auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461576465590.png), dann wird die Firmenmaske angezeigt.
 Auf dem Reiter *Allgemein* werden die Adressdaten, Buchhaltung / Konten und die Bankverbindung erfasst. Der Bereich *Abrechnung* beinhaltet Konfigurationsdaten zur Provisionsabrechnung und wird vom xpecto Kundensupport voreingestellt.
 
-![](http://xpecto.github.io/docs/img/img_1461576331476.png)
+![](http://xpecto.github.io/docs/xpecto/Datei/Firmen/Firmen_und_Produkte.png)
 
 
 Auf dem Reiter *Kosten* können Kostensätze für den automatischen Einbehaltung von der Vermittler-Provision eingetragen werden. Verschiedene Kostenarten werden über entsprechende Schlüssel unterschieden, die vorher auf dem Karteireiter *Konten* angelegt werden müssen. 
