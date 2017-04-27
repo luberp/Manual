@@ -15,25 +15,25 @@ Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der 
 
 Auf dem Reiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
 
-Der Reiter *Auswertung* stellt eine grafische und tabellarische des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.
+Der Reiter *Auswertung* stellt eine grafische und tabellarische Auswertung des ausgewählten Produkts dar. Es wird eine Übersicht über die Forderungen, Beteiligungsübersicht, Anzahl Verträge, Fondsvolumen, Einzahlungsstand und Umsatzentwicklung angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1461578732123.png)
 
-Wenn Sie in der Feldgruppe  *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461578499376.png) klicken dann können Sie eine Vertragsübersicht für jede Beteiligungsart erhalten.
-Wenn Sie in Feldgruppe *Anzahl Verträge* auf das Symbol klicken ![](http://xpecto.github.io/docs/img/img_1461578510912.png) dann erhalten Sie die Anzahl Verträge für jeden Status angezeigt.
+Wenn Sie in der Feldgruppe  *Beteiligungsübersicht* auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461578499376.png)  klicken erhalten Sie eine Vertragsübersicht für jede Beteiligungsart.
+Wenn Sie in der Feldgruppe *Anzahl Verträge* auf das Symbol  ![](http://xpecto.github.io/docs/img/img_1461578510912.png) klicken wird Ihnen die Anzahl der Verträge für jeden Status angezeigt.
 
-Der Reiter *Salden* enthält eine Übersicht von den Salden die für alle Verträge des Produkts zu Verfügung stehen. 
+Der Reiter *Salden* enthält eine Übersicht der Salden die für alle Verträge des Produkts zu Verfügung stehen. 
 Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt, die Software berechnet anhand der hinterlegten Daten alle offene Rechnungen und stellt die in eine Liste dar. 
 
 Unter dem Reiter *Tarife* können Tarife definiert werden wie z.B. Ratenzahler oder Einmalzahler.
 
-Der Reiter *Tranchen* dient zum  Verteilung von Beträge in Teilen.
+Der Reiter *Tranchen* dient zur Verteilung der Beträge in Teilen.
 
 Der Reiter *Kosten* beinhaltet die Gebühren oder Kosten, wie Aufgeld, Managementgebühren, Handelskosten die ein Produkt verlangen kann. 
 
-Der Reiter *Werte* dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
+Der Reiter *Werte* beinhaltet die Zinsberechnung und dient dazu eine Kategorie der Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
 
-Der Reiter *Buchungsdaten* enthält die Liste der Buchungen  die generell für den Produkt anfallen. 
+Der Reiter *Buchungsdaten* enthält die Liste der Buchungen die generell für ein Produkt anfallen. 
 
 In dem Reiter *Belege* können Belegarten zu dem Produkt angelegt werden. Für die in xpectoPro durchgeführte Abrechnungen können Belege auf Produktebene mit fortlaufender Belegnummer erstellt und im PDF-Format gespeichert werden. 
 
