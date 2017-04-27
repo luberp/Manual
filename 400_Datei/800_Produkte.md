@@ -1,4 +1,4 @@
-Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen der mit der Software verwalteten Produkte. Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen, Genussrechte sein. 
+Zur Grundeinrichtung Ihres xpectoPro Systems gehört auch das Anlegen und verwalteten von Produkten. Produkte können  AIF (Alternative Investmentfonds) oder non-AIFs wie Nachrangdarlehen oder Genussrechte sein. 
 
 In der klassischen Menü-Ansicht finden Sie die *Firmen und Produkte* Maske  unter *Datei → Produkte* oder durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461577656123.png). 
 In der Maske *Firmen und Produkte* werden die erweiterte Einstellungen zum Produkt vorgenommen.
@@ -7,11 +7,11 @@ In der modernen Menü-Ansicht können Sie die Maske *Firmen und Produkte* erreic
 
 ![](http://xpecto.github.io/docs/img/img_1461577830927.png)
 
-Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten und Buchhaltung / Konten die allgemeine Daten zum Produkt erfasst, das sind die Stammdaten des Produktes.
+Auf dem Reiter *Allgemein* können Änderungen an den Produktdefinition, Steuerdaten, Buchhaltung-Konten sowie allgemeine Daten zum Produkt erfasst werden, diese Maske beinhaltet die Stammdaten des Produktes.
 
 ![](http://xpecto.github.io/docs/img/img_1461578413277.png)
 
-Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der verwalteten Fonds geschehen. Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
+Die Festlegung der Konten sollte in Rücksprache mit dem Steuerberater bzw. der Buchhaltung der zu verwalteten Fonds geschehen. Alle weiteren Einstellungen zu den Produkten stehen in engem Zusammenhang mit Berechnungsskripten und dürfen deshalb nur vom xpecto Kundensupport verändert werden. 
 
 Auf dem Reiter *Parameter* werden die Parameter für Buchungsimport und Reporting eingestellt.
 
