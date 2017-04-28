@@ -10,4 +10,3 @@ Sie werden aufgefordert eine Nummer einzugeben.
 ![](http://xpecto.github.io/docs/img/img_1421233957681.png)
 
 Es wird die nächste freie Nummer vorgeschlagen. Falls Sie intern eine andere Nummerierung verwenden, können Sie die nach Ihrer internen geltenden Richtlinie freie Nummer vergeben. Nachdem Sie die gewünschte neue Nummer eingegeben haben, bestätigen Sie mit *OK*. Damit wird die neue ID für den Datensatz gespeichert.
-[enter link description here](www.xpecto.de)
