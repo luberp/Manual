@@ -5,14 +5,16 @@ In der modernen Ansicht über den Menüpunkt *Werkzeuge → Erstellung → Kampa
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Kampagne_Menueleiste.png)
 
-xpectoPro bietet als Datenquelle für Kampagnen folgende Optionen: (siehe auch *http://help.xpecto.de/Bearbeiten/Kampagnen*).
+xpectoPro bietet als Datenquelle für Kampagnen folgende Optionen: 
 
  - vordefinierter Verteiler -> (Datenquelle / Daten wurden als Bericht hinterlegt.)
  - individuelle Abfragen -> (Datenquelle / Daten wurden bereits unter *Veranstaltungen -> Teilnehmerkreis* bestimmt.)
  - statische Daten -> (Datenquelle / Daten wurden über den Tracer selektiert bzw. manuell ausgewählt / übernommen.)
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Um Datensätze (Kunden, Personen oder Verträge) einer Kampagne hinzufügen zu können, muss die Kampagne als *statische Daten* erstellt und gespeichert werden.
+Um Datensätze (Kunden, Personen oder Verträge) einer Kampagne hinzufügen zu können, muss die Kampagne als *statisch* erstellt und gespeichert werden. 
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Diese Anleitung beschreibt das hinzufügen von einzelnen Datensätzen. Um selektive Daten zu integrieren siehe  *http://help.xpecto.de/Bearbeiten/Kampagnen*.
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Datenquellen.png)
 
