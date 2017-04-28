@@ -12,14 +12,16 @@ xpectoPro bietet als Datenquelle für Kampagnen folgende Optionen: (siehe auch *
  - statische Daten -> (Datenquelle / Daten wurden über den Tracer selektiert bzw. manuell ausgewählt / übernommen.)
 
 
-Um einzelne Datensätze (Kunden, Personen oder Verträge) einer Kampagne hinzuzufügen zu können, muss die Kampagne als *statische Daten* erstellt und gespeichert werden.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Um Datensätze (Kunden, Personen oder Verträge) einer Kampagne hinzufügen zu können, muss die Kampagne als *statische Daten* erstellt und gespeichert werden.
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Datenquellen.png)
 
-Nachdem Sie die neuen Einstellungen gespeichert haben, markieren Sie den Datensatz, der zur Kampagne hinzugefügt werden soll. Wählen Sie in der klassischen Menüansicht *Bearbeiten → Zu Kampagne* hinzufügen, um zum Beispiel einen Teilnehmer hinzuzufügen.
+Nachdem Sie die  Kampagne gespeichert haben, können nun Kunden, Verträge oder Personen der Kampagne zugeordnet werden. Nachdem der Datensatz markiert wurde kann dieser über den Button *Zu Kampagne hinzufügen* der Kampagne zugeordnet werden. Sind mehrere statische Kampagnen erstellt worden, bekommen Sie an dieser Stelle eine Auswahl aller vorhandenen Kampagnen die die statische Methode unterstützen. 
 
-In der modernen Menüansicht ist die Funktion in der Registerkarte *Berichte und Massenaktionen*, Gruppe *Erstellung* zu finden.
+![](https://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Kampagne_Datensatz_hinzufuegen.png)
 
-![](http://xpecto.github.io/docs/img/img_1461669901566.png)
+Im Anschluss ist der Datensatz in der entsprechenden Kampagne ersichtlich.
 
-Anschließend klicken Sie auf *Start*, um die Kampagne zu starten.
+![](https://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Kunde_in_statischer_Kampagne.png)
+
+Nachdem Sie alle benötigten Datensätze der Kampagne zugeordnet haben, kann die Kampagne über *Start* abgearbeitet werden.
