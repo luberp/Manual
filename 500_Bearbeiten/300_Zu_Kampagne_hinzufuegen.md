@@ -10,7 +10,7 @@ xpectoPro bietet als Datenquelle für Kampagnen folgende Optionen: (siehe auch *
  - vordefinierte Verteiler
  - individuelle Abfragen
  - statische Daten
- 
+
 
 Die Funktion *Zu Kampagne hinzufügen* fügt Daten zu einer vorhandenen Kampagne ein. 
 
