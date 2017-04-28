@@ -24,4 +24,4 @@ Im Anschluss ist der Datensatz in der entsprechenden Kampagne ersichtlich.
 
 ![](https://xpecto.github.io/docs/xpecto/Bearbeiten/Zu_Kampagne_hinzufuegen/Kunde_in_statischer_Kampagne.png)
 
-Nachdem Sie alle benötigten Datensätze der Kampagne zugeordnet haben, kann die Kampagne über *Start* abgearbeitet werden.
+Nachdem Sie alle benötigten Datensätze der Kampagne zugeordnet haben, kann der Massendruck über *Start*  gestartet werden.
