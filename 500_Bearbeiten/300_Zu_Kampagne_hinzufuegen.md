@@ -7,9 +7,9 @@ In der modernen Ansicht über den Menüpunkt *Werkzeuge → Erstellung → Kampa
 
 xpectoPro bietet als Datenquelle für Kampagnen folgende Optionen: (siehe auch *Bearbeiten → Kampagne*).
 
- - vordefinierte Verteiler
- - individuelle Abfragen
- - statische Daten
+ - vordefinierter Verteiler -> (Datenquelle / Daten wurden bereits in xpectoPro fest hinterlegt)
+ - individuelle Abfragen -> (Datenquelle / Daten wurden bereits unter *Veranstaltungen -> Teilnehmerkreis* bestimmt)
+ - statische Daten -> (Datenquelle / Daten wurden über den Tracer selektiert und übernommen)
 
 
 Die Funktion *Zu Kampagne hinzufügen* fügt Daten zu einer vorhandenen Kampagne ein. 
