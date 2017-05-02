@@ -64,17 +64,17 @@ In diesem Beispiel sind *Bezeichner, Kundennummer, Abschlussdatum, Produkt, Tari
 
 Klicken sie nun erneut auf *weiter*, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die, anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
 
-Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  *CSV*, *SQL* *Excel* und *Kampagne* weitergegeben werden. Ein Klick auf *Excel* oder *CSV* öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
+Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  *CSV*, *SQL* *Excel* und *Kampagne* weitergegeben werden. Ein Klick auf *Excel* oder *CSV* öffnet die ermittelten Daten in Excel und Sie können die Daten dort direkt weiterverarbeiten.  
 
-![](http://xpecto.github.io/docs/img/img_1461663524234.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/Abfragen_erstellen_Ergebnis.png)
 
-Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche *Kampagne* kann eine Kampagne gestartet werden (siehe  Handbuch *Bearbeiten → Kampagnen*). 
+Die Daten können auch direkt an eine Kampagne übergeben werden. Über die Schaltfläche *Kampagne* kann eine Kampagne gestartet werden, alle von Ihnen hier selektierten Daten sind dann bereits an die Kampagne übergeben.  (siehe  Handbuch *Bearbeiten → Kampagnen*). 
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461663694281.png) können Sie *Insert Statements erstellen*, Daten in *Importdialog laden* oder die *Aktion abbrechen*.  Die Insert-Operationen werden dann im Editor angezeigt.
 
 Um die Daten zu importieren, klicken Sie auf die Schaltfläche *Daten in Importdialog laden*.
 
-![](http://xpecto.github.io/docs/img/img_1461663786302.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/Abfragen_erstellen_Importdialog_laden.png)
 
 Im Importdialog können Sie z.B. Datensätze / Tabellen in der Datenbank importieren (siehe Handbuch *Import/Export → Allgemeiner Import*). 
 
@@ -83,7 +83,7 @@ Im Importdialog können Sie z.B. Datensätze / Tabellen in der Datenbank importi
 Um Datensätze zu importieren, in denen das Produkt nicht in einer Spalte vorhanden ist, muss das Produkt ausgewählt werden.
 
 Durch Betätigung der Schaltfläche *Vorschau* werden die vorbereitete Daten angezeigt.
-Wenn bereits Datensätze mit derselbe ID in der Datenbank vorhanden sind, dann werden diese nur aktualisiert, falls die Checkbox *vorhandene Daten aktualisiert* markiert ist.
+Wenn bereits Datensätze mit derselbe ID in der Datenbank vorhanden sind, dann werden diese nur aktualisiert, falls die Checkbox *vorhandene Daten aktualisiert* markiert ist ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/vorhandene_daten_aktualisieren.png).
 
 Wenn Sie Tabellen aus einer Datei, in der Datenbank importieren wollen, dann klicken Sie auf die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1421152862771.png) neben das Feld Datei, um die zu importierende Datei auszuwählen.
 
