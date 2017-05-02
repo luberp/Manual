@@ -78,7 +78,7 @@ Um die Daten zu importieren, klicken Sie auf die Schaltfläche *Daten in Importd
 
 Im Importdialog können Sie z.B. Datensätze / Tabellen in der Datenbank importieren (siehe Handbuch *Import/Export → Allgemeiner Import*). 
 
-![](http://xpecto.github.io/docs/img/img_1461664576287.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/Abfragen_erstellen_Daten_importieren.png)
 
 Um Datensätze zu importieren, in denen das Produkt nicht in einer Spalte vorhanden ist, muss das Produkt ausgewählt werden.
 
