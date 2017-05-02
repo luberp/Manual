@@ -94,6 +94,6 @@ Durch betätigen von *Vorschau* werden die Importdaten als Tabelle angezeigt.
 
 Nachdem Sie die folgende Meldung mit *OK* bestätigt haben, werden die angezeigten Daten importiert. 
 
-![](http://xpecto.github.io/docs/img/img_1421160002075.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/Abfragen_erstellen_Import_durchgefuehrt.png)
 
 Durch Betätigung von ![](http://xpecto.github.io/docs/img/img_1431935009760.png)  wird der Abfrage-Editor beendet. 
