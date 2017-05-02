@@ -2,13 +2,13 @@ xpectoPro bietet einen anwenderfreundlichen Abfrage-Editor für Datenbankabfrage
 
 In der klassischen Menü-Ansicht erreichen Sie den Abfrage-Editor über den Menüpunkt *Bearbeiten → Abfragen erstellen*.
 
-In der modernen Menü-Ansicht ist die Funktion *Abfragen / Verteiler* unter der Registerkarte *Berichte und Massenaktionen* Gruppe *Bearbeiten.*
+In der modernen Menü-Ansicht ist die Funktion *Abfragen / Verteiler* unter der Registerkarte *Werkzeuge* Gruppe *Erstellung.*
 
-![](http://xpecto.github.io/docs/img/img_1461657987778.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/Abfragen_erstellen_Menue.png)
 
 Klicken Sie auf die Funktion *Abfragen / Verteiler* um den Editor *Abfragen und Listen* zu öffnen.
 
-Nach dem Öffnen des *Abfragen und Liste* Editors wird der Assistent mit einem Bedingungsblock angezeigt, der bereits eine Bedingung enthält. Eine Bedingung ist definiert durch einen Feldnamen (links), einen Bedingungstyp (mitte) und einem vom Anwender einzugebenden Vergleichswert. 
+Nach dem Öffnen des *Abfragen und Liste* Editors wird der Assistent mit einem Bedingungsblock angezeigt, der bereits eine Bedingung enthält. Eine Bedingung ist definiert durch einen Feldnamen (links), einen Bedingungstyp (Mitte) und einem vom Anwender einzugebenden Vergleichswert. 
 
 ![](http://xpecto.github.io/docs/img/img_1461660884744.png)
 
@@ -56,15 +56,15 @@ Legen Sie über “*Feld hinzufügen*” zwei weitere Bedingungszeilen an, wähl
 
 ![](http://xpecto.github.io/docs/img/img_1461663211041.png)
 
-Klicken sie nun auf *Weiter*. Auf der nächsten Seite können die Datenbankfelder, die in der Anzeige des Abfrageergebnisses ausgegeben werden sollen, durch Anhaken ausgewählt werden.
+Klicken sie nun auf *Weiter*. Auf der nächsten Seite können Datenbankfelder die zusätzlich zu den bereits gewünschten Daten ausgegeben werden sollen, durch Anhaken ausgewählt werden.
 
-![](http://xpecto.github.io/docs/img/img_1461663371382.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Abfrage_erstellen/Abfragen_erstellen_Datenbankfelder.png)
 
 In diesem Beispiel sind *Bezeichner, Kundennummer, Abschlussdatum, Produkt, Tarif, Vertragsnummer, Betreuernummer, Produktname* ausgewählt.
 
-Klicken sie nun erneut auf *Weiter*, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die, anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
+Klicken sie nun erneut auf *weiter*, um zur Anzeige des Abfrageergebnisses zu gelangen. In der Ergebnisanzeige wird im oberen Bereich die, anhand der vorher definierten Parameter automatisch generierte Datenbankabfrage angezeigt. Darunter erscheint eine Liste mit dem Ergebnis der Abfrage.
 
-Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  *CSV*, *SQL* *Excel* und *Kampagne* weitergegeben werden. Ein Klick auf *Excel* oder *CSV* öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten werden.  
+Die dargestellten Datensätze können über Betätigung der entsprechenden Schaltflächen  *CSV*, *SQL* *Excel* und *Kampagne* weitergegeben werden. Ein Klick auf *Excel* oder *CSV* öffnet die ermittelten Daten direkt in Excel und Sie können die Daten dann dort weiterverarbeiten.  
 
 ![](http://xpecto.github.io/docs/img/img_1461663524234.png)
 
