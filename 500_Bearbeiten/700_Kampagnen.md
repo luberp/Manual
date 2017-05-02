@@ -2,22 +2,23 @@ Kampagnen ermöglichen Massenaktionen wie den Druck oder Mailversand von Schreib
 
 In der klassischen Menü-Ansicht erreichen Sie die Maske Kampagnen und Massendruck  über *Bearbeiten → Kampagnen* oder über *Bearbeiten → Abfrage erstellen → Kampagne*. Die Maske „Kampagnen und Massendruck" kann außerdem auch unter *Veranstaltungen → Reiter Allgemein* → Feldgruppe *Aktionen* *Einladungen drucken* (siehe Handbuch *Neu  → Veranstaltungen*) erreicht werden.
 
-In der modernen Menü-Ansicht ist die Maske Kampagnen und Massendruck über Karteireiter *Berichte und Massenaktionen* Gruppe *Erstellung* erreichbar.
+In der modernen Menü-Ansicht ist die Maske *Kampagne / Serienbrief* über Karteireiter *Werkzeuge* Gruppe *Erstellung* erreichbar.
 
-![](http://xpecto.github.io/docs/img/img_1461670219898.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Kampagnen/Kampagnen_menue.png)
 
-Um eine neue Kampagne zu starten öffnen Sie die Maske *Kampagnen und Massendruck* und klicken auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1461665467946.png).
+Um eine neue Kampagne zu starten öffnen Sie die Maske *Kampagne / Serienbrief* und klicken auf die Schaltfläche: ![](http://xpecto.github.io/docs/img/img_1461665467946.png).
 
 Die Maske enthält eine eigene Symbolleiste. Diese dient dazu, um Ihnen die Arbeit zu erleichtern,  damit können Sie einfach ![](http://xpecto.github.io/docs/img/img_1461671943922.png) *Speichern*,  ![](http://xpecto.github.io/docs/img/img_1461671772817.png) *Kampagne neu anlegen*,![](http://xpecto.github.io/docs/img/img_1461577385984.png) *aktuellen Datensatz löschen*,  ![](http://xpecto.github.io/docs/img/img_1461671810290.png)  *Kampagne kopieren*.
 
-
-Außerdem enthält die  Maske *Kampagnen und Massendruck* die  Reiter *Allgemein* und *Kampagne*. 
+Außerdem enthält die  Maske *Kampagne / Serienbrief* die  Reiter *Allgemein* und *Kampagne* und *Archivierte Läufe*. 
 
 Der Reiter *Allgemein* beinhaltet den Namen, die Beschreibung und falls vorhanden die letzte Ausführung der Kampagne.
 
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Kampagnen/Kampagne_allgemein.png)
+
 Unter dem Karteireiter *Kampagne* können die Datenquelle, Ausgaben und Aktionen eingestellt werden.
 
-![](http://xpecto.github.io/docs/img/img_1461673010754.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Kampagnen/Kampagne_kampagne.png)
 
 In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *vordefinierter Verteiler*, *individuelle Abfrage*  und *statischen Daten* zu wählen.
 
