@@ -98,9 +98,6 @@ Alle weiteren Einstellungen zu Produkten stehen in engem Zusammenhang mit Berech
 
 Das beim Anlegen eines Produkts zu vergebende Produkt-Kürzel muss aufgrund der Webportal-Unterstützung eindeutig gewählt werden, da die im Webportal zugänglich gemachten Daten intern über das Produktkürzel den einzelnen xpecto-Kunden zugeordnet werden. 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte die vom Anwender selbst angelegt wurden sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
-
-
 ----------
 
 >![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Menue_Uebertragung.png)
@@ -143,8 +140,14 @@ neue Salden, Gruppen und Buchungskonten angelegt werden.
 
 In der Feldgruppe *im ausgewählten Saldo enthaltene Gruppen* stehen die Gruppen von Konten, die in diesen Bilanzpositionen zusammengefaßt sind, davon unabhängig, ob der Gesamtsaldo dieser Konten positiv oder negativ ist.
 
+
+
 >![](http://xpecto.github.io/docs/img/img_1461581862253.png)
 
 Da ein Produkt  in mehrere Anteile aufgeteilt werden kann, beinhalten die Reiter *Anteilsarten* die Arten und *Anteilspreise* die Preise für diese Anteile.
 
 >![](http://xpecto.github.io/docs/xpecto/Datei/Produkte/Anteilsarten_Anteilspreise.png)
+
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Es wird empfohlen neue Produkte ausschließlich vom xpecto Kundensupport anlegen zu lassen, in diesem Zuge wird das Produkt auch für Ihr Webportal freigeschalten. Produkte die vom Anwender selbst angelegt wurden sind im Webportal ohne Rücksprache mit dem Support von xpecto nicht verfügbar.
+
