@@ -26,7 +26,7 @@ In der Feldgruppe *Datenquelle wählen* ergibt sich die Möglichkeit zwischen *v
 
 Über die *individuelle Abfrage* werden die Daten die über die *Abfrage* ausgeliefert würden in die Kampagne eingefügt (siehe Handbuch *Bearbeiten → Abfragen erstellen*). Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461674902900.png) wird der Dialog *Abfrage editieren für Kampagne* geöffnet. Falls die Abfrage eine Bearbeitung benötigt können hier die gewünschte Änderungen vorgenommen werden.
 
-Über die Option *statische Daten* wird eine dritte Möglichkeit für die Datenquellen angeboten. Hier können markierte Daten z.B. Teilnehmer über die Funktion *zu Kampagne hinzufügen* (siehe Handbuch *Bearbeiten →  Zu Kampagne hinzufügen*) in die gewünschte Kampagne eingefügt. Dafür muss vorher die Option *statischen Daten* markierte und gespeichert werden.
+Über die Option *statische Daten* wird eine dritte Möglichkeit für die Datenquellen angeboten. Hier können markierte Daten z.B. Teilnehmer über die Funktion *zu Kampagne hinzufügen* (siehe Handbuch *Bearbeiten →  Zu Kampagne hinzufügen*) in die gewünschte Kampagne eingefügt werden. Dafür muss vorher die Option *statischen Daten* markierte und gespeichert werden.
 
 In der Feldgruppe *Aktion wählen* können Sie die Funktion die für Ihre Kampagne  ausgeführt werden soll, wählen: *Berichte drucken, Provision einfügen, SMS, Datei Upload, Weiteres*.
 
