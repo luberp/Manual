@@ -2,19 +2,19 @@ Als Berichte werden die Ausdrucke bzw. Schreiben bezeichnet, die mit xpectoPro e
 
 In der klassischen Menü-Ansicht wird ein neuer Bericht generiert über den Menüpunkt  *Bearbeiten → Berichte erzeugen*, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1429027617646.png) oder falls der Bericht als Favorit markiert wurde in der Hauptmaske direkt neben das Favoriten-Feld über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461680897090.png) *Druckvorschau /Seitenansicht*.
 
-![](http://xpecto.github.io/docs/img/img_1461680850196.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Menue_klassisch.png)
 
-In der modernen Menü-Ansicht generieren Sie einen Bericht in der Registerkarte *Schnellzugriff* Funktion *Vorschau*.
+In der modernen Menü-Ansicht generieren Sie einen Bericht in der Registerkarte *Schnelldruck* Funktion *Vorschau*. Das Dropdown *Briefvorlage* enthält hier Ihre als *Favorit* gekennzeichneten Berichte.
 
 ![](http://xpecto.github.io/docs/img/img_1461681103966.png)
 
-Unabhängig von Favoriten und markierter Datensatz kann ein Bericht  über die Registerkarte *Berichte und Massenaktionen* Funktion *Einzelbericht* erzeugt werden.
+Unabhängig von Favoriten und markierter Datensatz kann ein Bericht  über die Registerkarte *Aktion* Gruppe *Berichte* und Funktion *Vorschau* erzeugt werden. Zusätzlich zur normalen Vorschau (1) können Sie hier auch einen Druck bzw. Export initiieren, wählen Sie hierzu im Dropdown-Liste die gewünschten Ausgabe (2). 
 
- ![](http://xpecto.github.io/docs/img/img_1461681719690.png)
+ ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Bericht_Vorschau.png)
 
-Wenn als Favorit eine *Briefvorlage* eingestellt würde, dann wird für jeder markierter Datensatz ein Bericht generiert der die Daten des Datensatzes enthält.
+Wenn als Favorit eine *Briefvorlage* eingestellt wurde,  wird für jeder markierter Datensatz ein Bericht generiert der die Daten des Datensatzes enthält.
 
-Wie die Berichte als Favoriten angezeigt werden, wird unten beschrieben (siehe unten [Favoriten anzeigen](#id3)).
+Wie Sie Berichte als Favoriten anlegen, wird unten näher beschrieben (siehe unten [Favoriten anzeigen](#id3)).
 
 Da die Berichte über Namen unterschieden werden und in Gruppen verwaltet, müssen zuerst die Berichtengruppe ausgewählt und in dem Berichtfeld werden dann die dazu passende Berichte vorgeschlagen. 
 
