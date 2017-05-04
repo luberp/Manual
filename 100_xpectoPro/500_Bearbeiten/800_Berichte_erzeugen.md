@@ -48,9 +48,8 @@ Der erstellte Bericht kann nun über die Schaltfläche  ![](http://xpecto.github
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Bitte beachten Sie dass ein Report immer zum selektierten Datensatz passen muss. Explizit heißt dass das ein Bericht der ausschließlich Kundendaten enthält, nicht mit einem selektieren Vertrags-Datensatz funktioniert. Tritt dieser Fall ein,  wird Ihnen eine der folgenden Meldungen angezeigt.
 
-![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Unpassender_Datensatz.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Fehler.png)
 
-![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Unpassender_Datensatz_1.png)
 
 
 
