@@ -29,4 +29,4 @@ Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1421247414670.png) 
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Keine_Duplikate_gefunden.png)
 
-Sind für die gewählt Datenquelle beim Start der Bereinigung keine Duplikate vorhanden wird Ihnen folgende Meldung angezeigt.
+Sollten für die gewählt Datenquelle (Tabelle) keine Duplikate vorhanden sein wird Ihnen folgende Meldung angezeigt.
