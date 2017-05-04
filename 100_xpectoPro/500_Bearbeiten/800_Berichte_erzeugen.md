@@ -30,18 +30,26 @@ Reports müssen bei der Erstellung definierten Gruppen zugeordnet werden, zur Au
 |![](http://xpecto.github.io/docs/img/img_1439381347699.png)  |Bericht bearbeiten. Es kann eine neue Vorlage generiert und bearbeitet werden.|
 |![](http://xpecto.github.io/docs/img/img_1439381384906.png)| Filter Fields IDs|
 
-Sie können jeden Bericht den Sie erstellt haben ganz einfach im Editor bearbeiten und verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Sie können Word-basierte Berichte ganz einfach im Editor bearbeiten und verändern. Nutzen Sie dazu die zur Verfügung gestellte Editorleiste in der Funktion *Bericht bearbeiten* ![](http://xpecto.github.io/docs/img/img_1439381347699.png). 
 
 ![](http://xpecto.github.io/docs/img/img_1439389795642.png)
 
 <a id="id3">**Favoriten anzeigen**</a>
 
-xpectoPro bietet an häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen, da sie über diesen Weg schneller erreicht werden können. Dazu muss der Bericht als *Allgemeiner Bericht*  für Favoriten markiert werden. (siehe Handbuch *Extras → Anpassen → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
+xpectoPro bietet an, häufig verwendete Berichte als Favoriten-Berichte zu hinterlegen da sie über diesen Weg schneller erreicht werden können. Dazu muss der Bericht als *Allgemeiner Bericht - immer in Favoriten anzeigen* markiert werden. Wechseln Sie hierzu in die Funktion *Berichte bearbeiten* und  wählen den gewünschten Report. Im Reiter *Kategorien* können Sie nun die gewünschte Option auswählen. 
 
-![](http://xpecto.github.io/docs/img/img_1439387898787.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Bericht_Favorit.png)
 
-Um ein Bericht direkt in das Hauptfenster zu generieren, wählen Sie dafür den gewünschten Datensatz in der Kunden- oder Vermittleransicht, und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461681281157.png).
+Um ein Bericht direkt in das Hauptfenster zu generieren, wählen Sie dafür den gewünschten Datensatz in der Kunden- oder Vermittleransicht, und klicken Sie auf die Schaltfläche ![] (http://xpecto.github.io/docs/img/img_1461681281157.png). Im Anschluss wählen Sie die Berichtsgruppe und den entprechenden Bericht. In diesem Beispiel wurde der Bericht *Kontoauszug* gewählt der in der Gruppe *Kundenverkehr* erzeugt wurde.
 
 ![](http://xpecto.github.io/docs/img/img_1461680747695.png)
 
-Der erstellte Bericht kann nun über die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1439391939484.png) gedruckt werden.
+Der erstellte Bericht kann nun über die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1439391939484.png) gedruckt oder exportiert werden.
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Bitte beachten Sie dass ein Report immer zum selektierten Datensatz passen muss. Explizit heißt dass das ein Bericht der ausschließlich Kundendaten enthält, nicht mit einem selektieren Vertrags-Datensatz funktioniert. Tritt dieser Fall ein,  wird Ihnen eine der folgenden Meldungen angezeigt.
+
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Unpassender_Datensatz.png)
+
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Unpassender_Datensatz_1.png)
+
+
