@@ -53,3 +53,7 @@ Der erstellte Bericht kann nun über die Schaltfläche  ![](http://xpecto.github
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Unpassender_Datensatz_1.png)
 
 
+
+
+
+
