@@ -12,7 +12,7 @@ Unabhängig von Favoriten und markierter Datensatz kann ein Bericht  über die R
 
  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Bericht_Vorschau.png)
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Bitte beachten Sie dass die Vorschau / Ausgabe je nach gewähltem Bericht different sein kann. Explizit bedeutet das dass *Briefvorlagen* immer nur einen Datensatz pro Druck / Ausgabe enthalten und zwar die des aktuell selektierten Datensatzes. *Reguläre* Berichte werden meist als *Liste* ausgegeben, die gewünschten Daten werden hier bereits im Report / Bericht festgelegt bzw. zur Laufzeit angegeben.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Bitte beachten Sie dass die Vorschau /  Ausgabe je nach gewähltem Bericht different sein kann. Explizit bedeutet das dass *Briefvorlagen* immer nur einen Datensatz pro Druck / Ausgabe enthalten und zwar die des aktuell selektierten Datensatzes. *Reguläre* Berichte werden meist als *Liste* ausgegeben, die gewünschten Daten werden hier bereits im Report / Bericht festgelegt bzw. zur Laufzeit angegeben.
 
 Wie Sie Berichte als Favoriten anlegen, wird näher beschrieben -> siehe [Favoriten anzeigen](#id3).
 
