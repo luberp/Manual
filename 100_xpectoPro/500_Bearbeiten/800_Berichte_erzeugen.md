@@ -14,14 +14,13 @@ Unabhängig von Favoriten und markierter Datensatz kann ein Bericht  über die R
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Bitte beachten Sie dass die Vorschau /  Ausgabe je nach gewähltem Bericht different sein kann. Explizit bedeutet das dass *Briefvorlagen* immer nur einen Datensatz pro Druck / Ausgabe enthalten und zwar die des aktuell selektierten Datensatzes. *Reguläre* Berichte werden meist als *Liste* ausgegeben, die gewünschten Daten werden hier bereits im Report / Bericht festgelegt bzw. zur Laufzeit angegeben.
 
-Wie Sie Berichte als Favoriten anlegen, wird näher beschrieben unter [Favoriten anzeigen](#id3)).
+Wie Sie Berichte als Favoriten anlegen, wird näher beschrieben unter [Favoriten anzeigen](#id3).
 
 Reports müssen bei der Erstellung definierten Gruppen zugeordnet werden, zur Auswahl bzw. Suche des gewünschten Berichts kann hier die Berichtsgruppe gewählt werden und im Anschluss im Suchfenster  *Berichte* der gewünschte Report. Ist die Gruppe dem der Report zugeordnet ist nicht bekannt, kann alternativ im Suchfenster *Berichte* der Name des Reports eingegeben werden, im weiteren Verlauf werden Ihnen alle Berichte angezeigt die die eingegebene Zeichenfolge enthalten.
 
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Berichte_erzeugen/Berichtsgruppe_Berichte.png)
 
-Wenn die Felder ausgefüllt sind dann drücken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439381184713.png).
 
 |  Schaltfläche            |    Beschreibung     |  
 | ------------- |:-------------| 
