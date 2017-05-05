@@ -29,7 +29,7 @@ Durch den Haken im entsprechenden Datensatz wird markiert welcher der beiden Dat
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Duplikat_merge.png)
 
-Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1421247414670.png) wird der nicht markierte Datensatz entfernt und der verbleibende Datensatz mit den gewählten Werten aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den neuen Kunden übertragen.
+Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1421247414670.png) wird der nicht markierte Datensatz entfernt und der verbleibende Datensatz mit den gewählten Werten aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den verbleibenden Datensatz (Kunden) übertragen.
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Keine_Duplikate_gefunden.png)
 
