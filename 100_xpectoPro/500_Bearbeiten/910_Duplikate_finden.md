@@ -25,7 +25,7 @@ Je nachdem welcher Datensatz selektiert ist, werden nun beide Datensätze angeze
 
 Bitte markieren Sie den Datensatz den Sie behalten möchten im oberen Bereich. Es werden in der Liste alle Felder aufgelistet die in den beiden Datensätzen unterschiedlich sind. Sie können den jeweiligen "Gewinner" für die Zusammenführung mit der Maus einfach für jedes Feld getrennt auswählen.
 
-Durch den Haken im entsprechenden Datensatz wird markiert welcher der beiden Datensätze bei der Bereinigung übernommen wird, es können jedoch auch einzelne Daten aus beiden Dubletten zusammengeführt werden. Um die Daten die Sie zusammenführen möchten auszuwählen, ist es ausreichend auf die jeweiligen Daten zu klicken. Im Feld *Ergebnis* sehen Sie vorab welche Daten nach der Bereinigung in die Datenbank geschrieben wurden. 
+Durch den Haken im entsprechenden Datensatz wird markiert welcher der beiden Datensätze bei der Bereinigung übernommen wird, es können jedoch auch einzelne Daten aus beiden Dubletten zusammengeführt werden. Um die Daten die Sie zusammenführen möchten auszuwählen, ist es ausreichend auf die jeweiligen Daten zu klicken. Im Feld *Ergebnis* sehen Sie vorab welche Daten bei der  Bereinigung in die Datenbank geschrieben werden. 
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Duplikat_merge.png)
 
