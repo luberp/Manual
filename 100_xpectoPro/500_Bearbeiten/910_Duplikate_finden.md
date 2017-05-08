@@ -39,4 +39,4 @@ Sollten für die gewählt Datenquelle (Tabelle) keine Duplikate mehr vorhanden s
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Keine_Duplikate_gefunden.png)
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Aus technischen Gründen können jeweils nur zwei Datensätze / Dubletten zusammengeführt werden. Nachdem alle Duplikate aufgelöst wurden, starten Sie die Suche bitte noch einmal. Sollten Ihnen nach der erneuten Suche erneut Datensätze angezeigt werde, wurden identische Datensätze mehr als zweimal angelegt.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Aus technischen Gründen können jeweils nur zwei Datensätze / Dubletten zusammengeführt werden. Nachdem alle Duplikate aufgelöst wurden, starten Sie die Suche bitte noch einmal. Sollten Ihnen nach der wiederholten Suche erneut Datensätze angezeigt werde, wurden identische Datensätze mehr als zweimal angelegt.
