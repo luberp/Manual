@@ -36,4 +36,4 @@ Sollten Ihnen nach der erneuten Suche erneut Datensätze angezeigt werde, wurden
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Keine_Duplikate_gefunden.png)
 
-Sollten für die gewählt Datenquelle (Tabelle) keine Duplikate vorhanden sein wird Ihnen folgende Meldung angezeigt.
+Sollten für die gewählt Datenquelle (Tabelle) keine Duplikate mehr vorhanden sein wird Ihnen folgende Meldung angezeigt.
