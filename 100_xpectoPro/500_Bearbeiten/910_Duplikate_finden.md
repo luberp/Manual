@@ -31,9 +31,12 @@ Durch den Haken im entsprechenden Datensatz wird markiert welcher der beiden Dat
 
 Mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1421247414670.png) wird der nicht markierte Datensatz entfernt und der verbleibende Datensatz mit den gewählten Werten aktualisiert. Alle Daten die zum alten Kunden gehören wie Verträge, Provisionen und Dokumente werden automatisch auf den verbleibenden Datensatz (Kunden) übertragen.
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Aus technischen Gründen können jeweils nur zwei Datensätze / Dubletten zusammengeführt werden. Nachdem alle Duplikate aufgelöst wurden, starten Sie die Suche bitte noch einmal. 
-Sollten Ihnen nach der erneuten Suche erneut Datensätze angezeigt werde, wurden identische Datensätze mehr als zweimal angelegt.
+
+
+
+Sollten für die gewählt Datenquelle (Tabelle) keine Duplikate mehr vorhanden sein wird Ihnen folgende Meldung angezeigt.
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Dublikate_finden/Keine_Duplikate_gefunden.png)
 
-Sollten für die gewählt Datenquelle (Tabelle) keine Duplikate mehr vorhanden sein wird Ihnen folgende Meldung angezeigt.
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Aus technischen Gründen können jeweils nur zwei Datensätze / Dubletten zusammengeführt werden. Nachdem alle Duplikate aufgelöst wurden, starten Sie die Suche bitte noch einmal. Sollten Ihnen nach der erneuten Suche erneut Datensätze angezeigt werde, wurden identische Datensätze mehr als zweimal angelegt.
