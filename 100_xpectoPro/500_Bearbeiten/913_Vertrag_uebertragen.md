@@ -1,3 +1,10 @@
+Die Funktion *Vertrag übertragen* beinhaltet 3 Kernfunktionen. Diese werden Ihnen on Top in der Maske für Vetragsänderungen angezeigt. 
+
+ ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertrag_reiter.png)
+ 
+
+
+
 Die Funktion *Vertrag übertragen* dient dem Übertrag der Vertragsdaten auf einen anderen Kunde. 
 
 Um einen bestehenden Vertrag zu übertragenen wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
