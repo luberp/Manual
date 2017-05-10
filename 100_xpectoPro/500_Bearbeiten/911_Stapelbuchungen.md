@@ -40,13 +40,14 @@ Der Reiter *Stapel-Erfassung* dient der Ersterfassung von Buchungen. Dieser Funk
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Stapel_erfassung_Menue.png)
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439974064694.png) um Vorlagen für Ihre Buchungssätze anzulegen oder zu bearbeiten.
-Beim Erfassen von Buchungen über Vorlagen sind bereits  Buchungstext, Konto sowie Gegenkonto fest definiert, Fehlbuchungen werden damit schon im Vorfeld unterbunden.
+*![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Beim Erfassen von Buchungen über Vorlagen sind bereits  Buchungstext, Konto sowie Gegenkonto fest definiert, Fehlbuchungen werden damit schon im Vorfeld so weit wie möglich unterbunden.*
+
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439801023332.png) wird ein neuer Datensatz angelegt. Die Details des Buchungssatzes werden über die Feldgruppe *Buchung bearbeiten* eingegeben.
 Die Gültigkeit des eingegebenen Belegdatums und des Betrags wird direkt beim Verlassen des jeweiligen Feldes geprüft. Vor dem Speichern wird außerdem geprüft, ob die Pflichtfelder *Betrag, Belegdatum, Konto, Gegenkonto* und *Buchungstext* befüllt sind. 
 
 ![](http://xpecto.github.io/docs/img/img_1439812810573.png)
 
- Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439804594653.png) wird die Buchung gespeichert. Beim Speichern der Buchung wird automatisch der Erfasser und der Erfassungszeitpunkt in den Buchungsdatensatz eingetragen. Die Buchungsperiode, zu der ein Buchungssatz gehört, richtet sich nach dem Belegdatum, sie wird nicht separat erfasst. Ein hier erfasster Datensatz kann über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439813538430.png) jederzeit wieder gelöscht werden, solange er noch nicht festgeschrieben ist. Festschreiben bedeutet dass eine Buchung dann nur noch durch eine Storno/Korrekturbuchung korrigiert werden kann. Damit werden nachträgliche Manipulationen erschwert.
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439804594653.png) wird die Buchung gespeichert. Beim Speichern der Buchung wird automatisch der Erfasser und der Erfassungszeitpunkt in den Buchungsdatensatz eingetragen. Die Buchungsperiode, zu der ein Buchungssatz gehört, richtet sich nach dem Belegdatum, sie wird nicht separat erfasst. Ein hier erfasster Datensatz kann über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439813538430.png) jederzeit wieder gelöscht werden, solange er noch nicht festgeschrieben ist. Festschreiben bedeutet dass eine Buchung dann nur noch durch eine Storno/Korrekturbuchung korrigiert werden kann. Damit werden nachträgliche Manipulationen erschwert.
  
 Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Die Suchkriterien zum Auffinden der gewünschten Buchungssätze können über verschiedenen Filter wie  *Buchungsperiode, Beteiligung/Vertrag, Erfassung, Kontierung, Festschreibung* konfiguriert werden.
 
