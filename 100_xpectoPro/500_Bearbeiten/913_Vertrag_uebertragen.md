@@ -2,7 +2,7 @@ Die Funktion *Vertrag übertragen* beinhaltet drei Funktionen, diese werden Ihne
 
  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertrag_reiter.png)
 
- - Übertragung/ Kapitalherabsetzung durchführen -> *über diese Funktion kann ein Vertrag auf einen differenten Kunden übertragen werden*
+ - Übertragung/ Kapitalherabsetzung durchführen -> *über diese Funktion kann ein Vertrag auf einen differenten Kunden übertragen werden.*
  - Zusammenführung durchführen -> *Übertrag mehrerer Verträge auf einen neuen Rechtsnachfolger, hier können Verträge differenter Kunden auf einen Kunden übertragen werden.*
  - Vertrag beenden -> *Vertrag beenden.*
  
