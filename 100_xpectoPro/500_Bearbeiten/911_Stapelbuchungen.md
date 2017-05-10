@@ -13,18 +13,20 @@ Die *Stapelbuchung* kann jeweils für ein bestimmtes Produkt samt seinen Buchung
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Produkt_auswaehlen.png)
 
-Die Maske *Stapelbuchung* ist das zentrale Werkzeug zur Verwaltung von Buchungsdaten der Fondsbuchhaltung. Sie ist im wesentlichen in vier Funktionsbereiche untergliedert:
+Die *Stapelbuchung* ist das zentrale Werkzeug zur Verwaltung von Buchungsdaten der Fondsbuchhaltung. Sie ist im wesentlichen in vier Funktionsbereiche untergliedert:
  
- -   ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Stapel_erfassung.png) -> *einzelne oder selektive Buchungen anlegen*
+ -   ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Stapel_erfassung.png) -> *einzelne oder selektive Buchungen erfassen*
  -  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Suchen_aendern.png) -> *vorhandene Buchungen bearbeiten*
  -  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchungen_festschreiben.png) -> *Buchungsselektionen oder einzelne Buchungen festschreiben*
  -  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchungen_exportieren.png) -> *Export der festgeschriebenen Buchungen*
 
-Jeder Funktionsbereich der *Stapelbuchung* definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Bearbeitungsbereich mit den Feldgruppen: *Buchung bearbeiten, Fremdwährung* und *Verarbeitungsinfos* - zum Anzeigen bzw. Bearbeiten einer Buchung, und eine Buchungsliste. Die jeweiligen von Anwender konfigurierten Filter bestimmen welche Buchungen in der Buchungsliste angezeigt werden. 
+Jeder Funktionsbereich der *Stapelbuchung* definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Bearbeitungsbereich mit den Feldgruppen: *Buchung bearbeiten, Fremdwährung* und *Verarbeitungsinfos* - zum Anzeigen bzw. Bearbeiten einer Buchung, und eine Buchungsliste. Die jeweiligen von Anwender konfigurierten Filter bestimmen welche Buchungen in der Buchungsliste angezeigt werden. 
  
-![](http://xpecto.github.io/docs/img/img_1461685073709.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Selektionsfilter_Buchung_bearbeiten.png)
 
-Die Feldgruppe *Buchung bearbeiten* zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder *Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer* sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder *Valutadatum, Vertrag, Ust-Kennz.* und *Bemerkung.* Die Pflichtfelder sind gelb hinterlegt. 
+Die Feldgruppe *Buchung bearbeiten* zeigt die Detail-Informationen des aktuell in der Buchungsliste selektierten Buchungssatzes. Sie enthält die Felder *Belegdatum, Konto, Gegenkonto, Betrag, Buchungstext, Belegnummer* sowie optional auszufüllenden (und nicht zur Buchhaltung gehörenden) Felder *Valutadatum, Vertrag, Ust-Kennz.* und *Bemerkung.* Die Pflichtfelder sind gelb hinterlegt.
+
+ ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchung_bearbeiten.png)
 
 Das *Belegdatum* informiert über Kontobewegungen, während das *Valutadatum* das Datum ist, an dem eine Gutschrift oder Belastung wirksam wird. Das *Valutadatum* zeigt den echten Kontostand an. Dieses kann unter Umständen vom *Belegdatum* abweichen. 
 Unter *Vertrag* kann eine Vertrags-Nr. erfasst werden, der die selektierte Buchungen zugeordnet werden soll. 
@@ -35,9 +37,10 @@ Unter bestimmten Voraussetzungen (z.B. *Buchungen exportieren* gewählt oder *Bu
 
 Der Reiter *Stapel-Erfassung* dient der Ersterfassung von Buchungen. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden alle Buchungen angezeigt, die von dem aktuell angemeldeten Benutzer am selben Tag bereits erfasst wurden. 
 
-![](http://xpecto.github.io/docs/img/img_1461685406019.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Stapel_erfassung_Menue.png)
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439974064694.png) um Vorlagen für Ihre Buchungssätze anzulegen oder zu bearbeiten.
+ Beim Erfassen von Buchungen über Vorlagen sind bereits der Buchungstext, Konto sowie Gegenkonto bereits fix hinterlegt, dies verhindert im Vorfeld bereits Fehlbuchungen oder Fehler.
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439801023332.png) wird ein neuer Datensatz angelegt. Die Details des Buchungssatzes werden über die Feldgruppe *Buchung bearbeiten* eingegeben.
 Die Gültigkeit des eingegebenen Belegdatums und des Betrags wird direkt beim Verlassen des jeweiligen Feldes geprüft. Vor dem Speichern wird außerdem geprüft, ob die Pflichtfelder *Betrag, Belegdatum, Konto, Gegenkonto* und *Buchungstext* befüllt sind. 
 
