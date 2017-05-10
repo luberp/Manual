@@ -1,6 +1,6 @@
 Die Funktion *Vertrag übertragen* beinhaltet 3 Kernfunktionen. Diese werden Ihnen on Top in der Maske für Vetragsänderungen angezeigt. 
 
- ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertrag_reiter.png)
+ ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertragen_menue.png)
  
 
 
