@@ -44,6 +44,11 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_14399
 *![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Beim Erfassen von Buchungen über Vorlagen sind bereits  Buchungstext, Konto sowie Gegenkonto fest definiert, Fehlbuchungen werden damit schon im Vorfeld so weit wie möglich unterbunden.*
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439801023332.png) wird ein neuer Datensatz angelegt. Die Details des Buchungssatzes werden über die Feldgruppe *Buchung bearbeiten* eingegeben.
+
+ Über dem Button ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Button_Kunde.png) kann der Kunde der Buchung zugeordnet werden.
+ 
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Kunden_auswaehlen.png) 
+
 Die Gültigkeit des eingegebenen Belegdatums und des Betrags wird direkt beim Verlassen des jeweiligen Feldes geprüft. Vor dem Speichern wird außerdem geprüft, ob die Pflichtfelder *Betrag, Belegdatum, Konto, Gegenkonto* und *Buchungstext* befüllt sind. 
 
 ![](http://xpecto.github.io/docs/img/img_1439812810573.png)
@@ -52,16 +57,21 @@ Die Gültigkeit des eingegebenen Belegdatums und des Betrags wird direkt beim Ve
  
 Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Die Suchkriterien zum Auffinden der gewünschten Buchungssätze können über verschiedenen Filter wie  *Buchungsperiode, Beteiligung/Vertrag, Erfassung, Kontierung, Festschreibung* konfiguriert werden.
 
-![](http://xpecto.github.io/docs/img/img_1461685262474.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Selektionsfilter_Buchung_bearbeiten.png)
 
 Nicht festgeschriebene Buchungen können gelöscht oder geändert werden. Änderungen werden erst durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439804594653.png) gespeichert. Vor dem Speichern werden dieselben Gültigkeitsprüfungen durchlaufen, wie in dem Reiter *Stapel-Erfassung*. 
 
-Bereits festgeschriebene Buchungen (erkennbar durch eingetragene Buchungs-Nr in der Feldgruppe *Verarbeitungsinfos*) können nachträglich nicht mehr verändert werden. Wird eine festgeschriebene Buchung selektiert, so ist der Bearbeitungsbereich in Read-Only-Modus und die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1439813538430.png) ist deaktiviert. Solange die betroffene Buchungsperiode nicht geschlossen ist, kann jedoch über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439816158639.png) eine Storno-Buchung erzeugt werden. Wird die Abfrage "Möchten Sie eine Korrekturbuchung anlegen?" mit *Ja* beantwortet, so wird eine änderbare (da nicht festgeschriebene) Kopie der Original-Buchung in derselben Buchungsperiode angelegt.
+Bereits festgeschriebene Buchungen (erkennbar durch eingetragene Buchungs-Nr in der Feldgruppe *Verarbeitungsinfos*) können nachträglich nicht mehr verändert werden. Wird eine festgeschriebene Buchung selektiert, so ist der Bearbeitungsbereich in Read-Only-Modus und die Schaltfläche  ![](http://xpecto.github.io/docs/img/img_1439813538430.png) ist deaktiviert. 
+
+
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchung_festgeschrieben.png)
+
+Solange die betroffene Buchungsperiode nicht geschlossen ist, kann jedoch über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439816158639.png) eine Storno-Buchung erzeugt werden. Wird die Abfrage "Möchten Sie eine Korrekturbuchung anlegen?" mit *Ja* beantwortet, so wird eine änderbare (da nicht festgeschriebene) Kopie der Original-Buchung in derselben Buchungsperiode angelegt.
 
 Der Reiter *Buchungen festschreiben* dient der Übertragung von Buchungssätze in das Buchungsjournal. 
 Im Buchungsjournal werden alle Buchungen eines gewählten Zeitraums tabellarisch aufgelistet. Die Kriterien zur Auswahl der festzuschreibenden Datensätze können über verschiedene Filter konfiguriert werden, wie *Buchungsperiode, Beteiligung/Vertrag, Erfassung, Kontierung*. 
 
-![](http://xpecto.github.io/docs/img/img_1461685459829.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchung_festschreiben_Menue.png)
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439820973695.png) werden alle aufgelisteten Erfassungen in das Buchungsjournal übertragen und in jeden betroffenen Buchungssatz der Festschreibungs-Zeitpunkt, der ausführende Benutzer und eine fortlaufenden Buchungsnummer eingetragen werden. Die Festschreibung einer einmal in das Journal übertragenen Buchung kann nachträglich nicht mehr aufgehoben werden. Die Buchung kann dann nur noch über *Suchen / Ändern* ![](http://xpecto.github.io/docs/img/img_1439816158639.png) storniert werden.
 
@@ -72,7 +82,7 @@ Der Reiter *Buchungen exportieren* dient der Übergabe von Buchungssätze an das
 
 ![](http://xpecto.github.io/docs/img/img_1461685921010.png)
 
-Nach dem Aufruf der Maske *Stapelbuchung* ist der Radiobutton in der Feldgruppe *nicht exportiert* aktiv. Dadurch werden nur Buchungssätze exportiert, die vorher noch nicht exportiert wurden. Soll ein bereits erfolgter Buchungsexport wiederholt werden so muss der Filter *Exportiert* dementsprechend angepasst werden. 
+Nach dem Aufruf der Maske *Stapelbuchung* ist der Radiobutton in der Feldgruppe *nicht exportiert* aktiv. Dadurch werden nur Buchungssätze angezeigt, die vorher noch nicht exportiert wurden. Soll ein bereits erfolgter Buchungsexport wiederholt werden so muss der Filter *Exportiert* dementsprechend angepasst werden. 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439892039334.png) wird eine Datei im CSV-Format erzeugt, die die aufgelisteten Buchungssätze enthält. Dabei wird automatisch der Exportzeitpunkt und der auszuführende Benutzer in die betroffenen Buchungsdatensätze eingetragen. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439894313567.png) wird dieselbe Export-Datei erzeugt, jedoch ohne Informationen in den Buchungsdatensatz einzutragen.
 
-Die Reihenfolge der Bearbeitungsschritte in der Stapelbuchung ist: 1. Erfassen, 2. Festschreiben, 3. Schließen, 4. Exportieren.
+
