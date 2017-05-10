@@ -40,6 +40,7 @@ Der Reiter *Stapel-Erfassung* dient der Ersterfassung von Buchungen. Dieser Funk
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Stapel_erfassung_Menue.png)
 
 Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439974064694.png) um Vorlagen für Ihre Buchungssätze anzulegen oder zu bearbeiten.
+
 *![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Beim Erfassen von Buchungen über Vorlagen sind bereits  Buchungstext, Konto sowie Gegenkonto fest definiert, Fehlbuchungen werden damit schon im Vorfeld so weit wie möglich unterbunden.*
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439801023332.png) wird ein neuer Datensatz angelegt. Die Details des Buchungssatzes werden über die Feldgruppe *Buchung bearbeiten* eingegeben.
