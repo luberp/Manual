@@ -30,9 +30,13 @@ Sichern Sie Ihre Änderungen durch einen Klick auf die Schaltfläche ![](http://
 Mit xpectoPro ergibt sich die Möglichkeit in mehrere Produkte zu investieren. Durch die Beteiligungen an einen Produkt erwerben die Anleger Anteile an einen Produkt. Ein Kunde, der in verschiedene Produkte investiert möchte, hat dann mehrere Verträge mit unterschiedliche Beteiligungen. 
 Eine Beteiligung an einen Produkt wird in dem Dialog *neuen Vertrag erstellen* (siehe Handbuch *Datei → Neu → Vertrag*) festgelegt.
 
-Beteiligungen werden in dem Kundensicht unter Kunde, mit der Symbol ![](http://xpecto.github.io/docs/img/img_1461687665304.png), dargestellt.  
+In der Modernen Ansicht erreichen Sie die *Beteiligungen* über *Stammdaten -> Beteiligungen*. In der klassischen Ansicht gehen Sie bitte direkt über den Kunden auf die entsprechende Beteiligung.
 
-Klicken Sie auf eine Beteiligung um in die Eingabemaske der Beteiligung zu gelangen.
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Beteiligungs_Vertragsbuchungen/Beteiligung_menue.png)
+
+Beteiligungen werden in der Kundensicht unter Kunde, mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1461687665304.png), dargestellt.  
+
+Klicken Sie in der Kundenansicht auf das Produkt um in die Detailansicht der Beteiligung zu gelangen.
 
 ![](http://xpecto.github.io/docs/img/img_1461687574081.png)
 
@@ -40,13 +44,13 @@ Unter dem Reiter *Allgemein* erhalten Sie eine Vertragsübersicht. Das sind alle
 
 Unter dem Reiter *Eigenschaften* können weitere Informationen wie Daten, Bemerkungen und vordefinierte Eigenschaften zur Beteiligung erfasst werden.
 
- Der Reiter *Werte* dient der Zinsberechnung und dient dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
+ Der Reiter *Werte* dient der Zinsberechnung und dazu manuell für eine Kategorie die Verbuchungsvorschriften zu definieren siehe (Handbuch *Neu → Produkte → Wertarten*).
  
 xpectoPro bietet eine Offene Posten Buchhaltung, die überprüft ob die Forderungen bereit beglichen wurden. Unter dem Reiter *OPOS* wird die OPOS-Liste angezeigt. Eine OPOS-Liste ist die Liste aller offenen Rechnungen. 
 
 Der Reiter *Buchungsdaten* zeigt eine Übersicht der Buchungsdaten die den Vertrag betreffen.
 
-Auf dem Reiter *Ereignisse* werden wichtige Ereignisse zum aktuell ausgewählten Beteiligung festgehalten. 
+Der Reiter *Ereignisse* beinhaltet wichtige Ereignisse zur aktuell ausgewählten Beteiligung . 
 Der Reiter *Salden* beinhaltet eine Saldenkonfiguration und eine Summen und Salden Liste. Die hier hinterlegten Konten beziehen sich auf die unter Produkt vorkonfigurierten Salden.
 
 ![](http://xpecto.github.io/docs/img/img_1461688325074.png)
@@ -66,7 +70,7 @@ Die einzelnen Spalten sind:
 
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461688384792.png) können Sie sehen welche Buchungen zum Saldo bzw. zum Konto gemacht wurden.
 
-Unter dem Reiter *Konten-Verwendung* können die Bankkonten (siehe Kunden → Adressen → Kontoverbindungen) für unterschiedliche Verwendungszwecke eingesetzt.
+Unter dem Reiter *Konten-Verwendung* können die Bankkonten (siehe Kunden → Adressen → Kontoverbindungen) für unterschiedliche Verwendungszwecke gesetzt werden.
 
 Unter dem Reiter *Handelsregister* wird der Handelsregister Eintrag der Beteiligung festgehalten. 
 Der Reiter Handelsregister ermöglicht bestimmte Informationen über die im Handelsregister eingetragenen Unternehmen oder am Geschäftsleben beteiligten Personen aufzunehmen.
