@@ -1,4 +1,4 @@
-Die Funktion *Vertrag übertragen* beinhaltet Funktionen, diese werden Ihnen on Top in der Maske für Vetragsänderungen angezeigt. 
+Die Funktion *Vertrag übertragen* beinhaltet drei Funktionen, diese werden Ihnen on Top in der Maske für Vetragsänderungen angezeigt. 
 
  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertrag_reiter.png)
 
