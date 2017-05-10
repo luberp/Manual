@@ -7,16 +7,18 @@ In der klassischen Menü-Ansicht gelangen Sie in die *Stapelbuchung* durch klick
 
 In der modernen Menü-Ansicht finden Sie die *Stapelbuchung* in der Registerkarte *Buchhaltung* Gruppe *Buchungsdaten.*
 
-![](http://xpecto.github.io/docs/img/img_1461684057429.png) 
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Menue.png) 
 
-Die *Stapelbuchung* kann jeweils für ein bestimmtes Produkt samt seinen Buchungen, geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der *Stapelbuchung*-Maske ein Produkt-Auswahl-Dialog angezeigt. Solange die Maske geöffnet ist, können darin nur Buchungsdaten des entsprechenden Produkts / Fonds verwaltet werden.
+Die *Stapelbuchung* kann jeweils für ein bestimmtes Produkt samt seinen Buchungen, geöffnet werden. Sind in der Datenbank mehrere Produkte angelegt, so wird vor dem Öffnen der *Stapelbuchung*-Maske ein Produkt-Auswahl-Dialog angezeigt.  Bitte wählen Sie hier das entsprechende Produkt aus.
+
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Produkt_auswaehlen.png)
 
 Die Maske *Stapelbuchung* ist das zentrale Werkzeug zur Verwaltung von Buchungsdaten der Fondsbuchhaltung. Sie ist im wesentlichen in vier Funktionsbereiche untergliedert:
  
- - *Stapel-Erfassung*
- -  *Suchen / Ändern*
- -  *Buchungen festschreiben*
- -  *Buchungen exportieren*
+ -   ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Stapel_erfassung.png) -> *einzelne oder selektive Buchungen anlegen*
+ -  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Suchen_aendern.png) -> *vorhandene Buchungen bearbeiten*
+ -  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchungen_festschreiben.png) -> *Buchungsselektionen oder einzelne Buchungen festschreiben*
+ -  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Stapelbuchungen/Buchungen_exportieren.png) -> *Export der festgeschriebenen Buchungen*
 
 Jeder Funktionsbereich der *Stapelbuchung* definiert sich durch die Verfügbarkeit spezifischer Filter und Buttons zum Durchführen bestimmter Aktionen. Allen vier Funktionsbereichen gemein ist ein Bearbeitungsbereich mit den Feldgruppen: *Buchung bearbeiten, Fremdwährung* und *Verarbeitungsinfos* - zum Anzeigen bzw. Bearbeiten einer Buchung, und eine Buchungsliste. Die jeweiligen von Anwender konfigurierten Filter bestimmen welche Buchungen in der Buchungsliste angezeigt werden. 
  
