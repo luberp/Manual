@@ -2,26 +2,26 @@ Die Funktion *Beteiligungs-/Vertragsbuchungen* ermöglicht die manuelle Eingabe,
 
 In den klassischen Menü-Ansicht klicken Sie unter Menü *Bearbeiten → Beteiligungs-/Vertragsbuchungen* um eine neue Buchung für einen Vertrag anzulegen.
 
-In der modernen Menü-Ansicht wird eine neue Buchung angelegt in der Registerkarte *Buchhaltung* Gruppe *Buchungdaten* Funktion *Beteiligungs-Vetragsbuchungen*.
+In der modernen Menü-Ansicht wird eine neue Buchung angelegt in der Registerkarte *Buchhaltung* Gruppe *Buchungsdaten* Funktion *Beteiligung-Vetrag*.
 
-![](http://xpecto.github.io/docs/img/img_1461686191068.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Beteiligungs_Vertragsbuchungen/Beteiligungs_Vertragsbuchungen_Menue.png)
 
 Starten Sie die Funktion *Beteiligungs-/Vertragsbuchungen*. Falls Sie in dem Vertragsansicht noch kein Vertrag oder Beteiligung (mehr zu [Beteiligung](#id3) wird unten beschrieben) ausgewählt ist, werden Sie aufgefordert einen Vertrag auszuwählen.
 
-![](http://xpecto.github.io/docs/img/img_1439988459598.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Beteiligungs_Vertragsbuchungen/Beteiligungs_Vertragsbuchungen_Vertrag_waehlen.png)
 
-Genau wie bei der Stapelerfassung, haben Sie die Möglichkeit unter dem Reiter *Stapel-Erfassung* eine Ersterfassung von Buchungen. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden alle Buchungen angezeigt, die von dem aktuell angemeldeten Benutzer am selben Tag bereits erfasst wurden.
+Genau wie bei der Stapelerfassung, haben Sie die Möglichkeit unter dem Reiter *Stapel-Erfassung* eine Ersterfassung von Buchungen vorzunehmen. Dieser Funktionsbereich besitzt einen fest vorgegebenen Filter - es werden alle Buchungen angezeigt, die von dem aktuell angemeldeten Benutzer am selben Tag bereits erfasst wurden.
 
-![](http://xpecto.github.io/docs/img/img_1461686685179.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Beteiligungs_Vertragsbuchungen/Beteiligungs_Vertragsbuchungen_Kunde_waehlen.png)
 
 Falls Sie einen anderen Vertrag für die Buchung wünschen, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439992255614.png). 
 In dem folgenden Dialog können Sie dann einen anderen Vertrag für die Buchung wählen:
 
-![](http://xpecto.github.io/docs/img/img_1461686722405.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Beteiligungs_Vertragsbuchungen/Beteiligungs_Vertragsbuchungen_Kunde_waehlen1.png))
 
-Der Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Da der Filter *Beteiligung/Vertag* für den ausgewählten Vertrag eingestellt würde, können Sie hier, eine neue Buchung für den ausgewählten Vertrag anlegen.  
+Der Reiter *Suchen / Ändern* dient der Recherche und ermöglicht das Suchen und Ändern von Buchungen. Da der Filter *Beteiligung/Vertag* für einen Kunden und Vertrag eingestellt wurde, werden Ihnen hier nur die Buchungen des gewählten Kunden / Vertrag angezeigt. Buchungen können an dieser Stelle geändert oder gelöscht werden soweit diese noch nicht festgeschrieben wurden.
 
-![](http://xpecto.github.io/docs/img/img_1461687440018.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Beteiligungs_Vertragsbuchungen/Beteiligungs_Vertragsbuchungen_suchen_aendern.png)
 
 Sichern Sie Ihre Änderungen durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1439804594653.png). 
 
