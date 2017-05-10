@@ -1,21 +1,20 @@
-Die Funktion *Vertrag übertragen* beinhaltet 3 Kernfunktionen. Diese werden Ihnen on Top in der Maske für Vetragsänderungen angezeigt. 
+Die Funktion *Vertrag übertragen* beinhaltet Funktionen, diese werden Ihnen on Top in der Maske für Vetragsänderungen angezeigt. 
+
+ ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertrag_reiter.png)
+
+ - Übertragung/ Kapitalherabsetzung durchführen -> *über diese Funktion kann ein Vertrag auf einen differenten Kunden übertragen werden*
+ - Zusammenführung durchführen -> *Übertrag mehrerer Verträge auf einen neuen Rechtsnachfolger, hier können Verträge differenter Kunden auf einen Kunden übertragen werden.*
+ - Vertrag beenden -> *Vertrag beenden.*
+ 
+Um einen bestehenden Vertrag zu übertragenen wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
+
+In der modernen Menü-Ansicht wählen Sie den Karteireiter *Aktionen* Gruppe *Vertrag* Funktion *Übertragung durchführen*.
 
  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertragen_menue.png)
  
+Um die Übertragung zu starten muss zuerst ein Vertrag ausgewählt werden, dann klicken Sie auf die Funktion *Vertrag übertragen*.
 
-
-
-Die Funktion *Vertrag übertragen* dient dem Übertrag der Vertragsdaten auf einen anderen Kunde. 
-
-Um einen bestehenden Vertrag zu übertragenen wählen Sie in der klassischen Menü-Ansicht Menü *Bearbeiten →  Vertrag übertragen*. 
-
-In der modernen Menü-Ansicht wählen Sie den Karteireiter *Berichte und Massenaktionen* Gruppe *Bearbeiten* Funktion *Vertrag übertragen*.
-
- ![](http://xpecto.github.io/docs/img/img_1461156880109.png) 
- 
-Um die Übertragung zu starten muss zuerst ein Vertrag ausgewählt werden, dann klicken Sie auf die Funktio *Vertrag übertragen*.
-
-Es wird der  Dialog *Übertragung* angezeigt. Der Dialog bietet Ihnen die Möglichkeit eine Übertragung durchzuführen oder einen Vertrag zu beenden. 
+Es wird der  Dialog *Übertragung* angezeigt. 
  
 ![](http://xpecto.github.io/docs/img/img_1461689330179.png)
 
