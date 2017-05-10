@@ -29,6 +29,6 @@ Durch einen Klick auf die Schaltfläche *Übertragung durchführen* werden Sie d
 
 ![](http://xpecto.github.io/docs/img/img_1443173762535.png)
 
-Nachdem der Übertrag durchgeführt würde, wird der Vertragsstatus automatisch in übertragen, geändert, und der Vertrag wird bei Nachfolger angezeigt.
+Nachdem der Übertrag durchgeführt wurde, wird der Vertragsstatus automatisch in übertragen geändert, der Vertrag wird nun bei *Rechtsnachfolger* angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1461746349219.png)
