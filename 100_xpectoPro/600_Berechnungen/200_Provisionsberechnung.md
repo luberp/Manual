@@ -25,7 +25,7 @@ Es öffnet sich ein Dialog, der abfrägt ob fehlenden Provisionen in die Verträ
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
-Wenn Sie mit *Ja* bestätigen werden Provisionen des aktuellen Laufes automatisch den Verträge zugeordnet und gespeichert, mit *Nein* gelangen Sie direkt zum nächsten Schritt *Berechnungslauf anzeigen und verbuchen* ohne dass die Provisionen den Verträgen zugeordnet und gebucht werden.
+Wenn Sie mit *Ja* bestätigen werden automatisch alle Verträge ohne gesetzte Provisionsansprüche / Provisionssätze komplettiert. Diese Funktion ist sinnvoll, sollte beim erfassen von Vertragsdaten 
 
 ![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
