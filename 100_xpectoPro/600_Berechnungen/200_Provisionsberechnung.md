@@ -15,17 +15,17 @@ In der Maske *Berechnungsverlauf starten* können Sie in der Dropdownliste ausw�
 
 |  Berechnung           |    Beschreibung     |  
 | ------------- |:-------------| 
-| 1 Alle Provisionen      | es werden alle Vertrags- und Vermittlerstruktur Provisionen berechnet.| 
-| 2 Vertrags-Provisionen    | es wird für die vorhandene Verträge die Provisionen berechnet, mit den vorhandene Provisionen verglichen, und falls gewünscht verbucht.| 
-| 3 restliche Provisionen    | es werden die Provisionen für die Vermittler-Struktur berechnet. | 
+| 1 Alle Provisionen      | es werden alle Vertrags- und Vermittler Provisionen berechnet.| 
+| 2 Vertrags-Provisionen    | es werden die Provisionen für alle vorhandenen Verträge berechnet, mit den vorhandenen Provisionen verglichen und falls gewünscht verbucht.| 
+| 3 restliche Provisionen    | es werden die Provisionen der Vermittler-Struktur berechnet. | 
 
-Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* an. 
-Nachdem Sie die gewünschten Einschränkungen markiert haben, klicken Sie auf *Start*.
-Es öffnet sich ein Dialog wo abgefragt wird, ob die fehlenden Provisionen in die Verträge eingefügt werden sollten. 
+Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* . 
+Nachdem Sie die gewünschten Einschränkungen gesetzt haben, klicken Sie auf *Start*.
+Es öffnet sich ein Dialog, der abfrägt ob fehlenden Provisionen in die Verträge eingefügt werden sollen. 
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
-Wenn Sie hier auf *Ja* klicken werden die fehlende Provisionen automatisch in die Verträge eingefügt und gespeichert, dann werden Sie zu dem *Berechnungslauf anzeigen und verbuchen* weitergeleitet.  Klicken Sie auf  *Nein*, um direkt in dem weiteren Schritt *Berechnungslauf anzeigen und verbuchen* zu gelangen.  
+Wenn Sie mit *Ja* bestätigen werden Provisionen des aktuellen Laufes automatisch den Verträge zugeordnet und gespeichert, mit *Nein* gelangen Sie direkt zum nächsten Schritt *Berechnungslauf anzeigen und verbuchen* ohne dass die Provisionen den Verträgen zugeordnet und gebucht werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
@@ -36,8 +36,18 @@ In der Maske *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die 
 |  Checkbox           |    Beschreibung     |  
 | ------------- |:-------------| 
 |   ![](http://xpecto.github.io/docs/img/img_1440753874370.png)  | Alle Provisionen auswählen| 
+
+
+----------
+
+
 | ![](http://xpecto.github.io/docs/img/img_1440753891145.png)    | Alle Provisionen über der nebenstehenden Schwelle auswählen| 
 |![](http://xpecto.github.io/docs/img/img_1440753923716.png)|Nur Provisionsauszahlungen über die Schwelle werden abgerechnet|
+
+
+----------
+
+
 |![](http://xpecto.github.io/docs/img/img_1440753950213.png)|Entfernt die getroffene Auswahl|
 |![](http://xpecto.github.io/docs/img/img_1440753976766.png)|Berechnugslauf verwerfen. Es kann eine neue Berechnung gestartet werden|
 
