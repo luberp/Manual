@@ -39,3 +39,4 @@ Nachdem der Übertrag durchgeführt wurde, wird der Vertragsstatus automatisch i
 
 ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/Uebertrag_erfolgreich.png)
 
+Hiermit ist der Vorgang des Vertragsübernahme abgeschlossen. 
