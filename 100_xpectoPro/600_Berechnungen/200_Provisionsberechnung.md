@@ -1,8 +1,8 @@
 Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. 
-Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe Handbuch *Berechnungen → Abrechnungszeitraum festlegen*). Der Zeitraum kann auch direkt in dem Fenster *Berechnungsveralauf starten* geändert werden.
+Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe Handbuch *Berechnungen → Abrechnungszeitraum festlegen*). Der Zeitraum kann auch direkt in dem Fenster *Berechnungsverlauf starten* geändert werden.
 Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 
-In der klassischen Menü-Ansicht kann die Provisionsberechnung gestartet über *Berechnungen → Provisionsberechnung*.
+In der klassischen Menü-Ansicht kann die Provisionsberechnung gestartet werden über *Berechnungen → Provisionsberechnung*.
 
 In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerkarte *Vertrieb* Gruppe *Provisionen* gestartet.
 
