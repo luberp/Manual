@@ -22,6 +22,6 @@ In Dialog *Zeitraum wählen* gibt verschiedene Möglichkeiten eine Abrechnungsze
 | Halbjährlich     |2015H1 | 
 | Jährlich    |2015| 
 
-![](http://xpecto.github.io/docs/img/img_1461750680530.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Abrechnungszeitraum_festlegen/Abrechnungszeitraum_waehlen.png)
 
 Der ausgewählte Zeitraum wird dann in der *Symbolleiste* angezeigt (siehe oben). Somit haben Sie immer eine Übersicht welchen Abrechnungszeitraum Sie im Moment verwenden.
