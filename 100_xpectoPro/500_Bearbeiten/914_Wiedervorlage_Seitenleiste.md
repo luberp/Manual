@@ -1,2 +1,8 @@
-Über diese Funktion wird die Anzeige der Wiedervorlage Seitenleiste im Hauptfenster ein- oder ausgeschaltet. Die Wiedervorlage Seitenleiste zeigt die Liste der Wiedervorlagen für einen Kunde, Vertrag, Vermittler, Person oder Veranstaltung. 
-Um die Wiedervorlage Seitenleiste zu aktivieren, wählen Sie z.B. einen Vertrag, und dann klicken Sie unter Menü *Bearbeiten* auf *Wiedervorlage Seitenleiste*. 
+Über diese Funktion werden die Anzeigen der Wiedervorlage ein- oder ausgeschalten. Die Wiedervorlage Seitenleiste zeigt die Liste der Wiedervorlagen für Kunden, Verträge, Vermittler, Personen oder Veranstaltungen. 
+
+Sie erreichen diese Funktion in der klassischen Ansicht: *Bearbeiten -> Wiedervorlage Seitenleiste.*
+In der modernen Ansicht erreichen Sie diese Funktion über: *Werkzeuge -> Wiedervorlagen -> Seitenleiste.*
+
+
+
+Um die Wiedervorlage auf Vertragsebene zu aktivieren, wählen Sie klicken Sie unter Menü *Bearbeiten* auf *Wiedervorlage Seitenleiste*. 
