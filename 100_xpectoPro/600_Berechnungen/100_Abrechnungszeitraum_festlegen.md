@@ -1,4 +1,4 @@
-Mit *Zeitraum wählen* wird der für die aktuelle Provisionsabrechnung maßgebliche Zeitraum bezeichnet. 
+Mit *Zeitraum wählen* wird der für die Provisionsabrechnung maßgebliche Zeitraum bezeichnet. 
 
 In der klassischen Menü-Ansicht kann der Dialog zur Eingabe des Abrechnungszeitraums über den Menüpunkt *Berechnungen → Abrechnungszeitraum* aufgerufen werden, oder durch einen Doppelklick auf die Anzeige des Abrechnungszeitraums in der Symbolleiste.
 
@@ -24,4 +24,4 @@ In Dialog *Zeitraum wählen* gibt verschiedene Möglichkeiten eine Abrechnungsze
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Abrechnungszeitraum_festlegen/Abrechnungszeitraum_waehlen.png)
 
-Der ausgewählte Zeitraum wird dann in der *Symbolleiste* angezeigt (siehe oben). Somit haben Sie immer eine Übersicht welchen Abrechnungszeitraum Sie im Moment verwenden.
+Der gewählte Abrechnungszeitraum wird dann in der *Symbolleiste* bzw. *Info-Fenster* angezeigt (siehe oben). Somit haben Sie immer eine Übersicht welchen Abrechnungszeitraum Sie im Moment verwenden.
