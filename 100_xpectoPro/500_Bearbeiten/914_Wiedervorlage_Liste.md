@@ -1,11 +1,10 @@
-Die *Wiedervorlage Liste* befindet sich im Hauptfenster und dient der Übersicht aller fälligen Wiedervorlagen. So können Sie die Liste nach Fälligkeitsdatum abarbeiten.
-Über die Funktion *Wiedervorlage Liste* wird die Anzeige der *Wiedervorlage Liste* im Hauptfenster ein- oder ausgeschaltet.
+Die *Wiedervorlage Liste* befindet sich im Hauptmaske der Applikation und ermöglicht eine schnelle Übersicht aller Wiedervorlagen.
 
-![](http://xpecto.github.io/docs/img/img_1461748772668.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Wiedervorlage_Liste/Wiedervorlage_Liste.png)
 
-Durch einen Doppelklick auf eine Wiedervorlage in der *Wiedervorlage Liste* wird der entsprechende Kunde, Vertrag, Vermittler, Personen oder Veranstaltung geladen und die Details der Wiedervorlage werden angezeigt.  Weitere Möglichkeiten zum Bearbeiten der Wiedervorlagen werden unter Handbuch *Datei → Neu → Wiedervorlage Prozess* beschrieben.
+Durch einen Doppelklick auf eine Wiedervorlage in der Liste wird der entsprechende Kunde, Vertrag, Vermittler, Personen oder Veranstaltung geladen und die Details der Wiedervorlage werden angezeigt.  Weitere Möglichkeiten zum Bearbeiten der Wiedervorlagen werden unter Handbuch *Datei → Neu → Wiedervorlage Prozess* beschrieben.
 
-![](http://xpecto.github.io/docs/img/img_1461750025416.png)
+![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Wiedervorlage_Liste/Wiedervorlage_Stammdaten.png)
 
 Der unter der *Wiedervorlage Liste* eingebauten Filter dient zum Sortieren der Liste. Nachdem Sie einen anderen Kriterium für Ihre Anzeige ausgewählt haben, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461750078718.png) um die Daten neu laden.
 
