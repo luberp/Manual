@@ -25,7 +25,8 @@ Es öffnet sich ein Dialog, der abfrägt ob fehlenden Provisionen in die Verträ
 
 ![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
 
-Wenn Sie mit *Ja* bestätigen werden automatisch alle Verträge ohne gesetzte Provisionsansprüche / Provisionssätze komplettiert. Diese Funktion ist sinnvoll für den Fall, dass Sie beim erfassen von Vertragsdaten keine Provisionsansprüche erzeugt haben und verhindert somit Provisionsansprüche zu vergessen.
+Wenn Sie mit *Ja* bestätigen werden automatisch alle Verträge ohne gesetzte Provisionsansprüche / Provisionssätze komplettiert. 
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)*Diese Funktion ist sinnvoll für den Fall, dass Sie beim erfassen von Vertragsdaten keine Provisionsansprüche erzeugt haben und verhindert somit Provisionsansprüche zu vergessen.*
 
 ![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
