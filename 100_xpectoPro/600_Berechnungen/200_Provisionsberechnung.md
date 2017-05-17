@@ -1,5 +1,5 @@
 Eine der zentralen Funktionen von xpectoPro ist die Provisionsberechnung. 
-Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle hinterlegen. Das geschieht in dem Dialog *Zeitraum wählen* (siehe Handbuch *Berechnungen → Abrechnungszeitraum festlegen*). Der Zeitraum kann auch direkt in dem Fenster *Berechnungsverlauf starten* geändert werden.
+Sie können tägliche, wöchentliche, halbmonatliche, monatliche, quartalsweise, halbjährige und jährliche Intervalle gewählt werden . Dieses geschieht in dem Dialog *Zeitraum wählen* (siehe Handbuch *Berechnungen → Abrechnungszeitraum festlegen*). Der Zeitraum kann auch direkt im Fenster *Berechnungsverlauf starten* geändert werden.
 Der für die Provisionsabrechnung verwendete Abrechnungszeitraum beinhaltet alle manuell eingetragenen Vermittler-Buchungen im Zeitraum und alle im angegebenen Zeitraum fälligen Provisionszahlungen. 
 
 In der klassischen Menü-Ansicht kann die Provisionsberechnung gestartet werden über *Berechnungen → Provisionsberechnung*.
@@ -8,7 +8,7 @@ In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerka
 
 ![](http://xpecto.github.io/docs/img/img_1461751530160.png)
 
-In der Maske *Berechnungsverlauf starten* können Sie in der Dropdownliste auswählen für welche Provisionen die Berechnung durchgeführt wird.
+In der Maske *Berechnungsverlauf starten* können Sie über ein Dropdown-Menü auswählen für welche Provisionen die Berechnung durchgeführt werden soll.
 
 ![](http://xpecto.github.io/docs/img/img_1461751780442.png)
 
@@ -31,35 +31,44 @@ Mit *Ja* werden für alle vorhandenen Verträge die entsprechenden Provisionsans
 
 ![](http://xpecto.github.io/docs/img/img_1461756428644.png)
 
-In der Maske *Berechnungslauf anzeigen und verbuchen* gibt die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient  dazu, um Provisionsauszahlungen die verbucht werden sollen zu markieren. 
+In der Maske *Berechnungslauf anzeigen und verbuchen* gibt es die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient  dazu, um Provisionszahlungen nach verschiedenen Kriterien zu selektieren und auszuwählen. Der Filter umfasst im folgenden 4 Funktionen.
 
-![](http://xpecto.github.io/docs/img/img_1440747927011.png)
-
-|  Checkbox           |    Beschreibung     |  
-| ------------- |:-------------| 
-|   ![](http://xpecto.github.io/docs/img/img_1440753874370.png)  | Alle Provisionen auswählen| 
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Berechnungslauf_anzeigen_Filter.png)
 
 
 ----------
 
 
-| ![](http://xpecto.github.io/docs/img/img_1440753891145.png)    | Alle Provisionen über der nebenstehenden Schwelle auswählen| 
-|![](http://xpecto.github.io/docs/img/img_1440753923716.png)|Nur Provisionsauszahlungen über die Schwelle werden abgerechnet|
+  ![](http://xpecto.github.io/docs/img/img_1440753874370.png) Alle angezeigten Provisionen auswählen.
+
+----------
+
+![](http://xpecto.github.io/docs/img/img_1440753891145.png)   ![](http://xpecto.github.io/docs/img/img_1440753923716.png) Alle Provisionen über dem nebenstehenden Betrag auswählen. Nur Provisionsauszahlungen die über diesem Betrag liegen werden verbucht.
+
+----------
+
+
+![](http://xpecto.github.io/docs/img/img_1440753950213.png) Alle Datensätze werden deselektiert. 
 
 
 ----------
 
 
-|![](http://xpecto.github.io/docs/img/img_1440753950213.png)|Entfernt die getroffene Auswahl|
-|![](http://xpecto.github.io/docs/img/img_1440753976766.png)|Berechnugslauf verwerfen. Es kann eine neue Berechnung gestartet werden|
+![](http://xpecto.github.io/docs/img/img_1440753976766.png) Berechnugslauf verwerfen. Es kann eine neue Berechnung gestartet werden.
 
-Nun markieren Sie die Provisionszahlungen die bei der Berechnung berücksichtigt werden sollen, und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1432632280997.png). 
 
-Durch die Bestätigung mit *Ja* werden die die ausgewählten Provisionen verbucht. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
+----------
+
+
+Mit der Schaltflächte  ![](http://xpecto.github.io/docs/img/img_1432632280997.png) starten Sie den Buchungsvorgang der gewählten Provisionen.
+
+Zur Sicherheit wird Ihnen an dieser Stelle noch einmal der Gesamtbetrag der verbucht wird angezeigt. Ist dieser Korrekt, bestätigen Sie den Dialog mit *OK*.
+
+Durch die Bestätigung mit *OK* werden die die ausgewählten Provisionen verbucht. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
 
 ![](http://xpecto.github.io/docs/img/img_1461756475178.png)
 
-Danach wird die Erfolgsmeldung *Die Verbuchung wurde erfolgreich durchgeführt* in dem Dialog *Verbuchung der Provisionsberechnung.*
+Nach erfolgreicher Buchung der Provisionen wird Ihnen dieses mit der Meldung *Die Verbuchung wurde erfolgreich durchgeführt* angezeigt.
 
 ![](http://xpecto.github.io/docs/img/img_1461753606041.png)
 
