@@ -43,7 +43,7 @@ In der Maske *Berechnungslauf anzeigen und verbuchen* gibt es die Möglichkeit d
 
 ----------
 
-![](http://xpecto.github.io/docs/img/img_1440753891145.png)   ![](http://xpecto.github.io/docs/img/img_1440753923716.png) Alle Provisionen über dem nebenstehenden Betrag auswählen. Nur Provisionsauszahlungen die über diesem Betrag liegen werden verbucht.
+![](http://xpecto.github.io/docs/img/img_1440753891145.png)   ![](http://xpecto.github.io/docs/img/img_1440753923716.png) Alle Provisionen über den angegebenen Schwellenwert auswählen. Nur Provisionsauszahlungen die über diesem Betrag liegen werden verbucht.
 
 ----------
 
