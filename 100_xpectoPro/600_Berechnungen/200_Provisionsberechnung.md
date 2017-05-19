@@ -94,15 +94,14 @@ In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durc
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Zahldatei_erstellen.png)
 
-Z.B. kann als Format *CSV* ausgewählt werden. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und angezeigt. 
+Wählen Sie hier bitte das gewünschte Format und drücken Speichern um die Datei zu erstellen, wenn gewünscht wird außerdem ein Begleitzettel zum Zahlungsverkehr  erstellt.
 
-Nun kehren Sie zur Maske *Belegdruck und Auszahlungen* zurück duch Schliessen der Maske *Zahlungsdatei erstellen*.
+Sie werden nun wieder automatisch zum Dialog *Belegdruck und Auszahlungen* zurückgeleitet.
 
-![](http://xpecto.github.io/docs/img/img_1461759310739.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung.png)
 
-Die komplette Abrechnung für einen Abrechnungszeitraum kann mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751219341.png) wieder gelöscht werden.
 
-Soll die Provisionsabrechnung gedruckt oder per E-Mail zugestellt werden, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440751272141.png), so wählen Sie den zugehörigen Bericht (häufig *Provisionsabrechnung*) und den gewünschten Drucker bzw. das gewünschte Ausgabeformat. 
+Über den Button ![](http://xpecto.github.io/docs/img/img_1440751272141.png) 
 
 ![](http://xpecto.github.io/docs/img/img_1461759452003.png)
 
