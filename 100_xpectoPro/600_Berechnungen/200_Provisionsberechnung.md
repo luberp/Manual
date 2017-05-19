@@ -106,3 +106,5 @@ Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechn
 ![](http://xpecto.github.io/docs/img/img_1461759529178.png)
 
 Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Bitte beachten Sie dass beim Löschen von Belegen, die vom System vergeben Belegnummer ebenfalls gelöscht wird. Gegebenenfalls muss der Nummernkreis vom Xpecto-Support komplett zurückgesetzt werden damit eine lückenlose Buchhaltung gewährleistet ist.
