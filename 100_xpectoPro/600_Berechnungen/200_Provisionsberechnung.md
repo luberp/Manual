@@ -10,7 +10,7 @@ In der modernen Menü-Ansicht wird die Provisionsberechnung über die Registerka
 
 In der Maske *Berechnungsverlauf starten* können Sie über ein Dropdown-Menü auswählen für welche Provisionen die Berechnung durchgeführt werden soll.
 
-![](http://xpecto.github.io/docs/img/img_1461751780442.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Berechnungslauf_starten.png)
 
 
 |  Berechnung           |    Beschreibung     |  
@@ -20,16 +20,20 @@ In der Maske *Berechnungsverlauf starten* können Sie über ein Dropdown-Menü a
 | 3 restliche Provisionen    | es werden die Provisionen der Vermittler-Struktur berechnet. | 
 
 Soll eine Provisionsabrechnung für ein bestimmtes Produkt oder einen bestimmten Vermittler usw. erstellt werden, dann wählen Sie die Checkbox *Einschränkungen der Berechnung* . 
+Sie haben hier die Möglichkeit die Berechnung auf ein Produkt, Tarif, Vertragsnummer, Betreuernummer, Zahlfirma, Provisionsart oder Transaktionsnummer zu begrenzen.
+
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Einschraenkung_der_Berechnung.png)
+
 Nachdem Sie die gewünschten Einschränkungen gesetzt haben, klicken Sie auf *Start*.
 Es öffnet sich ein Dialog, der abfrägt ob fehlenden Provisionen in die Verträge eingefügt werden sollen. 
 
-![](http://xpecto.github.io/docs/img/img_1432632082918.png) 
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Provisionen_einfuegen.png) 
 
 Mit *Ja* werden für alle vorhandenen Verträge die entsprechenden Provisionsansprüche erzeugt. Verträge für die bereits Provisionsansprüche erzeugt wurden sind hiervon ausgenommen.
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)*Diese Funktion ist sinnvoll für den Fall, dass Sie beim Erfassen von Vertragsdaten keine Provisionsansprüche erzeugt haben.*
 
-![](http://xpecto.github.io/docs/img/img_1461756428644.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Berechnungsverlauf_anzeigen.png)
 
 In der Maske *Berechnungslauf anzeigen und verbuchen* gibt es die Möglichkeit die berechnete Datensätze zu filtern. Der Filter dient  dazu, um Provisionszahlungen nach verschiedenen Kriterien zu selektieren und auszuwählen. Der Filter umfasst im folgenden 4 Funktionen.
 
@@ -62,32 +66,33 @@ In der Maske *Berechnungslauf anzeigen und verbuchen* gibt es die Möglichkeit d
 
 Mit der Schaltflächte  ![](http://xpecto.github.io/docs/img/img_1432632280997.png) starten Sie den Buchungsvorgang der gewählten Provisionen.
 
-Zur Sicherheit wird Ihnen an dieser Stelle noch einmal der Gesamtbetrag der verbucht wird angezeigt. Ist dieser Korrekt, bestätigen Sie den Dialog mit *OK*.
+Zur Sicherheit wird Ihnen an dieser Stelle noch einmal der Gesamtbetrag der verbucht wird angezeigt. Ist dieser korrekt, bestätigen Sie den Dialog mit *OK*.
 
-Durch die Bestätigung mit *OK* werden die die ausgewählten Provisionen verbucht. Diese verbuchten Werte werden dann bei Vertrag in der Provisionsliste angezeigt. 
+Durch die Bestätigung mit *OK* werden die die ausgewählten Provisionen verbucht. Die verbuchten Werte werden dann im entsprechenden Vertrag angezeigt. 
 
-![](http://xpecto.github.io/docs/img/img_1461756475178.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Provisionen_verbuchen.png)
 
 Nach erfolgreicher Buchung der Provisionen wird Ihnen dieses mit der Meldung *Die Verbuchung wurde erfolgreich durchgeführt* angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1461753606041.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_weiter.png)
 
-Wenn Sie in dem Dialog *Verbuchung der Provisionsabrechnung* auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchte Provisionen für den ausgewählten Zeitintervall angezeigt.
+Wenn Sie in dem Dialog *Verbuchung der Provisionsabrechnung* auf *Weiter zu Belegdruck und Auszahlung* klicken, werden Sie zur Maske *Belegdruck und Auszahlung* weitergeleitet. Hier wird eine Auflistung der verbuchten Provisionen für den ausgewählten Zeitintervall angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1461759266502.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung.png)
 
- Sie können hier jederzeit zwischen dem vorherigen Zeitraum und dem nächsten Zeitraum wechseln. Mit Hilfe der Pfeile können Sie nun einen anderen Zeitraum wählen.
+Mit Hilfe der Pfeile können Sie zu jedem gewünschten Abrechungszeitraum wechseln.
 
 ![](http://xpecto.github.io/docs/img/img_1461757224272.png)
 
-Um eine bestehende Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png) eine neue Buchung, wie z.B. einen Vorschuss, einfügen.
-Falls Sie eine Abrechnung geändert haben, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441108231660.png), um die Liste der Abrechnungen zu aktualisieren.
+Um eine Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441095989354.png).  Sie können durch betätigen der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441100101421.png) eine neue Buchung, wie z.B. einen Vorschuss, einfügen.
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)*Falls Sie eine Abrechnung geändert haben, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441108231660.png), um die Liste der Abrechnungen zu aktualisieren.*
 
 Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
 
 In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen, den Speicherort festlegen und angeben, ob ein Begleitzettel erstellt werden soll.
 
-![](http://xpecto.github.io/docs/img/img_1461758647572.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Zahldatei_erstellen.png)
 
 Z.B. kann als Format *CSV* ausgewählt werden. Es wird automatisch überprüft ob die Datei erstellt werden kann. Klicken Sie auf Speichern um die Datei zu erstellen. Es wird hier ein Zahlungsverkehr - Begleitzettel erstellt und angezeigt. 
 
