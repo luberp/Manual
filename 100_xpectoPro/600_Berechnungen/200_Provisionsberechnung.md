@@ -101,14 +101,18 @@ Sie werden nun wieder automatisch zum Dialog *Belegdruck und Auszahlungen* zurü
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung.png)
 
 
-Über den Button ![](http://xpecto.github.io/docs/img/img_1440751272141.png) 
+Über den Button ![](http://xpecto.github.io/docs/img/img_1440751272141.png) werden Sie auf den Dialog für den Belegdruck weitergeleitet. Hier können verschiedene Reports für den Druck, als auch die Ausgabe bestimmt werden. Unter anderem können Sie hier die Belege auch als Email direkt an den Vermittler versenden.
 
-![](http://xpecto.github.io/docs/img/img_1461759452003.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Abrechnung_drucken_Druck.png)
 
-Sie können einen *Testdruck*, um für jeden  Vermittler  eine Provisionsabrechnung erzeugen ohne Belegnummer. Alternativ können Sie einen *Belegdruck* wählen, um Abrechnungsbelege unter automatischer Vergabe lückenloser und fortlaufender Belegnummern zu erstellen. 
+Sie können hier *Testdruck* oder *Belegdruck* für die gewählte Vermittler-Selektion auswählen. Beim *Testdruck* werden Provisionsbelege erzeugt, die jedoch mit keiner Belegnummer versehen werden. Beim *Belegdruck* werden die Provisionsbelege vom System automatisch mit einer fortlaufenden Belegnummer versehen und beim Vermittler abgelegt.
 
-![](http://xpecto.github.io/docs/img/img_1461759529178.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung_Webportal.png)
 
-Um die Belege zu löschen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441103301118.png). Es werden alle Belege für die markierte Datensätze gelöscht.
+Sie können anhand folgender Symbole erkennen in welcher Form der Vermittler seine Provisionsabrechnung erhalten hat:
+
+ - ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Abrechnung_Mail.png) Der Vermittler hat seine Abrechnung auf elektronischem Weg erhalten.
+ - ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Abrechnung_Schriftform.png) Der Vermittler hat seine Abrechnung auf dem Postweg erhalten.
+
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Bitte beachten Sie dass beim Löschen von Belegen, die vom System vergeben Belegnummer ebenfalls gelöscht wird. Gegebenenfalls muss der Nummernkreis vom Xpecto-Support komplett zurückgesetzt werden damit eine lückenlose Buchhaltung gewährleistet ist.
