@@ -80,7 +80,7 @@ Wenn Sie in dem Dialog *Verbuchung der Provisionsabrechnung* auf *Weiter zu Bele
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung.png)
 
-Mit Hilfe der Pfeile können Sie zu jedem gewünschten Abrechungszeitraum wechseln.
+Mit Hilfe der rechts-links Steuerung können Sie zu jedem gewünschten Abrechnungszeitraum wechseln.
 
 ![](http://xpecto.github.io/docs/img/img_1461757224272.png)
 
