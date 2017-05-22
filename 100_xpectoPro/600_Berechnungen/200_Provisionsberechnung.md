@@ -101,7 +101,7 @@ Sie werden nun automatisch zum Dialog *Belegdruck und Auszahlungen* zurückgelei
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung.png)
 
 
-Über den Button ![](http://xpecto.github.io/docs/img/img_1440751272141.png) werden Sie auf den Dialog für den Belegdruck weitergeleitet. Hier können verschiedene Reports für den Druck, als auch die Ausgabe bestimmt werden. Unter anderem können Sie hier die Belege auch als Email direkt an den Vermittler versenden.
+Über den Button ![](http://xpecto.github.io/docs/img/img_1440751272141.png) werden Sie zum Dialog für den Belegdruck weitergeleitet. Hier können verschiedene Reports für den Druck, als auch die Ausgabe bestimmt werden. Unter anderem können Sie hier die Belege auch als Email direkt an den Vermittler versenden.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Abrechnung_drucken_Druck.png)
 
