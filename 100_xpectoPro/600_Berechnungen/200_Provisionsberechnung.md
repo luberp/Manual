@@ -90,11 +90,11 @@ Um eine Buchung in der Abrechnung zu ändern, klicken Sie auf die Schaltfläche 
 
 Um die erstellten Auszahlungen als SEPA-Datei auszugeben, klicken Sie auf ![](http://xpecto.github.io/docs/img/img_1440751324468.png). 
 
-In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können die Ausführungsoptionen, den Speicherort festlegen und angeben, ob ein Begleitzettel erstellt werden soll.
+In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durchführung von Überweisungen ausgewählt werden. Sie können außerdem die Ausführungsoptionen sowie Speicherort festlegen.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Zahldatei_erstellen.png)
 
-Wählen Sie hier bitte das gewünschte Format und drücken Speichern um die Datei zu erstellen, wenn gewünscht wird außerdem ein Begleitzettel zum Zahlungsverkehr  erstellt.
+Wählen Sie hier bitte das gewünschte Format und drücken *Speichern* um die Datei zu erstellen, wenn gewünscht wird außerdem ein Begleitzettel zum Zahlungsverkehr  erstellt.
 
 Sie werden nun wieder automatisch zum Dialog *Belegdruck und Auszahlungen* zurückgeleitet.
 
