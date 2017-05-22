@@ -96,7 +96,7 @@ In der Maske *Zahlungsdatei erstellen* kann zwischen mehreren Verfahren zur Durc
 
 Wählen Sie hier bitte das gewünschte Format und drücken *Speichern* um die Datei zu erstellen, wenn gewünscht wird außerdem ein Begleitzettel zum Zahlungsverkehr  erstellt.
 
-Sie werden nun wieder automatisch zum Dialog *Belegdruck und Auszahlungen* zurückgeleitet.
+Sie werden nun automatisch zum Dialog *Belegdruck und Auszahlungen* zurückgeleitet.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Provisionsberechnung/Belegdruck_und_Auszahlung.png)
 
