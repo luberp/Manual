@@ -24,18 +24,31 @@ Für die Installation von aifExpert werden Administratorrechte benötigt.
 
 *Server:*
 
--  Microsoft Windows 2008/ 2012/ 2016
-- .NET Framework 4.5 
-- Microsoft SQL Server 2012/ 2014/ 2016 (empfohlen)
+ - Microsoft Windows 7/ 8 / 8.1 / 10
+ - .NET Framework 4.5 
+ - Microsoft SQL Server 2012/2014/2016 
 	 - Datenzuwachs: ca. 200-2.000MB/a
-- Zentrales Verzeichnis für restliche Daten 
+	 - Serverrollen:
+		 - public
+	 - Datenbankrollen:
+		 - db_datareader
+		 - db_datawriter
+		 - db_ddladmin
+		 - db_securityadmin
+		 - EAUser
+		 - public
+
+
+ - Zentrales Verzeichnis für restliche Daten 
 	 - Datenzuwachs: ca. 1GB/a
 
-*Client:*
+*Arbeitsstation:*
 
- - Betriebssystem: Microsoft Windows 7/ 8 / 10
+ - Betriebssystem: Microsoft Windows 7/ 8 / 8.1 / 10
  - Prozessor: Intel oder vergleichbare CPU mit mindestens 1GHz
- - Arbeitsspeicher: mindestens 2 GB
+ - Arbeitsspeicher: mindestens 1 GB
+ - Grafikkarte: Empfohlen mindestens 16Bit Farbtiefe und 1024x768 Bildpunkte
+ - Festplatte: mindestens 200 MB
  - Administratorrechte für Installation
  - Hauptbenutzerrechte für Betrieb
 
