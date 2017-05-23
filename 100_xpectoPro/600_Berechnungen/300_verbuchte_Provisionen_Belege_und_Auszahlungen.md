@@ -13,5 +13,5 @@ Hier wird für den gewählten Zeitraum eine Auflistung der verbuchten Provisione
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/verbuchte_Provisionen_Belege_und_Auszahlungen/Belegdruck_Auszahlung.png)
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter Handbuch *Berechnungen → Provisionsabrechnung* beschriebene Maske.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Eine detailliertere Funktionsübersicht zur Maske *Belegdruck und Auszahlungen* erhalten Sie im Handbuch unter *Berechnungen → Provisionsabrechnung*. 
 
