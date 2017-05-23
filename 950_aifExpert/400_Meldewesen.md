@@ -307,9 +307,9 @@ Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anzubieten, kö
 
 Die Löschung von Datensätzen und Einträgen erfolgt nach einem standardisierten Schema. 
 Dabei stellt dieses sicher, dass nur Datensätze gelöscht werden können, die nicht mehr von anderen Datensätzen referenziert werden. 
-D.h. Eine Löschung einer Meldungsart kann nur erfolgen, wenn die darunterliegenen Posten gelöscht wurden.
-Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Einträg in der linken Liste.
-Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Aufbau") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
+D.h. Eine Löschung einer kompletten Meldung (AIFM und x AIF-Meldungen) kann nur dann erfolgen, wenn im Vorfeld im Reiter "Bestandteile" die einzelnen AIF-Meldungen gelöscht wurden.
+Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Eintrag in der linken Liste.
+Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Bestandteile") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
 
 ----------
 
@@ -317,12 +317,12 @@ Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Aufbau") erfolgt das Lös
 
 ####1. Zugangsdaten
 
-Nachdem die Stammdaten korrekt und vollständig hinterlegt wurden, beginnt nun der Prozess zur Erstellung der Meldung. 
+aifExpert nutzt zur Übertragung der Meldungen und zur Kommunikation mit dem BZSt die Massendatenschnittstelle (Elma5). Um diese Schnittstelle nutzen zu können bedarf es vorheriger Anmeldungen auf dem Portal des BZSt. Nach den erfolgreichen Anmeldungen erhält der Anwender eine Reihe von Zugangsdaten sowie ein Zerfitikatsdatei. Diese Zugangsdaten sowie das Zertifikat sind essenziell für die ordnungsgemäße Benutzung des BZSt-Moduls vom aifExpert. Mithilfe der Schaltfläche "BZSt" im Bereich Zugangsdaten im Menü-Reiter "Stammdaten" öffnet sich ein Dialog in dem die notwendigen Informationen sowie das Zertifikat hinterlegt werden kann. 
 
 
-####1. Meldungsarten
+####2. Meldungsarten
 
-Nachdem die Stammdaten korrekt und vollständig hinterlegt wurden, beginnt nun der Prozess zur Erstellung der Meldung. 
+Nachdem die Stammdaten sowie die Zugangsdaten korrekt und vollständig hinterlegt wurden, beginnt nun der Prozess zur Erstellung der Meldung. 
 
 Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstellung der Meldungsart kann durch die Betätigung der Schaltfläche "Neu" im Menü-Reiter erfolgen. Im Reiter "Allgemein" kann diese benannt und mit einem Intervall und einer Fristigkeit versehen werden. 
 
@@ -332,7 +332,7 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 ----------
 
-####2. Planungen
+####3. Planungen
 
 Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte (Fonds) anhand der BZSt-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "CRS" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planungen" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem ein Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart "CRS" in der linken Liste angezeigt.
 
@@ -342,15 +342,15 @@ Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeu
 
 ----------
 
-####3. Meldungen - Meldungskopf
+####4. Meldungen - Meldungskopf
 
-Nachdem nun die Definition der Stammdaten, Meldungsarten und Planungen definiert ist, kann die Erstellung der CRS-Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten, d.h. mehreren CRS-Meldungen. Der hierarchische Aufbau der Liste ist nach dem Schema Meldungskopf und darunterliegend die einzelnen CRS-Meldungen aufgebaut. Zuerst erfolgt die Anlage des Meldungskopfes mithilfe der Schaltfläche "Neu" im Menü-Reiter. Im Meldungskopf wird neben der Periode auch die Meldestelle definiert. Hier findet sich auch der Up-/Download-Bereich für die Kommunikation zum BZSt (siehe 7. Aktion - Dateien hochladen).
+Nachdem nun die Definition der Stammdaten, Meldungsarten und Planungen definiert ist, kann die Erstellung der CRS-Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten, d.h. mehreren CRS-Meldungen. Der hierarchische Aufbau der Liste ist nach dem Schema Meldungskopf und darunterliegend die einzelnen CRS-Meldungen aufgebaut. Zuerst erfolgt die Anlage des Meldungskopfes mithilfe der Schaltfläche "Neu" im Menü-Reiter. Im Meldungskopf wird neben der Periode auch die Meldestelle definiert. Hier findet sich auch der Up-/Download-Bereich für die Kommunikation zum BZSt (siehe 8. Aktion - Dateien hochladen).
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
 
 ----------
 
-####4. Meldungen - Meldungen
+####5. Meldungen - Meldungen
 
 Nachdem der Meldungskopf definiert wurde kann nun eine CRS-Meldung für das spezifische Produkt erstellt werden. Die Anlage der Meldung erfolgt mithilfe der Schaltfläche "Neu" im Menü-Reiter. Dabei bezieht sich die CRS-Meldung auf den darüber liegenden ausgewählten Meldungskopf.  Im Reiter "Allgemein" muss nun das jeweilige Produkt (in diesem Fall ist es eine Planung, die vorher im Bereich "Meldungsart" hinterlegt worden ist) ausgewählt werden. Im Reiter "Bestandteile" können nun die jeweiligen Konten inklusive der spezifischen Informationen für die CRS-Meldung hinterlegt werden. Es können dabei eine beliebig große Anzahl an Konten sowie den dazugehörigen wirtschaftlich Berechtigten erfasst und gespeichert werden. Die vollständige manuelle Eingabe der meldepflichtigen Konten sollte jedoch die letzte Wahl sein. Anhand einer Schnittstelle zu xpectoPro und der entsprechenden Kennzeichnung der Anleger in der Datenbank können die notwendigen Informationen automatisiert in die Meldung übertragen werden. Dazu muss die Schaltfläche "Konten aktualisieren" im Menü im Reiter "Aktionen" betätigt werden.
 
@@ -362,7 +362,7 @@ Nachdem der Meldungskopf definiert wurde kann nun eine CRS-Meldung für das spez
 ----------
 
 
-####5. Aktion - Prüfung anhand Bericht (optional)
+####6. Aktion - Prüfung anhand Bericht (optional)
 
 Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten der einzelnen Konten zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Um den Bericht "CRSMeldung" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "CRSMeldung" ausgewählt und heruntergeladen werden. 
 
@@ -370,7 +370,7 @@ Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung 
 
 ----------
 
-####6. Aktion - Erstellung der Datei
+####7. Aktion - Erstellung der Datei
 
 Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten.  Nun können die Meldungen als xml.Dateien erzeugt werden. Dabei nutzt der aifExpert das von der OECD fest vorgeschriebene Schema. Um eine einzelne Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Für eine Mehrfacherzeugung muss der Meldungskopf ausgewählt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien auf dem hinterlegten Dateipfad (Meldungskopf - Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert. Nach der Erstellung der Datei können diese nun im nächsten Schritt an das BZSt hochgeladen werden (siehe 7. Aktion - Dateien hochladen).
 
@@ -382,39 +382,34 @@ Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung 
 
 ----------
 
-####7. Aktion - Dateien hochladen
+####8. Aktion - Dateien hochladen
 
-Nachdem die zu meldenden Dateien erstellt wurde, können diese nun im Bereich des Meldungskopfes im Up-/Download-Bereich an das BZSt gemeldet werden. Das hochladen der jeweiligen Datei erfolgt dabei durch die Betätigung der Schaltfläche innerhalb der jeweiligen Meldung. 
-
-----------
-
-####8. Aktion - Abholung BZSt-Antworten
-
-Nachdem die Datei erstellt wurde, kann der Anwender die Dateien im Melde- und Veröffentlichungssystem der BaFin (MVP-Portal) hochladen.
+Nachdem die zu meldenden Dateien erstellt wurde, können diese nun im Bereich des Meldungskopfes im Up-/Download-Bereich an das BZSt gemeldet werden. Das hochladen der jeweiligen Datei erfolgt dabei durch die Betätigung der Schaltfläche innerhalb der jeweiligen Meldung. Dieser Vorgang wird zusätzlich zur Sicherheit separat protokolliert, d.h. es wird erfasst wer und wann das Hochladen vorgenommen hat.
 
 ----------
 
-####9. Aktion - Kopie einer Meldung für neuen Zeitraum
+####9. Aktion - Abholung BZSt-Antworten
+
+Nachdem die Dateien hochgeladen worden sind, können nun die jeweiligen Antworten des BZSt abgeholt werden.
+Dies erfolgt zentral, d.h. unabhängig von Meldung und Periode, mithilfe der Schaltfläche "Abholung" im Menü-Reiter "Aktionen". Dabei werden die Antworten vom BZSt heruntergeladen und der jeweiligen Meldung zugeordnet. 
+
+----------
+
+####10. Aktion - Kopie einer Meldung für neuen Zeitraum
 
 Um eine benutzerfreundliche und effiziente Lösung im Meldewesen anzubieten, können durch die Betätigung der Schaltfläche "Daten in nächsten Zeitraum kopieren" bereits erstellte Meldungen mit allen hinterlegten Informationen kopiert werden. Um die Daten in eine neue Periode zu kopieren, muss der sich öffnende Dialog nur bejaht werden - aifExpert schlägt automatisch die nächste Periode vor. 
 
 ----------
 
-####10. Aktion - Löschen
+####11. Aktion - Löschen
 
 Die Löschung von Datensätzen und Einträgen erfolgt nach einem standardisierten Schema. 
-Dabei stellt dieses sicher, dass nur Datensätze gelöscht werden können, die nicht mehr von anderen Datensätzen referenziert werden. 
-D.h. Eine Löschung einer Meldungsart kann nur erfolgen, wenn die darunterliegenen Posten gelöscht wurden.
-Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Einträg in der linken Liste.
-Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Aufbau") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
+Dabei stellt dieses sicher, dass nur Datensätze gelöscht werden können, die nicht mehr von anderen Datensätzen referenziert werden.
+D.h. Eine Löschung einer CRS-Meldung kann nur dann erfolgen, wenn im Vorfeld im Reiter "Bestandteile" die einzelnen Konten gelöscht wurden.
+Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Eintrag in der linken Liste.
+Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Bestandteile") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
 
 ----------
 
-####11. Stornomeldung
 
-Die Löschung von Datensätzen und Einträgen erfolgt nach einem standardisierten Schema. 
-Dabei stellt dieses sicher, dass nur Datensätze gelöscht werden können, die nicht mehr von anderen Datensätzen referenziert werden. 
-D.h. Eine Löschung einer Meldungsart kann nur erfolgen, wenn die darunterliegenen Posten gelöscht wurden.
-Die Schaltfläche "Löschen" im Menü bezieht sich dabei immer auf den ausgewählten Einträg in der linken Liste.
-Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Aufbau") erfolgt das Löschen und Neuanlegen durch die integrierten Schaltflächen. 
 
