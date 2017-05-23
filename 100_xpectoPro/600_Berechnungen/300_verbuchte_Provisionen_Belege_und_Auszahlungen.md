@@ -13,9 +13,6 @@ Hier wird eine Auflistung der Provisionen angezeigt die verbucht, jedoch noch ni
 
 ![](http://xpecto.github.io/docs/img/img_1461757201408.png)
 
- Sie können hier jederzeit zwischen dem vorherigen Zeitraum und dem nächsten Zeitraum wechseln. Mit Hilfe der Pfeile können Sie nun einen anderen Zeitraum wählen.
-
-
 
 Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter Handbuch *Berechnungen → Provisionsabrechnung* beschriebene Maske.
 
