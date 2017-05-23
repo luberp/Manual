@@ -8,6 +8,7 @@ In der moderner Menü-Ansicht wird die Maske über die Registerkarte *Vertrieb* 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/verbuchte_Provisionen_Belege_und_Auszahlungen/Menue_modern.png)
 
 Hier wird eine Auflistung der Provisionen angezeigt die verbucht, jedoch noch nicht abgerechnet wurden. 
+
 Über die Navigation ![](http://xpecto.github.io/docs/img/img_1461757224272.png) kann auch hier jeder beliebige Abrechnungszeitraum erreicht werden.
 
 ![](http://xpecto.github.io/docs/img/img_1461757201408.png)
