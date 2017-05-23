@@ -16,7 +16,4 @@
                 "Homepage" : "http://www.xpecto.de"
         },
         "ignore"               :
-        {
-                "files" : ["000_sub_header.md", "handbuch.md", ".git"]
-        }
 }
