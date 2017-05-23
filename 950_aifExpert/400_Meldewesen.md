@@ -401,4 +401,3 @@ Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Bestandteile") erfolgt da
 ----------
 
 
-
