@@ -9,9 +9,9 @@ In der moderner Menü-Ansicht wird die Maske über die Registerkarte *Vertrieb* 
 
 Hier wird für den gewählten Zeitraum eine Auflistung der verbuchten Provisionen angezeigt.
 
-Über die Navigation ![](http://xpecto.github.io/docs/img/img_1461757224272.png) kann auch hier jeder beliebige Abrechnungszeitraum erreicht werden.
+Über die Navigation ![](http://xpecto.github.io/docs/xpecto/Berechnungen/verbuchte_Provisionen_Belege_und_Auszahlungen/Navigation.png) kann auch hier jeder beliebige Abrechnungszeitraum erreicht werden.
 
-![](http://xpecto.github.io/docs/img/img_1461757201408.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/verbuchte_Provisionen_Belege_und_Auszahlungen/Belegdruck_Auszahlung.png)
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Die Maske *Belegdruck und Auszahlungen* ist identisch mit der unter Handbuch *Berechnungen → Provisionsabrechnung* beschriebene Maske.
 
