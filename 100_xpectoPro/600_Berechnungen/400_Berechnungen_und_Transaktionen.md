@@ -1,16 +1,14 @@
 xpectoPro ermöglicht die Durchführung der verschiedensten Art an Berechnungen wie zum Beispiel Verlustverteilung, Entnahmen/Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung.
 
- Jedes Produkt wird intern als eigener Mandant mit einer eigenen Buchhaltung geführt, die Berechnung kann aber übergreifend erfolgen. Die Berechnung von Dividenden oder Zinsen ist somit auch für viele Produkte  durchführbar.
+ Jedes Produkt wird intern als eigener Mandant mit eigenen Buchhaltung geführt, die Berechnung kann produktübergreifend erfolgen, eine übergreifende Berechnung von Dividenden oder Zinsen ist somit universal für alle Produkte durchführbar.
  
-Die Berechnungen können in beliebiger Art kombiniert werden und als Vorlage, unter einem Berechnungsprofil, hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
-Die Berechnung der Buchungen wird über die Maske *Berechnungen und Transaktionen*
-durchgeführt. 
+Die Berechnungen können in beliebiger Art kombiniert und als Vorlage in einem Berechnungsprofil hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
 
-In der klassischen Menü-Ansicht kann die Maske über Menüleiste *Berechnungen → Berechnungen und Transaktionen*.
+In der klassischen Menü-Ansicht erreichen Sie die Maske über *Berechnungen → Berechnungen und Transaktionen*.
 
 In den modernen Menü-Ansicht wird die Maske über Registerkarte *Buchhaltung* Funktion *Berechnung* erreicht.
 
-![](http://xpecto.github.io/docs/img/img_1461761434171.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Menue_modern.png)
 
 Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und zwei Ansichten für Berechnungen und Transaktionen. 
 
@@ -26,15 +24,24 @@ Wechseln Sie in dem Reiter *Berechnung*.
 
 ![](http://xpecto.github.io/docs/img/img_1461765354697.png)
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441197372050.png) können Sie eine Berechnung aus der vorherigen Periode kopieren, falls eine Berechnung in dem Profil vorhanden ist.
+Weitere Eigenschaften der Funktionsleiste:
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Funktionsleiste.png)
 
-Mit der Symbol ![](http://xpecto.github.io/docs/img/img_1441197398657.png) kopieren Sie eine in der Liste  der Berechnungen markierte Berechnung, und mit der Symbol ![](http://xpecto.github.io/docs/img/img_1461763926549.png), kann eine markierte Berechnung gelöscht werden.
 
-Um eine neue Berechnung anzulegen klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461763883687.png). Wählen Sie dann das Produkt für das die Berechnung laufen soll.
+ - ![](http://xpecto.github.io/docs/img/img_1461763883687.png) Eine neue Berechnung anlegen.
+
+ -  ![](http://xpecto.github.io/docs/img/img_1441197372050.png) Eine bestehende Berechnung kopieren.
+
+ - ![](http://xpecto.github.io/docs/img/img_1441197398657.png) Eine markierte Berechnung kopieren.
+ -  ![](http://xpecto.github.io/docs/img/img_1461763926549.png) Eine markierte Berechnung löschen.
+
+
+----------
+
 
 ![](http://xpecto.github.io/docs/img/img_1461765614179.png)
 
-Nachdem die Berechnung in der Berechnungsliste angezeigt wird, können Sie die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461764018473.png) können Sie in den *Berechnungs-Parameter* Dialog gelangen. Der *Berechnungs-Parmeter* Dialog ermöglicht Ihnen spezielle Einstellungen für die Berechnung. 
+Nachdem eine neue Berechnung angelegt wurde, können Sie nun die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461764018473.png) gelangen Sie in den Dialog *Berechnungs-Parmeter*. Hier kann die Berechnung individuell auf Ihre Bedürfnisse angepasst werden. 
 
 ![](http://xpecto.github.io/docs/img/img_1461766010739.png)
 
