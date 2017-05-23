@@ -257,7 +257,6 @@ Die Felder der anderen Bereiche sind optional und werden für die AIFM-Meldung v
 ####4. Meldungen - Bestandteile
 
 Nachdem der Meldungskopf, die AIFM-Meldung, definiert wurde kann im Reiter "Bestandteile" bestimmt werden, welche Produkte mithilfe von AIF-Meldungen gemeldet werden sollen. So kann für jedes Produkt eine eigene AIF-Meldung angelegt werden. Zu beachten ist in diesem Bereich auch das Auswahlfeld "Erstmeldung". Sollte das Produkt zum ersten Mal der BaFin/ESMA gemeldet werden, so ist dieses Feld für das jeweilige Produkt in der entsprechenden Meldung zu aktivieren. Je Planung können nun die entsprechenden Daten und Informationen für jeden geforderten Artikel gemeldet werden. 
-
  
 
 *Beispiel:*
@@ -269,9 +268,12 @@ Nachdem der Meldungskopf, die AIFM-Meldung, definiert wurde kann im Reiter "Best
 
 ####5. Aktion - Prüfung anhand Bericht (optional)
 
-Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten und der AIFM-Meldung zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Um den Bericht "EsmaMeldung" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "EsmaMeldung" ausgewählt und heruntergeladen werden. 
+Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. 
 
-Ein standardisierter Bericht zur AIF-Meldung ist derzeit noch nicht vorhanden.
+Um eine Gegenprüfung der hinterlegten Daten und der AIFM-Meldung zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "AIFM-Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Die Erstellung bezieht sich dabei auf die AIFM-Meldung die im Reiter "Bestandteile" (siehe 3. Meldungen - Allgemein) ausgewählt wurde. Um den Bericht "EsmaMeldung _ AIFM" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "EsmaMeldung _ AIFM" ausgewählt und heruntergeladen werden. 
+
+Um eine Gegenprüfung der hinterlegten Daten und der AIF-Meldung zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "AIF-Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Die Erstellung bezieht sich dabei auf die AIF-Meldung die im Reiter "Bestandteile" (siehe 4. Meldungen - Bestandteile) ausgewählt wurde. Um den Bericht "EsmaMeldung _ AIF" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "EsmaMeldung _ AIF" ausgewählt und heruntergeladen werden. 
+
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
 
@@ -312,6 +314,11 @@ Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Aufbau") erfolgt das Lös
 ----------
 
 ##Meldung für BZSt
+
+####1. Zugangsdaten
+
+Nachdem die Stammdaten korrekt und vollständig hinterlegt wurden, beginnt nun der Prozess zur Erstellung der Meldung. 
+
 
 ####1. Meldungsarten
 
@@ -365,7 +372,7 @@ Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung 
 
 ####6. Aktion - Erstellung der Datei
 
-Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Nun können die Meldungen als Dateien erzeugt werden. Dabei nutzt der aifExpert das von der ESMA fest vorgeschriebene Schema. Um die Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien und in komprimierter Form als .xml.gz-Dateien (GZIP) auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert.
+Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten.  Nun können die Meldungen als xml.Dateien erzeugt werden. Dabei nutzt der aifExpert das von der OECD fest vorgeschriebene Schema. Um eine einzelne Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Für eine Mehrfacherzeugung muss der Meldungskopf ausgewählt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien auf dem hinterlegten Dateipfad (Meldungskopf - Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert. Nach der Erstellung der Datei können diese nun im nächsten Schritt an das BZSt hochgeladen werden (siehe 7. Aktion - Dateien hochladen).
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
 
@@ -377,7 +384,7 @@ Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldun
 
 ####7. Aktion - Dateien hochladen
 
-Nachdem die Datei erstellt wurde, kann der Anwender die Dateien im Melde- und Veröffentlichungssystem der BaFin (MVP-Portal) hochladen.
+Nachdem die zu meldenden Dateien erstellt wurde, können diese nun im Bereich des Meldungskopfes im Up-/Download-Bereich an das BZSt gemeldet werden. Das hochladen der jeweiligen Datei erfolgt dabei durch die Betätigung der Schaltfläche innerhalb der jeweiligen Meldung. 
 
 ----------
 
