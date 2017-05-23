@@ -319,6 +319,7 @@ Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Bestandteile") erfolgt da
 
 aifExpert nutzt zur Übertragung der Meldungen und zur Kommunikation mit dem BZSt die Massendatenschnittstelle (Elma5). Um diese Schnittstelle nutzen zu können bedarf es vorheriger Anmeldungen auf dem Portal des BZSt. Nach den erfolgreichen Anmeldungen erhält der Anwender eine Reihe von Zugangsdaten sowie ein Zerfitikatsdatei. Diese Zugangsdaten sowie das Zertifikat sind essenziell für die ordnungsgemäße Benutzung des BZSt-Moduls vom aifExpert. Mithilfe der Schaltfläche "BZSt" im Bereich Zugangsdaten im Menü-Reiter "Stammdaten" öffnet sich ein Dialog in dem die notwendigen Informationen sowie das Zertifikat hinterlegt werden kann. 
 
+----------
 
 ####2. Meldungsarten
 
@@ -328,7 +329,6 @@ Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstel
 
 Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermöglichen, ist die Meldungsart "CRS" bei der Installation bereits hinterlegt. 
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
 
 ----------
 
@@ -336,9 +336,6 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte (Fonds) anhand der BZSt-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "CRS" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planungen" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem ein Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart "CRS" in der linken Liste angezeigt.
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
-
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
 
 ----------
 
@@ -346,7 +343,6 @@ Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeu
 
 Nachdem nun die Definition der Stammdaten, Meldungsarten und Planungen definiert ist, kann die Erstellung der CRS-Meldung erfolgen. Dabei erlaubt der aifExpert die Meldung von mehreren Produkten, d.h. mehreren CRS-Meldungen. Der hierarchische Aufbau der Liste ist nach dem Schema Meldungskopf und darunterliegend die einzelnen CRS-Meldungen aufgebaut. Zuerst erfolgt die Anlage des Meldungskopfes mithilfe der Schaltfläche "Neu" im Menü-Reiter. Im Meldungskopf wird neben der Periode auch die Meldestelle definiert. Hier findet sich auch der Up-/Download-Bereich für die Kommunikation zum BZSt (siehe 8. Aktion - Dateien hochladen).
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
 
 ----------
 
@@ -357,7 +353,6 @@ Nachdem der Meldungskopf definiert wurde kann nun eine CRS-Meldung für das spez
 *Beispiel:*
 *In der Meldung 2016 für die BZSt wurde die Planung CRS des Produktes "TRI1" verwendet. Nun können die entsprechenden Daten für die CRS-Meldung für den TRI1 gepflegt werden. Anhand der Schnittstelle zu der Anlegerverwaltung xpectoPro werden die Informationen zu den einzelnen Konten automatisiert in die Meldung übergeben. Bei der anschließenden Erstellung der CRS-Meldung werden jeweils die hinterlegten Stammdaten von "TRI1" sowie die entsprechenden Meldedaten verwendet.*
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
 
 ----------
 
@@ -366,19 +361,13 @@ Nachdem der Meldungskopf definiert wurde kann nun eine CRS-Meldung für das spez
 
 Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten der einzelnen Konten zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Um den Bericht "CRSMeldung" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "CRSMeldung" ausgewählt und heruntergeladen werden. 
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
 
 ----------
 
 ####7. Aktion - Erstellung der Datei
 
-Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten.  Nun können die Meldungen als xml.Dateien erzeugt werden. Dabei nutzt der aifExpert das von der OECD fest vorgeschriebene Schema. Um eine einzelne Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Für eine Mehrfacherzeugung muss der Meldungskopf ausgewählt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien auf dem hinterlegten Dateipfad (Meldungskopf - Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert. Nach der Erstellung der Datei können diese nun im nächsten Schritt an das BZSt hochgeladen werden (siehe 7. Aktion - Dateien hochladen).
+Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten.  Nun können die Meldungen als xml. Dateien erzeugt werden. Dabei nutzt der aifExpert das von der OECD fest vorgeschriebene Schema. Um eine einzelne Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Für eine Mehrfacherzeugung muss der Meldungskopf ausgewählt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien auf dem hinterlegten Dateipfad (Meldungskopf - Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert. Nach der Erstellung der Datei können diese nun im nächsten Schritt an das BZSt hochgeladen werden (siehe 8. Aktion - Dateien hochladen).
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
-
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen24.png)
-
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen25.png)
 
 ----------
 
