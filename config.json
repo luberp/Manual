@@ -11,7 +11,7 @@
         "date_modified"        : false,
         "float"                : false,
         "file_editor"          : false,
-        "links"                : false,
+        "links"                : 
         {
                 "Homepage" : "http://www.xpecto.de"
         } ,
