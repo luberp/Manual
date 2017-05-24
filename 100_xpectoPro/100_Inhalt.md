@@ -1,4 +1,4 @@
-1. [Homepage] (http://xpecto.de)-
+1. [Homepage](http://xpecto.de)
 1. [Einleitung](http://help.xpecto.de/Einleitung)
 * 1.1. [Über xpectoPro](http://help.xpecto.de/Einleitung/Ueber_xpectoPro)
 *  1.2. [Was ist xpectoPro](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro)
@@ -90,4 +90,3 @@
 *  9.6. [xpecto Change-Log](http://help.xpecto.de/Hilfe/xpecto_Change_Log)
 *  9.7. [xpecto Versionskontrolle](http://help.xpecto.de/Hilfe/xpecto_Versionskontrolle)
 *  9.8. [Alle Fenster auf aktuellen Bildschirm holen](http://help.xpecto.de/Hilfe/Alle_Fenster_auf_aktuellen_Bildschirm_holen)
- 
