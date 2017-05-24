@@ -3,12 +3,12 @@
 # Inhalt
 
 1. [Einleitung](http://help.xpecto.de/Einleitung)
-* 1.1. [Über xpectoPro](http://help.xpecto.de/Einleitung/Ueber_xpectoPro)
-*  1.2. [Was ist xpectoPro](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro)
-*  1.3. [Wer braucht xpectoPro](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
+ 1.1. [Über xpectoPro](http://help.xpecto.de/Einleitung/Ueber_xpectoPro)
+ 1.2. [Was ist xpectoPro](http://help.xpecto.de/Einleitung/Was_ist_xpectoPro)
+ 1.3. [Wer braucht xpectoPro](http://help.xpecto.de/Einleitung/Wer_braucht_xpectoPro)
 2.   [Installation](http://help.xpecto.de/Installation)
-*  2.1. [Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
-*  2.2. [Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
+  2.1. [Systemvoraussetzungen](http://help.xpecto.de/Installation/Systemvoraussetzungen)
+  2.2. [Installation der Software](http://help.xpecto.de/Installation/Installation_der_Software)
 *  2.3. [Verbindung zur Datenbank herstellen](http://help.xpecto.de/Installation/Verbindung_zur_Datenbank_herstellen)
 3.   [Einführung Oberfläche](http://help.xpecto.de/Einfuehrung_Oberflaeche)
 *  3.1. [Menueleiste](http://help.xpecto.de/Einfuehrung_Oberflaeche/Menueleiste)
