@@ -1,7 +1,0 @@
-Konzeption und Verwaltung eines Fonds sind eine komplexe Aufgabe. Verschiedene Bereiche sollten möglichst einfach und reibungslos verwaltet werden können. xpectoPro ist auf Ihre Bedürfnisse zugeschnitten. Es arbeitet Hand in Hand, um Ihre Verwaltung zu vereinfachen und Ihnen lästige Routineaufgaben abzunehmen.
-
-Die Fondsverwaltung besteht in der Regel aus zwei unterschiedlichen Bereichen, dem eigentlichen Fonds und dem angeschlossenen Vertrieb. Beide Bereiche nutzen Anleger- und Vertragsdaten, jedoch mit unterschiedlichen Zielen. Genau dies wird durch die Verknüpfung der beiden Funktionsbereiche Vertriebsverwaltung und Fondsverwaltung in der Software xpectoPro erreicht. xpecto bietet Ihnen dadurch eine einheitliche Lösung für beide Bereiche.
-
-Die Verwaltung von Anlegern, Verträgen und Kontobewegungen sind die zentralen Funktionen des Funktionsbereichs Fondsverwaltung. Begrüßungsschreiben, Kontoauszüge und steuerliche Ergebnisverteilung werden ohne aufwändige Tipparbeit per Knopfdruck erstellt. Das Layout der Schreiben ist über einen Editor frei anpassbar.
-
-Die Verbuchung der Zahlungseingänge sowie der Zahlungsausgänge ist ein sehr arbeitsintensiver Bereich. Durch die integrierte Lösung werden viele Routineaufgaben beschleunigt und die Aufgaben der Verwaltung vereinfacht. 
