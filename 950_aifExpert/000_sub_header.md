@@ -6,7 +6,7 @@
 6. [Liquiditaetsmanagement](http://help.xpecto.de/aifExpert/Liquiditaetsmanagement)
 7. [Hilfe](http://help.xpecto.de/aifExpert/Hilfe)
 8. [Versionen](http://help.xpecto.de/aifExpert/Versionen)
-9. [Homepage](http://xpecto.de)
+
 
 
 
