@@ -22,7 +22,6 @@ Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und
 |![](http://xpecto.github.io/docs/img/img_1461762156205.png)| Markierten Datensatz löschen|
 
 
-----------
 
 
 ###Eine neue Berechnung anlegen
