@@ -30,11 +30,11 @@ Um ein neues Berechnungsprofil zu erzeugen  klicken Sie auf das Symbol ![](http:
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Konfiguration.png)
 
-In dem Reiter *Konfiguration* werden die allgemeinen Daten eingegeben wie Name, Zeitintervall und Beschreibung der Berechnung.
+Im Reiter *Konfiguration* werden die allgemeinen Daten der Berechnung eingegeben wie Name, Zeitintervall und Beschreibung der Berechnung.
 
-Wechseln Sie als nächstes in dem Reiter *Berechnung*. 
+Wechseln Sie als nächstes in den Reiter *Berechnung*. 
 
-![](http://xpecto.github.io/docs/img/img_1461765354697.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnungen_Transaktionen_Main.png)
 
 Hier wird die spezifische Berechnung angelegt. Sie können diese komplett neu anlegen oder aus einer beliebigen Periode übernehmen/ kopieren.
 
