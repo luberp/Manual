@@ -36,6 +36,8 @@ Wechseln Sie als nächstes in dem Reiter *Berechnung*.
 
 ![](http://xpecto.github.io/docs/img/img_1461765354697.png)
 
+Hier wird die spezifische Berechnung angelegt. Sie können diese komplett neu anlegen oder aus einer beliebigen Periode übernehmen/ kopieren.
+
 Weitere Eigenschaften der Funktionsleiste:
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Funktionsleiste.png)
 
@@ -47,7 +49,7 @@ Weitere Eigenschaften der Funktionsleiste:
 |![](http://xpecto.github.io/docs/img/img_1461763926549.png)|Eine markierte Berechnung löschen.|
 
 
-![](http://xpecto.github.io/docs/img/img_1461765614179.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_anpassen.png)
 
 Nachdem eine neue Berechnung angelegt wurde, können Sie nun die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461764018473.png) gelangen Sie in den Dialog *Berechnungs-Parmeter*. Hier kann die Berechnung individuell auf Ihre Bedürfnisse angepasst werden. 
 
@@ -63,7 +65,7 @@ Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img
 
 ![](http://xpecto.github.io/docs/img/img_1461767168231.png)     
       
-Diese Buchhaltungsdaten werden  bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe Handbuch *Bearbeiten → Stapelbuchung*).
+Diese Buchhaltungsdaten werden bei jeden Vertrag unter dem Reiter *Buchungsdaten* automatisch eingefügt. Die Bearbeitung, der Export und die Festschreibung von der Buchungssätzen erfolgt über die Stapelbuchungs-Maske (siehe Handbuch *Bearbeiten → Stapelbuchung*).
 
 Sie können für einen Vertrag eine Testberechnung durchführen. Sie müssen dafür nicht aus der Maske raus, es reicht wenn Sie hier die Maske *Berechnungen und Transaktionen* minimieren, oder verkleinern. 
 Markieren Sie dafür in der xpectoPro Hauptfenster → Kundeansicht einen Vertrag, dann klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441205184520.png). 
