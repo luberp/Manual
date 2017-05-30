@@ -8,7 +8,7 @@ In der klassischen Menü-Ansicht erreichen Sie die Maske über *Berechnungen →
 
 In den modernen Menü-Ansicht wird die Maske über Registerkarte *Buchhaltung* Funktion *Berechnung* erreicht.
 
-![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Menue_modern.png)
+![](http://xpecto.github.io/docs/100_xpectoPro/600_Berechnungen/400_Berechnungen_und_Transaktionen/Menue_modern.png)
 
 Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und zwei Ansichten für Berechnungen und Transaktionen. 
 
