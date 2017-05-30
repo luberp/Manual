@@ -379,6 +379,7 @@ Nachdem der Meldungskopf definiert wurde kann nun eine CRS-Meldung für das spez
 
 Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten der einzelnen Konten zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Um den Bericht "CRSMeldung" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "CRSMeldung" ausgewählt und heruntergeladen werden. 
 
+> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen43.png)
 
 ----------
 
