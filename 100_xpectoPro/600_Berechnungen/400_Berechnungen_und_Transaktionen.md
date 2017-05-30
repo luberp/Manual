@@ -51,8 +51,6 @@ Weitere Eigenschaften der Funktionsleiste:
 |![](http://xpecto.github.io/docs/img/img_1441197398657.png)|Eine markierte Berechnung kopieren.|
 |![](http://xpecto.github.io/docs/img/img_1461763926549.png)|Eine markierte Berechnung löschen.|
 
-----------
-
 
 ![](http://xpecto.github.io/docs/img/img_1461765614179.png)
 
