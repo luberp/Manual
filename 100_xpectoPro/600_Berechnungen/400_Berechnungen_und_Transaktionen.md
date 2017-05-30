@@ -8,11 +8,11 @@ In der klassischen Menü-Ansicht erreichen Sie die Maske über *Berechnungen →
 
 In den modernen Menü-Ansicht wird die Maske über Registerkarte *Buchhaltung* Funktion *Berechnung* erreicht.
 
-![](http://xpecto.github.io/docs/100_xpectoPro/600_Berechnungen/400_Berechnungen_und_Transaktionen/Menue_modern.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Menue_modern.png)
 
 Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und zwei Ansichten für Berechnungen und Transaktionen. 
 
-![](http://xpecto.github.io/docs/100_xpectoPro/600_Berechnungen/Berechnungen_und_Transaktionen/Berechnungen_Transaktionen_Main.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnungen_Transaktionen_Main.png)
 
 Diese dienen dazu, um Ihnen die Arbeit zu erleichtern, damit können Sie sehr einfach ![](http://xpecto.github.io/docs/img/img_1461762053607.png)  *Speichern*,  ![](http://xpecto.github.io/docs/img/img_1461762083830.png) Berechnungsprofile neu anlegen,  ![](http://xpecto.github.io/docs/img/img_1461762131361.png)*Transaktionen neu anlegen* und  ![](http://xpecto.github.io/docs/img/img_1461762156205.png) *aktuellen Datensatz löschen*.
 
