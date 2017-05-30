@@ -80,7 +80,7 @@ Schließen Sie den Dialog um zur Maske *Berechnungen und Transaktionen* zurück 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen.png)
 
 Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Loeschen.png) kann die Transaktion bzw. Bestandsteile davon gelöscht werden.
-Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion, inklusive aller Berechnungen löschen möchten oder nur die berechneten Vertragsbuchungen.
+Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive aller Berechnungen oder nur berechneten Buchungsdaten löschen möchten.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen_Auswahl.png)
 
