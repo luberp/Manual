@@ -24,7 +24,7 @@ Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und
 
 
 
-###**Eine neue Berechnung anlegen**
+####Eine neue Berechnung anlegen
 
 Um ein neues Berechnungsprofil zu erzeugen  klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_neu.png). Ein Berechnungsprofil kann mehrere Berechnungsläufe enthalten, wie z.B.  Zinsberechnungen für differente Produkte.
 
