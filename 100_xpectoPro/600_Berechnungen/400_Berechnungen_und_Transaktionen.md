@@ -21,25 +21,35 @@ Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und
 |![](http://xpecto.github.io/docs/img/img_1461762131361.png)|Transaktionen neu anlegen|
 |![](http://xpecto.github.io/docs/img/img_1461762156205.png)| Markierten Datensatz löschen|
 
-Um ein neues Berechnungsprofil anzulegen  klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_neu.png). Ein Berechnungsprofil kann mehrere Berechnungsläufe enthalten, wie z.B.  Zinsberechnungen für differente Produkte.
 
-In dem Reiter *Konfiguration* werden die Allgemeinen Daten eingegeben, wie der Name und das Zeitintervall der Berechnung.
+----------
 
-Wechseln Sie in dem Reiter *Berechnung*. 
+
+
+**Berechnung anlegen/ erzeugen**
+
+
+
+
+Um ein neues Berechnungsprofil zu erzeugen  klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_neu.png). Ein Berechnungsprofil kann mehrere Berechnungsläufe enthalten, wie z.B.  Zinsberechnungen für differente Produkte.
+
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Konfiguration.png)
+
+In dem Reiter *Konfiguration* werden die allgemeinen Daten eingegeben, wie Name, Zeitintervall und Beschreibung der Berechnung.
+
+Wechseln Sie als nächstes in dem Reiter *Berechnung*. 
 
 ![](http://xpecto.github.io/docs/img/img_1461765354697.png)
 
 Weitere Eigenschaften der Funktionsleiste:
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Funktionsleiste.png)
 
-
- - ![](http://xpecto.github.io/docs/img/img_1461763883687.png) Eine neue Berechnung anlegen.
-
- -  ![](http://xpecto.github.io/docs/img/img_1441197372050.png) Eine bestehende Berechnung kopieren.
-
- - ![](http://xpecto.github.io/docs/img/img_1441197398657.png) Eine markierte Berechnung kopieren.
- -  ![](http://xpecto.github.io/docs/img/img_1461763926549.png) Eine markierte Berechnung löschen.
-
+|  Schaltfläche               |    Beschreibung    |
+| --------------- |:---------------|
+|![](http://xpecto.github.io/docs/img/img_1461763883687.png)|Eine neue Berechnung anlegen.|
+|![](http://xpecto.github.io/docs/img/img_1441197372050.png)|Eine bestehende Berechnung kopieren.|
+|![](http://xpecto.github.io/docs/img/img_1441197398657.png)|Eine markierte Berechnung kopieren.|
+|![](http://xpecto.github.io/docs/img/img_1461763926549.png)|Eine markierte Berechnung löschen.|
 
 ----------
 
