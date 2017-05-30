@@ -74,7 +74,7 @@ Sie können für einen bzw. alle Verträge Testberechnungen durchführen. Bitte 
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Testdialog_Fondsberechnung.png)
 
-In *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungsdaten die erzeugt würden, wenn Sie für diesen Vertrag eine reguläre Berechnung durchführen würden.
+In *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungsdaten die erzeugt würden, wenn Sie für diesen Vertrag eine reguläre Berechnung durchgeführt würde.
 Schließen Sie den Dialog um zur Maske *Berechnungen und Transaktionen* zurück zu kehren.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen.png)
