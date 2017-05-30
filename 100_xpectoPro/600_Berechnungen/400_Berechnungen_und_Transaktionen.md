@@ -53,15 +53,15 @@ Weitere Eigenschaften der Funktionsleiste:
 
 Nachdem eine neue Berechnung angelegt wurde, können Sie nun die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461764018473.png) gelangen Sie in den Dialog *Berechnungs-Parmeter*. Hier kann die Berechnung individuell auf Ihre Bedürfnisse angepasst werden. 
 
-![](http://xpecto.github.io/docs/img/img_1461766010739.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnungs_Parameter.png)
 
 Nachdem Sie hier die gewünschten Einstellungen festgelegt haben,  klicken Sie auf *OK*.
 
-Wenn die Berechnung gestartet wird, dann wird automatisch eine Transaktion erstellt, die die Werte und Buchungen enthält. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441121273470.png) um die Werte-Liste zu erstellen. 
+Wenn die Berechnung gestartet wird, wird automatisch eine Transaktion erstellt die Werte und Buchungen enthält. Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_starten.png) um die Werte-Liste zu erstellen. 
 
 Die einzelne Datensätze können Sie per Doppelklick aus der Werte-Liste heraus öffnen und bearbeiten. 
 
-Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187895311.png) werden die Buchungen der Buchungen-Liste erstellt.  
+Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Werte_einbuchen.png) werden die Buchungen der Buchungen-Liste erstellt.  
 
 ![](http://xpecto.github.io/docs/img/img_1461767168231.png)     
       
