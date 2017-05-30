@@ -86,12 +86,12 @@ Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive
 
 Abschließenden Schritte in der Maske Berechnungen und Transaktionen sind:
 
- - *Zahlungsverkehr* Überweisung/Zahlungsdateien und Belege erstellen
- - *Druck und Ausgabe* Einzelschreiben für jeden Anleger und Übersichtslisten für die komplette Berechnung erstellen
+|  Schaltfläche               |    Beschreibung    |
+| --------------- |:---------------|
+|![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Zahlungsverkehr.png)|Überweisung/Zahlungsdateien und Belege erstellen|
+|![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Druck_Ausgabe.png)|Einzelschreiben oder Gesamtliste für Anleger erstellen|
 
-Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png). Sie werden zum *xpectoPro OPOS Verarbeitung* Dialog weitergeleitet (siehe Handbuch *Berechnungen → Offene Posten*). 
-
-Unter *Druck und Ausgabe* kann eingestellt werden, ob jeder einzelne Beteiligte einen Einzelschreiben bekommt oder ob eine Liste gedruckt werden soll.
+Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187959011.png). Sie werden zum *xpectoPro OPOS * Dialog weitergeleitet (siehe Handbuch *Berechnungen → Offene Posten*). 
 
 ![](http://xpecto.github.io/docs/img/img_1461768771193.png)
 
