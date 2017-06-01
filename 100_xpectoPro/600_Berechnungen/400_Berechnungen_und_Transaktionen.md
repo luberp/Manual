@@ -74,13 +74,16 @@ Sie können für einen bzw. alle Verträge Testberechnungen durchführen. Bitte 
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Testdialog_Fondsberechnung.png)
 
-In *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungsdaten die erzeugt würden, wenn Sie für diesen Vertrag eine reguläre Berechnung durchgeführt würde.
-Schließen Sie den Dialog um zur Maske *Berechnungen und Transaktionen* zurück zu kehren.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Im *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungsdaten die erzeugt würden, wenn Sie für diesen Vertrag eine reguläre Berechnung durchgeführt würde.
 
-![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen.png)
+Schließen Sie den Dialog um zur Maske *Berechnungen und Transaktionen* zurückzukehren.
+
+
 
 Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Loeschen.png) kann die Transaktion bzw. Bestandsteile davon gelöscht werden.
 Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive aller Berechnungen oder nur berechneten Buchungsdaten löschen möchten.
+
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen.png)
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen_Auswahl.png)
 
@@ -93,30 +96,25 @@ Abschließenden Schritte in der Maske Berechnungen und Transaktionen sind:
 
 Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche *Datei erstellen*. Sie werden zum *xpectoPro OPOS * Dialog weitergeleitet (siehe Handbuch *Berechnungen → Offene Posten*). 
 
-![](http://xpecto.github.io/docs/img/img_1461768771193.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_Einzelschreiben.png)
 
 
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441187997984.png) um Einzelschreiben für jeden Anleger zu erstellen und versenden. Wählen Sie den zugehörigen Bericht der als Bericht für *Berechungen Einzelschreiben* markiert sein muss. (siehe Hanbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Button_Einzelschreiben.png) um Einzelschreiben für jeden Anleger zu erstellen und zu versenden. Wählen Sie den zugehörigen Bericht der als Bericht für *Berechungen Einzelschreiben* markiert sein muss. (siehe Hanbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
-![](http://xpecto.github.io/docs/img/img_1441360646363.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Einzelbelege_drucken.png)
 
-Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen, ohne eine Belegnummer zu vergeben.  Über *Belegdruck* wird das gleiche gemacht, jedoch unter Vergabe einer automatisch und lückenlos vergebener  Belegnummern.
+Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen ohne dass eine Belegnummer erzeugt wird.  Über *Belegdruck* werden Einzelschreiben erzeugt die vom System automatisch mit einer fortlaufender Belegnummern versehen werden, diese können nach dem Beleglauf nicht mehr geändert bzw. korrigiert werden.
 
-Um eine Übersichtsliste für die komplette Berechnung zu drucken und exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png) erstellen. Wählen Sie den zugehörigen Bericht, dafür muss der Bericht als Bericht für *Berechungen Listen* markiert werden. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
+Um eine Übersichtsliste für die komplette Berechnung zu drucken und zu exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png)  Wählen Sie den zugehörigen Bericht, der Bericht muss hierzu als Bericht für *Berechungen Listen* markiert werden. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
-![](http://xpecto.github.io/docs/img/img_1441360701050.png)
-
-Die Maske *Berechnungen und Transaktionen* enthält neben der Ansicht für Berechnungen einen Ansicht für  Transaktionen.
-
-Nun wechseln Sie zur Ansicht *Transaktionen*. Die Ansicht Transaktionen enthält alle vorhandene Transaktionen. 
-
-![](http://xpecto.github.io/docs/img/img_1461769210183.png)
+Die Maske *Berechnungen und Transaktionen* enthält neben der Ansicht für Berechnungen einen Ansicht für  Transaktionen. Sie erreichen diese Ansicht über den Reiter  *Transaktion* bzw. in der Hauptansicht von xpectoPro unter *Buchhaltung -> Werte -> Transaktion*.
+ 
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion.png)
 
 
-Der Ansicht kann in der modernen Menü-Ansicht über der Karteireiter *Buchhaltung* Gruppe *Werte*.
-![](http://xpecto.github.io/docs/img/img_1461761495681.png)
+  ![](http://xpecto.github.io/docs/img/img_1461761495681.png)
 
-Eine Transaktion ist eine Kennzeichnung der Berechnung, um die enthaltene Buchungen zusammenzufassen. Die Transaktion wird automatisch bei Starten der Berechnung erstellt.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Eine Transaktion ist eine Kennzeichnung der Berechnung, um enthaltene Buchungen zusammenzufassen. Transaktionen werden automatisch beim Starten der Berechnung erstellt.
 
 ![](http://xpecto.github.io/docs/img/img_1441364859005.png)
 
