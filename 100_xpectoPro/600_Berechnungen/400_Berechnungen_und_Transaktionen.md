@@ -82,7 +82,7 @@ Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen.png)           -> ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen_Auswahl.png)
 
-Abschließenden Schritte in der Hauptmaske *Berechnungen und Transaktionen* sind:
+Nachdem alle Berechnungen und Buchungen durchgeführt wurden, können abschließend noch Zahlungsdateien und Anschreiben erstellt werden:
 
 | Aktion           |    Beschreibung     |  
 | ------------- |:-------------| 
