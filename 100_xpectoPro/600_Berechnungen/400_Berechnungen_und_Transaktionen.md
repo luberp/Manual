@@ -116,12 +116,12 @@ Die Maske *Berechnungen und Transaktionen* enthält neben der Ansicht für Berec
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Eine Transaktion ist eine Kennzeichnung der Berechnung um enthaltene Buchungen zusammenzufassen. Transaktionen werden automatisch beim Starten der Berechnung erstellt.
 
-![](http://xpecto.github.io/docs/img/img_1441364859005.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_Menue.png)
 
 Markieren Sie eine Transaktion um eine der folgende Aktionen durchzuführen:
 
 | Aktion           |    Beschreibung     |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1441366232699.png)     |  Kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist.| 
-| ![](http://xpecto.github.io/docs/img/img_1441366314917.png)   |  Es wird eine Liste der enthaltene Buchungen angezeigt.| 
-| ![](http://xpecto.github.io/docs/img/img_1441366201137.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind. |
+| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Buchung_Vertrag_loeschen_Button.png)     |  Kann durchgeführt werden wenn die Buchung noch nicht festgeschrieben ist.| 
+| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Buchung_Transaktion_anzeigen_Button.png)   |  Es wird eine Liste der enthaltene Buchungen angezeigt.| 
+| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen_Button.png)     | Über die Schaltfläche kann eine komplette Abrechnung gelöscht werden, solange die erzeugten Buchungen noch nicht festgeschrieben sind. |
