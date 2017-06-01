@@ -16,7 +16,7 @@ Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und
 
 |  Schaltfläche|Beschreibung    |
 | --------------- |:---------------|
-|![](http://xpecto.github.io/docs/img/img_1461762053607.png)| Datensatz speichern|
+|![](http://xpecto.github.io/docs/img/img_1461762053607.png) | Datensatz speichern|
 |![](http://xpecto.github.io/docs/img/img_1461762083830.png)| Berechnungsprofile neu anlegen|
 |![](http://xpecto.github.io/docs/img/img_1461762131361.png)|Transaktionen neu anlegen|
 |![](http://xpecto.github.io/docs/img/img_1461762156205.png)| Markierten Datensatz löschen|
