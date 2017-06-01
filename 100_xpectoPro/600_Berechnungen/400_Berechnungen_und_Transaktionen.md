@@ -42,7 +42,7 @@ Weitere Eigenschaften der Funktionsleiste:
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Funktionsleiste.png)
 
 |  Schaltfläche   |  Beschreibung  |
-| --------------- |:---------------|
+| ------ |:------|
 |![](http://xpecto.github.io/docs/img/img_1461763883687.png)|Eine neue Berechnung anlegen.|
 |![](http://xpecto.github.io/docs/img/img_1441197372050.png)|Eine bestehende Berechnung aus einer anderen Periode kopieren.|
 |![](http://xpecto.github.io/docs/img/img_1441197398657.png)|Eine markierte Berechnung kopieren.|
