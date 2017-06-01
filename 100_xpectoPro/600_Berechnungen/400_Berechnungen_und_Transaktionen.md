@@ -14,7 +14,7 @@ Die Maske *Berechnungen und Transaktionen* enthält ihre eigene Symbolleiste und
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Zinsberechnung.png)
 
-|  Schaltfläche               |    Beschreibung    |
+|  Schaltfläche|Beschreibung    |
 | --------------- |:---------------|
 |![](http://xpecto.github.io/docs/img/img_1461762053607.png)| Datensatz speichern|
 |![](http://xpecto.github.io/docs/img/img_1461762083830.png)| Berechnungsprofile neu anlegen|
