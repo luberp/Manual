@@ -94,7 +94,7 @@ Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Si
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_Einzelschreiben.png)
 
 
-Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Button_Einzelschreiben.png) um Einzelschreiben für jeden Anleger zu erstellen und zu versenden. Wählen Sie den zugehörigen Bericht der als Bericht für *Berechungen Einzelschreiben* markiert sein muss. (siehe Hanbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
+Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Button_Einzelschreiben.png) um Einzelschreiben für jeden Anleger zu erstellen und zu versenden. Wählen Sie den zugehörigen Bericht der als Bericht für *Berechungen Einzelschreiben* markiert sein muss. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Einzelbelege_drucken.png)
 
