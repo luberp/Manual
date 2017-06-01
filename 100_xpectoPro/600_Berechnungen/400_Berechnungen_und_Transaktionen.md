@@ -70,25 +70,14 @@ Einzelne Datensätze können an dieser Stelle per Doppelklick geöffnen und bear
       
 Die Buchhaltungsdaten dieser Transaktion werden bei jedem Vertrag im Reiter *Buchungsdaten* automatisch gespeichert. Die Bearbeitung, der Export und die Festschreibung von Buchungssätzen erfolgt über die Maske *Stapelbuchungen* (siehe Handbuch *Bearbeiten → Stapelbuchung*).
 
-> ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Sie
-> können vorab, bevor die Beträge fest gebucht werden, für einen bzw.
-> alle Verträge Testberechnungen durchführen. Bitte wählen Sie hier die
-> entsprechende Funktion *Gesamt* für eine Berechnung der kompletten
-> Selektion bzw. *akt.Vertrag* für einen selektierten Vertrag.
-> ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Testberechnung.png)
-> Im *Testdialog für Fondsberechnung* erhalten Sie die Werte und
-> Buchungsdaten die erzeugt würden, wenn Sie für diesen Vertrag eine
-> reguläre Berechnung durchgeführt würde.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Sie können vorab, bevor die Beträge fest gebucht werden, für einen bzw. alle Verträge Testberechnungen durchführen. Bitte wählen Sie hier die entsprechende Funktion *Gesamt* für eine Berechnung der kompletten Selektion bzw. *akt.Vertrag* für einen selektierten Vertrag. ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Testberechnung.png) 
+Im *Testdialog für Fondsberechnung* erhalten Sie die Werte und Buchungsdaten die erzeugt würden, wenn Sie für diesen Vertrag eine reguläre Berechnung durchgeführt würde.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Testdialog_Fondsberechnung.png)
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)
-
 Schließen Sie den Dialog um zur Maske *Berechnungen und Transaktionen* zurückzukehren.
 
-
-
-Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Loeschen.png) kann die Transaktion bzw. Bestandsteile davon gelöscht werden.
+Mit Hilfe des Buttons ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Loeschen.png) kann eine Transaktion bzw. Bestandsteile davon gelöscht werden.
 Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive aller Berechnungen oder nur berechneten Buchungsdaten löschen möchten.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_loeschen.png)
