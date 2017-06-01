@@ -91,7 +91,7 @@ Abschließenden Schritte in der Maske Berechnungen und Transaktionen sind:
 
 |  Schaltfläche   |  Beschreibung  |
 | --------------- |:---------------|
-|![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Zahlungsverkehr.png)|Überweisung/Zahlungsdateien und Belege erstellen|
+|![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Zahlungsverkehr.png)| Überweisung/Zahlungsdateien und Belege erstellen|
 |![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Druck_Ausgabe.png)|Einzelschreiben oder Gesamtliste für Anleger erstellen|
 
 Um eine Zahlungsdatei für die ausgewählte Berechnungen zu erstellen klicken Sie auf die Schaltfläche *Datei erstellen*. Sie werden zum *xpectoPro OPOS * Dialog weitergeleitet (siehe Handbuch *Berechnungen → Offene Posten*). 
