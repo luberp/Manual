@@ -1,8 +1,8 @@
-xpectoPro ermöglicht die Durchführung der verschiedensten Art an Berechnungen wie zum Beispiel Verlustverteilung, Entnahmen/Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung.
+xpectoPro ermöglicht die Durchführung verschiedenster Arten an Berechnungen, wie zum Beispiel Verlustverteilung, Entnahmen/Entnahmepläne, Anteilskauf, Basisdividende, Verzinsung, Gebührenberechnung.
 
- Jedes Produkt wird intern als eigener Mandant mit eigenen Buchhaltung geführt, die Berechnung kann produktübergreifend erfolgen, eine übergreifende Berechnung von Dividenden oder Zinsen ist somit universal für alle Produkte durchführbar.
+ Jedes Produkt wird intern als eigener Mandant mit eigener Buchhaltung geführt, die Berechnung kann produktübergreifend erfolgen, eine übergreifende Berechnung von Dividenden oder Zinsen ist somit universal für alle Produkte durchführbar.
  
-Die Berechnungen können in beliebiger Art kombiniert und als Vorlage in einem Berechnungsprofil hinterlegt werden.  Die Berechnung kann für einen bestimmten Zeitraum des festgelegten Intervalls erfolgen.
+Die Berechnungen können in beliebiger Art kombiniert und als Vorlage in einem Berechnungsprofil hinterlegt werden.  Die Berechnung kann für einen frei gewählten Zeitintervall durchgeführt werden.
 
 In der klassischen Menü-Ansicht erreichen Sie die Maske über *Berechnungen → Berechnungen und Transaktionen*.
 
@@ -64,7 +64,7 @@ Wenn die Berechnung gestartet wird, wird automatisch eine Transaktion erstellt d
 Es werden nun alle Beteiligungen und die errechneten Ansprüche angezeigt. 
 Einzelne Datensätze können an dieser Stelle per Doppelklick geöffnen und bearbeiten/ korrigert  werden.
 
-Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Werte_einbuchen.png) werden die Werte gebucht.  Eine Änderung der Beträge ist an dieser Stelle nicht mehr möglich.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Durch die Betätigung der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Werte_einbuchen.png) werden die Werte gebucht.  Eine Änderung der Beträge ist nach diesem Schritt nicht mehr möglich.
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Werte_einbuchen_Buchungen.png)     
       
