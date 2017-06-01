@@ -317,7 +317,7 @@ Innerhalb der einzelnen Detailreiter (wie z.B. Reiter "Bestandteile") erfolgt da
 
 ####1. Zugangsdaten
 
-aifExpert nutzt zur Übertragung der Meldungen und zur Kommunikation mit dem BZSt die Massendatenschnittstelle (Elma5). Um diese Schnittstelle nutzen zu können bedarf es vorheriger Anmeldungen auf dem Portal des BZSt. Nach den erfolgreichen Anmeldungen erhält der Anwender eine Reihe von Zugangsdaten sowie ein Zerfitikatsdatei. Diese Zugangsdaten sowie das Zertifikat sind essenziell für die ordnungsgemäße Benutzung des BZSt-Moduls vom aifExpert. Mithilfe der Schaltfläche "BZSt" im Bereich Zugangsdaten im Menü-Reiter "Stammdaten" öffnet sich ein Dialog in dem die notwendigen Informationen sowie das Zertifikat hinterlegt werden kann. 
+aifExpert nutzt zur Übertragung der Meldungen und zur Kommunikation mit dem BZSt die Massendatenschnittstelle (ELMA5). Um diese Schnittstelle nutzen zu können bedarf es vorheriger Anmeldungen auf dem Portal des BZSt. Nach den erfolgreichen Anmeldungen erhält der Anwender eine Reihe von Zugangsdaten sowie eine Zerfitikat-Datei. Diese Zugangsdaten sowie das Zertifikat sind essenziell für die ordnungsgemäße Benutzung des BZSt-Moduls vom aifExpert. Mithilfe der Schaltfläche "BZSt" im Bereich Zugangsdaten im Menü-Reiter "Stammdaten" öffnet sich ein Dialog in dem die notwendigen Informationen sowie das Zertifikat hinterlegt werden kann. 
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen28.png)
 
@@ -377,7 +377,7 @@ Nachdem der Meldungskopf definiert wurde kann nun eine CRS-Meldung für das spez
 
 ####6. Aktion - Prüfung anhand Bericht (optional)
 
-Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten der einzelnen Konten zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Um den Bericht "CRSMeldung" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "CRSMeldung" ausgewählt und heruntergeladen werden. 
+Nachdem alle notwendigen Felder mit Werten versehen wurden, ist die CRS-Meldung als vollständig zu betrachten. Um eine Gegenprüfung der hinterlegten Daten der einzelnen Konten zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formaten gespeichert und gedruckt werden. Um den Bericht "CRSMeldung" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "CRSMeldung" ausgewählt und heruntergeladen werden. 
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen43.png)
 
@@ -401,7 +401,7 @@ Nachdem die zu meldenden Dateien erstellt wurde, können diese nun im Bereich de
 
 ####9. Aktion - Abholung BZSt-Antworten
 
-Nachdem die Dateien hochgeladen worden sind, können nun die jeweiligen Antworten des BZSt abgeholt werden.
+Nachdem die Dateien hochgeladen wurden, können nun die jeweiligen Antworten des BZSt abgeholt werden.
 Dies erfolgt zentral, d.h. unabhängig von Meldung und Periode, mithilfe der Schaltfläche "Abholung" im Menü-Reiter "Aktionen". Dabei werden die Antworten vom BZSt heruntergeladen und der jeweiligen Meldung zugeordnet. 
 
 > ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen40.png)
