@@ -1,1 +1,1 @@
-![](http://xpecto.github.io/docs/xpecto/Installation/Installation_der_Software/Verbindung_Datenbank.png)
+![](http://xpecto.github.io/docs/xpecto/Logos/E_Metro_256.png)
