@@ -89,8 +89,8 @@ Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive
 
 Abschließenden Schritte in der Maske Berechnungen und Transaktionen sind:
 
-|  Schaltfläche   |  Beschreibung  |
-| --------------- |:---------------|
+| Aktion           |    Beschreibung     |  
+| ------------- |:-------------| 
 |![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Zahlungsverkehr.png)| Überweisung/Zahlungsdateien und Belege erstellen|
 |![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Druck_Ausgabe.png)|Einzelschreiben oder Gesamtliste für Anleger erstellen|
 
