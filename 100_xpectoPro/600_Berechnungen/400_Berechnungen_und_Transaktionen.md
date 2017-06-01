@@ -47,7 +47,7 @@ Weitere Eigenschaften der Funktionsleiste:
 |![](http://xpecto.github.io/docs/img/img_1441197372050.png)|Eine bestehende Berechnung aus einer anderen Periode kopieren.|
 |![](http://xpecto.github.io/docs/img/img_1441197398657.png)|Eine markierte Berechnung kopieren.|
 |![](http://xpecto.github.io/docs/img/img_1461763926549.png)|Eine markierte Berechnung löschen.|
-
+[![](http://xpecto.github.io/docs/img/img_1461763883687.png)](dfgdfgdgdfg)
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_anpassen.png)
 
