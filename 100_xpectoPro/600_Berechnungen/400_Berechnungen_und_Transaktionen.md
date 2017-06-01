@@ -89,7 +89,7 @@ Im folgenden Dialog können Sie wählen ob Sie die gesamte Transaktion inklusive
 
 Abschließenden Schritte in der Maske Berechnungen und Transaktionen sind:
 
-|  Schaltfläche               |    Beschreibung    |
+|  Schaltfläche   |  Beschreibung  |
 | --------------- |:---------------|
 |![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Zahlungsverkehr.png)|Überweisung/Zahlungsdateien und Belege erstellen|
 |![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Druck_Ausgabe.png)|Einzelschreiben oder Gesamtliste für Anleger erstellen|
@@ -114,7 +114,7 @@ Die Maske *Berechnungen und Transaktionen* enthält neben der Ansicht für Berec
 
   ![](http://xpecto.github.io/docs/img/img_1461761495681.png)
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Eine Transaktion ist eine Kennzeichnung der Berechnung, um enthaltene Buchungen zusammenzufassen. Transaktionen werden automatisch beim Starten der Berechnung erstellt.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Eine Transaktion ist eine Kennzeichnung der Berechnung um enthaltene Buchungen zusammenzufassen. Transaktionen werden automatisch beim Starten der Berechnung erstellt.
 
 ![](http://xpecto.github.io/docs/img/img_1441364859005.png)
 
