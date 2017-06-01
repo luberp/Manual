@@ -51,7 +51,7 @@ Weitere Eigenschaften der Funktionsleiste:
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_anpassen.png)
 
-Nachdem eine neue Berechnung angelegt wurde, können Sie nun die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/img/img_1461764018473.png) gelangen Sie in den Dialog *Berechnungs-Parmeter*. Hier kann die Berechnung individuell auf Ihre Bedürfnisse angepasst werden. 
+Nachdem eine neue Berechnung angelegt wurde, können Sie nun die Berechnungs-Parameter festlegen. Mit Hilfe des Symbols ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnung_bearbeiten.png) gelangen Sie in den Dialog *Berechnungs-Parmeter*. Hier kann die Berechnung individuell auf Ihre Bedürfnisse angepasst werden. 
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Berechnungs_Parameter.png)
 
@@ -100,14 +100,15 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berech
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen ohne dass eine Belegnummer erzeugt wird.  Über *Belegdruck* werden Einzelschreiben erzeugt, die vom System automatisch mit einer fortlaufender Belegnummern versehen werden, diese können nach dem Beleglauf nicht mehr geändert bzw. korrigiert werden.
 
-Um eine Übersichtsliste für die komplette Berechnung zu drucken und zu exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png)  Wählen Sie den zugehörigen Bericht, der Bericht muss hierzu als Bericht für *Berechungen Listen* markiert werden. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
+Um eine Übersichtsliste für die komplette Berechnung zu drucken und zu exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Button_Listen.png)  Wählen Sie den zugehörigen Bericht, der Bericht muss hierzu als Bericht für *Berechungen Listen* markiert werden. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
 Die Maske *Berechnungen und Transaktionen* enthält neben der Ansicht für Berechnungen einen Ansicht für  Transaktionen. Sie erreichen diese Ansicht über den Reiter  *Transaktion* bzw. in der Hauptansicht von xpectoPro unter *Buchhaltung -> Werte -> Transaktion*.
  
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion.png)
 
 
-  ![](http://xpecto.github.io/docs/img/img_1461761495681.png)
+  ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Transaktion_Main.png)
+
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Eine Transaktion ist eine Kennzeichnung der Berechnung um enthaltene Buchungen zusammenzufassen. Transaktionen werden automatisch beim Starten einer Berechnung erstellt.
 
