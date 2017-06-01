@@ -98,7 +98,7 @@ Klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berech
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Berechnungen_und_Transaktionen/Einzelbelege_drucken.png)
 
-Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen ohne dass eine Belegnummer erzeugt wird.  Über *Belegdruck* werden Einzelschreiben erzeugt die vom System automatisch mit einer fortlaufender Belegnummern versehen werden, diese können nach dem Beleglauf nicht mehr geändert bzw. korrigiert werden.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Über *Testdruck* können Sie ein Schreiben für jeden Anleger erzeugen ohne dass eine Belegnummer erzeugt wird.  Über *Belegdruck* werden Einzelschreiben erzeugt, die vom System automatisch mit einer fortlaufender Belegnummern versehen werden, diese können nach dem Beleglauf nicht mehr geändert bzw. korrigiert werden.
 
 Um eine Übersichtsliste für die komplette Berechnung zu drucken und zu exportieren, klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441188040541.png)  Wählen Sie den zugehörigen Bericht, der Bericht muss hierzu als Bericht für *Berechungen Listen* markiert werden. (siehe Handbuch *Extras → Berichte und Adressmuster → Berichte → Reiter Kategorien*).
 
