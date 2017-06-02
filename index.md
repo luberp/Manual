@@ -1,6 +1,6 @@
 
 
-# Inhalt ![](http://xpecto.github.io/docs/xpecto/Logos/E_Metro_48.png)
+# Inhalt
 
 1. [Einleitung](http://help.xpecto.de/Einleitung)
 * 1.1. [Über xpectoPro](http://help.xpecto.de/Einleitung/Ueber_xpectoPro)
