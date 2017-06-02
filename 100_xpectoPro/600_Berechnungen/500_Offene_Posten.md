@@ -43,5 +43,5 @@ Nachdem Sie diese Daten eingegeben haben öffnet sich der Dialog *Zahlungsverkeh
 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt.  Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
-Der Zahlungsverkehr wird unter Handbuch *Berechnungen → Zahlungsverkehr* beschrieben.
+Der Zahlungsverkehr wird im Handbuch unter *Berechnungen → Zahlungsverkehr* beschrieben.
 
