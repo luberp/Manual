@@ -29,6 +29,8 @@ Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw.
 
 Geben Sie im darauf folgenden Dialog das Ausführungsdatum an, der nächste Bankarbeitstag wird Ihnen vom System automatisch vorgeschlagen. Die Eingabe eines individuellen Datums ist hier ebenfalls möglich.
 
+Im weiteren Verlauf werden Sie vom System durch die folgenden Punkte geführt:
+
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Faelligkeitsdatum.png)
 
 In den weiteren Schritten werden Sie gebeten die Zahlungswährung, Zahlungszweck und ein Bankkonto auszuwählen.
