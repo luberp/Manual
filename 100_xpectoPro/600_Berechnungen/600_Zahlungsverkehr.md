@@ -1,6 +1,7 @@
 *Zahlungsverkehr* ist ein zentrales Modul von xpectoPro, mit dem Sie Zahlungsaufträge wie Überweisungen, Lastschriften selbst erstellen und elektronisch an die Kreditinstitute übermitteln können. 
-Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der ersten Rate, die Bankverbindung, das Einzugsinterval und die Art des Einzugs erfasst. 
-Aus dieser Daten berechnet das  Modul *Zahlungsverkehr* für ratierliche Verträge, die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. Diese Daten können getestet werden über *Berechnungen → Probeberechnung → Sollstellungstest*. 
+Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der ersten Rate, die Bankverbindung, das Einzugsintervall und die Art des Einzugs erfasst. 
+Aus diesen Daten berechnet das  Modul *Zahlungsverkehr* automatisch, für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. 
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Diese Daten können getestet werden über *Berechnungen → Probeberechnung → Sollstellungstest* in der klassischen Ansicht und über *Zahlungsverkehr -> aktuellen Vertrag testen* in der modernen Ansicht.
 
 In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
 
@@ -8,7 +9,7 @@ In der klassichen Menü-Ansicht kann das  *Zahlungsverkehr*-Dialog  über Menü 
 
 In der modernen Menü-Ansicht wird die Funktion *Zahlungsverkehr* unter Registerkarte *Buchhaltung* Gruppe *Buchungsdaten* angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1461827801423.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Zahlungsverkehr_Menue.png)
 
 Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
 
