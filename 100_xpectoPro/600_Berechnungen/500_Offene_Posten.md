@@ -33,7 +33,8 @@ Geben Sie im darauf folgenden Dialog das Ausführungsdatum an, der nächste Bank
 
 In den weiteren Schritten werden Sie gebeten die Zahlungswährung, Zahlungszweck und ein Bankkonto auszuwählen.
 
-![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungswaehrung.png)![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungszweck.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungswaehrung.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungszweck.png)
 
 
 Nachdem Sie diese Daten eingegeben haben öffnet sich der Dialog*Zahlungsverkehr*.
