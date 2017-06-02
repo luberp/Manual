@@ -2,7 +2,11 @@
 Bei der Erfassung eines Vertrages werden alle für den späteren Bankeinzug relevanten Daten eingetragen.  Im Vertrag werden die Ratenhöhe, die Laufzeit, das Datum der ersten Rate, die Bankverbindung, das Einzugsintervall und die Art des Einzugs erfasst. 
 Aus diesen Daten berechnet das  Modul *Zahlungsverkehr* automatisch, für ratierliche Verträge die notwendigen Datensätze für den Lastschrift-Einzug der monatlichen Raten. 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Diese Daten können getestet werden über *Berechnungen → Probeberechnung → Sollstellungstest* in der klassischen Ansicht oder über *Zahlungsverkehr -> aktuellen Vertrag testen* in der modernen Ansicht.
+> ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)
+> Diese Daten können getestet werden über *Berechnungen →
+> Probeberechnung → Sollstellungstest* in der klassischen Ansicht oder
+> über *Zahlungsverkehr -> aktuellen Vertrag testen* in der modernen
+> Ansicht.
 
 In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
 
