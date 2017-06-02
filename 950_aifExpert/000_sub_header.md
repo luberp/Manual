@@ -1,4 +1,3 @@
-![](http://xpecto.github.io/docs/xpecto/Logos/F_Metro_48.png)
 1. [Über aifExpert](http://help.xpecto.de/aifExpert/Ueber)
 2. [Installation](http://help.xpecto.de/aifExpert/Installation)
 3. [Risikomanagement](http://help.xpecto.de/aifExpert/Risikomanagement)
