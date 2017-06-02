@@ -6,7 +6,7 @@ Aus diesen Daten berechnet das  Modul *Zahlungsverkehr* automatisch, für ratier
 ----------
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Diese Daten können getestet werden über *Berechnungen → Probeberechnung → Sollstellungstest* in der klassischen Ansicht oder über *Zahlungsverkehr -> aktuellen Vertrag testen* in der modernen Ansicht.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Diese Daten können vorab über *Berechnungen → Probeberechnung → Sollstellungstest* in der klassischen Ansicht oder über *Zahlungsverkehr -> aktuellen Vertrag testen* in der modernen Ansicht getestet werden bevor diese zur regulären Berechnung herangezogen werden.
 
 
 ----------
