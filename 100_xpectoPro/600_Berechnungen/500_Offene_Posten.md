@@ -31,10 +31,10 @@ Im weiteren Verlauf werden Sie vom System durch die folgenden Punkte geführt:
 
 | Aktion           |    Beschreibung     |  
 | ------------- |:-------------| 
-|![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Faelligkeitsdatum.png)    |  Fälligkeitsdatum auswählen.| 
-| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungswaehrung.png)   |  Zahlungswährung auswählen.| 
-| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungszweck.png)     | Zahlungszweck auswählen.|
-| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Bankkonto.png)     | Buchungskonto auswählen.|
+|![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Faelligkeitsdatum.png) |  Fälligkeitsdatum auswählen.| 
+| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungswaehrung.png) |  Zahlungswährung auswählen.| 
+| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungszweck.png)    | Zahlungszweck auswählen.|
+| ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Bankkonto.png)    | Buchungskonto auswählen.|
 
 
 Nachdem Sie diese Daten eingegeben haben öffnet sich der Dialog*Zahlungsverkehr*.
