@@ -37,9 +37,9 @@ Im weiteren Verlauf werden Sie vom System durch die folgenden Punkte geführt:
 | ![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Bankkonto.png)    | Buchungskonto auswählen.|
 
 
-Nachdem Sie diese Daten eingegeben haben öffnet sich der Dialog*Zahlungsverkehr*.
+Nachdem Sie diese Daten eingegeben haben öffnet sich der Dialog *Zahlungsverkehr*.
 
-![](http://xpecto.github.io/docs/img/img_1461771119658.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/offene_Posten/Zahlungsverkehr.png)
 
 Aus einer OPOS Buchung wird eine Sollbuchung erstellt.  Im oberen Bereich sind die gerade erstellten Sollbuchungen zu sehen. 
 
