@@ -8,9 +8,7 @@ Aus diesen Daten berechnet das  Modul *Zahlungsverkehr* automatisch, für ratier
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Diese Daten können vorab über *Berechnungen → Probeberechnung → Sollstellungstest* in der klassischen Ansicht oder über *Zahlungsverkehr -> aktuellen Vertrag testen* in der modernen Ansicht getestet werden bevor diese zur regulären Berechnung herangezogen werden.
 
-
 ----------
-
 
 Im Dialog *Zahlungsverkehr* stehen folgende Funktionalitäten zur Verfügung: *Lastschriften berechnen, aktuellen Vertrag testen, OPOS berechnen, Daten löschen, Daten prüfen, Zahlungsdatei erzeugen*.
 
@@ -24,7 +22,7 @@ Hier können Sie direkt mit dem Berechnungslauf beginnen, oder durch bereits erf
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Lastschrift_berechnen.png)
 
-Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Lastschrift_berechnen_Button.png) xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
+Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Lastschrift_berechnen_Button.png) .xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
 
 
 ----------
@@ -38,7 +36,7 @@ Die Sollstellung kann auch gelöscht werden durch Betätigung der Schaltfläche 
 
 ![](http://xpecto.github.io/docs/img/img_1461830868799.png)
 
-In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe Handbuch *Berechnungen → Offenen Posten*). 
+In dem *Zahlungsverkehr*-Dialog können Sie offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in den *xpectoPro OPOS Verarbeitung* Dialog  (siehe Handbuch *Berechnungen → Offenen Posten*). 
 Aus einer OPOS Buchung wird ein Sollbuchungdatensatz erstellt und im oberen Bereich des Dialoges angezeigt. 
 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png), werden die Sollbuchungen in Zahlungsdateien umgewandelt. 
@@ -46,7 +44,11 @@ Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird
 
 ![](http://xpecto.github.io/docs/img/img_1461831006328.png)
 
-Bei der Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien (in dem unter Menü *Extras → Einstellungen → Bank* Pfad, angegebenen Ordner angelegt): eine CSV-Datei, PDF Datei und die SEPA-Datei (Dateiendung .xml).
-Die Dateien werden in einen Ordner gespeichert.  Mit einem Doppelklick auf das Ordnersymbol, können Sie ihn öffnen. Die Dateien können dann über die entsprechenden Banksysteme eingereicht werden.
+Bei Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien im Verzeichnis für Bankdaten angelegt:
+
+ -  eine CSV-Datei mit folgendem Inhalt: Vertragsnummer, Produkt, Name u. Adresse des Anteileigners, Betrag, Währung, Buchungstext sowie die Bankverbindung.
+ -  einen Zahlungsverkehr - Begleitzettel zur Transaktion.
+ - eine SEPA-Datei zur Übermittlung an das Kreditinstitut.
+
 Bei den einzelnen Verträgen würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieses Einzugs steht auf belastet da er zu Bank weitergegeben wurde. 
 Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszugs-Manager. Das System erkennt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang ist somit abgeschlossen.
