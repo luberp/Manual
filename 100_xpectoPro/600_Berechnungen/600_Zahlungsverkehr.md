@@ -12,7 +12,7 @@ Aus diesen Daten berechnet das  Modul *Zahlungsverkehr* automatisch, für ratier
 ----------
 
 
-In dem Dialog stehen folgende Funktionalitäten: *Lastschriften erzeugen, OPOS berechnen, Sollstellung löschen, Datenprüfung, Dateien erzeugen* zur Verfügung.
+Im Dialog *Zahlungsverkehr* stehen folgende Funktionalitäten zur Verfügung: *Lastschriften berechnen, aktuellen Vertrag testen, OPOS berechnen, Daten löschen, Daten prüfen, Zahlungsdatei erzeugen*.
 
 In der klassichen Menü-Ansicht kann das  *Zahlungsverkehr*-Dialog  über Menü *Berechnungen → Zahlungsverkehr* geöffnet werden. 
 
@@ -20,22 +20,25 @@ In der modernen Menü-Ansicht wird die Funktion *Zahlungsverkehr* unter Register
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Zahlungsverkehr_Menue.png)
 
-Hier können Sie direkt mit dem Berechnungsverlauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
+Hier können Sie direkt mit dem Berechnungslauf beginnen, oder durch bereits erfolgte frühere Stichtage blättern.  
 
-Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/img/img_1441715573070.png).  xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Lastschrift_berechnen.png)
 
-![](http://xpecto.github.io/docs/img/img_1461830939718.png)
-
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771677497.png) werden die Daten auf Korrektheit verifiziert, und wenn die geprüfte Daten in Ordnung sind dann wird die *Dateien erzeugen* Schaltfläche aktiv. 
+Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Lastschrift_berechnen_Button.png) xpectoPro ermittelt nun alle fälligen Bankeinzüge zu diesem Datum und fasst diese zusammen. Es erscheint eine Liste mit Verträgen und den dazugehörigen Raten-Sollstellungen. Wählen Sie die abzurechnenden Verträge aus und erstellen Sie die gewünschte Ausgabedatei. 
 
 
-Durch einen Doppelklick auf Details ![](http://xpecto.github.io/docs/img/img_1440771513947.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
+----------
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Bitte beachten Sie dass eine Ausgabedatei erst nach Prüfung der Datensätze erzeugt werden kann. Verwenden Sie hierzu die Funktion *Daten prüfen*.
+Durch einen Doppelklick auf Details ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Details.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
+
+----------
 
 Die Sollstellung kann auch gelöscht werden durch Betätigung der Schaltfläche *Sollstellung löschen*.
 
 ![](http://xpecto.github.io/docs/img/img_1461830868799.png)
 
-In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe Hanbuch *Berechnungen → Offenen Posten*). 
+In dem *Zahlungsverkehr*-Dialog können Sie Offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in dem *xpectoPro OPOS Verarbeitung* Dialog  (siehe Handbuch *Berechnungen → Offenen Posten*). 
 Aus einer OPOS Buchung wird ein Sollbuchungdatensatz erstellt und im oberen Bereich des Dialoges angezeigt. 
 
 Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png), werden die Sollbuchungen in Zahlungsdateien umgewandelt. 
