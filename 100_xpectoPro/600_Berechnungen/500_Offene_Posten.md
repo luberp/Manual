@@ -27,8 +27,6 @@ Der OPOS Dialog bietet Ihnen generell drei grundsätzlich Funktionen:
 Eine Lastschrift ist die Umkehrung der Überweisung. Der Zahlungsempfänger gibt hier seiner Bank den Auftrag, vom Konto des Zahlungspflichtigen bei dessen Bank (Zahlstelle) einen bestimmten Betrag abzubuchen. 
 Offene Posten können miteinander verrechnet werden, das heißt Forderungen bzw. Verbindlichkeiten können zusammengefasst werden oder Forderungen können mit Verbindlichkeiten gegeneinander aufgerechnet werden wie z.B. Rechnung mit einer Gutschrift ausgleichen.
 
-Geben Sie im darauf folgenden Dialog das Ausführungsdatum an, der nächste Bankarbeitstag wird Ihnen vom System automatisch vorgeschlagen. Die Eingabe eines individuellen Datums ist hier ebenfalls möglich.
-
 Im weiteren Verlauf werden Sie vom System durch die folgenden Punkte geführt:
 
 | Aktion           |    Beschreibung     |  
