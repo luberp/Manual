@@ -29,26 +29,27 @@ Starten Sie die Berechnung mit einem Klick auf ![](http://xpecto.github.io/docs/
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Bitte beachten Sie dass eine Ausgabedatei erst nach Prüfung der Datensätze erzeugt werden kann. Verwenden Sie hierzu die Funktion *Daten prüfen*.
 Durch einen Doppelklick auf Details ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Details.png), können Sie z.B. die Fehler der Datensätze sehen, falls welche vorhanden sind.
+Sollstellungen können falls notwendig über den Button *Daten löschen* gelöscht werden.
 
 ----------
 
-Die Sollstellung kann auch gelöscht werden durch Betätigung der Schaltfläche *Sollstellung löschen*.
 
-![](http://xpecto.github.io/docs/img/img_1461830868799.png)
 
-In dem *Zahlungsverkehr*-Dialog können Sie offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442241462845.png) gelangen Sie in den *xpectoPro OPOS Verarbeitung* Dialog  (siehe Handbuch *Berechnungen → Offenen Posten*). 
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Zahlungsverkehr.png)
+
+Im *Zahlungsverkehr*-Dialog können Sie offene Posten berechnen, über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/OPOS_berechnen.png) gelangen Sie in den *xpectoPro OPOS Verarbeitung* Dialog  (siehe Handbuch *Berechnungen → Offenen Posten*). 
 Aus einer OPOS Buchung wird ein Sollbuchungdatensatz erstellt und im oberen Bereich des Dialoges angezeigt. 
 
-Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440771590046.png), werden die Sollbuchungen in Zahlungsdateien umgewandelt. 
+Durch einen Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Zahlungsdatei_erzeugen_Button.png), werden die Sollbuchungen in Zahlungsdateien umgewandelt. 
 Die Sollbuchungen werden zu einer Transaktion zusammengefasst, und zugleich wird ein Datensatz für den Zahlungsverkehr erzeugt. 
 
-![](http://xpecto.github.io/docs/img/img_1461831006328.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Zahlungsverkehr/Zahlungsverkehrsdatei.png)
 
 Bei Erzeugung der Zahlungsverkehrsdatei werden folgende Dateien im Verzeichnis für Bankdaten angelegt:
 
- -  eine CSV-Datei mit folgendem Inhalt: Vertragsnummer, Produkt, Name u. Adresse des Anteileigners, Betrag, Währung, Buchungstext sowie die Bankverbindung.
- -  einen Zahlungsverkehr - Begleitzettel zur Transaktion.
- - eine SEPA-Datei zur Übermittlung an das Kreditinstitut.
+ - Eine CSV-Datei mit folgendem Inhalt: Vertragsnummer, Produkt, Name u. Adresse des Anteileigners, Betrag,        Währung, Buchungstext sowie die Bankverbindung.
+ - Ein Begleitzettel zur Transaktion.
+ - Eine SEPA-Datei zur Übermittlung an das Kreditinstitut.
 
 Bei den einzelnen Verträgen würde dann der Zahlplan (Reiter *Sollbuchungen*) um diese Rate ergänzt. Der Status dieses Einzugs steht auf belastet da er zu Bank weitergegeben wurde. 
-Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszugs-Manager. Das System erkennt dann automatisch die einzelne Lastschriften des Einzugs und verbucht diese auf dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt und der Vorgang ist somit abgeschlossen.
+Die Verbuchung erfolgt erst nach dem Einlesen der Kontoauszüge über unseren Kontoauszugs-Manager. Das System erkennt automatisch die einzelne Lastschriften des Einzugs und verbucht diese dem Kundenkonto. Ist dies erledigt, wird der Status auf bezahlt gesetzt und der Vorgang ist somit abgeschlossen.
