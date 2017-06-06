@@ -23,7 +23,7 @@ Gehen Sie bitte hierzu wie folgt vor:
 ----------
 
 
-Es wird für diesen Vertrag die Abschlussprovision- und Bestandsprovision-Ansprüche, berechnet.
+Es werden nun für diesen Vertrag die Abschluss- und Bestandsprovision bzw. Ansprüche berechnet.
 
 ![](http://xpecto.github.io/docs/img/img_1440592795229.png)
 
