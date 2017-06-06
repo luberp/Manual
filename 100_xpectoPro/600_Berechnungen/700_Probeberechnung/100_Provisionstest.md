@@ -14,7 +14,16 @@ Es werden Ihnen nun die Abschluss- und Bestandsprovision bzw. Ansprüche für di
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Testdialog_Provisionsprozeduren.png)
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440593037818.png) bekommen Sie eine Liste der Provisionsansprüche der einzelnen Vermittler angezeigt.
-Diese Liste wird durch das hinterlegte Provisionsabrechnungsskript beeinflusst (das Skript wird durch xpecto Kundensupport angelegt/angepasst).
+Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440593037818.png) wird Ihnen eine Liste von Provisionsansprüche der einzelnen Vermittler angezeigt.
+
+
+----------
+
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Diese Liste wird durch das Provisionsabrechnungsskript von xpecto beeinflusst und kann bei Bedarf durch den Kundensupport von xpecto angepasst werden.
+
+
+----------
+
 
 ![](http://xpecto.github.io/docs/img/img_1440593007992.png)
