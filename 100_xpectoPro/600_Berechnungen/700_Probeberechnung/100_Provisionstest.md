@@ -10,7 +10,9 @@ Gehen Sie bitte hierzu wie folgt vor:
 
 
 
-Es werden Ihnen nun die Abschluss- und Bestandsprovision bzw. Ansprüche für diesen Vertrag berechnet und angezeigt.
+Es werden Ihnen nun die Abschluss- und Bestandsprovision bzw. Ansprüche für diesen Vertrag berechnet und angezeigt. Im Detail enthält diese Ansicht folgende Informationen.
+
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Provisionsdetails.png)
 
 ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Testdialog_Provisionsprozeduren.png)
 
