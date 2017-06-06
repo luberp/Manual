@@ -18,7 +18,7 @@ Die wichtigsten Funktionen sind bereits in den Grundeinstellungen des Filters en
 |  Filter        |    Beschreibung    |  
 | -------------  |:-------------| 
 | Alles          | Es werden alle Tabellen synchronisiert| 
-| Definitionen   | Definitionen die unter Extras → Einstellungen → Synchronisation eingestellt sind | 
+| Definitionen   | Definitionen die unter Extras → Einstellungen → Synchronisation definiert sind | 
 | Löschungen     | Löschungen werden synchronisiert | 
 | Änd.abholen    | Änderungen werden von Server abgeholt| 
 | Änd.übermitteln| Änderungen werden zum Server geschickt|
