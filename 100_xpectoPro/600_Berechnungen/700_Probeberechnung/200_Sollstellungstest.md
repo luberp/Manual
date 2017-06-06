@@ -22,7 +22,7 @@ Die Prüfung des Vertrages umfasst im einzelnen folgende Punkte:
 ----------
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Falls ein Sollstellungsskript im Produkt hinterlegt ist wird das Skript für die Generierung der Buchungen verwendet z. B. dessen Ausgaben werden oben angezeigt.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Falls ein Sollstellungsskript im Produkt hinterlegt ist wird das Skript für die Generierung der Buchungen herangezogen. Genauere Informationen hierzu erhalten Sie über das Skript - Informationsfenster zur Laufzeit.
 
 
 ----------
