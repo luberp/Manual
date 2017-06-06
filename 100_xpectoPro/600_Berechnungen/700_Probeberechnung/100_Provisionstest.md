@@ -3,8 +3,24 @@
 Gehen Sie bitte hierzu wie folgt vor:
 
  1. ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Vertrag_auswaehlen.png) Wählen Sie einen Vertrag im Hauptdialog von xpectoPro.
+ 
+
+
+----------
+
+
  2. ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Provisionstest.png)  Öffnen Sie den Dialog für Testberechnungen.
+ 
+
+
+----------
+
+
  3. ![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Provisioan_berechnen.png) Starten Sie die Berechnung der Provisionen.
+ 
+
+
+----------
 
 
 Es wird für diesen Vertrag die Abschlussprovision- und Bestandsprovision-Ansprüche, berechnet.
