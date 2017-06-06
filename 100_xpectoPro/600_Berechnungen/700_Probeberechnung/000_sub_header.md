@@ -1,8 +1,8 @@
 In der klassischen Menü-Ansicht über das Menü *Berechnungen → Probeberechnungen* sind verschiedene Testberechnungen zu den  Berechnungsmodulen aufrufbar. 
 
-In der modernen Menü-Ansicht ist die Funktion *Provisionsberechnung* unter Registerkarte *Vertrieb* Gruppe *Provisionen* zu sehen.
+In der modernen Menü-Ansicht ist die Funktion *Provisionsberechnung* unter Registerkarte *Vertrieb* Gruppe *Provisionen* zu erreichen.
 
-![](http://xpecto.github.io/docs/img/img_1461832876332.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Probeberechnung_Menue.png)
 
-Bei den Testberechnungen werden dieselben Berechnungen durchgeführt, wie bei den realen Berechnungsläufen, jedoch werden nur die Log-Ausgaben der Berechnungsskripte angezeigt, aber keine Datensätze in der Datenbank erzeugt. Der Aufruf einer beliebigen Testberechnung durch den Anwender ist daher unschädlich.
-Diese dienen der Fehlersuche auch durch die Endanwender um den Fehler selbständig zu finden die nur an falsch eingestellten Werten liegen.
+Bei Testberechnungen werden dieselben Berechnungen durchgeführt, wie bei den realen Berechnungsläufen, jedoch werden nur die Log-Ausgaben der Berechnungsskripte angezeigt aber keine Datensätze in der Datenbank erzeugt. Der Aufruf einer Testberechnung durch den Anwender führt daher zu keinerlei Fehlbuchungen und kann problemlos jederzeit durchgeführt werden.
+Diese Funktion dient in erster Linie der Fehlersuche für Endanwender, um Fehler selbständig zu finden die nur an falsch eingestellten Werten liegen.
