@@ -28,7 +28,7 @@ Durch die Betätigung der Schaltfläche *Speichern* wird das ausgewählte Dokume
 Das Dokument dann bei *Kunde, Vertrag, Vermittler, Interessenten, Ereignisse Verträge* in der Hauptmaske unter dem Reiter *Ereignisse* angezeigt.
 
 
-**Ausdruck von Barcode-Aufkleber**
+*Ausdruck von Barcode-Aufkleber*
 
 Die Dokumente können automatisch über den Barcode erkannt und anhand der eingelesenen ID im Barcode automatisch dem entsprechenden Ereignis zugewiesen werden. Dabei wird das versendete Dokument, wenn es über xpectoPro wurde, durch das eingescannte Dokument ersetzt. Wurde nur ein Barcodelabel registriert bzw. gedruckt und auf das Dokument (vor dem einscannen) aufgeklebt, so wird hier beim Ereignis ebenfalls die Datei zugeordnet.
 Zum Ausdrucken eines Barcodes über einen Labeldrucker (z. B. DymoLabel Writer) wählen Sie in der Hauptmaske von xpectoPro einen Datensatz aus für den Sie einen Barcode ausdrucken möchten, z. B. einen Vertrag. 
