@@ -10,9 +10,9 @@ Gehen Sie bitte hierzu wie folgt vor:
 
 
 
-Es werden nun für diesen Vertrag die Abschluss- und Bestandsprovision bzw. Ansprüche berechnet.
+Es werden Ihnen nun die Abschluss- und Bestandsprovision bzw. Ansprüche für diesen Vertrag berechnet und angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1440592795229.png)
+![](http://xpecto.github.io/docs/xpecto/Berechnungen/Probeberechnung/Provisionstest/Testdialog_Provisionsprozeduren.png)
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1440593037818.png) bekommen Sie eine Liste der Provisionsansprüche der einzelnen Vermittler angezeigt.
 Diese Liste wird durch das hinterlegte Provisionsabrechnungsskript beeinflusst (das Skript wird durch xpecto Kundensupport angelegt/angepasst).
