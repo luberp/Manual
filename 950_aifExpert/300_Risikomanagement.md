@@ -1,8 +1,8 @@
 aifExpert unterstützt die KVG den vielfältigen Anforderungen des KAGB und der MaRisk zu begegnen und bietet vielfältige Funktionen das Risikomanagement zu gestalten. Um den Anforderungen nach einer umfassenden und detaillierten Betrachtung des Risikoprofils und einer benutzerfreundlichen Verwaltung der Risiken gerecht zu werden, bietet aifExpert entlang der Risikomanagement-Prozesse
 
  - Risikoerfassung
- - Risikobewertung
  - Risikosteuerung
+ - Risikobewertung
  - Risikoüberwachung
  - Risikokommunikation
 
