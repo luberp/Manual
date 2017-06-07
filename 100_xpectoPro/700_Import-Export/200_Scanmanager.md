@@ -61,7 +61,7 @@ In der modernen Menü-Ansicht kann der Barcode-Aufkleber über die Registerkarte
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Scanmanager/Barcode_drucken.png)
 
-Um einen Barcode zu drucken, klicken Sie auf die Schaltfläche *Barcode drucken*.
+Um den Vorgang zu starten, klicken Sie auf die Schaltfläche *Barcode drucken*.
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Scanmanager/Auswahl_Dokument.png)
 
