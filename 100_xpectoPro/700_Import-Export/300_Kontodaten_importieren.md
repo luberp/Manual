@@ -16,16 +16,10 @@ Je nach Dateiformat der zu importierenden Daten müssen das Trennzeichen sowie d
 Mit der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_importieren/Vorschau.png) werden die Importdaten als Tabelle angezeigt. 
 
 
-----------
 
 
-*Schritt 2: Importparameter festlegen* 
 
-
-----------
-
-
-hier muss das Umsatzkonto festgelegt werden. Das ist das Gegenkonto für die Umsätze die importiert werden.
+*Schritt 2: Importparameter festlegen*. Hier muss das Umsatzkonto festgelegt werden. Das ist das Gegenkonto für die Umsätze die importiert werden.
 Weisen sie nun die Spalten der Importdatei den passenden Spalten der Datenbank zu - *Schritt 3: Spalten zuweisen*. Bei Dateien im  MT940 Bankformat wird die Spaltenzuordnung automatisch vorgeschlagen.
 Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_importieren/Import_starten.png). 
 Bankbewegungen, die im Verwendungszweck eine Vertragsnummer enthalten, werden dabei automatisch dem angegebenen Vertrag zugewiesen.
