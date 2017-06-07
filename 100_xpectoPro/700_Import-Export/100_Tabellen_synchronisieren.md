@@ -6,7 +6,7 @@ In den modernen Menü-Ansicht erreichen Sie diese Funktion über *Werkzeuge* Gru
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Tabellen_synchronisieren/Synchronisation_Menue.png)
 
-Nach dem Starten wird in  Dialog *Synchronisation* eine Liste aller verfügbaren Tabellen angezeigt.
+Nach dem Starten wird im Dialog *Synchronisation* eine Liste aller verfügbaren Tabellen angezeigt.
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Tabellen_synchronisieren/Synchronisation_Main.png)
 
