@@ -28,7 +28,7 @@ Falls auf dem eingescannten Dokument kein Barcode vorhanden ist kann über die S
 ----------
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Diese Funktion erzeugt KEINEN Barcode, es wird lediglich auf einen bereits vorhandenen Barcode im System gesucht.*
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Diese Funktion erzeugt KEINEN Barcode, es wird lediglich nach einem bereits vorhandenen Barcode im System gesucht.*
 
 
 ----------
