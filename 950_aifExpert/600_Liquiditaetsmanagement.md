@@ -17,7 +17,7 @@ Der gesamte Prozess ist intern als Planungs-Buchhaltung organisiert und wird vom
 
 --------
 
-### Übersicht
+## Übersicht
 
 Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gestartet wurde, öffnet sich die Start-Oberfläche. Der Aufbau der Oberflächen ist folgendermaßen strukturiert:
   - Oben
@@ -27,19 +27,23 @@ Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gest
    - Mitte und Rechts
     - Dies ist der Hauptbereich zur Ablage, Bearbeitung und Veranschaulichung der Informationen und Daten. 
     - Beim Start des Moduls wird hier der Eingabebereich des jeweiligen Plans angezeigt. Ein Wechsel in einen anderen Reiter wie z.B. "Aufbau" wird im Hintergrund gemerkt, d.h. beim Wechsel in einen anderen Plan in der linken Auswahlliste wird dieser auch im Unterreiter "Aufbau" angezeigt.
-    
+   
+--------
+   
 ### Anlage
 
 Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. Beim Letzteren muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
 
-### Aufbau
+--------
+
+## Aufbau
 
 Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und definiert werden. Dazu muss im mittleren Bereich der Unterreiter "Aufbau" aufgerufen werden. Die Oberfläche für den Aufbau des Plans ist folgendermaßen strukturiert:
 - Im oberen Bereich finden sich Angaben und Informationen vom Plan selbst
 - Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
 - Im unteren Bereich erfolgt die Auflistung aller bisher hinterlegten Posten. Die Auflistung stellt gleichzeitig die Auswahlmöglichkeit der jeweiligen Posten dar. D.h. zur Bearbeitung eines entsprechenden Posten muss dieser in dieser Auflistung ausgewählt werden und kann anschließend im mittleren Bereich mit den Daten angepasst werden.
 
-#### Aufbau - Plan
+### Aufbau - Plan
 
 Im Bereich "Allgemein" kann der Name sowie das Produkt des Plans angepasst werden.
 Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden (siehe ). Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.
@@ -62,7 +66,10 @@ Im Bereich "Vorgaben" können Standardparameter bestimmt werden, die bei der Aus
     - Hier wird die Anzahl der Intervalle hinterlegt, die standardmäßig im Eingabe-Reiter im diesem Plan angezeigt werden (z.B. Intervall Monatlich > Anzahl 8 > Anzeige im Eingabe-Reiter von 8 Monaten)
     
 
-#### Aufbau - Posten
+### Aufbau - Posten
+
+
+#### Aufbau - Posten - Allgemein
 
 Im Bereich "Allgemein" können allgemeine Informationen zum Posten hinterlegt werden.
  - Bezeichnung
@@ -76,12 +83,16 @@ Im Bereich "Allgemein" können allgemeine Informationen zum Posten hinterlegt we
   - Der Owner (Besitzer) beschreibt das Produkt welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendt welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes  beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
   - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beiden den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen werden können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
 
+#### Aufbau - Posten - verknüpftes Asset
+
 Im Bereich "verknüpftes Asset" kann eine Verknüpfung zum Portfoliomanagement hergestellt werden.
   - Asset
     - Hier erfolgt die Auflistung aller vorhandenen Assets aus dem Portfoliomanagement.
     - Nach der Auswahl eines Assets erfolgt eine Verknüpfung des Postens mit dem Asset.
 
-Im Bereich "Aufbau" erfolgt die Definition des einzelnen Postens mit den entsprechenden Daten.
+#### Aufbau - Posten - Parameter
+
+Im Bereich "Parameter" erfolgt die Definition des einzelnen Postens mit den entsprechenden Daten.
   - Hauptposten
     - aifExpert erlaubt die Hinterlegung einer Hierarchie von Posten, d.h. ein Posten ist Unterposten eines anderen (z.B. der Posten "Erträge als KVAG" gehört zum Hauptposten "Gesamterträge (Periode)". Um diese Hierarchie anzulegen muss in diesem Feld ausgewählt werden, zu welchem Hauptposten dieser jeweilige Posten gehört. 
   - Ist-Konto
@@ -89,9 +100,10 @@ Im Bereich "Aufbau" erfolgt die Definition des einzelnen Postens mit den entspre
   - Einheit
     - Das Feld Einheit ist ein zwingend zu hinterlegendes Feld. 
   - Style
-    - Hier können verschiedene Parameter, zum Design und Verhalten des Postens mitgegeben werden. Folgende Einträge können hinterlegt werden:
+    - Hier können verschiedene Einträge, zum Design und Verhalten des Postens, mitgegeben werden. 
+    - Folgende Einträge können hinterlegt werden:
 
-| Parameter | Funktion | 
+| Eintrag | Funktion | 
 | ------------- |:-------------| 
 | readonly      | Text | 
 | fontbold      | Text | 
@@ -109,9 +121,14 @@ Im Bereich "Aufbau" erfolgt die Definition des einzelnen Postens mit den entspre
 | backdarkgrey  | Text | 
 
   - Sortierung
+    
   - Bemerkung
   
+#### Aufbau - Posten - Datenherkunft-Werte
+
 Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte entweder mithilfe von Formeln, Abfragen oder Funktionen.
   - Datenquelle
   - Datenparameter
   - Berechnung
+
+--------
