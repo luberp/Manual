@@ -32,7 +32,17 @@ Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gest
    
 ## Anlage
 
-Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. Beim Letzteren muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
+Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. 
+
+### Anlage - leerer Plan
+
+Bei der Auswahl eines leeren Plans wird ein Plan angelegt, der danach aufgebaut (siehe Aufbau) werden muss.
+
+### Anlage - Kopie
+
+Dei der Kopie des Plans muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
+aifExpert kopiert anschließend den gesamten Aufbau mit allen Parametern des bestehenden Plans in den neuen Plan. Lediglich die IDs der Posten werden neu generiert.
+
 
 --------
 
@@ -41,7 +51,7 @@ Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Ne
 Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und definiert werden. Dazu muss im mittleren Bereich der Unterreiter "Aufbau" aufgerufen werden. Die Oberfläche für den Aufbau des Plans ist folgendermaßen strukturiert:
 - Im oberen Bereich finden sich Angaben und Informationen vom Plan selbst
 - Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
-- Im unteren Bereich erfolgt die Auflistung aller bisher hinterlegten Posten. Die Auflistung stellt gleichzeitig die Auswahlmöglichkeit der jeweiligen Posten dar. D.h. zur Bearbeitung eines entsprechenden Posten muss dieser in dieser Auflistung ausgewählt werden und kann anschließend im mittleren Bereich mit den Daten angepasst werden.
+- Im unteren Bereich erfolgt die Auflistung aller bisher hinterlegten Posten. Die Auflistung stellt gleichzeitig die Auswahlmöglichkeit der jeweiligen Posten dar. D.h. zur Bearbeitung eines entsprechenden Posten muss dieser in der Auflistung ausgewählt werden und kann anschließend im mittleren Bereich mit den entsprechenden Daten angepasst werden.
 
 ### Aufbau - Plan
 
@@ -113,20 +123,20 @@ Im Bereich "Parameter" erfolgt die Definition des einzelnen Postens mit den ents
 
 | Eintrag | Funktion | 
 | ------------- |:-------------| 
-| readonly      | Text | 
-| fontbold      | Text | 
-| fontgreen     | Text | 
-| fontred       | Text | 
-| fontyellow    | Text | 
-| fontblue      | Text | 
-| font12        | Text | 
-| font10        | Text | 
-| backgreen     | Text | 
-| backred       | Text | 
-| backyellow    | Text | 
-| backblue      | Text | 
-| backgrey      | Text | 
-| backdarkgrey  | Text | 
+| readonly      | Schreibschutz, nur lesender Zugriff | 
+| fontbold      | Schrift fett | 
+| fontgreen     | Schrift grün | 
+| fontred       | Schrift rot | 
+| fontyellow    | Schrift gelb | 
+| fontblue      | Schrift blau | 
+| font12        | Schrift Größe 12 | 
+| font10        | Schrift Größe 10 | 
+| backgreen     | Hintergrund grün | 
+| backred       | Hintergrund rot | 
+| backyellow    | Hintergrund gelb | 
+| backblue      | Hintergrund blau | 
+| backgrey      | Hintergrund grau | 
+| backdarkgrey  | Hintergrund dunkelgrau | 
 
   - Sortierung
     - In diesem Feld kann ein Zahl oder Text hinterlegt werden, welcher die entsprechende Reihenfolge im Eingabe- und Auswertungs-Reiter der Posten darstellt.
@@ -164,3 +174,37 @@ Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte
 --------
 
 ## Eingabe
+
+Nachdem nun ein neuer Plan angelegt ist und der grundlegende Aufbau festgelegt wurde, kann dieser nun im Unterreiter "Eingabe" betrachtet werden. Der Eingabe-Reiter ist folgendermaßen strukturiert
+ - Im obereren Bereich befinden sich verschiedene Steuerungsfunktionen
+ - Im mittleren Bereich wird der Plan inklusive seiner Posten angezeigt
+   - Links wird die Bezeichnung, Zusatzbezeichnung, die Bemerkung (kann per Tooltip komplett gelesen werden) sowie eine Schaltfläche zur Abholung von Werten (siehe Konsolidierung - Referenz) 
+   - Rechts davon werden Spalten je Anlass und je Intervall angezeigt
+ 
+Die Eingabe der kann nun innerhalb der jeweiligen Spalte (Intervall & Anlass) und Zeile (Posten) erfolgen. 
+Die Werte müssen numerischer positiver oder negativer (mit Minus-Vorzeichen) sein. Dezimalzeichen sind mit einem Komma zu trennen und sind bis zur 10ten-Nachkommastelle möglich. Zur Übersichtlichkeit erfolgt die Anzeige von Dezimalzeichen wird nur dann wenn dieser Posten welche besitzt oder mit welchen rechnet.
+
+In folgenden Konstellationen ist eine Werteingabe nicht möglich:
+  - Sollte der Posten im Aufbau als "readonly" im Style-Feld deklariert worden sein, so kann eine Werteingabe nicht erfolgen.
+  - Sollten der/die Wert/Werte festgeschrieben worden sein. Hier muss dann entweder über den Datenpunkt-Dialog manuell oder über den Excel Export/Import automatisch eine Korrekturbuchung angelegt werden.
+  
+### Eingabe - Steuerungsfunktionen
+
+Folgende Steuerungsfunktionen sind im oberen Bereich:
+  - Auswahlliste für Haupt-Anlass
+    - Hier kann der Anlass, auf dem dieser Plan basiert, ausgewählt werden. Je nachdem welcher Anlass gerade ausgewählt wird, ändern sich die entsprechenden Spalten und zeigen das Kürzel des Anlasses über dem Datum an. Der standardmäßige Wert des Haupt-Anlasses kann im Aufbau-Reiter bestimmt werden. Die auswählbaren Anlässe werden global in einer Nachschlageliste oder speziell für den Plan im Aufbau-Reiter gespeichert.
+  - Auswahlliste für Neben-Anlass
+     - Hier kann ein zusätzlicher Anlass ausgewählt werden. Eine Auswahl bewirkt, dass der Plan entsprechend zwei Spalten je Zeitraum anzeigt (Eine Haupt-Anlass, die andere der Neben-Anlass) und diese gegenüberstellt.
+  - Checkbox für Unterposten
+      - Die Auswahl der Checkbox blendet Unterposten, quasi Posten, die zu einem Hauptposten, gehören aus oder wieder ein.
+  - Auswahl und Bedienung des Zeitraums
+  - Auswahlboxen für Intervall
+  - Feld für Intervallanzahl
+  
+
+### Eingabe - Datenpunkt
+
+#### Eingabe - Datenpunkt-Ausprägungen
+
+#### Eingabe - Datenpunkt-Dialog
+
