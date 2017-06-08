@@ -1,4 +1,3 @@
-## Konsolidierung
 
 Eine Konsolidierung von Plänen und Posten ist auf zwei Wege möglich:
 - Die Anlage eines Plan-Produkt-fremden Postens (diese Funktion ist standardmäßig deaktiviert) durch das Feld "Owner" im Aufbau
