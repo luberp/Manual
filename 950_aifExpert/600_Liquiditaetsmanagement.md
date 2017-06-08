@@ -25,8 +25,8 @@ Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gest
   - Links
     - Hier ist die Auswahlliste zur Auswahl einzelner Pläne. Zusätzlich kann im Suchbereich nach Plänen gesucht werden.
    - Mitte und Rechts
-    - Dies ist der Hauptbereich zur Ablage, Bearbeitung und Veranschaulichung der Informationen und Daten. 
-    - Beim Start des Moduls wird hier der Eingabebereich des jeweiligen Plans angezeigt. Ein Wechsel in einen anderen Reiter wie z.B. "Aufbau" wird im Hintergrund gemerkt, d.h. beim Wechsel in einen anderen Plan in der linken Auswahlliste wird dieser auch im Unterreiter "Aufbau" angezeigt.
+     - Dies ist der Hauptbereich zur Ablage, Bearbeitung und Veranschaulichung der Informationen und Daten. 
+     - Beim Start des Moduls wird hier der Eingabebereich des jeweiligen Plans angezeigt. Ein Wechsel in einen anderen Reiter wie z.B. "Aufbau" wird im Hintergrund gemerkt, d.h. beim Wechsel in einen anderen Plan in der linken Auswahlliste wird dieser auch im Unterreiter "Aufbau" angezeigt.
    
 --------
    
@@ -45,8 +45,16 @@ Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und
 
 ### Aufbau - Plan
 
+#### Aufbau - Plan - Allgemein
+
 Im Bereich "Allgemein" kann der Name sowie das Produkt des Plans angepasst werden.
+
+#### Aufbau - Plan - zusätzliche Anlässe
+
 Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden (siehe ). Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.
+
+#### Aufbau - Plan - Vorgaben
+
 Im Bereich "Vorgaben" können Standardparameter bestimmt werden, die bei der Auswahl im Unterreiter "Eingabe" gelten
   - Anlass
     - Hier wird ein globaler Anlass ausgewählt, der standardmäßig im Eingabe-Reiter diesen Plan mit dem entsprechenden Anlass öffnet
