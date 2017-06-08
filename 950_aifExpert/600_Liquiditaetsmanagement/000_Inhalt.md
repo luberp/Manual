@@ -6,3 +6,5 @@
 6. [Konsolidierung](http://help.xpecto.de/aifExpert/Liquiditaetsmanagement/Konsolidierung)
 7. [Excel Export & Import](http://help.xpecto.de/aifExpert/Liquiditaetsmanagement/Excel_Export_Import)
 
+------
+
