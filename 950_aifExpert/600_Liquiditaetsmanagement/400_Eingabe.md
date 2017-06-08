@@ -1,4 +1,3 @@
-## Eingabe
 
 Nachdem nun ein neuer Plan angelegt ist und der grundlegende Aufbau festgelegt wurde, kann dieser nun im Unterreiter "Eingabe" betrachtet werden. Der Eingabe-Reiter ist folgendermaßen strukturiert
  - Im obereren Bereich befinden sich verschiedene Steuerungsfunktionen
@@ -13,7 +12,7 @@ In folgenden Konstellationen ist eine Werteingabe nicht möglich:
   - Sollte der Posten im Aufbau als "readonly" im Style-Feld deklariert worden sein, so kann eine Werteingabe nicht erfolgen.
   - Sollten der/die Wert/Werte festgeschrieben worden sein. Hier muss dann entweder über den Datenpunkt-Dialog manuell oder über den Excel Export/Import automatisch eine Korrekturbuchung angelegt werden.
   
-### Eingabe - Steuerungsfunktionen
+#### Eingabe - Steuerungsfunktionen
 
 Folgende Steuerungsfunktionen sind im oberen Bereich:
   - Auswahlliste für Haupt-Anlass
@@ -36,11 +35,11 @@ Folgende Steuerungsfunktionen sind im oberen Bereich:
   - Feld für Intervallanzahl
     - Hier kann bestimmt werden wie viele entsprechende Intervalle in Zukunft der Plan betrachtet werden soll (Beispiel1: Zeitraum "2017" + Intervall "Jahr" + Anzahl 1 > Nur das Jahr 2017 wird angezeigt; Beispiel2: Zeitraum "2017" + Intervall "Monat" + Anzahl 24 > Es werden alle 24 Monate der Jahre 2017 und 2018 angezeigt)
 
-### Eingabe - Datenpunkt
+#### Eingabe - Datenpunkt
 
 Jede Zelle stellt einen Datenpunkt dar, der je nach Zeitraumbetrachtung und Intervall aus einer oder mehreren zugrunde liegenden Buchungssätzen / Werten bestehen kann.
 
-#### Eingabe - Datenpunkt-Ausprägungen
+##### Eingabe - Datenpunkt-Ausprägungen
 
 Jeder Datenpunkt kann verschiedene Ausprägungen annehmen, die in Form von Icons rechts neben den Werten angezeigt werden.
 
@@ -53,7 +52,7 @@ Jeder Datenpunkt kann verschiedene Ausprägungen annehmen, die in Form von Icons
 | UpCorner      | Es sind Bemerkungen in dem/n Buchungssatz/en vorhanden |
 | DownCorner      | Es sind Dateien in dem/n Buchungssatz/en hinterlegt worden |
 
-#### Eingabe - Datenpunkt-Dialog
+##### Eingabe - Datenpunkt-Dialog
 
 Sobald der Datenpunkt aus Werten besteht, kann per Doppelklick einen zusätzlicher Dialog aufrufen werden. Mithilfe dieses Dialogs lassen sich die einzelnen zugrunde liegenden Werte betrachten:
 Zur Auswahl steht im oberen Bereich eine Auswahlliste zur Verfügung. Dort sind alle Buchungssätze / Werte hinterlegt die letztendlich diesen Datenpunkt ausmachen. Jeder dieser Buchungssätze / Werte kann im mittleren Bereich gegen geprüft und begutachtet werden. Dabei steht im linken Bereich "Verarbeitungsinfos" die genauen Informationen wer diesen Wert angelegt oder festgeschrieben hat. Zusätzlich können im Bereich "Bemerkung" zu jedem Buchungssatz zusätzliche Informationen hinterlegt werden. Im Bereich "Aktionen" stehen zwei Funktionen zur Verfügung:
