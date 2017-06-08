@@ -17,8 +17,6 @@ Der gesamte Prozess ist intern als Planungs-Buchhaltung organisiert und wird vom
 
 --------
 
-## Übersicht
-
 Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gestartet wurde, öffnet sich die Start-Oberfläche. Der Aufbau der Oberflächen ist folgendermaßen strukturiert:
   - Oben
     - Hier ist das Menü mit unterschiedlichen Reiter, Bereichen und Schaltflächen, die unterschiedliche Funktionen aufrufen.
