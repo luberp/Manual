@@ -214,9 +214,17 @@ Folgende Steuerungsfunktionen sind im oberen Bereich:
 
 ### Eingabe - Datenpunkt
 
-
+Jede Zelle stellt einen Datenpunkt dar, der je nach Zeitraumbetrachtung und Intervall aus einer oder mehreren zugrunde liegenden Buchungssätzen / Werten bestehen kann.
 
 #### Eingabe - Datenpunkt-Ausprägungen
 
 #### Eingabe - Datenpunkt-Dialog
 
+Sobald der Datenpunkt aus Werten besteht, kann per Doppelklick einen zusätzlicher Dialog aufrufen werden. Mithilfe dieses Dialogs lassen sich die einzelnen zugrunde liegenden Werte betrachten:
+Zur Auswahl steht im oberen Bereich eine Auswahlliste zur Verfügung. Dort sind alle Buchungssätze / Werte hinterlegt die letztendlich diesen Datenpunkt ausmachen. Jeder dieser Buchungssätze / Werte kann im mittleren Bereich gegen geprüft und begutachtet werden. Dabei steht im linken Bereich "Verarbeitungsinfos" die genauen Informationen wer diesen Wert angelegt oder festgeschrieben hat. Zusätzlich können im Bereich "Bemerkung" zu jedem Buchungssatz zusätzliche Informationen hinterlegt werden. Im Bereich "Aktionen" stehen zwei Funktionen zur Verfügung:
+- Buchungen festschreiben
+   - Bei Betätigung dieser Schaltfläche schreibt aifExpert die zugrunde liegenden Buchungssätze des Datenpunktes fest. Bedeutet, dass diese nicht mehr verändert und gelöscht werden können.
+- Datei hinterlegen
+  - Mithilfe dieser Schaltfläche kann je Buchungssatz eine Datei hinterlegt werden.
+
+Im oberen rechten Bereich des Datenpunkt-Dialogs können weitere Buchungssätze angelegt oder bestehende nicht festgeschriebene gelöscht werden. Die Anlage von neuen Buchungssätzen aus diesem Dialog kommt dann in Betracht, sollte alle bestehenden Buchungssätze bereits festgeschrieben worden sein (Die Eingabe eines anderen Wertes im Plan ist nicht mehr möglich). 
