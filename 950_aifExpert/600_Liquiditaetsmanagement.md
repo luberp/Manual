@@ -14,3 +14,28 @@ Die einzelnen Posten sind dabei hierarchisch organisiert und ermöglichen einen 
 betrachtet werden (z.B. Zufluss und Abfluss).
 
 Der gesamte Prozess ist intern als Planungs-Buchhaltung organisiert und wird vom GOBD-zertifizierten Buchhaltungskern verwaltet.
+
+--------
+
+#### Übersicht
+
+Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gestartet wurde, öffnet sich die Start-Oberfläche. Der Aufbau der Oberflächen ist folgendermaßen strukturiert:
+  - Oben
+    - Hier ist das Menü mit unterschiedlichen Reiter, Bereichen und Schaltflächen, die unterschiedliche Funktionen aufrufen.
+  - Links
+    - Hier ist die Auswahlliste zur Auswahl einzelner Pläne. Zusätzlich kann im Suchbereich nach Plänen gesucht werden.
+   - Mitte und Rechts
+    - Dies ist der Hauptbereich zur Ablage, Bearbeitung und Veranschaulichung der Informationen und Daten. 
+    - Beim Start des Moduls wird hier der Eingabebereich des jeweiligen Plans angezeigt. Ein Wechsel in einen anderen Reiter wie z.B. "Aufbau" wird im Hintergrund gemerkt, d.h. beim Wechsel in einen anderen Plan in der linken Auswahlliste wird dieser auch im Unterreiter "Aufbau" angezeigt.
+    
+#### Anlage
+
+Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. Beim Letzteren muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
+
+#### Aufbau
+
+Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und definiert werden. Dazu muss im mittleren Bereich der Unterreiter "Aufbau" aufgerufen werden. Die Oberfläche für den Aufbau des Plans ist folgendermaßen strukturiert:
+- Im oberen Bereich finden sich Angaben und Informationen vom Plan selbst
+- Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
+- Im unteren Bereich erfolgt die Auflistung aller bisher hinterlegten Posten. Die Auflistung stellt gleichzeitig die Auswahlmöglichkeit der jeweiligen Posten dar. D.h. zur Bearbeitung eines entsprechenden Posten muss dieser in dieser Auflistung ausgewählt werden und kann anschließend im mittleren Bereich mit den Daten angepasst werden.
+    
