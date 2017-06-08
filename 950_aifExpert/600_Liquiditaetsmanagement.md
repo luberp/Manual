@@ -90,7 +90,7 @@ Im Bereich "Aufbau" erfolgt die Definition des einzelnen Postens mit den entspre
     - Das Feld Einheit ist ein zwingend zu hinterlegendes Feld. 
   - Style
     - Hier können verschiedene Parameter, zum Design und Verhalten des Postens mitgegeben werden. Folgende Einträge können hinterlegt werden:
-    -     | readonly      |Text |
+      | readonly      |Text |
       | fontbold      |Text |
       | fontgreen     |Text |
       | fontred       |Text |
