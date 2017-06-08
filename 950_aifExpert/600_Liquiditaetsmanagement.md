@@ -83,9 +83,27 @@ Im Bereich "verknüpftes Asset" kann eine Verknüpfung zum Portfoliomanagement h
 
 Im Bereich "Aufbau" erfolgt die Definition des einzelnen Postens mit den entsprechenden Daten.
   - Hauptposten
+    - aifExpert erlaubt die Hinterlegung einer Hierarchie von Posten, d.h. ein Posten ist Unterposten eines anderen (z.B. der Posten "Erträge als KVAG" gehört zum Hauptposten "Gesamterträge (Periode)". Um diese Hierarchie anzulegen muss in diesem Feld ausgewählt werden, zu welchem Hauptposten dieser jeweilige Posten gehört. 
   - Ist-Konto
+    - Das Liquiditätsmanagement des aifExpert basiert auf dem GOBD-zertifizierten Buchhaltungskern. Das bedeutet: Die Werte die im Liquiditätsmanagement abgespeichert werden, stellen Buchungssätze dar. Um diese ordnungsgemäß in Datenbank speichern zu können ist die Angabe eines Ist-Kontos erforderlich. Bei fehlender Angabe des Ist-Kontos werden die Werte nicht in der Datenbank gespeichert. Bei der Hinterlegung einer Formel werden auch bei fehlendem Ist-Konto die Werte berechnet, jedoch nicht gespeichert. Diese Konstellation ermöglicht die Darstellung und Berechnung von Zwischen- oder Informativwerten.
   - Einheit
+    - Das Feld Einheit ist ein zwingend zu hinterlegendes Feld. 
   - Style
+    - Hier können verschiedene Parameter, zum Design und Verhalten des Postens mitgegeben werden. Folgende Einträge können hinterlegt werden:
+      - readonly      >
+      - fontbold      >
+      - fontgreen     >
+      - fontred       >
+      - fontyellow    >
+      - fontblue      >
+      - font12        >
+      - font10        >
+      - backgreen     >
+      - backred       >
+      - backyellow    >
+      - backblue      >
+      - backgrey      >
+      - backdarkgrey  >
   - Sortierung
   - Bemerkung
   
