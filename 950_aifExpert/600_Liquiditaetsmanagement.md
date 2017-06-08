@@ -73,15 +73,15 @@ Im Bereich "Vorgaben" können Standardparameter bestimmt werden, die bei der Aus
 
 Im Bereich "Allgemein" können allgemeine Informationen zum Posten hinterlegt werden.
  - Bezeichnung
-  - Hier muss zwingend eine Bezeichnung des Postens erfolgen
+   - Hier muss zwingend eine Bezeichnung des Postens erfolgen
 - Zusatzbez. 
   - Hier kann eine zusätzliche (z.B. ausländische) Bezeichnung hinterlegt werden.
 - Typ
   - Hier kann der Typ des Postens ausgewählt werden. Diese Auswahl stellt eine Verknüpfung zum Meldewesen im Bereich der Bundesbankmeldung dar. Die Auswahllliste orientiert sich dabei an den Vorgaben der Bundesbank. 
   - Hintergrund: Im Meldewesen stellen im Bereich der Bundesbankmeldung die einzelnen Formularfelder auch Posten dar. Diese Posten können im Liquiditätsmanagement gepflegt und mit Werten versehen, die dann wiederrum im Meldewesen für die Bundesbankmeldung verwendet werden können
  - Owner
-  - Der Owner (Besitzer) beschreibt das Produkt welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendt welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes  beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
-  - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beiden den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen werden können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
+   - Der Owner (Besitzer) beschreibt das Produkt welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendt welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes  beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
+   - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beiden den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen werden können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
 
 #### Aufbau - Posten - verknüpftes Asset
 
@@ -98,7 +98,7 @@ Im Bereich "Parameter" erfolgt die Definition des einzelnen Postens mit den ents
   - Ist-Konto
     - Das Liquiditätsmanagement des aifExpert basiert auf dem GOBD-zertifizierten Buchhaltungskern. Das bedeutet: Die Werte die im Liquiditätsmanagement abgespeichert werden, stellen Buchungssätze dar. Um diese ordnungsgemäß in Datenbank speichern zu können ist die Angabe eines Ist-Kontos erforderlich. Bei fehlender Angabe des Ist-Kontos werden die Werte nicht in der Datenbank gespeichert. Bei der Hinterlegung einer Formel werden auch bei fehlendem Ist-Konto die Werte berechnet, jedoch nicht gespeichert. Diese Konstellation ermöglicht die Darstellung und Berechnung von Zwischen- oder Informativwerten.
   - Einheit
-    - Das Feld Einheit ist ein zwingend zu hinterlegendes Feld. 
+    - Das Feld "Einheit" ist ein zwingend zu hinterlegendes Feld. 
   - Style
     - Hier können verschiedene Einträge, zum Design und Verhalten des Postens, mitgegeben werden. 
     - Folgende Einträge können hinterlegt werden:
@@ -121,14 +121,38 @@ Im Bereich "Parameter" erfolgt die Definition des einzelnen Postens mit den ents
 | backdarkgrey  | Text | 
 
   - Sortierung
-    
+    - In diesem Feld kann ein Zahl oder Text hinterlegt werden, welcher die entsprechende Reihenfolge im Eingabe- und Auswertungs-Reiter der Posten darstellt.
   - Bemerkung
+    - Im Feld "Bemerkung" können zusätzliche Informationen zu diesem Posten gespeichert werden. Diese werden im Eingabe- und Auswertungs-Reiter in der Spalte "Bemerkung" angezeigt.
   
 #### Aufbau - Posten - Datenherkunft-Werte
 
-Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte entweder mithilfe von Formeln, Abfragen oder Funktionen.
+Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte. Dies können entweder Formeln, Abfragen oder Funktionen, wie  sein.
   - Datenquelle
+    - Im Feld "Datenquelle" muss die zukünftige Quelle der Werte ausgewählt werden. Folgende Auswahlmöglichkeiten sind standardmäßig hinterlegt:
+      - Formel
+      - Referenz
+      - SQL
   - Datenparameter
-  - Berechnung
+    - Im Feld "Datenparameter" muss nun die entsprechende Information hinterlegt werden, woher im Fall der Quelle "Referenz" und "SQL" der Wert kommt.
+| Quelle | Datenparameter | Beschreibung |
+| ------------- |:-------------|:--------|
+| Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
+| SQL | Select * From * Where * | Bei der Quelle "SQL" muss hier eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
 
+  - Berechnung
+    - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
+    - Die Formelsystematik ist simpel gehalten, ermöglicht die Benutzung aller Grundrechenarten und eine beliebige Komplexität innerhalb dieser.
+ | Art | Berechnung | Beschreibung |
+ | ------------- |:-------------|:--------|
+ | Summer Unterposten | = [subsum] | Diese Funktion addiert alle zugehörigen Unterposten dieses Postens auf
+ | Addition |= [ID] + [ID] | Die Addition ist durch die Angabe der ID in eckigen Klammern möglich (z.B. [A00000002] + [A00000003]|
+ | Subtraktion |= [ID] - [ID] | Die Substraktion ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Multiplikation |= [ID] * [ID] | Die Multiplikation ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Division |= [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Fortlaufend |= [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
+ | Fortl. & Berechnung |= [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
+ 
 --------
+
+## Eingabe
