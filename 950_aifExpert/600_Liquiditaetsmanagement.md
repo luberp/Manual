@@ -92,20 +92,21 @@ Im Bereich "Aufbau" erfolgt die Definition des einzelnen Postens mit den entspre
     - Hier können verschiedene Parameter, zum Design und Verhalten des Postens mitgegeben werden. Folgende Einträge können hinterlegt werden:
 | Parameter | Funktion | 
 | ------------- |:-------------| 
-| readonly      | Text |
-| fontbold      | Text |
-| fontgreen     | Text |
-| fontred       | Text |
+| readonly      | Text | 
+| fontbold      | Text | 
+| fontgreen     | Text | 
+| fontred       | Text | 
 | fontyellow    | Text | 
-| fontblue      | Text |
-| font12        | Text |
-| font10        | Text |
-| backgreen     | Text |
-| backred       | Text |
-| backyellow    | Text |
-| backblue      | Text |
-| backgrey      | Text |
-| backdarkgrey  | Text |
+| fontblue      | Text | 
+| font12        | Text | 
+| font10        | Text | 
+| backgreen     | Text | 
+| backred       | Text | 
+| backyellow    | Text | 
+| backblue      | Text | 
+| backgrey      | Text | 
+| backdarkgrey  | Text | 
+
   - Sortierung
   - Bemerkung
   
