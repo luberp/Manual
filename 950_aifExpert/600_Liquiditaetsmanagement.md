@@ -161,15 +161,16 @@ Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte
   - Berechnung
     - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
     - Die Formelsystematik ist simpel gehalten, ermöglicht die Benutzung aller Grundrechenarten und eine beliebige Komplexität innerhalb dieser.
+    
  | Art | Berechnung | Beschreibung |
  | ------------- |:-------------|:--------|
  | Summer Unterposten | = [subsum] | Diese Funktion addiert alle zugehörigen Unterposten dieses Postens auf
- | Addition |= [ID] + [ID] | Die Addition ist durch die Angabe der ID in eckigen Klammern möglich (z.B. [A00000002] + [A00000003]|
- | Subtraktion |= [ID] - [ID] | Die Substraktion ist durch die Angabe der ID in eckigen Klammern möglich |
- | Multiplikation |= [ID] * [ID] | Die Multiplikation ist durch die Angabe der ID in eckigen Klammern möglich |
- | Division |= [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
- | Fortlaufend |= [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
- | Fortl. & Berechnung |= [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
+ | Addition | = [ID] + [ID] | Die Addition ist durch die Angabe der ID in eckigen Klammern möglich (z.B. [A00000002] + [A00000003] |
+ | Subtraktion | = [ID] - [ID] | Die Substraktion ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Multiplikation | = [ID] * [ID] | Die Multiplikation ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Division | = [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Fortlaufend | = [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
+ | Fortlaufend & Berechnung | = [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
  
 --------
 
@@ -198,11 +199,22 @@ Folgende Steuerungsfunktionen sind im oberen Bereich:
   - Checkbox für Unterposten
       - Die Auswahl der Checkbox blendet Unterposten, quasi Posten, die zu einem Hauptposten, gehören aus oder wieder ein.
   - Auswahl und Bedienung des Zeitraums
+      - Zur Auswahl und Bedienung des Zeitraums stehen mehrere Schaltflächen zur Verfügung. Die beiden äußeren Schalftlächen lassen je nach eingestellter Zeitraumsbetrachtung eine Periode zurück (linke Schaltfläche) oder vor (rechte Schaltfläche) springen. 
+      - Der Dialog zur Einstellung der Zeitraumsbetrachtung lässt sich entweder durch die Betätigung der Bleistift-Schaltfläche links neben der Ansicht des aktuellen Zeitraums oder durch einen Doppelklick auf dieses Feld öffnen.
+      Hier können wie schon im Intervall unterschiedliche Zeitraumsbetrachtungen ausgewählt werden.
   - Auswahlboxen für Intervall
+    - Mithilfe dieser Auswahlboxen lässt sich auswählen nach welchem Intervall der eingestellte Zeitraum betrachtet werden soll.
+    - Es stehen dabei vier verschiedene Auswahlmöglichkeiten zur Verfügung:
+       - Jahr
+       - Quartal
+       - Monat
+       - Tag
   - Feld für Intervallanzahl
-  
+    - Hier kann bestimmt werden wie viele entsprechende Intervalle in Zukunft der Plan betrachtet werden soll (Beispiel1: Zeitraum "2017" + Intervall "Jahr" + Anzahl 1 > Nur das Jahr 2017 wird angezeigt; Beispiel2: Zeitraum "2017" + Intervall "Monat" + Anzahl 24 > Es werden alle 24 Monate der Jahre 2017 und 2018 angezeigt)
 
 ### Eingabe - Datenpunkt
+
+
 
 #### Eingabe - Datenpunkt-Ausprägungen
 
