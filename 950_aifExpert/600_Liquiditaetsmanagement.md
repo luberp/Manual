@@ -30,6 +30,19 @@ Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gest
    
 --------
    
+## Produkte & Assets
+
+Um das Liquiditätsmanagement sinnvoll nutzen zu können, müssen davor Stammdaten zu den jeweiligen juristischen Personen oder AIFs in Form von Produkten angelegt und gepflegt werden. Für die ergänzende Verknüpfung zum Portfoliomanagement müssen auch die entsprechenden Assets angelegt werden.
+
+### Produkte & Assets - Anlage & Pflege
+
+Der Dialog zur Anlage & Pflege der Produkte & Assets findet sich im Menü im Reiter "Stammdaten". 
+- Bei Betätigung der Schaltfläche "Assets" öffnet sich in einem neuen Fenster das Portfoliomanagement-Modul. 
+- Bei Betätigung der Schaltfläche "Produkte" öffet sich in einem neuen Fenster die Oberflächen zur Verwaltung der Produkte und Gesellschaften.
+  - Hier können nun die jeweiligen juristischen Person angelegt, mit weiteren Daten versehen oder gelöscht werden.
+   
+--------
+   
 ## Anlage
 
 Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. 
@@ -40,9 +53,14 @@ Bei der Auswahl eines leeren Plans wird ein Plan angelegt, der danach aufgebaut 
 
 ### Anlage - Kopie
 
-Dei der Kopie des Plans muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
+Bei der Kopie des Plans muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
 aifExpert kopiert anschließend den gesamten Aufbau mit allen Parametern des bestehenden Plans in den neuen Plan. Lediglich die IDs der Posten werden neu generiert.
 
+--------
+   
+## Löschung
+
+Die Löschung eines Plans erfolgt durch die Betätigung der Schaltfläche "Löschen" im Menü-Reiter "Aktionen". Dabei öffnet sich ein zusätzlicher Dialog zur nochmaligen Nachfrage und Bestätigung der Löschung. Die Löschung bezieht sich dabei auf der in der linken Auswahlliste ausgewählten Datensatz. 
 
 --------
 
@@ -86,6 +104,7 @@ Im Bereich "Vorgaben" können Standardparameter bestimmt werden, die bei der Aus
 
 ### Aufbau - Posten
 
+Die Anlage und Löschung von einzelnen Posten erfolgt mithilfe der zwei Schaltflächen links neben dem Bereich "Allgemein". Das Icon "+" legt einen neuen Posten an. Das Icon "x" löscht den in der unteren Liste ausgewählten Posten.
 
 #### Aufbau - Posten - Allgemein
 
@@ -153,6 +172,7 @@ Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte
       - SQL
   - Datenparameter
     - Im Feld "Datenparameter" muss nun die entsprechende Information hinterlegt werden, woher im Fall der Quelle "Referenz" und "SQL" der Wert kommt.
+    
 | Quelle | Datenparameter | Beschreibung |
 | ------------- |:-------------|:--------|
 | Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
@@ -218,6 +238,17 @@ Jede Zelle stellt einen Datenpunkt dar, der je nach Zeitraumbetrachtung und Inte
 
 #### Eingabe - Datenpunkt-Ausprägungen
 
+Jeder Datenpunkt kann verschiedene Ausprägungen annehmen, die in Form von Icons rechts neben den Werten angezeigt werden.
+
+| Icon | Beschreibung | 
+| ------------- |:-------------| 
+| Liste      | Dieser Datenpunkt besteht aus mehreren Buchungssätzen / Werten | 
+| Lock      | Alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben | 
+| PartialLock      | Nicht alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben |
+| Calc      | Der Datenpunkt wurde manuell überschrieben, obwohl er anhand einer Formel automatisch berechnet wird |
+| UpCorner      | Es sind Bemerkungen in dem/n Buchungssatz/en vorhanden |
+| DownCorner      | Es sind Dateien in dem/n Buchungssatz/en hinterlegt worden |
+
 #### Eingabe - Datenpunkt-Dialog
 
 Sobald der Datenpunkt aus Werten besteht, kann per Doppelklick einen zusätzlicher Dialog aufrufen werden. Mithilfe dieses Dialogs lassen sich die einzelnen zugrunde liegenden Werte betrachten:
@@ -228,3 +259,42 @@ Zur Auswahl steht im oberen Bereich eine Auswahlliste zur Verfügung. Dort sind 
   - Mithilfe dieser Schaltfläche kann je Buchungssatz eine Datei hinterlegt werden.
 
 Im oberen rechten Bereich des Datenpunkt-Dialogs können weitere Buchungssätze angelegt oder bestehende nicht festgeschriebene gelöscht werden. Die Anlage von neuen Buchungssätzen aus diesem Dialog kommt dann in Betracht, sollte alle bestehenden Buchungssätze bereits festgeschrieben worden sein (Die Eingabe eines anderen Wertes im Plan ist nicht mehr möglich). 
+
+--------
+
+## Konsolidierung
+
+Eine Konsolidierung von Plänen und Posten ist auf zwei Wege möglich:
+- Die Anlage eines Plan-Produkt-fremden Postens (diese Funktion ist standardmäßig deaktiviert) durch das Feld "Owner" im Aufbau
+  - Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beiden den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen werden können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
+- Durch eine Referenz im Feld "Datenparameter" im Aufbau 
+  - Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird > [Produkt, ID] (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
+  - Nun referenziert dieser Posten auf den anderen. Durch die Betätigung der Aktualisieren-Schaltfläche links neben der Spalte Einheit im Eingabe-Reiter prüft der aifExpert ob beim referenzierten Posten sich Werte verändert haben und übergibt diese dem entsprechenden Posten, d.h. aifExpert holt sich die Werte ab. 
+  - Standardmäßig müssen die Werte manuell abgeholt werden. Eine automatische Abholung kann jedoch eingestellt werden.
+  
+--------
+
+## Excel Export & Import
+
+### Excel Export
+
+aifExpert erlaubt den Export des Plans in das xlsx-Format. Dabei muss die Schaltfläche "Export" im Reiter "Aktionen" im Menü betätigt werden. Anschließend exportiert aifExpert den Plan, wie er im Eingabe-Reiter zu sehen ist (d.h. mit dem entsprechenden Zeitraum und Intervall), in das xlsx-Format und lässt die Datei gleich in einem Tabellenkalkulationsprogramm öffnen. Die Datei selbst wird im Export-Pfad des aifExpert (einsehbar im Menü-Reiter "System" > Schaltfläche "Einstellungen) gespeichert.
+Bitte beachten:
+- Die Export-Funktion wirft eine Fehlermeldung, wenn noch ein Fenster des Tabellenkalkulationsprogramms geöffnet ist
+
+### Excel Import
+
+Neben dem Export des Plans im xlsx-Format kann aifExpert den jeweiligen Plan mit seinen Werten wieder zurück importieren. Bei Betätigung der Schaltfläche "Import" im Menü-Reiter "Aktionen" öffnet sich der Dialog zur Auswahl der zu importierenden Datei. Dabei öffnet der Dialog standardmäßig den Pfad, der auch beim Export verwendet wird. 
+Bitte beachten: 
+- Der Import unterstützt keine Anpassungen des Aufbaus (z.B. die Anlage von zusätzlichen Posten etc.) sondern nur die Anpassung oder Anlage von Werten innerhalb der Zeitraum-Anlass-Spalten
+- Die Veränderung von Daten, die zum Aufbau gehören, wie Bezeichnung, Einheit etc. kann zu Fehlermeldungen führen.
+- Die Löschung der ID des Postens in der zu importierenden xlsx-Datei führt zu keiner Aktualisierung des Datenpunktes
+- Es muss die richtige Datei / Plan ausgewählt werden (Überprüfbar ist dies anhand der ID des Liquiditätsplans und des Dateinamens)
+- Der Import von Werten auf einen Posten mit dem Parameter "readonly" ist nicht möglich
+- Der Import von Werten auf einen Posten, welcher mit Formeln berechnet wird, ist nicht möglich
+- Der Import von Werten auf einen Datenpunkt, welcher komplett festgeschrieben ist, erzeugt eine Korrekturbuchung
+
+### Vorgehensweise
+
+Für einen ordentlichen und schnellen Export und Import in und aus das xlxs-Format empfiehlt es sich den Plan zu exportieren und in der bereits geöffneten Datei weiter zu arbeiten. Hier sollten nur die Zellen ab Spalte "Sortierung" und ab der zweiten Zeile bearbeitet werden. Anschließend sollte die Datei in dem Tabellenkalkulationsprogramm einfach nur gespeichert werden > dann zum aifExpert wechseln und dort den Import starten. Sollten nun Anpassungen von nöten sein, kann der bereits offene Plan im Tabellenkalkulationsprogramm nochmal angepasst, gespeichert und im aifExpert der Import nochmal gestartet werden.
+
