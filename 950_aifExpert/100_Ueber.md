@@ -38,7 +38,7 @@ Im Bereich des Meldewesens ermöglicht aifExpert automatisierte Meldungen an die
 
 ----------
 
-####Reporting
+####Berichtswesen
 
 Berichte und Auswertungen
 
