@@ -82,9 +82,7 @@ Mit der Schaltfläche *Speichern*, speichern Sie die zum Vertrag zugewiesenen Bu
 ----------
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Ein Speichern ist nur möglich, wenn die Summe der gesplitteten Beträge exakt dem Buchungsbetrag entspricht.
 
-
 ----------
-
 
 Alle gespeicherten Buchungen werden in die interne Buchhaltung aufgenommen (siehe Handbuch *Bearbeiten → Stapelbuchung* oder *Buchhaltung -> Buchungsdaten -> Stapel* angezeigt.
 
