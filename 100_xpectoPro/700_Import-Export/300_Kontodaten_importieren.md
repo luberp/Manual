@@ -36,4 +36,11 @@ Bankbewegungen, die im Verwendungszweck eine Vertragsnummer enthalten, werden da
 
 Bestätigen Sie obige Meldung mit *Weiter zu Kontodaten zuweisen*. Die Bankbewegungen/Importdaten sind nun erfolgreich importiert worden. 
 
-Achtung: Der Import der Buchungen ist an dieser Stelle noch nicht vollständig. Daten, die importiert wurden, aber noch nicht übernommen wurden, werden bei Berechnungen noch nicht berücksichtigt. Die importierten Daten werden hier lediglich in eine temporäre Tabelle geschrieben, sie müssen später noch über das Modul *Kontodaten zuweisen* in die Buchungstabelle übertragen werden (siehe nachfolgenden Menüpunkt: *Kontodaten zuweisen*).
+
+----------
+
+
+*![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Achtung: Der Import der Buchungen ist an dieser Stelle noch nicht vollständig. Daten, die importiert wurden, aber noch nicht übernommen wurden, werden bei Berechnungen noch nicht berücksichtigt. Die importierten Daten werden hier lediglich in eine temporäre Tabelle geschrieben, sie müssen später noch über das Modul  "Kontodaten zuweisen" in die Buchungstabelle übertragen werden (siehe nachfolgenden Menüpunkt "Kontodaten zuweisen"*.
+
+
+----------
