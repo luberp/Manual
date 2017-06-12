@@ -2,6 +2,9 @@
 
 Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. 
 
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet5.png)
+
+
 ##### Anlage - leerer Plan
 
 Bei der Auswahl eines leeren Plans wird ein Plan angelegt, der danach aufgebaut (siehe Aufbau) werden muss.
@@ -10,6 +13,8 @@ Bei der Auswahl eines leeren Plans wird ein Plan angelegt, der danach aufgebaut 
 
 Bei der Kopie des Plans muss der zu kopierende Plan innerhalb des Suchfelds ausgewählt werden.
 aifExpert kopiert anschließend den gesamten Aufbau mit allen Parametern des bestehenden Plans in den neuen Plan. Lediglich die IDs der Posten werden neu generiert.
+
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet6.png)
 
 --------
    
