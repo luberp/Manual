@@ -38,6 +38,7 @@ Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwe
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchung_Suche.png)
 
 Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. 
+
 Das zu verwendende Konto wird in der Produktmaske in der klassischen Ansicht unter (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
 
 In der modernen Menüansicht erreichen Sie diese Funktion unter *Stammdaten -> Produkte -> Allgemein -> Buchhaltung / Konten -> Konto RZ*.
