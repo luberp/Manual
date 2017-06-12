@@ -79,16 +79,15 @@ Im oberen linken Bereich des Datenpunkt-Dialogs können weitere Buchungssätze a
 
 #### Eingabe - Varianten
 
-Jeder Plan kann in unterschiedlichen Varianten gepflegt und mit Werten versehen werden.
-Die Auswahl der zu betrachtenden Hauptvariante ist in den Steuerungsfunktionen möglich. Die standardmäßige Hauptvariante des Plans wird im Planaufbau gesetzt. 
-Um zwei Varianten vergleichen zu können, kann in den Steuerungsfunktionen eine Nebenvariante ausgewählt werden. Dabei blendet der aifExpert zusätzliche Spalten für die Nebenvariante ein. Dabei wird für jeden einzelnen Zeitraum jeweils eine Spalte je Variante angezeigt.
+Jeder Plan kann in unterschiedlichen Varianten / Anlässen gepflegt und mit Werten versehen werden.
+Die Auswahl des zu betrachtenden Haupt-Anlasses ist in den Steuerungsfunktionen möglich. Der standardmäßige Haupt-Anlass des Plans wird im Planaufbau gesetzt. 
+Um zwei Anlässe vergleichen zu können, kann in den Steuerungsfunktionen ein Neben-Anlass ausgewählt werden. Dabei blendet der aifExpert zusätzliche Spalten für den Neben-Anlass ein. Dabei wird für jeden einzelnen Zeitraum jeweils eine Spalte je Anlass angezeigt.
 
 > ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet24.png)
 
 #### Eingabe - Auswertung
 
-Um eine abgegrenzte Auswertung der Varianten (Variante1 gilt bis zum Zeitraum x, danach gilt Variante2) zu ermöglichen steht in den Steuerungsfunktionen nach Auswahl einer Nebenvariante eine Checkbox "Auswertung" zur Verfügung. Nach der Betätigung dieser Box erscheint zwischen den Spalten in der Eingabe ein Slider. Dieser kann zwischen die jeweilige Spalte gezogen werden und bewirkt, dass bis zum Slider die Hauptvariante und nach dem Slider die Nebenvariante betrachtet
-wird. Laufende Summe werden dabei fortlaufend weiter berechnet.
+Um eine abgegrenzte Auswertung der Anlässe (Anlass1 gilt bis zum Zeitraum x, danach gilt Anlass2) zu ermöglichen steht in den Steuerungsfunktionen nach Auswahl eines Neben-Anlasses eine Checkbox "Auswertung" zur Verfügung. Nach der Betätigung dieser Box erscheint zwischen den Spalten in der Eingabe ein Slider. Dieser kann zwischen die jeweilige Spalte gezogen werden und bewirkt, dass bis zum Slider der Haupt-Anlass und nach dem Slider der Neben-Anlass betrachtetwird. Laufende Summe werden dabei fortlaufend weiter berechnet.
 
 > ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet25.png)
 
