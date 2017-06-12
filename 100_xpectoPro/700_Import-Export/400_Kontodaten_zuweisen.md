@@ -58,7 +58,7 @@ Die Schaltfläche *offene Posten abfragen* dient dazu um offene Posten für dies
 
 Über die Schaltfläche *Sammelauftrag auflösen* können Sie aus einem Zahlungsauftrag mehrere Einzelaufträge wie Überweisungen oder Lastschriften erstellen. 
 
-![](http://xpecto.github.io/docs/img/img_1442411007721.png)
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Zahlungsverkehr_auswaehlen.png)
 
 Buttons der Funktionsleiste:
 
