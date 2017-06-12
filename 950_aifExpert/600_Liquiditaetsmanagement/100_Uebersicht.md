@@ -26,6 +26,6 @@ Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gest
      - Dies ist der Hauptbereich zur Ablage, Bearbeitung und Veranschaulichung der Informationen und Daten. 
      - Beim Start des Moduls wird hier der Eingabe-Reiter des jeweiligen Plans angezeigt. Ein Wechsel in einen anderen Reiter wie z.B. "Aufbau" wird im Hintergrund gemerkt, d.h. beim Wechsel in einen anderen Plan in der linken Auswahlliste wird dieser auch im Unterreiter "Aufbau" angezeigt.
  
-![](http://xpecto.github.io/docs/img/aifExpert_Liquiditaet1.png)
+![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet1.png)
   
 --------
