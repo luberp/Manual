@@ -1,8 +1,10 @@
-> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet10.png)
 
 
 Nachdem nun ein neuer Plan angelegt ist und der grundlegende Aufbau festgelegt wurde, kann dieser nun im Unterreiter "Eingabe" betrachtet werden. Der Eingabe-Reiter ist folgendermaßen strukturiert
- 
+
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet10.png)
+
+
  - Im oberen Bereich befinden sich verschiedene Steuerungsfunktionen
 
 > ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet11.png)
@@ -74,5 +76,21 @@ Im Bereich "Aktionen" steht die Funktion "Festschreibung" zur Verfügung. Bei Be
 Im Bereich "Datei" kann eine Datei entweder mithilfe eines Dialoges oder durch die Angabe des Pfades hinterlegt werden. Die Betätigung der rechten Schaltfläche in diesem Bereich öffnet die entsprechende Datei.
 
 Im oberen linken Bereich des Datenpunkt-Dialogs können weitere Buchungssätze angelegt oder bestehende nicht festgeschriebene gelöscht werden. Die Anlage von neuen Buchungssätzen aus diesem Dialog kommt dann in Betracht, sollte alle bestehenden Buchungssätze bereits festgeschrieben worden sein (Die Eingabe eines anderen Wertes im Plan ist nicht mehr möglich). Dabei übernimmt und schlägt der aifExpert zur Neuanlage der Buchung die Werte der ersten Buchung der Liste vor.
+
+#### Eingabe - Varianten
+
+Jeder Plan kann in unterschiedlichen Varianten gepflegt und mit Werten versehen werden.
+Die Auswahl der zu betrachtenden Hauptvariante ist in den Steuerungsfunktionen möglich. Die standardmäßige Hauptvariante des Plans wird im Planaufbau gesetzt. 
+Um zwei Varianten vergleichen zu können, kann in den Steuerungsfunktionen eine Nebenvariante ausgewählt werden. Dabei blendet der aifExpert zusätzliche Spalten für die Nebenvariante ein. Dabei wird für jeden einzelnen Zeitraum jeweils eine Spalte je Variante angezeigt.
+
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet24.png)
+
+#### Eingabe - Auswertung
+
+Um eine abgegrenzte Auswertung der Varianten (Variante1 gilt bis zum Zeitraum x, danach gilt Variante2) zu ermöglichen steht in den Steuerungsfunktionen nach Auswahl einer Nebenvariante eine Checkbox "Auswertung" zur Verfügung. Nach der Betätigung dieser Box erscheint zwischen den Spalten in der Eingabe ein Slider. Dieser kann zwischen die jeweilige Spalte gezogen werden und bewirkt, dass bis zum Slider die Hauptvariante und nach dem Slider die Nebenvariante betrachtet
+wird. Laufende Summe werden dabei fortlaufend weiter berechnet.
+
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet25.png)
+
 
 --------
