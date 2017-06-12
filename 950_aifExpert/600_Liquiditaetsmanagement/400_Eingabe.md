@@ -1,14 +1,24 @@
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet10.png)
+
 
 Nachdem nun ein neuer Plan angelegt ist und der grundlegende Aufbau festgelegt wurde, kann dieser nun im Unterreiter "Eingabe" betrachtet werden. Der Eingabe-Reiter ist folgendermaßen strukturiert
- - Im obereren Bereich befinden sich verschiedene Steuerungsfunktionen
+ 
+ - Im oberen Bereich befinden sich verschiedene Steuerungsfunktionen
+
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet11.png)
+
+
  - Im mittleren Bereich wird der Plan inklusive seiner Posten angezeigt
    - Links wird die Bezeichnung, Zusatzbezeichnung, die Bemerkung (kann per Tooltip komplett gelesen werden) sowie eine Schaltfläche zur Abholung von Werten (siehe Konsolidierung - Referenz) 
    - Rechts davon werden Spalten je Anlass und je Intervall angezeigt
+ 
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet12.png)
  
 Die Eingabe der kann nun innerhalb der jeweiligen Spalte (Intervall & Anlass) und Zeile (Posten) erfolgen. 
 Die Werte müssen numerischer positiver oder negativer (mit Minus-Vorzeichen) sein. Dezimalzeichen sind mit einem Komma zu trennen und sind bis zur 10ten-Nachkommastelle möglich. Zur Übersichtlichkeit erfolgt die Anzeige von Dezimalzeichen wird nur dann wenn dieser Posten welche besitzt oder mit welchen rechnet.
 
 In folgenden Konstellationen ist eine Werteingabe nicht möglich:
+  
   - Sollte der Posten im Aufbau als "readonly" im Style-Feld deklariert worden sein, so kann eine Werteingabe nicht erfolgen.
   - Sollten der/die Wert/Werte festgeschrieben worden sein. Hier muss dann entweder über den Datenpunkt-Dialog manuell oder über den Excel Export/Import automatisch eine Korrekturbuchung angelegt werden.
   
@@ -22,9 +32,9 @@ Folgende Steuerungsfunktionen sind im oberen Bereich:
   - Checkbox für Unterposten
       - Die Auswahl der Checkbox blendet Unterposten, quasi Posten, die zu einem Hauptposten, gehören aus oder wieder ein.
   - Auswahl und Bedienung des Zeitraums
-      - Zur Auswahl und Bedienung des Zeitraums stehen mehrere Schaltflächen zur Verfügung. Die beiden äußeren Schalftlächen lassen je nach eingestellter Zeitraumsbetrachtung eine Periode zurück (linke Schaltfläche) oder vor (rechte Schaltfläche) springen. 
-      - Der Dialog zur Einstellung der Zeitraumsbetrachtung lässt sich entweder durch die Betätigung der Bleistift-Schaltfläche links neben der Ansicht des aktuellen Zeitraums oder durch einen Doppelklick auf dieses Feld öffnen.
-      Hier können wie schon im Intervall unterschiedliche Zeitraumsbetrachtungen ausgewählt werden.
+      - Zur Auswahl und Bedienung des Zeitraums stehen mehrere Schaltflächen zur Verfügung. Die beiden äußeren Schaltflächen lassen je nach eingestellter Zeitraum-Betrachtung eine Periode zurück (linke Schaltfläche) oder vor (rechte Schaltfläche) springen. 
+      - Der Dialog zur Einstellung der Zeitraum-Betrachtung lässt sich entweder durch die Betätigung der Bleistift-Schaltfläche links neben der Ansicht des aktuellen Zeitraums oder durch einen Doppelklick auf dieses Feld öffnen.
+      Hier können wie schon im Intervall unterschiedliche Zeitraum-Betrachtungen ausgewählt werden.
   - Auswahlboxen für Intervall
     - Mithilfe dieser Auswahlboxen lässt sich auswählen nach welchem Intervall der eingestellte Zeitraum betrachtet werden soll.
     - Es stehen dabei vier verschiedene Auswahlmöglichkeiten zur Verfügung:
@@ -37,7 +47,7 @@ Folgende Steuerungsfunktionen sind im oberen Bereich:
 
 #### Eingabe - Datenpunkt
 
-Jede Zelle stellt einen Datenpunkt dar, der je nach Zeitraumbetrachtung und Intervall aus einer oder mehreren zugrunde liegenden Buchungssätzen / Werten bestehen kann.
+Jede Zelle stellt einen Datenpunkt dar, der je nach Zeitraum-Betrachtung und Intervall aus einer oder mehreren zugrunde liegenden Buchungssätzen / Werten bestehen kann.
 
 ##### Eingabe - Datenpunkt-Ausprägungen
 
@@ -45,22 +55,24 @@ Jeder Datenpunkt kann verschiedene Ausprägungen annehmen, die in Form von Icons
 
 | Icon | Beschreibung | 
 | ------------- |:-------------| 
-| Liste      | Dieser Datenpunkt besteht aus mehreren Buchungssätzen / Werten | 
-| Lock      | Alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben | 
-| PartialLock      | Nicht alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben |
-| Calc      | Der Datenpunkt wurde manuell überschrieben, obwohl er anhand einer Formel automatisch berechnet wird |
-| UpCorner      | Es sind Bemerkungen in dem/n Buchungssatz/en vorhanden |
-| DownCorner      | Es sind Dateien in dem/n Buchungssatz/en hinterlegt worden |
+| ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet14.png)| Dieser Datenpunkt besteht aus mehreren Buchungssätzen / Werten | 
+| ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet15.png)     | Alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben | 
+| ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet16.png)      | Nicht alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben |
+| ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet17.png)      | Der Datenpunkt wurde manuell überschrieben, obwohl er anhand einer Formel automatisch berechnet wird |
+| ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet18.png)      | Es sind Bemerkungen in dem/n Buchungssatz/en vorhanden |
+| ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet19.png)      | Es sind Dateien in dem/n Buchungssatz/en hinterlegt worden |
 
 ##### Eingabe - Datenpunkt-Dialog
 
-Sobald der Datenpunkt aus Werten besteht, kann per Doppelklick einen zusätzlicher Dialog aufrufen werden. Mithilfe dieses Dialogs lassen sich die einzelnen zugrunde liegenden Werte betrachten:
-Zur Auswahl steht im oberen Bereich eine Auswahlliste zur Verfügung. Dort sind alle Buchungssätze / Werte hinterlegt die letztendlich diesen Datenpunkt ausmachen. Jeder dieser Buchungssätze / Werte kann im mittleren Bereich gegen geprüft und begutachtet werden. Dabei steht im linken Bereich "Verarbeitungsinfos" die genauen Informationen wer diesen Wert angelegt oder festgeschrieben hat. Zusätzlich können im Bereich "Bemerkung" zu jedem Buchungssatz zusätzliche Informationen hinterlegt werden. Im Bereich "Aktionen" stehen zwei Funktionen zur Verfügung:
-- Buchungen festschreiben
-   - Bei Betätigung dieser Schaltfläche schreibt aifExpert die zugrunde liegenden Buchungssätze des Datenpunktes fest. Bedeutet, dass diese nicht mehr verändert und gelöscht werden können.
-- Datei hinterlegen
-  - Mithilfe dieser Schaltfläche kann je Buchungssatz eine Datei hinterlegt werden.
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet13.png)
 
-Im oberen rechten Bereich des Datenpunkt-Dialogs können weitere Buchungssätze angelegt oder bestehende nicht festgeschriebene gelöscht werden. Die Anlage von neuen Buchungssätzen aus diesem Dialog kommt dann in Betracht, sollte alle bestehenden Buchungssätze bereits festgeschrieben worden sein (Die Eingabe eines anderen Wertes im Plan ist nicht mehr möglich). 
+Sobald der Datenpunkt aus einem oder mehreren Werten besteht, kann per Doppelklick einen zusätzlicher Dialog aufrufen werden. Mithilfe dieses Dialogs lassen sich die einzelnen zugrunde liegenden Werte betrachten:
+Zur Auswahl steht im unteren Bereich eine Auswahlliste zur Verfügung. Dort sind alle Buchungssätze / Werte hinterlegt die letztendlich diesen Datenpunkt ausmachen. Jeder dieser Buchungssätze / Werte kann im mittleren Bereich gegen geprüft und begutachtet werden. Dabei steht im rechten Bereich "Verarbeitungsinfos" die genauen Informationen, wer diesen Wert angelegt oder festgeschrieben hat. Zusätzlich können im Bereich "Bemerkung" zu jedem Buchungssatz zusätzliche Informationen hinterlegt werden. 
+
+Im Bereich "Aktionen" steht die Funktion "Festschreibung" zur Verfügung. Bei Betätigung dieser Schaltfläche schreibt aifExpert die zugrunde liegenden Buchungssätze des Datenpunktes fest. Bedeutet, dass diese nicht mehr verändert und gelöscht werden können.
+
+Im Bereich "Datei" kann eine Datei entweder mithilfe eines Dialoges oder durch die Angabe des Pfades hinterlegt werden. Die Betätigung der rechten Schaltfläche in diesem Bereich öffnet die entsprechende Datei.
+
+Im oberen linken Bereich des Datenpunkt-Dialogs können weitere Buchungssätze angelegt oder bestehende nicht festgeschriebene gelöscht werden. Die Anlage von neuen Buchungssätzen aus diesem Dialog kommt dann in Betracht, sollte alle bestehenden Buchungssätze bereits festgeschrieben worden sein (Die Eingabe eines anderen Wertes im Plan ist nicht mehr möglich). Dabei übernimmt und schlägt der aifExpert zur Neuanlage der Buchung die Werte der ersten Buchung der Liste vor.
 
 --------
