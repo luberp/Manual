@@ -4,32 +4,40 @@ In der modernen Menü-Ansicht starten Sie den Dialog *importierte Buchungen zuwe
 
 In der klassischen Menü-Ansicht wird der Dialog über Registerkarte *Buchhaltung* Gruppe *Kontodaten* Funktion *Verbuchung* gestartet.
 
-![](http://xpecto.github.io/docs/img/img_1461921052626.png)
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Kontodaten_Menue.png)
 
-Klicken  Sie auf die Funktion Verbuchung um mit der Kontodaten zuweisen anzufangen.
+Klicken  Sie auf die Funktion Verbuchung um mit der Zuweisung der Kontodaten zu beginnen.
 
-In dem Dialog *Buchungen zuweisen* wird die Liste der Produkte mit ihre offenen und geparkte Buchungen angezeigt.
+Im Dialog *Buchungen zuweisen* wird die Liste der Produkte mit offenen sowie geparkte Buchungen angezeigt.
 
-![](http://xpecto.github.io/docs/img/img_1461921347593.png)
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchungen_zuweisen.png)
 
-Die Schaltfläche Rundruf starten ![](http://xpecto.github.io/docs/img/img_1461922190992.png) dient dazu die Kontobewegungen für den markierten Produkt bei der Bank abzufragen. 
+Die Schaltfläche Rundruf starten ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_starten.png) dient dazu die Kontobewegungen für das markierte Produkt bei der Bank abzufragen. 
 
 Ein Rundruf für alle Produkte kann über die Registerkarte *Buchhaltung* Gruppe *Kontodaten* Funktion *Rundruf* gestartet werden.
 
-![](http://xpecto.github.io/docs/img/img_1461922444175.png)
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_Menue.png)
 
 
 Durch einen Klick auf  *OK* werden Sie zum Dialog *importierte Buchungen zuweisen* weitergeleitet. 
-Der Dialog *importierte Buchungen zuweisen* enthält die Reiter *Buchungen anzeigen* und *geparkte Buchungen anzeigen*.
+Der Dialog *importierte Buchungen zuweisen* enthält die Reiter *Buchungen anzeigen* und *geparkte Buchungen anzeigen* ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Geparkte_Buchungen.png).
 
-![](http://xpecto.github.io/docs/img/img_1461924039863.png)
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchungen_zuweise_Main.png)
 
-Unter dem Reiter *Buchungen anzeigen* werden die Details der Buchung und in der Mitte die Navigation, mit der Pfeilen können Sie durch die Buchungen blättern. 
-In der Feldgruppe *Buchung* sehen Sie den Zahlungspflichtigen/Kontoinhaber/Absender, den Verwendungszweck und die Details der Buchung. Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. Name um alle Verträge mit Vertragsbezeichner zu erhalten. 
+Unter dem Reiter *Buchungen anzeigen* werden Details der Buchungen und in der Mitte die Navigation angezeigt, mit den Pfeiltasten oben in der Menüleiste können Sie durch die Buchungen blättern. 
+In der Feldgruppe *Buchung* sehen Sie:
+
+ - den Zahlungspflichtigen
+ - Kontoinhaber
+ - Absender
+ - Verwendungszweck
+ - Details der Buchung
+
+Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. Name um alle Verträge mit Vertragsbezeichner zu erhalten. 
 
 ![](http://xpecto.github.io/docs/img/img_1461923077386.png)
 
-Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. 
+Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden sollen. 
 Das zu verwendende Konto wird in der Produktmaske (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
 
 ![](http://xpecto.github.io/docs/img/img_1461923339214.png)
