@@ -60,15 +60,34 @@ Die Schaltfläche *offene Posten abfragen* dient dazu um offene Posten für dies
 
 ![](http://xpecto.github.io/docs/img/img_1442411007721.png)
 
-Markierte Buchungen, die nicht gespeichert werden sollen, können mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461925093310.png) gelöscht werden.
+Buttons der Funktionsleiste:
 
-*Buchungen aufteilen* teilt die Buchung in 2 Buchungen auf. Der Aufteilungsbetrag kann eingegeben werden. Die so entstandene Buchungen können dann wieder verbucht werden.
+|  Schaltfläche         |    Funktion     |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_offene_Posten_abfragen.png)     |  Offene Posten für diesen Vertrag anzuzeigen |
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_Rückbuchung_zuordnen.png)|Die markierte Position einem geschlossenen Posten zuordnen  | 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_Sammelauftrag_aufloesen.png)| Zahlungsverkehr einzeln abarbeiten | 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_Buchung_loeschen.png)  | Selektierte Buchung(en) löschen | 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_Buchung_aufteilen.png)  | Selektierte Buchung splitten | 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_Buchung_uebertragen.png)  |Überträgt die Buchung auf einen differenten Fond| 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Button_Buchung_parken.png)   | Die selektierte Buchung wird geparkt und kann über den Reiter *geparkte Buchungen anzeigen* abgearbeitet werden. | 
 
-*Buchungen übertragen* damit werden die Buchungen von anderen Fonds auf einen anderen übertragen. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442406481698.png), werden die Buchungen für spätere Verbuchungen zugänglich gemacht. Die werden dann sichtbar unter dem Reiter *geparkte Buchungen anzeigen.*
-
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Prozess_starten.png)
 Um den Vorgang einem Prozess zuzuweisen, setzen Sie in der Checkbox *Prozess starten* ein Häkchen. Der Prozess wird dann in der Wiedervorlage-Liste, bei der verantwortlichen Person angezeigt.
 
-Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442236615351.png), speichern Sie die zum Vertrag zugewiesenen Buchungen (das Speichern ist nur möglich, wenn die Summe der eingegebenen Split-Beträge exakt den Buchungsbetrag ergibt). Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt. 
-Alle gespeicherten Buchungen werden in die interne Buchhaltung aufgenommen (siehe Hanbuch *Bearbeiten → Stapelbuchung* und unter Vertragsmaske Reiter *Buchungsdaten* angezeigt.
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Speichern.png)
 
-Eine falsch importierte Buchung kann im Nachhinein gelöscht werden, und zwar in dem Dialog *Stapelbuchung*. Der Dialog kann über *Bearbeiten → Stapelbuchung* oder über *Bearbeiten → Beteiligungs-/Vertragsbuchungen* geöffnet werden. Markieren Sie hier die gewünschte Buchung und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442912298087.png). 
+Mit der Schaltfläche *Speichern*, speichern Sie die zum Vertrag zugewiesenen Buchungen. Nach erfolgreichen Speichern wird die nächste Import-Buchung angezeigt. 
+
+----------
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Ein Speichern ist nur möglich, wenn die Summe der gesplitteten Beträge exakt dem Buchungsbetrag entspricht.
+
+
+----------
+
+
+Alle gespeicherten Buchungen werden in die interne Buchhaltung aufgenommen (siehe Handbuch *Bearbeiten → Stapelbuchung* oder *Buchhaltung -> Buchungsdaten -> Stapel* angezeigt.
+
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchung_loeschen.png)
+
+Eine falsch importierte Buchung kann im Nachhinein gelöscht werden, und zwar in dem Dialog *Stapelbuchung*. Der Dialog kann über *Bearbeiten → Stapelbuchung* oder über *Bearbeiten → Beteiligungs-/Vertragsbuchungen* geöffnet werden. Markieren Sie hier die gewünschte Buchung und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchung_loeschen_.png). 
