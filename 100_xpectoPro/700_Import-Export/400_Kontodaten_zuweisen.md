@@ -31,22 +31,23 @@ In der Feldgruppe *Buchung* sehen Sie:
  - Kontoinhaber
  - Absender
  - Verwendungszweck
- - Details der Buchung
+ - Details zur Buchung
 
-Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. Name um alle Verträge mit Vertragsbezeichner zu erhalten. 
+Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwendet. Klicken Sie mit der Maus auf Teile der Buchungsdaten wie z.B. die Vertragsnummer, diese wird dann als Suchkriterium verwendet.
 
-![](http://xpecto.github.io/docs/img/img_1461923077386.png)
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchung_Suche.png)
 
-Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden sollen. 
-Das zu verwendende Konto wird in der Produktmaske (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
+Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. 
+Das zu verwendende Konto wird in der Produktmaske in der klassischen Ansicht unter (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
 
-![](http://xpecto.github.io/docs/img/img_1461923339214.png)
+In der modernen Menüansicht erreichen Sie diese Funktion unter *Stammdaten -> Produkte -> Allgemein -> Buchhaltung / Konten -> Konto RZ*.
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Produkte_Menue.png) -> ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Konto_RZ.png)
 
 Neben der Möglichkeit eine neue Buchung anzulegen können Sie die Kontobewegungen über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1461923451087.png) direkt bei der Bank abfragen.  Es wird ein Kontorundruf durchgeführt. Die gefundene Buchungen werden von der Bank dann abgeholt und in der Liste eingefügt.
 
 Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442404617262.png) werden Sie zu dem Stapelbuchungsdialog weitergeleitet (siehe Handbuch *Bearbeiten → Stapelbuchung*). 
 
-In der untere Hälfte des Dialogs *importierte Daten zuweisen* sehen Sie die Liste der Buchungen mit der Vorschlag wie die Buchungen verbucht werden sollen. 
+In der untere Hälfte des Dialogs *importierte Daten zuweisen* sehen Sie die Liste der Buchungen mit dem Vorschlag wie die Buchungen verbucht werden soll. 
 
 ![](http://xpecto.github.io/docs/img/img_1461924691118.png)
 
