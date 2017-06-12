@@ -4,24 +4,25 @@ Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und
 - Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
 - Im unteren Bereich erfolgt die Auflistung aller bisher hinterlegten Posten. Die Auflistung stellt gleichzeitig die Auswahlmöglichkeit der jeweiligen Posten dar. D.h. zur Bearbeitung eines entsprechenden Posten muss dieser in der Auflistung ausgewählt werden und kann anschließend im mittleren Bereich mit den entsprechenden Daten angepasst werden.
 
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet7.png)
+
+
 #### Aufbau - Plan
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet8.png)
+
 
 ##### Aufbau - Plan - Allgemein
 
-Im Bereich "Allgemein" kann der Name sowie das Produkt des Plans angepasst werden.
+Im Bereich "Plan-Allgemein" kann der Name sowie das Produkt des Plans angepasst werden.
 
-##### Aufbau - Plan - zusätzliche Anlässe
+##### Aufbau - Plan - Plan-Vorgaben
 
-Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden (siehe ). Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.
-
-##### Aufbau - Plan - Vorgaben
-
-Im Bereich "Vorgaben" können Standardparameter bestimmt werden, die bei der Auswahl im Unterreiter "Eingabe" gelten
+Im Bereich "Plan-Vorgaben" können Standardparameter bestimmt werden, die bei der Auswahl im Unterreiter "Eingabe" gelten
   - Anlass
     - Hier wird ein globaler Anlass ausgewählt, der standardmäßig im Eingabe-Reiter diesen Plan mit dem entsprechenden Anlass öffnet
   - Intervall
     - Hier wird das Intervall ausgewählt, welches standardmäßig im Eingabe-Reiter in diesem Plan hinterlegt ist (z.B. Monatlich - Anzeige des Plans auf Monats-Basis)
-    - Folgene Auswahlmöglichkeiten sind möglich
+    - Folgende Auswahlmöglichkeiten sind möglich
       - Täglich
       - Wöchentlich
       - 2-Wöchentlich
@@ -33,36 +34,40 @@ Im Bereich "Vorgaben" können Standardparameter bestimmt werden, die bei der Aus
       - Jährlich
   - Anzahl
     - Hier wird die Anzahl der Intervalle hinterlegt, die standardmäßig im Eingabe-Reiter im diesem Plan angezeigt werden (z.B. Intervall Monatlich > Anzahl 8 > Anzeige im Eingabe-Reiter von 8 Monaten)
-    
+ 
+##### Aufbau - Plan - zusätzliche Anlässe
+
+Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden (siehe ). Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.    
 
 #### Aufbau - Posten
+> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet9.png)
 
 Die Anlage und Löschung von einzelnen Posten erfolgt mithilfe der zwei Schaltflächen links neben dem Bereich "Allgemein". Das Icon "+" legt einen neuen Posten an. Das Icon "x" löscht den in der unteren Liste ausgewählten Posten.
 
-##### Aufbau - Posten - Allgemein
+##### Aufbau - Posten - Posten-Allgemein
 
-Im Bereich "Allgemein" können allgemeine Informationen zum Posten hinterlegt werden.
+Im Bereich "Posten-Allgemein" können allgemeine Informationen zum Posten hinterlegt werden.
  - Bezeichnung
    - Hier muss zwingend eine Bezeichnung des Postens erfolgen
 - Zusatzbez. 
   - Hier kann eine zusätzliche (z.B. ausländische) Bezeichnung hinterlegt werden.
 - Typ
-  - Hier kann der Typ des Postens ausgewählt werden. Diese Auswahl stellt eine Verknüpfung zum Meldewesen im Bereich der Bundesbankmeldung dar. Die Auswahllliste orientiert sich dabei an den Vorgaben der Bundesbank. 
-  - Hintergrund: Im Meldewesen stellen im Bereich der Bundesbankmeldung die einzelnen Formularfelder auch Posten dar. Diese Posten können im Liquiditätsmanagement gepflegt und mit Werten versehen, die dann wiederrum im Meldewesen für die Bundesbankmeldung verwendet werden können
+  - Hier kann der Typ des Postens ausgewählt werden. Diese Auswahl stellt eine Verknüpfung zum Meldewesen im Bereich der Bundesbankmeldung dar. Die Auswahlliste orientiert sich dabei an den Vorgaben der Bundesbank. 
+  - Hintergrund: Im Meldewesen stellen im Bereich der Bundesbankmeldung die einzelnen Formularfelder auch Posten dar. Diese Posten können im Liquiditätsmanagement gepflegt und mit Werten versehen, die dann wieder rum im Meldewesen für die Bundesbankmeldung verwendet werden können
  - Owner
-   - Der Owner (Besitzer) beschreibt das Produkt welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendt welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes  beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
+   - Der Owner (Besitzer) beschreibt das Produkt welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendet welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes  beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
    - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beiden den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen werden können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
 
-##### Aufbau - Posten - verknüpftes Asset
+##### Aufbau - Posten - Verknüpfung Portfolio 
 
-Im Bereich "verknüpftes Asset" kann eine Verknüpfung zum Portfoliomanagement hergestellt werden.
+Im Bereich "Verknüpfung Portfolio" kann eine Verknüpfung zum Portfoliomanagement hergestellt werden.
   - Asset
     - Hier erfolgt die Auflistung aller vorhandenen Assets aus dem Portfoliomanagement.
     - Nach der Auswahl eines Assets erfolgt eine Verknüpfung des Postens mit dem Asset.
 
-##### Aufbau - Posten - Parameter
+##### Aufbau - Posten - Posten-Parameter
 
-Im Bereich "Parameter" erfolgt die Definition des einzelnen Postens mit den entsprechenden Daten.
+Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit den entsprechenden Daten.
   - Hauptposten
     - aifExpert erlaubt die Hinterlegung einer Hierarchie von Posten, d.h. ein Posten ist Unterposten eines anderen (z.B. der Posten "Erträge als KVAG" gehört zum Hauptposten "Gesamterträge (Periode)". Um diese Hierarchie anzulegen muss in diesem Feld ausgewählt werden, zu welchem Hauptposten dieser jeweilige Posten gehört. 
   - Ist-Konto
@@ -95,9 +100,9 @@ Im Bereich "Parameter" erfolgt die Definition des einzelnen Postens mit den ents
   - Bemerkung
     - Im Feld "Bemerkung" können zusätzliche Informationen zu diesem Posten gespeichert werden. Diese werden im Eingabe- und Auswertungs-Reiter in der Spalte "Bemerkung" angezeigt.
   
-##### Aufbau - Posten - Datenherkunft-Werte
+##### Aufbau - Posten - Posten-Datenherkunft-Werte
 
-Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte. Dies können entweder Formeln, Abfragen oder Funktionen, wie  sein.
+Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der Werte. Dies können entweder Formeln, Abfragen oder Funktionen, wie  sein.
   - Datenquelle
     - Im Feld "Datenquelle" muss die zukünftige Quelle der Werte ausgewählt werden. Folgende Auswahlmöglichkeiten sind standardmäßig hinterlegt:
       - Formel
@@ -119,7 +124,7 @@ Im Bereich "Datenherkunft - Werte" erfolgt die Bestimmung der Herkunft der Werte
  | ------------- |:-------------|:--------|
  | Summer Unterposten | = [subsum] | Diese Funktion addiert alle zugehörigen Unterposten dieses Postens auf
  | Addition | = [ID] + [ID] | Die Addition ist durch die Angabe der ID in eckigen Klammern möglich (z.B. [A00000002] + [A00000003] |
- | Subtraktion | = [ID] - [ID] | Die Substraktion ist durch die Angabe der ID in eckigen Klammern möglich |
+ | Subtraktion | = [ID] - [ID] | Die Subtraktion ist durch die Angabe der ID in eckigen Klammern möglich |
  | Multiplikation | = [ID] * [ID] | Die Multiplikation ist durch die Angabe der ID in eckigen Klammern möglich |
  | Division | = [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
  | Fortlaufend | = [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
