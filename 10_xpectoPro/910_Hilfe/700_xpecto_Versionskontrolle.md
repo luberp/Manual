@@ -1,0 +1,1 @@
+Die Versionskontrolle ist für den internen Support gedacht und wird nur von xpecto Mitarbeiter verwendet.
