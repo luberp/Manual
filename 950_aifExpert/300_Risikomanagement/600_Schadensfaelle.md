@@ -5,6 +5,6 @@ Die Schadensfälle werden in der zentralen Datenbank gespeichert und stehen somi
 ###### Erläuterungen
 Nach MaRisk (BTR 4) sollen Schadensfälle jährlich der Geschäftsleitung berichtet werden. Diese Anforderung impliziert damit, dass Schadensfälle aufgenommen und gespeichert werden müssen. In welcher Art und Weise wird nach MaRisk nicht vorgegeben. 
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko17.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko17.png)
 
 ----------
