@@ -8,7 +8,7 @@ Der Dialog zur Anlage & Pflege der Produkte & Assets findet sich im Menü im Rei
 - Bei Betätigung der Schaltfläche "Produkte" öffnet sich in einem neuen Fenster die Oberflächen zur Verwaltung der Produkte und Gesellschaften.
   - Hier können nun die jeweiligen juristischen Person angelegt, mit weiteren Daten versehen oder gelöscht werden.
    
-> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet4.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert/aifExpert_Liquiditaet4.png)
 
 
 --------
