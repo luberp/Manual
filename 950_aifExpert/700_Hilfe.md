@@ -88,7 +88,7 @@ Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläch
 
  
 
->  ![] (http://xpecto.github.io/docs/aifExpert/img_TS_003.png)
+>  ![](http://xpecto.github.io/docs/aifExpert/img_TS_003.png)
 
 Sobald Sie sich für einen Typ entschieden haben, öffnet sich die Ticketoberfläche.
  
@@ -96,7 +96,7 @@ Sobald Sie sich für einen Typ entschieden haben, öffnet sich die Ticketoberfl�
  
 Unter *Betreff* geben Sie bitte eine kurze, *aussagekräftige* Zusammenfassung ihres Anliegens ein.
 
- Bei Beschreibung können Sie ihr Anliegen ausführlicher darstellen. In > der Beschreibung sollte stehen, wann genau (bei welchem > *Arbeitsablauf*) es auftritt und auch in welchem Zusammenhang  (*Kunde, Vertrag, Produkt, Bericht, …*).
+ Bei Beschreibung können Sie ihr Anliegen ausführlicher darstellen. In der Beschreibung sollte stehen, wann genau (bei welchem > *Arbeitsablauf*) es auftritt und auch in welchem Zusammenhang  (*Kunde, Vertrag, Produkt, Bericht, …*).
 
  Abschließend können Sie ihr Ticket priorisieren.  
 
@@ -110,8 +110,7 @@ Jetzt können Sie das neue Ticket erstellen. Das neue Ticket wird direkt an uns 
 
 >  ![](http://xpecto.github.io/docs/aifExpert/img_TS_007.png)
 
-Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so bitten wir Sie uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zuzusenden.
-> Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
+Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so können Sie das im unteren Bereich des Tickets tun oder uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zusenden.Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
 
 ####Übersicht
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert8.png)
@@ -120,9 +119,9 @@ In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich
  
 
 >  ![](http://xpecto.github.io/docs/aifExpert/img_TS_008.png)
-> 
+
 Über *„neues Ticket anlegen“* kann wie vorher beschrieben, ein neues Ticket angelegt werden. Über *„bestehendes Tickets“* können Tickets, die bereits bei xpecto erfasst wurden, anhand ihrer Ticketnummer in
-> die Ansicht mit aufgenommen werden. Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt. Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
+die Ansicht mit aufgenommen werden. Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt. Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
 
 #### Status
 
