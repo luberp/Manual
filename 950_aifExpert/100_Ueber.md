@@ -48,4 +48,4 @@ Im Berichtswesen des aifExpert können umfassende Berichte und Auswertungen aus 
 ----------
 
 
-![aifExpert Funktionsumfang](http://xpecto.github.io/docs/img/aifExpert1.png)
+![aifExpert Funktionsumfang](http://xpecto.github.io/docs/aifExpert/aifExpert1.png)
