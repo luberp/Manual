@@ -8,7 +8,7 @@ In der modernen Menü-Ansicht erreichen Sie diese Funktion über: *Werkzeuge -> 
 Starten Sie den Dialog *Kunden- und Vertragsdaten importieren*. Der Dialog enthält drei Schritte:
 
  - Schritt 1: Dateiparameter feslegen
- - Schritt 2: Importparameter festlegen (nur bei Import von Kontodaten notwendig)
+ - Schritt 2: Importparameter festlegen (nur in der klassischen Ansicht verfügbar)
  - Schritt 3: Spalten zuweisen
 
 Wählen Sie in dem ersten Schritt das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in dem Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
