@@ -33,11 +33,11 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
 			 - Wertgesichert
 
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen1.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen1.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen2.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen2.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen3.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen3.png)
 
 
  - Gesellschaften
@@ -54,9 +54,9 @@ Im Bereich der Stammdaten der Produkte und Gesellschaften greift aifExpert auf d
 	 - Reiter "Allgemein" > Unterreiter "Steuer & Recht" > Bereich "Steuerdaten"
 		 - Steuer-Nr
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen26.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen26.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen27.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen27.png)
 
 
 ----------
