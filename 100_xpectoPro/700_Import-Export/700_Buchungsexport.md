@@ -12,12 +12,12 @@ Wählen Sie zunächst das Produkt für den der Export durchgeführt werden soll.
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Produkt_waehlen.png)
 
-Im Anschluss öffnet sich der Export Dialog.
+Im Anschluss öffnet sich der Export Dialog. Es werden Ihnen nun bereits alle Buchungen angezeigt die bislang noch nicht exportiert wurden.
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Buchungsexporte_Main.png)
 
 
-Nach dem Aufruf des Dialogs ist der Radiobutton in der Feldgruppe Exportiert *nicht exportiert* aktiv. Dadurch werden nur Buchungssätze exportiert, die vorher noch nicht exportiert wurden. Soll ein bereits erfolgter Buchungsexport wiederholt werden so muss der Filter *Exportiert* dementsprechend angepasst werden. 
+Nach Aufruf des Dialogs ist der Radiobutton in der Feldgruppe Exportiert *nicht exportiert* aktiv. Dadurch werden nur Buchungssätze exportiert, die vorher noch nicht exportiert wurden. Soll ein bereits erfolgter Buchungsexport wiederholt werden so muss der Filter *Exportiert* dementsprechend angepasst werden. 
 
 
 ----------
@@ -27,7 +27,7 @@ Nach dem Aufruf des Dialogs ist der Radiobutton in der Feldgruppe Exportiert *ni
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Buchungsperiode.png)     | Wenn aktiv kann eine beliebige Buchungsperiode ausgewählt werden|
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportiert.png)  | Wenn aktiv kann gewählt werden ob bereits exportierte Buchungssätze bzw. nicht exportiere Buchungssätze angezeigt werden   |
-| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportoptionen.png)  | *ein Buchungssatz je Zeile* -> Buchungskonto und Gegenkonto werden in einer Zeile geführt. *Buchungssatz in zwei Zeilen* -> Buchungskonto sowie Gegenkonto werden jeweils in einer separaten Zeile geführt. |  
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportoptionen.png)  | *ein Buchungssatz je Zeile* -> Buchungskonto und Gegenkonto werden in der Exportdatei einer Zeile geführt. *Buchungssatz in zwei Zeilen* -> Buchungskonto sowie Gegenkonto werden in der Exportdatei jeweils in einer separaten Zeile geführt. |  
 
 
 ----------
