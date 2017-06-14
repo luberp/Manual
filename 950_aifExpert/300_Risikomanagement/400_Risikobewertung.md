@@ -10,8 +10,8 @@ Um die Bewertung abzuschließen, bedarf es der Hinterlegung von Informationen in
 
 Die gespeicherten Bewertungen, sei es offen oder auch geschlossen, können im Unterreiter "Bewertungen" betrachtet und zurückverfolgt werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko12.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko12.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko13.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko13.png)
 
 ----------
