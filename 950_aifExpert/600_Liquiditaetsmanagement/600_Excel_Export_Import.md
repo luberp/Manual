@@ -5,13 +5,13 @@ aifExpert erlaubt den Export des Plans in das xlsx-Format. Dabei muss die Schalt
 Bitte beachten:
 - Die Export-Funktion wirft eine Fehlermeldung, wenn noch ein Fenster des Tabellenkalkulationsprogramms geöffnet ist
 
-> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet22.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet22.png)
 
 #### Excel Import
 
 Neben dem Export des Plans im xlsx-Format kann aifExpert den jeweiligen Plan mit seinen Werten wieder zurück importieren. Bei Betätigung der Schaltfläche "Import" im Menü-Reiter "Aktionen" öffnet sich der Dialog zur Auswahl der zu importierenden Datei. Dabei öffnet der Dialog standardmäßig den Pfad, der auch beim Export verwendet wird. Nach Auswahl der zu importierenden Datei prüft aifExpert auf Aktualisierung der Werte und fragt anschließend in einem Dialog ob die Formeln neu berechnet werden sollen oder der Import ohne Neuberechnung durchgeführt werden soll.
 
-> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet23.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet23.png)
 
 Bitte beachten: 
 - Der Import unterstützt keine Anpassungen des Aufbaus (z.B. die Anlage von zusätzlichen Posten etc.) sondern nur die Anpassung oder Anlage von Werten innerhalb der Zeitraum-Anlass-Spalten
