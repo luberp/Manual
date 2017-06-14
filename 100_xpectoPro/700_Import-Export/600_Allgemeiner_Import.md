@@ -10,7 +10,7 @@ In der modernen Menü-Ansicht kann der Dialog über die Registerkarte *Werkzeuge
 ----------
 
 
-Wählen Sie im ersten Schritt das Produkt bzw. den Fonds zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in dem Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
+Wählen Sie im ersten Schritt das Produkt bzw. den Fonds zu dem die Daten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in dem Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Daten_importieren_Main.png)
 
