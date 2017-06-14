@@ -8,8 +8,8 @@ Eine Konsolidierung von Plänen und Posten ist auf zwei Wege möglich:
   - Standardmäßig müssen die Werte manuell abgeholt werden. Eine automatische Abholung kann jedoch eingestellt werden.
   
 
-> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet20.png)
-> ![](http://xpecto.github.io/docs/img/aifExpert/aifExpert_Liquiditaet21.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet20.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet21.png)
 
 
 --------
