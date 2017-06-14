@@ -1,6 +1,6 @@
 In aifExpert finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie besondere Informationen und  Zugriff auf das Handbuch, Fernwartung und Tickets.
 
-![](http://xpecto.github.io/docs/img/aifExpert2.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert2.png)
 
 
 ----------
@@ -10,11 +10,11 @@ In aifExpert finden Sie Hilfe über die Registerkarte Hilfe. Hier erhalten Sie b
 
 In der Menü-Ansicht finden Sie die Informationen über die Registerkarte *Hilfe* Gruppe *Informationen*.
 
-![](http://xpecto.github.io/docs/img/aifExpert3.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert3.png)
 
 Durch einen Klick auf die Funktion *über aifExpert* wird das Übersichtsfenster geöffnet
 
-![](http://xpecto.github.io/docs/img/aifExpert4.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert4.png)
 
 Drücken Sie die Escape-Taste oder Klicken Sie auf das Fenster um dieses zu schließen.
 
@@ -36,11 +36,11 @@ Unter Fernwartung können Sie einen Fernzugriff starten für einen bestimmten Su
 
 In der Menü-Ansicht kann die Funktion über Registerkarte *Hilfe* Gruppe *Fernwartung* aufgerufen werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert5.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert5.png)
 
 In der Dialog Fernwartung gibt noch die Möglichkeiten eine E-Mail an Support zu schicken oder den gewünschten Support-Arbeitsplatz anrufen.
 
-![](http://xpecto.github.io/docs/img/aifExpert10.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert10.png)
 
 
 ----------
@@ -52,7 +52,7 @@ Die Funktion *Handbuch* bietet einen schnellen Zugriff auf das Handbuch.
 
 In der Menü-Ansicht ist das Handbuch unter die Registerkarte *Hilfe* Funktion *Handbuch* zu finden.
 
-![](http://xpecto.github.io/docs/img/aifExpert6.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert6.png)
 
 
 ----------
@@ -62,7 +62,7 @@ In der Menü-Ansicht ist das Handbuch unter die Registerkarte *Hilfe* Funktion *
 
 xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* Ihre bestehenden Tickets verwalten. 
 
- ![](http://xpecto.github.io/docs/img/aifExpert9.png)
+ ![](http://xpecto.github.io/docs/aifExpert/aifExpert9.png)
 
 ####Voraussetzung 
 
@@ -73,13 +73,13 @@ xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in
 > Achtung, die Änderung ist erst nach einem Neustart von xpectoPro
 > wirksam. 
 > 
->  ![](http://xpecto.github.io/docs/img/img_TS_002.png)
+>  ![](http://xpecto.github.io/docs/aifExpert/img_TS_002.png)
 
  
 
 ####Anlegen
 
->![](http://xpecto.github.io/docs/img/aifExpert7.png)
+>![](http://xpecto.github.io/docs/aifExpert/aifExpert7.png)
 
 > Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst
 > haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*).Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen zugeteilt wird.
