@@ -1,4 +1,4 @@
-Dieses Modul dient dem Import beliebiger Datentabellen. Bei diesem Import ist bei der Konfiguration der Parameter sowie bei der Zuordnung der Spalten analog zum Kunden- und Vertragsdaten-Import (siehe vorstehendes Kapitel Handbuch *Import/Export → Kunden- und Vertragsdaten importieren*) zu verfahren.
+Dieses Modul dient dem Import beliebiger Datentabellen. 
 
 In der klassischen Menü-Ansicht kann der Dialog über Menü *Import/Export → Allgemeiner Import* gestartet werden.
 
