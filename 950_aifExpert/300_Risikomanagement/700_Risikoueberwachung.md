@@ -19,9 +19,9 @@ Im Risikomanagement findet sich im MaRisk die Notwendigkeit nach einem Berichtsw
 
 Neben diesen rechtlichen Anforderungen besitzt jede KVG praktische und spezifische Anforderungen an das Reporting, welches die KVG mit aktuellen Informationen zur richtigen Zeit mit der gewünschten Qualität  versorgt.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko18.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko18.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko19.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko19.png)
 
 
 ----------
