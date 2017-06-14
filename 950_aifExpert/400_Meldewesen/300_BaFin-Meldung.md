@@ -7,7 +7,7 @@ Im ersten Schritt muss die Meldungsart erstellt und definiert werden. Die Erstel
 Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermöglichen, ist die Meldungsart "EsmaAIF" bei der Installation bereits hinterlegt. 
 
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen19.png)
 
 ----------
 
@@ -15,9 +15,9 @@ Um eine sofortige und anwenderfreundliche Benutzung des aifExpert zu ermögliche
 
 Nachdem die Meldungsart definiert ist, erfolgt die Zuordnung der Produkte. Bedeutet, dass nun die Definition erfolgt, welche Produkte (Fonds) anhand der BaFin/Esma-Meldung überhaupt gemeldet werden können. Um ein Produkt (in diesem Fall eine "Planung") der Meldungsart "EsmaAIF" zuweisen zu können, muss die Meldungsart ausgewählt und anschließend die Schaltfläche "Neu" > "Planungen" betätigt werden. Anschließend öffnet sich ein Fenster zur Auswahl des jeweiligen Produktes. Nachdem ein Produkt ausgewählt wurde, wird dieses als Planung innerhalb der Meldungsart "EsmaAIF" in der linken Liste angezeigt.
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen7.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen7.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen19.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen19.png)
 
 ----------
 
@@ -33,7 +33,7 @@ Nachdem nun die Definition der Stammdaten, Meldungsarten und Planungen definiert
 
 Die Felder der anderen Bereiche sind optional und werden für die AIFM-Meldung verwendet. 
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen20.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen20.png)
 
 ----------
 
@@ -45,7 +45,7 @@ Nachdem der Meldungskopf, die AIFM-Meldung, definiert wurde kann im Reiter "Best
 *Beispiel:*
 *In der Meldung 2016 für die BaFin wurden die Planungen EsmaAIF der Produkte "IIF" und "SIF" hinterlegt. Nun können je Planung die entsprechenden Daten je Artikel gepflegt werden. Bei der Erstellung der AIF-Meldung werden jeweils die hinterlegten Daten von "IIF" und "SIF" verwendet.*
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen21.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen21.png)
 
 ----------
 
@@ -58,7 +58,7 @@ Um eine Gegenprüfung der hinterlegten Daten und der AIFM-Meldung zu ermögliche
 Um eine Gegenprüfung der hinterlegten Daten und der AIF-Meldung zu ermöglichen steht ein standardisierter Bericht zur Verfügung. Bei Betätigung der Schaltfläche "AIF-Bericht anzeigen" im Menü im Reiter "Aktionen" wird dieser Bericht in der Berichtsvorschau geöffnet und kann nun in unterschiedlichen Formate gespeichert und gedruckt werden. Die Erstellung bezieht sich dabei auf die AIF-Meldung die im Reiter "Bestandteile" (siehe 4. Meldungen - Bestandteile) ausgewählt wurde. Um den Bericht "EsmaMeldung _ AIF" nutzen zu können, müssen im Berichts-Editor, im Fenster "Neuen Bericht erstellen", im Reiter "xpecto Vorlagen", der Bericht "EsmaMeldung _ AIF" ausgewählt und heruntergeladen werden. 
 
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen22.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen22.png)
 
 ----------
 
@@ -66,11 +66,11 @@ Um eine Gegenprüfung der hinterlegten Daten und der AIF-Meldung zu ermöglichen
 
 Nachdem alle notwendigen Felder mit Werten versehen wurden, sind die AIFM-Meldung sowie die AIF-Meldung als vollständig zu betrachten. Nun können die Meldungen als Dateien erzeugt werden. Dabei nutzt der aifExpert das von der ESMA fest vorgeschriebene Schema. Um die Meldungen zu erstellen, muss die entsprechende Meldung ausgewählt und anschließend die Schaltfläche "Dateien erzeugen", im Menü-Reiter "Aktionen" betätigt werden. Dabei legt der aifExpert die Meldungen als .xml-Dateien und in komprimierter Form als .xml.gz-Dateien (GZIP) auf dem hinterlegten Dateipfad (Reiter "Allgemein" - Bereich "Datei" - Feld "Datei") ab. Sollte kein spezifischer Dateipfad hinterlegt sein, erfolgt die Ablage automatisch im eingestellten Archiv-Pfad des aifExpert.
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen23.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen23.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen24.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen24.png)
 
-> ![](http://xpecto.github.io/docs/img/aifExpert_Meldewesen25.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen25.png)
 
 ----------
 
