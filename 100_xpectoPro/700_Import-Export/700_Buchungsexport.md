@@ -18,10 +18,19 @@ Im Anschluss öffnet sich der Export Dialog.
 
 
 Nach dem Aufruf des Dialogs ist der Radiobutton in der Feldgruppe Exportiert *nicht exportiert* aktiv. Dadurch werden nur Buchungssätze exportiert, die vorher noch nicht exportiert wurden. Soll ein bereits erfolgter Buchungsexport wiederholt werden so muss der Filter *Exportiert* dementsprechend angepasst werden. 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Button_Export.png) wird eine Datei im CSV-Format erzeugt, die die aufgelisteten Buchungssätze enthält. Dabei wird automatisch der Exportzeitpunkt und der auszuführende Benutzer in die betroffenen Buchungsdatensätze eingetragen. Über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Button_Testexport.png) wird dieselbe Export-Datei erzeugt, jedoch werden keine Informationen zum Zeitpunkt oder Benutzer gesetzt.
+
+
+----------
+
 
 | Schaltfläche      |  Funktion in der Applikation     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Buchungsperiode.png)     | Wenn aktiv kann eine beliebige Buchungsperiode ausgewählt werden|
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportiert.png)  | Wenn aktiv kann gewählt werden ob bereits exportierte Buchungssätze bzw. nicht exportiere Buchungssätze angezeigt werden   |
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportoptionen.png)  | *ein Buchungssatz je Zeile* -> Buchungskonto und Gegenkonto werden in einer Zeile geführt. *Buchungssatz in zwei Zeilen* -> Buchungskonto sowie Gegenkonto werden jeweils in einer separaten Zeile geführt. |  
+
+
+----------
+
+
+Über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Button_Export.png) wird eine Datei im CSV-Format erzeugt, die die aufgelisteten Buchungssätze enthält. Dabei wird automatisch der Exportzeitpunkt und der auszuführende Benutzer in die betroffenen Buchungsdatensätze eingetragen. Über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Button_Testexport.png) wird dieselbe Export-Datei erzeugt, jedoch werden keine Informationen zum Zeitpunkt oder Benutzer gesetzt.
