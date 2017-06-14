@@ -1,6 +1,6 @@
 Dieses Modul dient dem Import von Verträgen einschließlich Kundenstammdaten. Diese Funktion ist erreichbar in der klassischen Menü-Ansicht unter *Import/Export  → Kunden- und Vertragsdaten importieren*.
 
-
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Datenimport_Menue.png)
 In der modernen Menü-Ansicht erreichen Sie diese Funktion über: *Werkzeuge -> Import Export -> Datenimport*.
 
 
