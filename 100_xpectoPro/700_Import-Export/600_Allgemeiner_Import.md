@@ -1,4 +1,4 @@
-Dieses Modul dient dem Import beliebiger Datentabellen. 
+Dieses Modul dient dem Import beliebiger Daten wie Kunden- u. Vertragsdaten, Vermittlerdaten usw.
 
 In der klassischen Menü-Ansicht kann der Dialog über Menü *Import/Export → Allgemeiner Import* gestartet werden.
 
