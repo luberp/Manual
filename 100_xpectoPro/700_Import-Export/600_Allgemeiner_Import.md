@@ -1,17 +1,60 @@
 Dieses Modul dient dem Import beliebiger Datentabellen. Bei diesem Import ist bei der Konfiguration der Parameter sowie bei der Zuordnung der Spalten analog zum Kunden- und Vertragsdaten-Import (siehe vorstehendes Kapitel Handbuch *Import/Export → Kunden- und Vertragsdaten importieren*) zu verfahren.
 
-![](http://xpecto.github.io/docs/img/img_1461928458647.png)
+In der klassischen Menü-Ansicht kann der Dialog über Menü *Import/Export → Allgemeiner Import* gestartet werden.
 
-In der klassischen Menü-Ansicht kann der Dialog beliebige Tabellen importieren über Menü Import/Export → Allgemeiner Import gestartet werden.
+![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Datenimport_Menue.png)
 
-In der modernen Menü-Ansicht kann der Dialog über die Registerkarte *Datenbearbeitung* Gruppe *Import / Export* Funktion *Datenimport* gestartet werden.
-
-![](http://xpecto.github.io/docs/img/img_1461928879950.png)
+In der modernen Menü-Ansicht kann der Dialog über die Registerkarte *Werkzeuge* Gruppe *Import / Export* Funktion *Datenimport* gestartet werden.
 
 
-Die in dem Dialog eingegebene  Einstellungen können gespeichert werden und wieder verwendet werden.
-Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441981434180.png) kann der Name für eine neue Einstellung angegeben. Geben Sie für den Dialog nötigen Parameter und dann speichern. 
+----------
 
-![](http://xpecto.github.io/docs/img/img_1461929772812.png)
+
+Wählen Sie in dem ersten Schritt das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in dem Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
+
+![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Daten_importieren_Main.png)
+
+Je nach Dateiformat der zu importierenden Daten müssen das Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. 
+Unter *Prozedur* wird die zur Verarbeitung der Daten zu verwendende Import-Prozedur ausgewählt. Import-Prozeduren müssen vorher vom xpecto Kundensupport hinterlegt werden. 
+Enthalten die zu importierenden Daten Datensätze, die sich bereits in der verwendeten Datenbank befinden, so setzen Sie ein Häkchen bei	*vorhandene Kunden und Verträge aktualisieren*. Dies verhindert die doppelte Anlage bereits vorhandener Datensätze (bereits vorhandene Datensätze werden durch einen Abgleich-Algorithmus erkannt und aktualisiert). 
+
+----------
+
+
+|  Schaltfläche         |    Funktion in der Applikation    |  
+| ------------- |:-------------| 
+| Produkt     |  Produkt auswählen |
+| Datei     |Importdatei auswählen | 
+| Vorschau    | Vorschau der Importdatei mit selektiertem Wert | 
+| Datei enthält Produktspalte     | Beim Import werden Kundendaten automatisch dem richtigen Produkt zugewiesen | 
+| Trennzeichen    | Der gewählte Wert trennt Spalten innerhalb der Importdatei | 
+| Textzeichen     |Der gewählte Wert importiert den Wert innerhalb des Textzeichens als Text| 
+| Vorhandene Daten aktualisieren | Es wird beim Import geprüft ob der Datensatz bereits vorhanden ist, wenn ja wird dieser aktualisiert | 
+| Datei enthält Kopfzeile  | Beim Import wird die erste Zeile der Datei ignoriert da diese die Felddefinitionen der Import-Datei enthält | 
+| Start    | Es werden nur die Datensätze importiert die im Wert "Z/S" fesgelegt wurden| 
+| Prozedur    | Hier muss die passende Prozedur gewählt werden | 
+
+
+----------
+
+Mit der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Vorschau.png) werden die Importdaten (bei Verwendung der richtigen Trennzeichen bzw. Textzeichen) als Tabelle angezeigt. 
+
+----------
+
+
+| ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Vorschau der Importdatei       |       |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Prefiew_right.png)     |  richtig |
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Prefiew_wrong.png)  |falsch | 
+
+
+----------
+
+![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Auswahl_DB_Felder.png)
+
+
+Weisen sie nun die Spalten der Importdatei den passenden Spalten der Datenbank zu. Über das Symbol ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Lupe.png) erhalten Sie eine Übersicht aller verfügbarer Datenbankfelder der Datenbank. Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441889884609.png).
+
+![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Button_Import_starten.png)
 
 Der Import kann durch einen Klick auf die Schaltfläche *Import starten* gestartet werden.
