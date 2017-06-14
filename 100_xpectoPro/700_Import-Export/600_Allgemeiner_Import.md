@@ -55,6 +55,8 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/allg
 
 Weisen sie nun die Spalten der Importdatei den passenden Spalten der Datenbank zu. Über das Symbol ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Lupe.png) erhalten Sie eine Übersicht aller verfügbarer Datenbankfelder der Datenbank. Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441889884609.png).
 
-![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Button_Import_starten.png)
 
-Der Import kann durch einen Klick auf die Schaltfläche *Import starten* gestartet werden.
+
+![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Import_response.png)
+
+Der erfolgreiche Import der Daten wird durch eine Meldung unter Angabe der Anzahl der importierten Datensätze bestätigt. Bei Fehlschlagen des Imports eines oder mehrerer Datensätze (z.B. aufgrund fehlerhafter Daten) wird eine entsprechende Meldung angezeigt, und der komplette Import abgebrochen. Prüfen Sie in diesem Fall die zu importierende Datei auf Korrektheit, oder wenden Sie sich an den xpecto Kundensupport.
