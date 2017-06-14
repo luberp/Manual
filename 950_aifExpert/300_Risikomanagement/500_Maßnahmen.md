@@ -11,8 +11,8 @@ Nach MaRisk (4.3.2) sollen geeignete Maßnahmen gewährleisten, dass die Risiken
 verbundenen Risikokonzentrationen unter Berücksichtigung der Risikotragfähigkeit und der
 Risikotoleranzen wirksam begrenzt und überwacht werden können.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko14.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko14.png)
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko15.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko15.png)
 
 ----------
