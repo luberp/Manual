@@ -24,4 +24,4 @@ Nach dem Aufruf des Dialogs ist der Radiobutton in der Feldgruppe Exportiert *ni
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Buchungsperiode.png)     | Wenn aktiv kann eine beliebige Buchungsperiode ausgewählt werden|
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportiert.png)  | Wenn aktiv kann gewählt werden ob bereits exportierte Buchungssätze bzw. nicht exportiere Buchungssätze angezeigt werden   |
-| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportoptionen.png)  | *ein Buchungssatz je Zeile* -> Buchungskonto und Gegenkonto werden in einer Zeile geführt. *Buchungssatz in zwei Zeilen* -> Buchungskonto sowie Gegenkonto werden jeweils in einer seperaten Zeile geführt. |  
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/Buchungsexport/Exportoptionen.png)  | *ein Buchungssatz je Zeile* -> Buchungskonto und Gegenkonto werden in einer Zeile geführt. *Buchungssatz in zwei Zeilen* -> Buchungskonto sowie Gegenkonto werden jeweils in einer separaten Zeile geführt. |  
