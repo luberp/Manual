@@ -9,7 +9,7 @@ Um eine sofortige Benutzung des aifExpert zu ermöglichen, wird ein standardisie
 ###### Erläuterung
 Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kategorien festzulegen, sind vielfältig.  Daher ist die Vorgabe eines einheitlichen und fassbaren Risikoverständnisses und -kataloges im Unternehmen aufgrund der unterschiedlichen Wahrnehmungen von Risiken durch jeden einzelnen Risikoverantwortlichen essenziell für ein einheitliches Verständnis. Nur durch eine einheitliche Systematik können die Informationen sinnvoll genutzt, interpretiert und analysiert werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert11.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert11.png)
 
 ----------
 
@@ -17,7 +17,7 @@ Die Möglichkeiten, den Begriff "Risiko" zu definieren und Risikoarten und -kate
 
 Im Risikokatalog werden die Risikoarten - eingruppiert in Risikokategorien - übersichtlich aufgelistet. Bei der Auswahl / Anlage einer Risikokategorie kann diese mit einer Beschreibung versehen werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko1.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko1.png)
 
 ----------
 
@@ -31,7 +31,7 @@ Weiterhin kann hinterlegt werden innerhalb welcher Phase dieses Risiko auftreten
 
 Zusätzliche Textfelder ermöglichen die Beschreibung der Risikoart sowie Bearbeitungshinweise für diese zu hinterlegen.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko2.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko2.png)
 
 ----------
 
@@ -39,7 +39,7 @@ Zusätzliche Textfelder ermöglichen die Beschreibung der Risikoart sowie Bearbe
 
 Im Reiter "Phasen" können beliebig viele Phasen hinterlegt werden. Diese bilden den Lebenszyklus eines AIF ab. Durch die Hinterlegung der Phasen je Risikoart im Risikokatalog (d.h. welche Risikoart kann in welcher Phase vorkommen) kann letztendlich in der Risikoüberwachung eine spezifische Risikobetrachtung anhand der jeweiligen Phase erfolgen.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko3.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko3.png)
 
 ----------
 
@@ -53,7 +53,7 @@ Die Kategorisierung der Risikoklassen ist innerhalb des Reiters "Stufen" flexibe
 ###### Erläuterung
 Die Schadenshöhe wird definiert als qualitatives Maß für die möglichen Folgen / Konsequenzen eines Risikos. Die Bestimmung der Schadenshöhe eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko4.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko4.png)
 
 ----------
 
@@ -65,7 +65,7 @@ Mithilfe dieser 5-stufigen Skala und der 5-stufigen Skala des Schadensaumaßes k
 ######Erläuterung
 Die Eintrittswahrscheinlichkeit ist eine Angabe über die Wahrscheinlichkeit, mit der ein Risikoereignis innerhalb eines bestimmten Zeitraums eintritt. Die Bestimmung der Eintrittswahrscheinlichkeit eines Risikoereignisses ist normalerweise nicht exakt möglich. Deshalb werden oft qualitative Skalen für seine Beschreibung verwendet. Diese Skalen können auch zur späteren Einordnung in eine Risikomatrix verwendet werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko5.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko5.png)
 
 ----------
 
@@ -80,7 +80,7 @@ Im Reiter "Prognosen" können beliebig viele Prognose-Arten hinterlegt werden. J
 *Im Rahmen der Risikoüberwachung wird eine Risikoprognose für den Zeitraum "1 Jahr" erstellt. Das Risiko1 mit der gewichteten Risikowert 1.000 € und Prognose-Art "Progressiv" wird berechnet.*
 *1.000 x 1,02 (2% Prognose-Faktor) x 1,04 (4% Prognose-Faktor) = 1060,80 € gewichteter Risikowert im Prognose-Zeitraum "1 Jahr"*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko6.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko6.png)
 
 ----------
 
@@ -88,7 +88,7 @@ Im Reiter "Prognosen" können beliebig viele Prognose-Arten hinterlegt werden. J
 
 Die hinterlegten Ebenen sollen zur Gruppierung dienen und stellen die Betrachtungsgruppe dar (z.B. AIF, Emittenten etc.). Die Ebenen sind essenziell und voraussetzend für die Anlage von Risikoobjekten. Durch diese Eingruppierung können im Prozess des Risikomonitoring Kennzahlen und Informationen je Ebene evaluiert und analysiert werden.
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko7.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko7.png)
 
 ----------
 
@@ -115,6 +115,6 @@ Im rechten unteren Bereich können durch die Beziehungsfunktionalität  Hierarch
 *Beispiel 4:*
 *Die KVG betreut mehrere Emittenten. Bei der Betrachtung des Gesamtrisikoprofils, d.h. aller vorhandenen und identifizierten Risiken, werden die Risiken der KVG selbst sowie aller Emittenten, deren AIF und deren Assets betrachtet.*
 
-![](http://xpecto.github.io/docs/img/aifExpert_Risiko8.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko8.png)
 
 ----------
