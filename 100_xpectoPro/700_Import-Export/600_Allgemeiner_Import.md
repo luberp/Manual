@@ -44,7 +44,7 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/allg
 
 | ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Vorschau der Importdatei       |       |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Prefiew_right.png)     |  ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Richtig.png) |
+| ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Prefiew_right.png)     |  ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Richtig.png) richtig|
 | ![](http://xpecto.github.io/docs/xpecto/Import_Export/allgemeiner_Import/Prefiew_wrong.png)  |falsch | 
 
 
