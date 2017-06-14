@@ -7,7 +7,7 @@ In der modernen Menü-Ansicht erreichen Sie diese Funktion über: *Werkzeuge -> 
 Starten Sie den Dialog *Kunden- und Vertragsdaten importieren*. Der Dialog enthält drei Schritte:
 
  - Schritt 1: Dateiparameter feslegen
- - Schritt 2: Importparameter festlegen
+ - Schritt 2: Importparameter festlegen (nur bei Import von Kontodaten notwendig)
  - Schritt 3: Spalten zuweisen
 
 Wählen Sie in dem ersten Schritt das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in dem Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
@@ -56,6 +56,10 @@ Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441889857529.png
 
 Unter *Schritt 2: Importparameter festlegen* kann angegeben werden, dass fehlende Verträge, Kunden oder Vermittler angelegt werden sollen. Andernfalls werden nur bestehende Datensätze aktualisiert.
 
-Weisen sie nun die Spalten der Importdatei den passenden Spalten der Datenbank zu. Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441889884609.png).
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Auswahl_DB_Felder.png)
+
+Weisen sie nun die Spalten der Importdatei den passenden Spalten der Datenbank zu. Über das Symbol ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Lupe.png) erhalten Sie eine Übersicht aller verfügbarer Datenbankfelder der Datenbank. Nachdem alle Spalten zugewiesen sind, starten Sie den Import durch die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1441889884609.png).
+
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Import_response.png)
 
 Der erfolgreiche Import der Kundendaten und Vertragsdaten wird durch eine Meldung unter Angabe der Anzahl der importierten Kunden und Verträge bestätigt. Bei Fehlschlagen des Imports eines oder mehrerer Datensätze (z.B. aufgrund fehlerhafter Daten) wird eine entsprechende Meldung angezeigt, und der komplette Import abgebrochen. Prüfen Sie in diesem Fall die zu importierende Datei auf Korrektheit, oder wenden Sie sich an den xpecto Kundensupport.
