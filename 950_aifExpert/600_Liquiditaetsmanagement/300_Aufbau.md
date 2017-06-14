@@ -40,7 +40,7 @@ Im Bereich "Plan-Vorgaben" können Standardparameter bestimmt werden, die bei de
 Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden (siehe ). Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.    
 
 #### Aufbau - Posten
-> ![](http://xpecto.github.io/docs/aifExpert_Liquiditaet9.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet9.png)
 
 Die Anlage und Löschung von einzelnen Posten erfolgt mithilfe der zwei Schaltflächen links neben dem Bereich "Allgemein". Das Icon "+" legt einen neuen Posten an. Das Icon "x" löscht den in der unteren Liste ausgewählten Posten.
 
