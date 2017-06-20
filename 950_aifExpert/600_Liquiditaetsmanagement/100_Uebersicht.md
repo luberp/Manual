@@ -1,13 +1,11 @@
 Die Strategien werden zum größten Teil in Geschäftsplanungen ausgedrückt. Die Liquiditätsplanung
-des aifExpert erlaubt die Erstellung und Verwaltung von Geschäftsplänen für die verwalteten AIFs. Diese Pläne erlauben die Planung in verschiedenen Zeitintervallen und ermöglichen durch den integrierten Soll/Ist-Vergleich eine laufende Bewertung der Situation. Zusätzlich können Berechnungen und Prognosen von verschiedenen Kennzahlen wie z.B. der Eigenkapitalquote durchgeführt werden. Die Pläne ermöglichen dabei die Abbildung komplexer Zusammenhänge und die Simulation von verschiedenen Szenarien.
+des aifExpert erlaubt die Erstellung und Verwaltung von Geschäftsplänen für die verwalteten AIFs. Diese erlauben die Planung in verschiedenen Zeitintervallen und ermöglichen durch den integrierten Soll/Ist-Vergleich eine laufende Bewertung der Situation. Zusätzlich können Berechnungen und Prognosen von verschiedenen Kennzahlen wie z.B. der Eigenkapitalquote durchgeführt werden. Die Pläne ermöglichen dabei die Abbildung komplexer Zusammenhänge und die Simulation von verschiedenen Szenarien.
 
 Durch die Hinterlegung von Formeln und Abhängigkeiten können die Auswirkungen von
 bestimmten Annahmen sehr genau aufgezeigt und dargestellt werden. Mithilfe der Verknüpfung einzelner Planungsposten mit den entsprechenden Risiken können Simulationen für unterschiedliche zukünftige
 Szenarien durchgeführt werden. Die Bandbreite und die Art der Streuungsfunktionen kann dabei flexibel festgelegt werden.
 
-Die grafische Darstellung inkl. des zeitlichen Verlaufs erhöht die Planungssicherheit. Die
-Überwachung von Limits für die Liquidität und anderen Planungsdaten ermöglicht eine dauerhafte
-und automatisierte Begutachtung der Situation. Die gewonnenen Erkenntnisse unterstützen eine strukturierte Weiterentwicklung der Strategie des Unternehmens.
+Die grafische Darstellung inkl. des zeitlichen Verlaufs erhöht die Planungssicherheit. Die Überwachung von Limits für die Liquidität und anderen Planungsdaten ermöglicht eine dauerhafte und automatisierte Begutachtung der Situation. Die gewonnenen Erkenntnisse unterstützen eine strukturierte Weiterentwicklung der Strategie des Unternehmens.
 
 Die einzelnen Posten sind dabei hierarchisch organisiert und ermöglichen einen schnellen
 Überblick. Durch das Aufklappen der einzelnen Posten (wie z.B. EK) kann der Posten detailliert
@@ -22,12 +20,12 @@ Nachdem das Modul "Liquiditätsmanagement" aus dem Hauptmenü des aifExpert gest
   > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet0.png)
 
   - Oben
-    - Hier ist das Menü mit unterschiedlichen Reiter, Bereichen und Schaltflächen, die unterschiedliche Funktionen aufrufen.
+    - Hier ist das Menü mit unterschiedlichen Reitern, Bereichen und Schaltflächen, die unterschiedliche Funktionen aufrufen.
 
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet1.png)
 
   - Links
-    - Hier ist die Auswahlliste zur Auswahl einzelner Pläne. Zusätzlich kann im Suchbereich nach Plänen gesucht werden.
+    - Hier ist die Auswahlliste zur Selektion einzelner Pläne. Zusätzlich kann im Suchbereich nach Plänen gesucht werden.
 
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet2.png)
 
