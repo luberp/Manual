@@ -1,4 +1,3 @@
-n
 Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und definiert werden. Dazu muss im mittleren Bereich der Unterreiter "Aufbau" aufgerufen werden. Die Oberfläche für den Aufbau des Plans ist folgendermaßen strukturiert:
 - Im oberen Bereich finden sich Angaben und Informationen vom Plan selbst
 - Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
