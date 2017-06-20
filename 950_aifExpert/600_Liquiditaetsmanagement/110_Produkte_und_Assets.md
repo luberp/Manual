@@ -5,7 +5,7 @@ Um das Liquiditätsmanagement sinnvoll nutzen zu können, müssen vorher Stammda
 
 Der Dialog zur Anlage & Pflege der Produkte & Assets findet sich im Menü im Reiter "Stammdaten". 
 - Bei Betätigung der Schaltfläche "Assets" öffnet sich in einem neuen Fenster das Modul "Portfoliomanagement". 
-- Bei Betätigung der Schaltfläche "Produkte" öffnet sich in einem neuen Fenster die Oberflächen zur Verwaltung der Produkte und Gesellschaften.
+- Bei Betätigung der Schaltfläche "Produkte" öffnet sich ein neues Fenster mit den Oberflächen zur Verwaltung der Produkte und Gesellschaften.
   - Hier können nun die jeweiligen juristischen Person angelegt, mit weiteren Daten versehen oder gelöscht werden.
    
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet4.png)
