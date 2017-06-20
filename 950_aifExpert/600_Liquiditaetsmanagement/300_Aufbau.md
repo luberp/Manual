@@ -1,4 +1,4 @@
-
+n
 Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und definiert werden. Dazu muss im mittleren Bereich der Unterreiter "Aufbau" aufgerufen werden. Die Oberfläche für den Aufbau des Plans ist folgendermaßen strukturiert:
 - Im oberen Bereich finden sich Angaben und Informationen vom Plan selbst
 - Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
@@ -33,11 +33,11 @@ Im Bereich "Plan-Vorgaben" können Standardparameter bestimmt werden, die bei de
       - Halbjährlich
       - Jährlich
   - Anzahl
-    - Hier wird die Anzahl der Intervalle hinterlegt, die standardmäßig im Eingabe-Reiter im diesem Plan angezeigt werden (z.B. Intervall Monatlich > Anzahl 8 > Anzeige im Eingabe-Reiter von 8 Monaten)
+    - Hier wird die Anzahl der Intervalle hinterlegt, die standardmäßig im Eingabe-Reiter in diesem Plan angezeigt werden (z.B. Intervall Monatlich > Anzahl 8 > Anzeige im Eingabe-Reiter von 8 Monaten)
  
 ##### Aufbau - Plan - zusätzliche Anlässe
 
-Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden (siehe ). Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.    
+Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden. Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.    
 
 #### Aufbau - Posten
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet9.png)
@@ -49,14 +49,11 @@ Die Anlage und Löschung von einzelnen Posten erfolgt mithilfe der zwei Schaltfl
 Im Bereich "Posten-Allgemein" können allgemeine Informationen zum Posten hinterlegt werden.
  - Bezeichnung
    - Hier muss zwingend eine Bezeichnung des Postens erfolgen
-- Zusatzbez. 
+ - Zusatzbez. 
   - Hier kann eine zusätzliche (z.B. ausländische) Bezeichnung hinterlegt werden.
-- Typ
-  - Hier kann der Typ des Postens ausgewählt werden. Diese Auswahl stellt eine Verknüpfung zum Meldewesen im Bereich der Bundesbankmeldung dar. Die Auswahlliste orientiert sich dabei an den Vorgaben der Bundesbank. 
-  - Hintergrund: Im Meldewesen stellen im Bereich der Bundesbankmeldung die einzelnen Formularfelder auch Posten dar. Diese Posten können im Liquiditätsmanagement gepflegt und mit Werten versehen, die dann wieder rum im Meldewesen für die Bundesbankmeldung verwendet werden können
  - Owner
-   - Der Owner (Besitzer) beschreibt das Produkt welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendet welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes  beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
-   - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beiden den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen werden können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
+   - Der Owner (Besitzer) beschreibt das Produkt, welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendet, welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
+   - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beide den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
 
 ##### Aufbau - Posten - Verknüpfung Portfolio 
 
@@ -96,25 +93,25 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
 | backdarkgrey  | Hintergrund dunkelgrau | 
 
   - Sortierung
-    - In diesem Feld kann ein Zahl oder Text hinterlegt werden, welcher die entsprechende Reihenfolge im Eingabe- und Auswertungs-Reiter der Posten darstellt.
+    - In diesem Feld kann eine Zahl oder ein Text hinterlegt werden, welcher die entsprechende Reihenfolge im Eingabe- und Auswertungs-Reiter der Posten darstellt.
   - Bemerkung
     - Im Feld "Bemerkung" können zusätzliche Informationen zu diesem Posten gespeichert werden. Diese werden im Eingabe- und Auswertungs-Reiter in der Spalte "Bemerkung" angezeigt.
   
 ##### Aufbau - Posten - Posten-Datenherkunft-Werte
 
-Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der Werte. Dies können entweder Formeln, Abfragen oder Funktionen, wie  sein.
+Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der Werte. Dies können entweder Formeln, Abfragen oder Funktionen sein.
   - Datenquelle
     - Im Feld "Datenquelle" muss die zukünftige Quelle der Werte ausgewählt werden. Folgende Auswahlmöglichkeiten sind standardmäßig hinterlegt:
       - Formel
       - Referenz
       - SQL
   - Datenparameter
-    - Im Feld "Datenparameter" muss nun die entsprechende Information hinterlegt werden, woher im Fall der Quelle "Referenz" und "SQL" der Wert kommt.
+      - Im Feld "Datenparameter" muss nun die SQL-Abfrage oder Referenz hinterlegt werden.
     
 | Quelle | Datenparameter | Beschreibung |
 | ------------- |:-------------|:--------|
 | Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
-| SQL | Select * From * Where * | Bei der Quelle "SQL" muss hier eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
+| SQL | Select * From * Where * | Bei der Quelle "SQL" muss eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
 
   - Berechnung
     - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
