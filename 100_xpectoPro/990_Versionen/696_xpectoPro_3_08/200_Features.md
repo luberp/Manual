@@ -33,6 +33,7 @@
 * Feature [#43746] Sammlung von Druckdokumenten (Neuer Drucker "Sammeln")
   
   Sammlung von Druckdokumenten für späteren gesammelten Druck
+  
   Es steht nun einen neuer Drucker "Sammeln" zur Auswahl.
   Achtung Änderung: Wunschversand "Nur Archiv" legt nun auch einen Spoolereintrag an, aber mit "Printed to Drucker:Sammeln".
 
@@ -49,13 +50,18 @@
 * Feature [#44325] Adressen: Prüfung und Komfortbefüllung direkt über Strasse
   
   Adressen: Komfortbefüllung und Prüfung von Strasse, Land, PLZ und Wohnort
-  Bei der Eingabe der Strasse kann jetzt direkt der Ort angehängt werden. Die Eingabe wird dann direkt per Webschnittstelle geprüft und   die Felder Strasse, Land, PLZ und Wohnort werden direkt befüllt. Die  Aktion wird nur ausgeführt, wenn der Wohnort nicht schon befüllt
+  
+  Bei der Eingabe der Strasse kann jetzt direkt der Ort angehängt werden. 
+ 
+  Die Eingabe wird dann direkt per Webschnittstelle geprüft und die Felder Strasse, Land, PLZ und Wohnort werden direkt befüllt. Die
+  Aktion wird nur ausgeführt, wenn der Wohnort nicht schon befüllt
   ist, zudem muss der Suchtext (im Feld Strasse) ein Komma enthalten. Gut funktioniert Suchbegriffe wie "Benz 13, Landshut" oder "AB
   12, Hamburg".
 
 * Feature [#44327] Geocoding: alternativer Anbieter photon.komoot.de, wählbar über neuen Parameter GeoCodingProvider
 
   Geocoding: alternativer Anbieter photon.komoot.de (jetzt Standard)
+  
   Als zusätzlicher Anbieter für die Prüfung und Lokalisierung von Adressen wurde ein deutscher Dienst von komoot.de integriert. Der
   genutzte Dienst kann über den neuen Parameter GeoCodingProvider eingestellt werden. Es sind die beiden Anbieter Google und Komoot
   möglich.
@@ -64,12 +70,14 @@
 * Feature [#44498] E-Mail Versand von Berichten - Angabe von verschiedenen Empfänger E-Mail Adressen ermöglichen
   
   E-Mail Versand von Berichten - Angabe von verschiedenen Empfänger E-Mail Adressen ermöglicht
+  
   Das "E-Mail Empfänger" Feld sowie die 2 neuen Felder "E-Mail Empfänger CC" und "E-Mail Empfänger BCC" können nun u. a. über die 
   Platzhalter-Syntax <code>%[Mein_EMailFeld_aus_der_Abfrage]%</code> mit Daten aus der SQL-Abfrage des Berichts befüllt werden.
 
 * Feature [#44856] Sync: Parameter UseSyncPeek: benutzt beschleunigten Abgleich
   
   Synchronisation - Standardmäßig den beschleunigten Datenabgleich nutzen
+  
   Die Synchronisation benutzt nun den neuen Parameter UseSyncPeek zum beschleunigten Abgleich der geänderten und neuen Datensätze
   standardmäßig. Diese Einstellung verringert die Dauer des gesamten Synchronisationsvorgangs erheblich.
 
