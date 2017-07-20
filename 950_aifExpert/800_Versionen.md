@@ -3,6 +3,29 @@ xpecto veröffentlicht in regelmäßigen Abständen neue Softwareversionen. Die 
 
 Sie finden zu jeder Version eine Auflistung aller Änderungen wie Fehlerbehebungen und neue Funktionen. Umfangreiche Funktionen werden im Bereich Funktionen nochmals genauer erklärt.
 
+##aifExpert 4 03
+#####Stable, 14.07.2016
+
+###Highlights
+#####Liquiditätsmanagement
+Im Bereich des Liquiditätsmanagement wurde das Modul neu aufgesetzt und komplett überarbeitet. Das Liquiditätsmanagement ist nun auch in den bekannten .net-Oberflächen umgesetzt und ermöglicht somit ein flexible und funktionale Planung & Controlling der Liquidität.
+Das Modul ermöglicht das Liquiditätsmanagement durch vielfältige Funktionen:
+- Erstellung von Planungen mit hierarchischen Posten & verschiedenen Plan-Varianten & Formelsystem
+- Betrachtung der Pläne in unterschiedlichen Zeitverläufen (Jahr / Quartal / Monat / Tag)
+- Konsolidierung und Querverweise von verschiedenen Plänen
+- Verwaltung der Planbuchungen vom GOBD-zertifizierten Buchhaltungskern
+- Import & Export aus und in Microsoft Excel
+#####Meldewesen - CRS-Modul
+Im Bereich des Meldewesens wurde das zusätzliche Modul für die CRS-Meldungen an das Bundeszentralamt für Steuern implementiert. Das Modul erstellt gemäß den rechtlichen Vorgaben (CRS / FKAustG) im vorgegeben Format und Schema die entsprechenden Meldungen. Übermittelt werden diese durch eine direkte Schnittstelle zum BZSt (Massendatenübermittlung / ELMA5-Schnittstelle). Das Modul kann nach Anfrage für ausländischee Meldungen & Finanzinstitute angepasst werden.
+#####Risikomanagement
+#####Portfoliomanagement
+#####Layout & Sicherheit
+#####Website
+#####Videos
+#####Handbuch
+Das Handbuch ist nun über http://help.xpecto.de/aifExpert aufrufbar und wird kurzfristig um weitere Inhalte erweitert.
+aifExpert besitzt nun eine moderne und übersichtliche Menüstruktur. 
+
 
 ----------
 
