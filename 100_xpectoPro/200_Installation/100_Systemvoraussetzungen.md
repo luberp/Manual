@@ -2,6 +2,7 @@ Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserve
 
 
   Client
+  
 - Prozessor: Rechner der aktuellen Generation 3
 - Hauptspeicher: 4 GB, empfohlen 8 GB
 - Betriebssystem: 32 bit, empfohlen 64bit Windows 7, 8.1, 10
@@ -11,6 +12,7 @@ Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserve
 
 
 Datenbankserver
+
 - Prozessor: Rechner der aktuellen Generation 4
  -Hauptspeicher:  Abhängig vom Datenvolumen und der Anzahl der Anwender
 - Betriebssystem: Bitte beachten Sie hier die Freigabeliste von Microsoft für SQL Server
@@ -22,11 +24,13 @@ Datenbankserver
 
 
 Sonstiges
+
 - Barcodedrucker Zur Erstellung von Registrierungscodes zur Kennzeichnung von zu archivierenden Dokumenten (z.B. Dymo, LabelWriter)
 - Gesellschafterversammlungen Notebook mit HDD-Platz für eine Teil-Datenbank empfohlener Leserstift: http://www.albasca.com/webstore/product_info.php/products_id/91
 
 
 Freigabe
+
 Für xpectoPro muss eine Freigabe (z.B. xpectoPro) als UNC-Pfad (\\SERVER\xpectoPro) auf einem beliebigen Server eingerichtet werden. Alle xpectoPro-User benötigen Vollzugriff auf diesen Ordner und sämtliche Unterordner (Update, Reports, Temp, Export, Archiv, Bank, Belege).
 Update und Lizenzanruf
 freie HTTPS/SSL Zugriffe auf unser öffentliches Sub-Netz 80.190.158.192/26
