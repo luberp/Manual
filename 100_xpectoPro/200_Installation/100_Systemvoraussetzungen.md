@@ -10,7 +10,6 @@ Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserve
 - Runtime-System .NET 4.6 ist Voraussetzung und muss installiert sein
 
 
-
 Datenbankserver
 
 - Prozessor: Rechner der aktuellen Generation 4
@@ -32,6 +31,7 @@ Sonstiges
 Freigabe
 
 Für xpectoPro muss eine Freigabe (z.B. xpectoPro) als UNC-Pfad (\\SERVER\xpectoPro) auf einem beliebigen Server eingerichtet werden. Alle xpectoPro-User benötigen Vollzugriff auf diesen Ordner und sämtliche Unterordner (Update, Reports, Temp, Export, Archiv, Bank, Belege).
+
 
 Erläuterungen
 
