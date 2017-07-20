@@ -14,7 +14,15 @@ Im Dialog *Buchungen zuweisen* wird die Liste der Produkte mit offenen sowie gep
 
 Die Schaltfläche Rundruf starten ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_starten.png) dient dazu die Kontobewegungen für das markierte Produkt bei der Bank abzufragen. 
 
+
+----------
+
+
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Ein Rundruf für alle Produkte kann über die Registerkarte *Buchhaltung* Gruppe *Kontodaten* Funktion *Rundruf* gestartet werden.
+
+
+----------
+
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_Menue.png)
 
