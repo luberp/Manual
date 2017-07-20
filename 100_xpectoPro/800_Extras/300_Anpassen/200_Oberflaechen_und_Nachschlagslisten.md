@@ -6,7 +6,7 @@ In der modernen Menü-Ansicht kann die Maske über die Registerkarte *System* Gr
 
 ![](http://xpecto.github.io/docs/img/img_1462178525763.png)
 
-**Oberflächen**
+Oberflächen
 
 In xpectoPro sind viele Eingabenmasken individuell anpassbar. Dies bezieht sich nicht nur auf das Layout der Masken, sondern erstreckt sich auch auf die damit verknüpfte Funktionalitäten. Während das Layout (Anzahl, Anordnung und Beschriftung der Eingabefelder) durchaus von erfahrenen Benutzern geändert werden kann, sollten Änderungen an der Funktionalität nur vom xpecto Kundensupport durchgeführt werden. 
 
