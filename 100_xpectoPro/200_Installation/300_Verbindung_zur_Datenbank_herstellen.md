@@ -14,11 +14,10 @@ Bitte geben Sie hier den SQL Server an der für die Verwendung von xpectoPro vor
 
 *2. Geben Sie Informationen zur Anmeldung beim Server ein:*
 
- *Integrierte Sicherheit von Windows verwenden*
- 
+ *->Integrierte Sicherheit von Windows verwenden*
  Zur Anmeldung an der Datenbank wird der Windows Benutzer und dessen Kennwort verwendet.
-*Spezifischen Benutzernamen und Kennwort verwenden:*
-
+ 
+*->Spezifischen Benutzernamen und Kennwort verwenden:*
 Zur Anmeldung an der Datenbank wird ein Benutzer und Kennwort verwendet der speziell in der SQL Datenbank angelegt wurde.
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Sollten diese Daten nicht bekannt sein fragen Sie bitte unbedingt bei Ihrem zuständigen Systemadministrator nach.*
