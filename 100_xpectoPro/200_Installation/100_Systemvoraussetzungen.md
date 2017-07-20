@@ -11,19 +11,19 @@ Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserve
 
 
 Datenbankserver
-Prozessor Rechner der aktuellen Generation 4
-Hauptspeicher 1,2 Abhängig vom Datenvolumen und der Anzahl der Anwender
-Betriebssystem Bitte beachten Sie hier die Freigabeliste von Microsoft für SQL Server
-Datenbanksystem Microsoft SQL Server 2008 R2 oder 2012, 2014
-Collation Latin1_General_CI_AS
-Festplattensystem Performantes RAID wird empfohlen
-Netzwerklaufwerk Die Installation von xpectoPro benötigt ca. 1 GB Festplattenspeicher. Für die integrierte Dokumentablage (anwachsend) muss zusätzlich freier Speicherplatz zur Verfügung gestellt werden.
+- Prozessor Rechner der aktuellen Generation 4
+ -Hauptspeicher 1,2 Abhängig vom Datenvolumen und der Anzahl der Anwender
+- Betriebssystem Bitte beachten Sie hier die Freigabeliste von Microsoft für SQL Server
+- Datenbanksystem Microsoft SQL Server 2008 R2 oder 2012, 2014
+- Collation Latin1_General_CI_AS
+- Festplattensystem Performantes RAID wird empfohlen
+- Netzwerklaufwerk Die Installation von xpectoPro benötigt ca. 1 GB Festplattenspeicher. Für die integrierte Dokumentablage (anwachsend) muss zusätzlich freier Speicherplatz zur Verfügung gestellt werden.
 Speicherplatz je 1000 Anteile Durchschnittliche Werte pro Jahr Betriebszeit: mindestens
 
 
 Sonstiges
-Barcodedrucker Zur Erstellung von Registrierungscodes zur Kennzeichnung von zu archivierenden Dokumenten (z.B. Dymo, LabelWriter)
-Gesellschafterversammlungen Notebook mit HDD-Platz für eine Teil-Datenbank empfohlener Leserstift: http://www.albasca.com/webstore/product_info.php/products_id/91
+- Barcodedrucker Zur Erstellung von Registrierungscodes zur Kennzeichnung von zu archivierenden Dokumenten (z.B. Dymo, LabelWriter)
+- Gesellschafterversammlungen Notebook mit HDD-Platz für eine Teil-Datenbank empfohlener Leserstift: http://www.albasca.com/webstore/product_info.php/products_id/91
 
 
 Freigabe
