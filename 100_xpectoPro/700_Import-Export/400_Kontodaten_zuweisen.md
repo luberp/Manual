@@ -28,7 +28,8 @@ Die Schaltfläche Rundruf starten ![](http://xpecto.github.io/docs/xpecto/Import
 
 
 Durch einen Klick auf  *OK* werden Sie zum Dialog *importierte Buchungen zuweisen* weitergeleitet. 
-Der Dialog *importierte Buchungen zuweisen* enthält die Reiter *Buchungen anzeigen* und *geparkte Buchungen anzeigen* ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Geparkte_Buchungen.png).
+Der Dialog *importierte Buchungen zuweisen* enthält die Reiter *Buchungen anzeigen* und *geparkte Buchungen anzeigen* 
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Geparkte_Buchungen.png).
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchungen_zuweise_Main.png)
 
