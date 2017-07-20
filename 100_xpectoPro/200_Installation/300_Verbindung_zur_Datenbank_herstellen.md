@@ -40,6 +40,14 @@ Tragen Sie hier den Namen der zu erstellenden Datenbank ein und bestätigen den 
 
 ----------
 
+Nachdem xpectoPro gestartet wurde, werden Sie an dieser Stelle aufgefordert einen Mandanten (Owner) der Datenbank zu benennen. 
+Bitte geben Sie hier den vorgegebenen Namen / Kürzel ein und bestätigen den Dialog mit "*OK*".
+
+Anschließend werden Sie zum Lizenz Manager Dialog weitergeleitet.
+
+![](http://xpecto.github.io/docs/xpecto/Installation/Installation_der_Software/owner.png)
+
+
 
  
 
