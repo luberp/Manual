@@ -13,7 +13,7 @@ Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserve
 Datenbankserver
 
 - Prozessor: Rechner der aktuellen Generation 4
- -Hauptspeicher:  Abhängig vom Datenvolumen und der Anzahl der Anwender
+- Hauptspeicher:  Abhängig vom Datenvolumen und der Anzahl der Anwender
 - Betriebssystem: Bitte beachten Sie hier die Freigabeliste von Microsoft für SQL Server
 - Datenbanksystem: Microsoft SQL Server 2008 R2 oder 2012, 2014
   Collation Latin1_General_CI_AS
