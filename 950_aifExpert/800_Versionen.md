@@ -16,8 +16,11 @@ Das Modul ermöglicht das Liquiditätsmanagement durch vielfältige Funktionen:
 - Verwaltung der Planbuchungen vom GOBD-zertifizierten Buchhaltungskern
 - Import & Export aus und in Microsoft Excel
 #####Meldewesen - CRS-Modul
-Im Bereich des Meldewesens wurde das zusätzliche Modul für die CRS-Meldungen an das Bundeszentralamt für Steuern implementiert. Das Modul erstellt gemäß den rechtlichen Vorgaben (CRS / FKAustG) im vorgegeben Format und Schema die entsprechenden Meldungen. Übermittelt werden diese durch eine direkte Schnittstelle zum BZSt (Massendatenübermittlung / ELMA5-Schnittstelle). Das Modul kann nach Anfrage für ausländischee Meldungen & Finanzinstitute angepasst werden.
+Im Bereich des Meldewesens wurde das zusätzliche Modul für die CRS-Meldungen an das Bundeszentralamt für Steuern implementiert. Das Modul erstellt gemäß den rechtlichen Vorgaben (CRS / FKAustG) im vorgegeben Format und Schema die entsprechenden Meldungen. Übermittelt werden diese durch eine direkte Schnittstelle zum BZSt (Massendatenübermittlung / ELMA5-Schnittstelle). Das Modul kann nach Anfrage für ausländische Meldungen & Finanzinstitute angepasst werden. Durch eine Schnittstelle zum Anlegerverwaltungssystem xpectoPro können die meldepflichtigen Konten mit geringem Aufwand durch das neue aifExpert Modul in einer Meldung zusammengefasst und anschließend direkt an das BZSt gemeldet werden.
+Auch ohne das Anlegerverwaltungssystem xpectoPro können im aifExpert Meldungen in der geforderten Struktur und Format erzeugt werden. Neben einer einfachen Eingabemöglichkeit stellt der aifExpert eine zusätzliche Importfunktion bereit, die die meldepflichtigen Daten aus einer Excel-Datei auslesen kann.
 #####Risikomanagement
+Im Bereich des Risikomanagements wurde eine neue Ansicht / Oberfläche sowie Eingruppierung implementiert.
+Nun sind jegliche Einzelrisiken, 
 #####Portfoliomanagement
 #####Layout & Sicherheit
 #####Website
