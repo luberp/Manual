@@ -1,12 +1,12 @@
 Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserver) auf einem Rechner installiert werden (Einzelarbeitsplatz). In diesem Fall gelten die Systemvoraussetzungen ähnlich wie für den Datenbankserver. Bei mehreren Benutzern bzw. Clients werden die Komponenten auf mehreren unterschiedlichen Rechnern installiert. Informationen und Empfehlungen für eine mögliche Aufteilung und Konfiguration entnehmen Sie bitte den folgenden Informationen.
 
 
-Client
--Prozessor Rechner der aktuellen Generation 3
--Hauptspeicher 4 GB, empfohlen 8 GB
--Betriebssystem 32 bit, empfohlen 64bit Windows 7, 8.1, 10
--Bildschirmauflösung mind. 1280 x 900
--Runtime-System .NET 4.6 ist Voraussetzung und muss installiert sein
+  Client
+- Prozessor Rechner der aktuellen Generation 3
+- Hauptspeicher 4 GB, empfohlen 8 GB
+- Betriebssystem 32 bit, empfohlen 64bit Windows 7, 8.1, 10
+- Bildschirmauflösung mind. 1280 x 900
+- Runtime-System .NET 4.6 ist Voraussetzung und muss installiert sein
 
 
 
