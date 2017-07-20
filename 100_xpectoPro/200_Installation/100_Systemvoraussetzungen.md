@@ -1,4 +1,4 @@
-Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserver) auf einem Rechner installiert werden (Einzelarbeitsplatz). In diesem Fall gelten die Systemvoraussetzungen ähnlich wie für den Datenbankserver. Bei mehreren Benutzern bzw. Clients werden die Komponenten auf mehreren unterschiedlichen Rechnern installiert. Informationen und Empfehlungen für eine mögliche Aufteilung und Konfiguration entnehmen Sie bitte den folgenden Informationen.
+Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserver) auf einem Rechner installiert werden (Einzelarbeitsplatz). In diesem Fall gelten die Systemvoraussetzungen ähnlich wie für den Datenbankserver. Bei mehreren Benutzern bzw. Clients werden die Komponenten auf mehreren unterschiedlichen Rechnern installiert. Informationen und Empfehlungen für eine mögliche Aufteilung und Konfiguration entnehmen Sie bitte den folgenden Informationen. Bitte beachten Sie, dass sämtliche Angaben in diesem Dokument lediglich geschätzte Mindestanforderungen darstellen.
 
 
   Client
@@ -32,17 +32,9 @@ Sonstiges
 Freigabe
 
 Für xpectoPro muss eine Freigabe (z.B. xpectoPro) als UNC-Pfad (\\SERVER\xpectoPro) auf einem beliebigen Server eingerichtet werden. Alle xpectoPro-User benötigen Vollzugriff auf diesen Ordner und sämtliche Unterordner (Update, Reports, Temp, Export, Archiv, Bank, Belege).
-Update und Lizenzanruf
-freie HTTPS/SSL Zugriffe auf unser öffentliches Sub-Netz 80.190.158.192/26
-Fernwartung
-Ausgehender TCP Zugriff auf Port 5500 - 5550 unserer IP-Adresse 80.190.141.14 (Pingbar unter home.xpecto.de)
-Download öffentlicher Tabellen (Bankenstamm, Finanzämter, PLZ/Orte usw.)
-URL https://www2.xpecto.de über Port 443
-für Mailversand (wenn gewünscht)
-Zugriff auf den SMTP-Server. Wir benötigen dann noch die Zugangsdaten zum Einrichten in xpectoPro.
-Allgemein
-Bitte beachten Sie, dass sämtliche Angaben in diesem Dokument lediglich geschätzte Mindestanforderungen darstellen. Für die Online-Hilfen ist ein Internet-Zugang notwendig. In der Umstellungsphase ist der Zugriff von außen auf xpectoPro sehr wichtig. Wir benötigen unbedingt eine einfache Methode, um auf ein zu steuerndes System zu kommen. Typischerweise ist das die xpectoPro Ferwartung oder ein Zugriff per RDP.
+
 Erläuterungen
+
 1 Die Größe des empfohlenen Arbeitsspeichers ist wesentlich von der Anzahl der Benutzer bzw. Clients abhängig,
 2 Die Datenbank sollte in den Hauptspeicher passen.
 3 Hier sind mindestens 2 Kerne notwendig, empfohlen sind 4 Kerne oder mehr.
