@@ -12,5 +12,21 @@ Sollten alle Versuche Scheitern oder Ihnen ist die Adresse des Proxy-Server nich
 
 ![](http://xpecto.github.io/docs/xpecto/Installation/Datenbank_und_Lizenz_aktivieren/Datenbank_aktivieren.png)
 
+War die Aktivierung der Datenbank erfolgreich, wird Ihnen folgender Dialog angezeigt.
 
-![](http://xpecto.github.io/docs/xpecto/Installation/Datenbank_und_Lizenz_aktivieren/reg_ok.png
+![](http://xpecto.github.io/docs/xpecto/Installation/Datenbank_und_Lizenz_aktivieren/reg_ok.png)
+
+Analog zur manuellen Aktivierung der Datenbank ist die Registrierung der Lizenz durchzuführen. Beachten Sie bitte hierzu folgenden Ablauf:
+
+ 1. Aktiveren Sie die Option "*mit Internetbrowser*".
+ 2. Kopieren Sie den kompletten Inhalt der Ihnen wie unten im Fenster 2 dargestellt wird in die Zwischenablage.
+ 3. Betätigen Sie die Schaltfläche "*im Browser öffnen*" und fügen den Wert der Zwischenablage in das Fenster dass Ihnen im Browser dargestellt wird und bestätigen Sie abschließend mit "*absenden*". Kopieren Sie den zurückgelieferten Lizenzschlüssel, vollständig in die Zwischenablage.
+ 4. Bitte fügen Sie hier den Lizenzschlüssel ein, der Ihnen im Browser zurückgeliefert wurde.
+ 5. Abschließend bestätigen Sie den Lizenzschlüssel über die Schaltfläche "*Lizenz speichern*".
+
+![](http://xpecto.github.io/docs/xpecto/Installation/Datenbank_und_Lizenz_aktivieren/Lizenz_aktivieren.png)
+
+War die Lizenzierung erfolgreich, wird Ihnen folgender Dialog angezeigt.
+
+![](http://xpecto.github.io/docs/xpecto/Installation/Datenbank_und_Lizenz_aktivieren/Lizenzierung_erfolgreich.png)
+
