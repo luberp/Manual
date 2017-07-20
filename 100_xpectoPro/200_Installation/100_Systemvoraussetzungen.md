@@ -2,15 +2,10 @@ Prinzipiell können sämtliche Komponenten von xpectoPro (Client, Datenbankserve
 
 
 Client
-
 Prozessor Rechner der aktuellen Generation 3
-
 Hauptspeicher 4 GB, empfohlen 8 GB
-
 Betriebssystem 32 bit, empfohlen 64bit Windows 7, 8.1, 10
-
 Bildschirmauflösung mind. 1280 x 900
-
 Runtime-System .NET 4.6 ist Voraussetzung und muss installiert sein
 
 
