@@ -21,10 +21,10 @@ Die Schaltfläche Rundruf starten ![](http://xpecto.github.io/docs/xpecto/Import
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Ein Rundruf für alle Produkte kann über die Registerkarte *Buchhaltung* Gruppe *Kontodaten* Funktion *Rundruf* gestartet werden.
 
 
-----------
-
-
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_Menue.png)
+
+
+----------
 
 
 Durch einen Klick auf  *OK* werden Sie zum Dialog *importierte Buchungen zuweisen* weitergeleitet. 
