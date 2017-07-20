@@ -1,1 +1,1 @@
-
+docs/xpecto/Installation/Datenbank_und_Lizenz_aktivieren/lizenzmanager.png
