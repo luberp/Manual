@@ -2,7 +2,7 @@
 
 Nachdem nun ein neuer Plan angelegt ist und der grundlegende Aufbau festgelegt wurde, kann dieser nun im Unterreiter "Eingabe" betrachtet werden. Der Eingabe-Reiter ist folgendermaßen strukturiert
 
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet10.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet34.png)
 
 
  - Im oberen Bereich befinden sich verschiedene Steuerungsfunktionen
@@ -14,10 +14,10 @@ Nachdem nun ein neuer Plan angelegt ist und der grundlegende Aufbau festgelegt w
    - Links wird die Bezeichnung, Zusatzbezeichnung, die Bemerkung (kann per Tooltip komplett gelesen werden) sowie eine Schaltfläche zur Abholung von Werten (siehe Konsolidierung - Referenz) 
    - Rechts davon werden Spalten je Anlass und je Intervall angezeigt
  
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet12.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet35.png)
  
 Die Eingabe der kann nun innerhalb der jeweiligen Spalte (Intervall & Anlass) und Zeile (Posten) erfolgen. 
-Die Werte müssen numerisch und positiv oder negativ (mit Minus-Vorzeichen) sein. Dezimalzeichen sind mit einem Komma zu trennen und sind bis zur 6ten-Nachkommastelle möglich. Zur Übersichtlichkeit erfolgt die Anzeige von Dezimalzeichen nur dann, wenn diese vorhanden sind oder zur Berechnung benutzt werden.
+Die Werte müssen numerisch und positiv oder negativ (mit Minus-Vorzeichen) sein. Dezimalzeichen sind mit einem Komma zu trennen, sind entsprechend der Kommastellen-Zahl, welche im Aufbau definiert worden ist, und maximal bis zur 6ten-Nachkommastelle möglich. Zur Übersichtlichkeit erfolgt die Anzeige von Dezimalzeichen nur dann, wenn diese vorhanden sind oder zur Berechnung benutzt werden.
 
 Bei den folgenden Konstellationen ist eine Werteingabe nicht möglich:
   
@@ -62,8 +62,7 @@ Jeder Datenpunkt kann verschiedene Ausprägungen annehmen, die in Form von Icons
 | ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet15.png)     | Alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben | 
 | ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet16.png)      | Nicht alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben |
 | ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet17.png)      | Der Datenpunkt wurde manuell überschrieben, obwohl er anhand einer Formel automatisch berechnet wird |
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet18.png)      | Es sind Bemerkungen in dem/n Buchungssatz/en vorhanden |
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet19.png)      | Es sind Dateien in dem/n Buchungssatz/en hinterlegt worden |
+| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet36.png)      | Es sind Bemerkungen oder Dateien in dem/n Buchungssatz/en hinterlegt worden |
 
 ##### Eingabe - Datenpunkt-Dialog
 
@@ -84,13 +83,13 @@ Jeder Plan kann in unterschiedlichen Varianten / Anlässen gepflegt und mit Wert
 Die Auswahl des zu betrachtenden Haupt-Anlasses ist in den Steuerungsfunktionen möglich. Der standardmäßige Haupt-Anlass des Plans wird im Planaufbau gesetzt. 
 Um zwei Anlässe vergleichen zu können, kann in den Steuerungsfunktionen ein Neben-Anlass ausgewählt werden. Dabei blendet der aifExpert zusätzliche Spalten für den Neben-Anlass ein. Es wird für jeden einzelnen Zeitraum jeweils eine Spalte je Anlass angezeigt.
 
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet24.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet37.png)
 
 #### Eingabe - Auswertung
 
 Um eine abgegrenzte Auswertung der Anlässe (Anlass1 gilt bis zum Zeitraum x, danach gilt Anlass2) zu ermöglichen steht in den Steuerungsfunktionen nach Auswahl eines Neben-Anlasses eine Checkbox "Auswertung" zur Verfügung. Nach der Betätigung dieser Box erscheint zwischen den Spalten in der Eingabe ein Slider. Dieser kann zwischen die jeweilige Spalte gezogen werden und bewirkt, dass bis zum Slider der Haupt-Anlass und nach dem Slider der Neben-Anlass betrachtet wird. Laufende Summen werden dabei fortlaufend weiter berechnet.
 
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet25.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet38.png)
 
 
 --------
