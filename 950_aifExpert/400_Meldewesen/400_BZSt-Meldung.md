@@ -55,8 +55,6 @@ Im Reiter "Bestandteile" können nun die jeweiligen Konten inklusive der spezifi
 
 Für eine sichere und benutzerfreundliche Pflege der Meldung wurden zusätzlich bei den entsprechenden Muss-Feldern Validatoren implementiert. Diese prüfen ob das Feld einen Wert enthält und wechselt vom Warndreieck auf einen Hacken. Im Bereich der Bevollmächtigten / wirtschaftlich Berechtigten wurden zwei Sicherheitsmechanismen umgesetzt. Der erste besteht darin, dass die Anlage eines wirtschaftlich Berechtigten nur dann möglich ist, wenn es eine Organisation ist und der Typ Organisation eine "Passive NFE mit beherrschender, meldepflichtiger Person / CRS101" ist. Der zweite Mechanismus besteht darin, dass der ausgewählte Datensatz im unteren Bereich darauf geprüft wird, ob dieser einen wirtschaftlich Berechtigten enthalten darf oder nicht. Bei einem fehlenden wirtschaftlich Berechtigten (nur wenn "Organisation" und Typ Organisation "Passive NFE mit beherrschender, meldepflichtiger Person / CRS101") erfolgt eine entsprechende Message-Box. Auch bei einem importierten wirtschaftlich Berechtigten, der aber nicht in dieser Konstellation erlaubt ist, wird eine Message-Box ausgegeben.
 
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen37.png)
-
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Meldewesen46.png)
 
 *Beispiel:*
