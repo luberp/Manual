@@ -7,3 +7,5 @@
 7. [Risikoueberwachung](http://help.xpecto.de/aifExpert/Risikomanagement/Risikoueberwachung)
 8. [Risikokommunikation](http://help.xpecto.de/aifExpert/Risikomanagement/Risikokommunikation)
 
+(Stand: 2017-08)
+
