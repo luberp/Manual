@@ -3,11 +3,11 @@ Nachdem ein neuer Plan angelegt worden ist muss der Aufbau des Plan erstellt und
 - Im mittleren Bereich können einzelne Posten angelegt, gelöscht und mit den entsprechenden Informationen versehen werden
 - Im unteren Bereich erfolgt die Auflistung aller bisher hinterlegten Posten. Die Auflistung stellt gleichzeitig die Auswahlmöglichkeit der jeweiligen Posten dar. D.h. zur Bearbeitung eines entsprechenden Posten muss dieser in der Auflistung ausgewählt werden und kann anschließend im mittleren Bereich mit den entsprechenden Daten angepasst werden.
 
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet7.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet31.png)
 
 
 #### Aufbau - Plan
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet8.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet32.png)
 
 
 ##### Aufbau - Plan - Allgemein
@@ -39,7 +39,7 @@ Im Bereich "Plan-Vorgaben" können Standardparameter bestimmt werden, die bei de
 Im Bereich "zusätzliche Anlässe" können spezifische Varianten / Anlässe des Plans hinterlegt werden. Im Vergleich zu den globalen Anlässen, die für alle Pläne gelten, gelten diese nur für den jeweiligen Plan.    
 
 #### Aufbau - Posten
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet9.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet33.png)
 
 Die Anlage und Löschung von einzelnen Posten erfolgt mithilfe der zwei Schaltflächen links neben dem Bereich "Allgemein". Das Icon "+" legt einen neuen Posten an. Das Icon "x" löscht den in der unteren Liste ausgewählten Posten.
 
