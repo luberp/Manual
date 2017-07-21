@@ -77,6 +77,14 @@ Im Bereich "Datei" kann eine Datei entweder mithilfe eines Dialoges oder durch d
 
 Im oberen linken Bereich des Datenpunkt-Dialogs können weitere Buchungssätze angelegt oder bestehende nicht festgeschriebene gelöscht werden. Die Anlage von neuen Buchungssätzen aus diesem Dialog kommt dann in Betracht, sollten alle bestehenden Buchungssätze bereits festgeschrieben sein (Die Eingabe eines anderen Wertes im Plan ist nicht mehr möglich). Dabei übernimmt und schlägt der aifExpert zur Neuanlage der Buchung die Werte der ersten Buchung der Liste vor.
 
+#### Eingabe - Festschreibung
+
+Die Festschreibung von entsprechenden Werten kann entweder über den einzelnen Datenpunkt oder für eine Zeitraum erfolgen.
+Für letzteres muss ein Wert in der entsprechenden Spalte des gewünschten zu festschreibenden Zeitraums ausgewählt und im Menü-Reiter die Schaltfläche Festschreibung betätigt werden. Nach Bejahung der anschließenden Dialog-Rückfrage schreibt aifExpert jegliche Werte des zugrundeliegenden Zeitraums fest und macht diese somit nicht mehr veränderbar.
+
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet41.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet42.png)
+
 #### Eingabe - Varianten
 
 Jeder Plan kann in unterschiedlichen Varianten / Anlässen gepflegt und mit Werten versehen werden.
