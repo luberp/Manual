@@ -58,11 +58,11 @@ Jeder Datenpunkt kann verschiedene Ausprägungen annehmen, die in Form von Icons
 
 | Icon | Beschreibung | 
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet14.png)| Dieser Datenpunkt besteht aus mehreren Buchungssätzen / Werten | 
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet15.png)     | Alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben | 
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet16.png)      | Nicht alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben |
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet17.png)      | Der Datenpunkt wurde manuell überschrieben, obwohl er anhand einer Formel automatisch berechnet wird |
-| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet36.png)      | Es sind Bemerkungen oder Dateien in dem/n Buchungssatz/en hinterlegt worden |
+| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet47.png)| Dieser Datenpunkt besteht aus mehreren Buchungssätzen / Werten | 
+| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet48.png)     | Alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben | 
+| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet49.png)      | Nicht alle Buchungssätze / Werte des Datenpunktes sind festgeschrieben |
+| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet50.png)      | Der Datenpunkt wurde manuell überschrieben, obwohl er anhand einer Formel automatisch berechnet wird |
+| ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet51.png)      | Es sind Bemerkungen oder Dateien in dem/n Buchungssatz/en hinterlegt worden |
 
 ##### Eingabe - Datenpunkt-Dialog
 
