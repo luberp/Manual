@@ -22,9 +22,24 @@ Bitte beachten:
 - Der Import von Werten auf einen Posten, welcher mit Formeln berechnet wird, ist nicht möglich
 - Der Import von Werten auf einen Datenpunkt, welcher komplett festgeschrieben ist, erzeugt eine Korrekturbuchung
 
+#### Generischer Import
+
+Für einen Schnellimport der nicht auf dem exportierten Excel-Plan beruht wurde ein generischer Import implementiert.
+Die Datei muss dabei als Datenformat eine Excel-Datei mit den Spalten
+- Konto
+- Wert
+- Datum 
+sein.
+Durch die Betätigung der Schaltfläche "Excel Import" und Auswahl der generischen Import-Datei übernimmt legt der aifExpert entsprechend des Kontos des PlanPostens entsprechende Buchungssätze mit dem Wert und Datum der Import-Datei an. Die Zuordnung des Plans sowie Variante erfolgt automatisiert und ist von der vorherigen Auswahl abhängig. D.h. wenn der generische Import genutzt werden soll, muss der entsprechende Plan sowie die Variante, in die Import werden soll, im Eingabe-Reiter ausgewählt werden.
+
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet44.png)
+
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet45.png)
+
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet46.png)
 
 
-#### Vorgehensweise
+#### Tipp zur Vorgehensweise
 
 Für einen ordentlichen und schnellen Export und Import in und aus das xlsx-Format empfiehlt es sich den Plan zu exportieren und in der bereits geöffneten Datei weiter zu arbeiten. Hier sollten nur die Zellen ab Spalte "Sortierung" und ab der zweiten Zeile bearbeitet werden. Anschließend sollte die Datei in dem Tabellenkalkulationsprogramm einfach nur gespeichert werden > dann zum aifExpert wechseln und dort den Import starten. Sollten nun Anpassungen von nöten sein, kann der bereits offene Plan im Tabellenkalkulationsprogramm nochmal angepasst, gespeichert und im aifExpert der Import nochmal gestartet werden.
 
