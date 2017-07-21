@@ -49,7 +49,7 @@ Im Bereich "Posten-Allgemein" können allgemeine Informationen zum Posten hinter
  - Bezeichnung
    - Hier muss zwingend eine Bezeichnung des Postens erfolgen
  - Zusatzbez. 
-  - Hier kann eine zusätzliche (z.B. ausländische) Bezeichnung hinterlegt werden.
+   - Hier kann eine zusätzliche (z.B. ausländische) Bezeichnung hinterlegt werden.
  - Owner
    - Der Owner (Besitzer) beschreibt das Produkt, welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendet, welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
    - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beide den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
