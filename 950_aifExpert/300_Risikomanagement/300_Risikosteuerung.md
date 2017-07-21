@@ -20,6 +20,6 @@ Nachdem alle identifizierten Risiken erstellt worden sind stehen diese zur Über
 
 Je nach Auswahl des Einzelrisikos innerhalb der Liste können im rechten Bereich im Unterreiter "Allgemein" unterschiedliche Informationen zum jeweiligen Risiko erarbeitet und gepflegt werden. Neben der Hinterlegung von Parametern, Beschreibungen, Hinweisen und Terminen können hier Bewertungen angestoßen und die aktuellsten Kennzahlen (Risikoklasse, Schadenwirkung, gewichteter Risikowert) erschlossen werden. Letztere beziehen sich stets auf die aktuellste abgeschlossene Bewertung. 
 
-![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko20.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko1.png)
 
 ----------
