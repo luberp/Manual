@@ -70,23 +70,22 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
   - Style
     - Hier können verschiedene Einträge, zum Design und Verhalten des Postens, mitgegeben werden. 
     - Folgende Einträge können hinterlegt werden:
-
-| Eintrag | Funktion | 
-| ------------- |:-------------| 
-| readonly      | Schreibschutz, nur lesender Zugriff | 
-| fontbold      | Schrift fett | 
-| fontgreen     | Schrift grün | 
-| fontred       | Schrift rot | 
-| fontyellow    | Schrift gelb | 
-| fontblue      | Schrift blau | 
-| font12        | Schrift Größe 12 | 
-| font10        | Schrift Größe 10 | 
-| backgreen     | Hintergrund grün | 
-| backred       | Hintergrund rot | 
-| backyellow    | Hintergrund gelb | 
-| backblue      | Hintergrund blau | 
-| backgrey      | Hintergrund grau | 
-| backdarkgrey  | Hintergrund dunkelgrau | 
+    | Eintrag | Funktion | 
+    | ------------- |:-------------| 
+    | readonly      | Schreibschutz, nur lesender Zugriff |
+    | fontbold      | Schrift fett | 
+    | fontgreen     | Schrift grün | 
+    | fontred       | Schrift rot | 
+    | fontyellow    | Schrift gelb | 
+    | fontblue      | Schrift blau | 
+    | font12        | Schrift Größe 12 | 
+    | font10        | Schrift Größe 10 | 
+    | backgreen     | Hintergrund grün | 
+    | backred       | Hintergrund rot | 
+    | backyellow    | Hintergrund gelb | 
+    | backblue      | Hintergrund blau | 
+    | backgrey      | Hintergrund grau | 
+    | backdarkgrey  | Hintergrund dunkelgrau | 
 
   - Sortierung
     - In diesem Feld kann eine Zahl oder ein Text hinterlegt werden, welcher die entsprechende Reihenfolge im Eingabe- und Auswertungs-Reiter der Posten darstellt.
@@ -108,25 +107,23 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
       - SQL
   - Datenparameter
       - Im Feld "Datenparameter" muss nun die SQL-Abfrage oder Referenz hinterlegt werden.
-    
-| Quelle | Datenparameter | Beschreibung |
-| ------------- |:-------------|:--------|
-| Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
-| SQL | Select * From xx Where xx | Bei der Quelle "SQL" muss eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
+      | Quelle | Datenparameter | Beschreibung |
+      | ------------- |:-------------|:--------|
+      | Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
+      | SQL | Select * From xx Where xx | Bei der Quelle "SQL" muss eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
 
   - Berechnung
     - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
     - Die Formelsystematik ist simpel gehalten, ermöglicht die Benutzung aller Grundrechenarten und eine beliebige Komplexität innerhalb dieser.
-    
- | Art | Berechnung | Beschreibung |
- | ------------- |:-------------|:--------|
- | Summer Unterposten | = [subsum] | Diese Funktion addiert alle zugehörigen Unterposten dieses Postens auf
- | Addition | = [ID] + [ID] | Die Addition ist durch die Angabe der ID in eckigen Klammern möglich (z.B. [A00000002] + [A00000003] |
- | Subtraktion | = [ID] - [ID] | Die Subtraktion ist durch die Angabe der ID in eckigen Klammern möglich |
- | Multiplikation | = [ID] * [ID] | Die Multiplikation ist durch die Angabe der ID in eckigen Klammern möglich |
- | Division | = [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
- | Fortlaufend | = [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
- | Fortlaufend & Berechnung | = [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
-  | Grundrechenart & Konstante | = [ID] + - * / [xx.xx] | Für die Nutzung einer konstanten Zahl in einer Formel muss diese innerhalb von eckingen Klammern mit einem Punkt als Dezimaltrennzeichen hinterlegt werden (z.B. [A00000002] * [0.19]) |
+    | Art | Berechnung | Beschreibung |
+    | ------------- |:-------------|:--------|
+    | Summer Unterposten | = [subsum] | Diese Funktion addiert alle zugehörigen Unterposten dieses Postens auf |
+    | Addition | = [ID] + [ID] | Die Addition ist durch die Angabe der ID in eckigen Klammern möglich (z.B. [A00000002] + [A00000003] |
+    | Subtraktion | = [ID] - [ID] | Die Subtraktion ist durch die Angabe der ID in eckigen Klammern möglich |
+    | Multiplikation | = [ID] * [ID] | Die Multiplikation ist durch die Angabe der ID in eckigen Klammern möglich |
+    | Division | = [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
+    | Fortlaufend | = [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
+    | Fortlaufend & Berechnung | = [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
+    | Grundrechenart & Konstante | = [ID] + - * / [xx.xx] | Für die Nutzung einer konstanten Zahl in einer Formel muss diese innerhalb von eckingen Klammern mit einem Punkt als Dezimaltrennzeichen hinterlegt werden (z.B. [A00000002] * [0.19]) |
  
 --------
