@@ -65,6 +65,8 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
     - Das Liquiditätsmanagement des aifExpert basiert auf dem GOBD-zertifizierten Buchhaltungskern. Das bedeutet: Die Werte die im Liquiditätsmanagement abgespeichert werden, stellen Buchungssätze dar. Um diese ordnungsgemäß in Datenbank speichern zu können ist die Angabe eines Ist-Kontos erforderlich. Bei fehlender Angabe des Ist-Kontos werden die Werte nicht in der Datenbank gespeichert. Bei der Hinterlegung einer Formel werden auch bei fehlendem Ist-Konto die Werte berechnet, jedoch nicht gespeichert. Diese Konstellation ermöglicht die Darstellung und Berechnung von Zwischen- oder Informativwerten. Um den aifExpert sofort benutzen zu können werden die Ist-Konten standardmäßig bei der Anlage eines neuen PlanPosten angelegt (beginnend mit 10000000) und fortlaufend hochgezählt. 
   - Einheit
     - Das Feld "Einheit" ist ein zwingend zu hinterlegendes Feld. 
+  - Kommastellen
+    - Hier kann hinterlegt werden, wie viele Nachkommastellen im Eingabe-Bereich bei diesem PlanPosten angezeigt werden.    
   - Style
     - Hier können verschiedene Einträge, zum Design und Verhalten des Postens, mitgegeben werden. 
     - Folgende Einträge können hinterlegt werden:
