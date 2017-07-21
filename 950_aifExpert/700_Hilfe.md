@@ -78,19 +78,12 @@ Voraussetzung um das Ticketsystem nutzen zu können ist, dass bei dem jeweiligen
 
 >![](http://xpecto.github.io/docs/aifExpert/aifExpert7.png)
 
-Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*).Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen zugeteilt wird.
+Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Der Tickettyp ist standardmäßig als "Support" hinterlegt und wird vom xpecto Support-Team anschließend näher typisiert.
 
-
-
-* Als Standard wählen Sie bitte *Support*. 
-* *Bug* (Fehler), sowie 
-* *Feature* (Neuentwicklung) Tickets gehen direkt an das Entwicklungsteam.  Diese Typen sollten nur nach Absprache angewählt werden.
-
- 
-
->  ![](http://xpecto.github.io/docs/aifExpert/img_TS_003.png)
-
-Sobald Sie sich für einen Typ entschieden haben, öffnet sich die Ticketoberfläche.
+Es gibt drei verschiedene Tickettypen:
+*  *Support* (Standard) - Anfrage
+* *Bug* - Fehler
+* *Feature* - Neuentwicklung
  
 >  ![](http://xpecto.github.io/docs/aifExpert/img_TS_004.png)
  
@@ -110,7 +103,7 @@ Jetzt können Sie das neue Ticket erstellen. Das neue Ticket wird direkt an uns 
 
 >  ![](http://xpecto.github.io/docs/aifExpert/img_TS_007.png)
 
-Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so können Sie das im unteren Bereich des Tickets tun oder uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zusenden.Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
+Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so können Sie das im unteren Bereich des Tickets tun oder uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zusenden. Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
 
 ####Übersicht
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert8.png)
