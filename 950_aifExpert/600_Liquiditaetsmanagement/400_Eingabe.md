@@ -82,8 +82,8 @@ Im oberen linken Bereich des Datenpunkt-Dialogs können weitere Buchungssätze a
 Die Festschreibung von entsprechenden Werten kann entweder über den einzelnen Datenpunkt oder für eine Zeitraum erfolgen.
 Für letzteres muss ein Wert in der entsprechenden Spalte des gewünschten zu festschreibenden Zeitraums ausgewählt und im Menü-Reiter die Schaltfläche Festschreibung betätigt werden. Nach Bejahung der anschließenden Dialog-Rückfrage schreibt aifExpert jegliche Werte des zugrundeliegenden Zeitraums fest und macht diese somit nicht mehr veränderbar.
 
-> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet41.png)
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet42.png)
+> ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet43.png)
 
 #### Eingabe - Varianten
 
