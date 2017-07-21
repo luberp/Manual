@@ -16,6 +16,7 @@ Der Dialog zur Anlage & Pflege von Standardparametern findet sich im Menü im Re
 - Bei Betätigung der Schaltfläche "Anlässe" öffnet sich in einem PopUp-Fenster die Liste zur Pflege der entsprechenden Anlässe / Varianten der Pläne.
 
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet29.png)
+
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet30.png)
 
 --------
