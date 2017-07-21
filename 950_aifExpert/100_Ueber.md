@@ -1,10 +1,8 @@
-aifExpert unterstützt verschiedene Aufgabenbereiche einer Kapitalverwaltungsgesellschaft. Während
-die Anlegerverwaltung, die Anlegerbuchhaltung und die Vertriebssteuerung von unserer bewährten
-Lösung xpectoPro erledigt wird, stellt aifExpert zusätzliche Funktionen für die gesamte Unternehmung
-zur Verfügung.
+aifExpert ist das erste elektronische Softwareprodukt, das Informationen und strukturierte Abläufe aus allen Unternehmensbereichen für die Umsetzung der rechtlichen Vorgaben schafft. Das elektronische Multitalent enthält Auswertungen und Berichte für die interne & externe Berichtserstattung und Weitergabe an behördliche Aufsichtsgremien.
 
-aifExpert knüpft nahtlos an das System von xpectoPro an und kann an weitere Systeme angebunden
-werden.
+Die Software aifExpert ist modular aufgebaut. Alle Module des aifExpert sind ineinander verwoben und benutzen die vorhandene Datenbasis wechselseitig. So können sich zum Beispiel Risiken direkt auf Posten des Liquiditätsmanagements beziehen. Oder Werte für die entsprechenden Meldungen direkt aus dem Liquiditätsmanagement verwendet werden.
+
+aifExpert knüpft nahtlos an das System von xpectoPro an und kann an weitere Systeme angebunden werden.
 
 ----------
 
