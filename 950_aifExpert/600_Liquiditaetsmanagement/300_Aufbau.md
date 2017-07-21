@@ -66,7 +66,7 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
   - Einheit
     - Das Feld "Einheit" ist ein zwingend zu hinterlegendes Feld. 
   - Kommastellen
-    - Hier kann hinterlegt werden, wie viele Nachkommastellen im Eingabe-Bereich bei diesem PlanPosten angezeigt werden.    
+    - Hier kann hinterlegt werden, wie viele Nachkommastellen im Eingabe-Bereich bei diesem PlanPosten angezeigt und benutzt werden können.    
   - Style
     - Hier können verschiedene Einträge, zum Design und Verhalten des Postens, mitgegeben werden. 
     - Folgende Einträge können hinterlegt werden:
