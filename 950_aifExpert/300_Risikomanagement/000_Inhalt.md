@@ -8,4 +8,3 @@
 8. [Risikokommunikation](http://help.xpecto.de/aifExpert/Risikomanagement/Risikokommunikation)
 
 (Stand: 2017-08)
-
