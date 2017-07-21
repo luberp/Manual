@@ -29,7 +29,9 @@ Die Datei muss dabei als Datenformat eine Excel-Datei mit den Spalten
 - Konto
 - Wert
 - Datum 
+
 sein.
+
 Durch die Betätigung der Schaltfläche "Excel Import" und Auswahl der generischen Import-Datei übernimmt legt der aifExpert entsprechend des Kontos des PlanPostens entsprechende Buchungssätze mit dem Wert und Datum der Import-Datei an. Die Zuordnung des Plans sowie Variante erfolgt automatisiert und ist von der vorherigen Auswahl abhängig. D.h. wenn der generische Import genutzt werden soll, muss der entsprechende Plan sowie die Variante, in die Import werden soll, im Eingabe-Reiter ausgewählt werden.
 
 > ![](http://xpecto.github.io/docs/aifExpert/aifExpert_Liquiditaet44.png)
