@@ -53,13 +53,8 @@ Im Bereich "Posten-Allgemein" können allgemeine Informationen zum Posten hinter
  - Owner
    - Der Owner (Besitzer) beschreibt das Produkt, welchem dieser Posten zuzuordnen ist. Standardmäßig wird das selbe Produkt verwendet, welches auch dem Plan zugrunde liegt. Um die Komplexität für die Benutzer bei der Einführung gering und die Bedienung nachvollziehbar zu halten ist die Auswahl eines anderen Produktes beim Auslieferungszustand deaktiviert. Diese kann jedoch nachträglich aktiviert werden.
    - Hintergrund: Neben der Referenz auf bereits bestehende Posten in anderen Plänen stellt diese Funktion eine zusätzliche Möglichkeit zur Konsolidierung dar. Mithilfe dieser können Posten in jeweils unterschiedlichen Plänen vorkommen, benutzen aber alle dieselben Werte (z.B. Plan KVG und Plan Fonds1 besitzen beide den gleichen Posten mit dem Owner "Fonds1" > In beiden Plänen können nun die Werte des Posten angezeigt und ggf. bearbeitet werden)
-
-##### Aufbau - Posten - Verknüpfung Portfolio 
-
-Im Bereich "Verknüpfung Portfolio" kann eine Verknüpfung zum Portfoliomanagement hergestellt werden.
-  - Asset
-    - Hier erfolgt die Auflistung aller vorhandenen Assets aus dem Portfoliomanagement.
-    - Nach der Auswahl eines Assets erfolgt eine Verknüpfung des Postens mit dem Asset.
+ - Bemerkung
+    - Im Feld "Bemerkung" können zusätzliche Informationen zu diesem Posten gespeichert werden. Diese werden im Eingabe- und Auswertungs-Reiter in der Spalte "Bemerkung" angezeigt.
 
 ##### Aufbau - Posten - Posten-Parameter
 
@@ -67,7 +62,7 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
   - Hauptposten
     - aifExpert erlaubt die Hinterlegung einer Hierarchie von Posten, d.h. ein Posten ist Unterposten eines anderen (z.B. der Posten "Erträge als KVAG" gehört zum Hauptposten "Gesamterträge (Periode)". Um diese Hierarchie anzulegen muss in diesem Feld ausgewählt werden, zu welchem Hauptposten dieser jeweilige Posten gehört. 
   - Ist-Konto
-    - Das Liquiditätsmanagement des aifExpert basiert auf dem GOBD-zertifizierten Buchhaltungskern. Das bedeutet: Die Werte die im Liquiditätsmanagement abgespeichert werden, stellen Buchungssätze dar. Um diese ordnungsgemäß in Datenbank speichern zu können ist die Angabe eines Ist-Kontos erforderlich. Bei fehlender Angabe des Ist-Kontos werden die Werte nicht in der Datenbank gespeichert. Bei der Hinterlegung einer Formel werden auch bei fehlendem Ist-Konto die Werte berechnet, jedoch nicht gespeichert. Diese Konstellation ermöglicht die Darstellung und Berechnung von Zwischen- oder Informativwerten.
+    - Das Liquiditätsmanagement des aifExpert basiert auf dem GOBD-zertifizierten Buchhaltungskern. Das bedeutet: Die Werte die im Liquiditätsmanagement abgespeichert werden, stellen Buchungssätze dar. Um diese ordnungsgemäß in Datenbank speichern zu können ist die Angabe eines Ist-Kontos erforderlich. Bei fehlender Angabe des Ist-Kontos werden die Werte nicht in der Datenbank gespeichert. Bei der Hinterlegung einer Formel werden auch bei fehlendem Ist-Konto die Werte berechnet, jedoch nicht gespeichert. Diese Konstellation ermöglicht die Darstellung und Berechnung von Zwischen- oder Informativwerten. Um den aifExpert sofort benutzen zu können werden die Ist-Konten standardmäßig bei der Anlage eines neuen PlanPosten angelegt (beginnend mit 10000000) und fortlaufend hochgezählt. 
   - Einheit
     - Das Feld "Einheit" ist ein zwingend zu hinterlegendes Feld. 
   - Style
@@ -93,8 +88,13 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
 
   - Sortierung
     - In diesem Feld kann eine Zahl oder ein Text hinterlegt werden, welcher die entsprechende Reihenfolge im Eingabe- und Auswertungs-Reiter der Posten darstellt.
-  - Bemerkung
-    - Im Feld "Bemerkung" können zusätzliche Informationen zu diesem Posten gespeichert werden. Diese werden im Eingabe- und Auswertungs-Reiter in der Spalte "Bemerkung" angezeigt.
+
+##### Aufbau - Posten - Posten-Verknüpfung Portfolio 
+
+Im Bereich "Verknüpfung Portfolio" kann eine Verknüpfung zum Portfoliomanagement hergestellt werden.
+  - Asset
+    - Hier erfolgt die Auflistung aller vorhandenen Assets aus dem Portfoliomanagement.
+    - Nach der Auswahl eines Assets erfolgt eine Verknüpfung des Postens mit dem Asset.
   
 ##### Aufbau - Posten - Posten-Datenherkunft-Werte
 
@@ -110,7 +110,7 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
 | Quelle | Datenparameter | Beschreibung |
 | ------------- |:-------------|:--------|
 | Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
-| SQL | Select * From * Where * | Bei der Quelle "SQL" muss eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
+| SQL | Select * From xx Where xx | Bei der Quelle "SQL" muss eine SQL-Abfrage hinterlegt werden, die den entsprechenden Wert aus der Datenbank abfragt.
 
   - Berechnung
     - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
@@ -125,5 +125,6 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
  | Division | = [ID] / [ID] | Die Division ist durch die Angabe der ID in eckigen Klammern möglich |
  | Fortlaufend | = [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
  | Fortlaufend & Berechnung | = [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
+  | Grundrechenart & Konstante | = [ID] + - * / [xx.xx] | Für die Nutzung einer konstanten Zahl in einer Formel muss diese innerhalb von eckingen Klammern mit einem Punkt als Dezimaltrennzeichen hinterlegt werden (z.B. [A00000002] * [0.19]) |
  
 --------
