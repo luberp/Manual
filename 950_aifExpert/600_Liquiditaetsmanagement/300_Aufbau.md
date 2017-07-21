@@ -70,6 +70,7 @@ Im Bereich "Posten-Parameter" erfolgt die Definition des einzelnen Postens mit d
   - Style
     - Hier können verschiedene Einträge, zum Design und Verhalten des Postens, mitgegeben werden. 
     - Folgende Einträge können hinterlegt werden:
+    
     | Eintrag | Funktion | 
     | ------------- |:-------------| 
     | readonly      | Schreibschutz, nur lesender Zugriff |
@@ -107,6 +108,7 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
       - SQL
   - Datenparameter
       - Im Feld "Datenparameter" muss nun die SQL-Abfrage oder Referenz hinterlegt werden.
+      
       | Quelle | Datenparameter | Beschreibung |
       | ------------- |:-------------|:--------|
       | Referenz | [Produkt, ID] | Bei einer Referenz muss im Datenparameter in eckigen Klammern die Referenz auf den jeweiligen Posten getroffen werden, indem zuerst das Produkt + Komma + ID des Postens angegeben wird (z.B. [KVG, A00000002] > Referenz auf diesen Posten.
@@ -115,6 +117,7 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
   - Berechnung
     - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
     - Die Formelsystematik ist simpel gehalten, ermöglicht die Benutzung aller Grundrechenarten und eine beliebige Komplexität innerhalb dieser.
+    
     | Art | Berechnung | Beschreibung |
     | ------------- |:-------------|:--------|
     | Summer Unterposten | = [subsum] | Diese Funktion addiert alle zugehörigen Unterposten dieses Postens auf |
