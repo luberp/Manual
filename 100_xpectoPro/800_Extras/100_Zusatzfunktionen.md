@@ -3,3 +3,9 @@ Unter diesem Menüpunkt werden zusätzliche, kundenspezifisch angelegte Masken a
 ![](http://xpecto.github.io/docs/img/img_1461932716072.png)
 
 Erforderliche Zusatzmasken, die sich thematisch nicht in eine der bestehenden Masken integrieren lassen, können vom xpecto Kundensupport hier eingebaut werden.
+
+
+----------
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Die Funktion ist ausschließlich in der klassischen Ansicht vorhanden.
+
+----------
