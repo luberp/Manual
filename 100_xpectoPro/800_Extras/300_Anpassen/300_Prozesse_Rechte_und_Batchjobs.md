@@ -18,7 +18,15 @@ Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:
 |![](http://xpecto.github.io/docs/img/img_1461935507991.png)| Prozess exportieren| 
 |![](http://xpecto.github.io/docs/img/img_1462788381761.png)| Druckvorschau|
 
-**Prozesse**
+
+----------
+
+
+Prozesse
+
+
+----------
+
 
 Unter Prozesse können Wiedervorlagen, Mahnprozesse und Zeichnungen angelegt werden.
 xpectoPro ermöglicht die Integration von Ablaufprozessen in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse.
@@ -42,7 +50,14 @@ Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu desig
 ![](http://xpecto.github.io/docs/img/img_1462180172219.png)
 
 
-**Benutzer**
+----------
+
+
+Benutzer
+
+
+----------
+
 
 In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187089244.png) an. 
 
@@ -65,7 +80,15 @@ Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und bet�
 
 Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1462187160501.png) holt alle Benutzer aus dem Active Directoy ab und speichert diese. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. 
 
-**Batchjobs**
+
+----------
+
+
+Batchjobs
+
+
+----------
+
 
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
 Ein neuer Batchjob kann mit einem Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187304079.png) angelegt werden.
