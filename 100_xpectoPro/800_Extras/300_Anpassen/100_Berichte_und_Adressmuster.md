@@ -18,13 +18,13 @@ Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/img/img_1461935229842.png)  | Speichern| 
 | ![](http://xpecto.github.io/docs/img/img_1461935188197.png)  |Berichtsgruppen neu anlegen| 
-| ![](http://xpecto.github.io/docs/img/img_1461935251084.png)    | Berichte neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1461935295787.png)   | Adressmuster neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1461935335008.png)    | Textbausteine neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1461935370018.png)   | Individuelle Schreiben neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1461935407107.png)   | Aktuellen Datensatz löschen| 
-| ![](http://xpecto.github.io/docs/img/img_1461935451257.png)   | Bericht importieren|
-|![](http://xpecto.github.io/docs/img/img_1461935507991.png)| Bericht exportieren| 
+| ![](http://xpecto.github.io/docs/img/img_1461935251084.png)  | Berichte neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1461935295787.png)  | Adressmuster neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1461935335008.png)  | Textbausteine neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1461935370018.png)  | Individuelle Schreiben neu anlegen | 
+| ![](http://xpecto.github.io/docs/img/img_1461935407107.png)  | Aktuellen Datensatz löschen| 
+| ![](http://xpecto.github.io/docs/img/img_1461935451257.png)  | Bericht importieren|
+|![](http://xpecto.github.io/docs/img/img_1461935507991.png)   | Bericht exportieren| 
 
 Berichte werden über Namen unterschieden und thematisch in Gruppen verwaltet. Klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1461935188197.png) um eine neue Berichtsgruppe anzulegen. 
 
