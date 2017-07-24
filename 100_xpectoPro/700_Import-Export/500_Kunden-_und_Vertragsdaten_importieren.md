@@ -31,7 +31,7 @@ Enthalten die zu importierenden Daten Datensätze, die sich bereits in der Daten
 | Datei enthält Produktspalte     | Beim Import werden Importdaten automatisch dem richtigen Produkt zugewiesen | 
 | Trennzeichen    | Der gewählte Wert trennt Spalten innerhalb der Importdatei | 
 | Textzeichen     |Der gewählte Wert importiert den Wert innerhalb des Textzeichens als Text| 
-| Vorhandene Daten aktualisieren | Es wird beim Import geprüft ob der Datensätze bereits vorhanden sind, wenn ja werden diese aktualisiert | 
+| Vorhandene Daten aktualisieren | Es wird beim Import geprüft ob Datensätze bereits vorhanden sind, wenn ja werden diese aktualisiert | 
 | Datei enthält Kopfzeile  | Beim Import wird die erste Zeile der Datei ignoriert da diese die Felddefinitionen der Import-Datei enthält | 
 | Start    | Es werden nur die Datensätze importiert die im Wert "Z/S" festgelegt wurden| 
 | Prozedur    | Hier muss die passende Prozedur gewählt werden | 
