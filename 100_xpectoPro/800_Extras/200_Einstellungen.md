@@ -4,7 +4,7 @@ In der modernen Menü-Ansicht sind die Einstellungen unter die Registerkarte *Sy
 
 ![](http://xpecto.github.io/docs/img/img_1461933350100.png)
 
-Diesen Dialog enthält allgemeine Konfigurationseinstellungen.
+Diesen Dialog enthält allgemeine Konfigurationseinstellungen zur Applikation sowie der Datenbank. 
 
 ![](http://xpecto.github.io/docs/img/img_1424079716221.png)
                                                                                           
