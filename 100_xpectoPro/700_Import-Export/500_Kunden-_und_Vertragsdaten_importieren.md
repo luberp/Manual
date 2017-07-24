@@ -7,17 +7,17 @@ In der modernen Menü-Ansicht erreichen Sie diese Funktion über: *Werkzeuge -> 
 
 Starten Sie den Dialog *Kunden- und Vertragsdaten importieren*. Der Dialog enthält drei Schritte:
 
- - Schritt 1: Dateiparameter feslegen
+ - Schritt 1: Dateiparameter festlegen
  - Schritt 2: Importparameter festlegen (nur in der klassischen Ansicht verfügbar)
  - Schritt 3: Spalten zuweisen
 
-Wählen Sie in dem ersten Schritt das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in dem Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
+Wählen Sie im ersten Schritt das Produkt bzw. den Fonds, zu dem die Kundendaten importiert werden sollen. Enthält die zu importierende Datei bereits eine Produktspalte, setzen Sie in der Checkbox  *Datei enthält Produktspalte* ein Häkchen. Hierdurch entfällt die Auswahl des Produkts und klicken Sie auf die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Button_Dateiauswahl.png) um die zu importierende Datei auszuwählen.
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kunden_und_Vertragsdaten_importieren/Daten_importieren_Main.png)
 
-Je nach Dateiformat der zu importierenden Daten müssen das Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. 
+Je nach Dateiformat der zu importierenden Daten müssen Trennzeichen sowie das Textzeichen ausgewählt werden. Die Vorbelegung der Auswahlfelder entspricht dem Import einer Datei im CSV Format. 
 Unter *Prozedur* wird die zur Verarbeitung der Daten zu verwendende Import-Prozedur ausgewählt. Import-Prozeduren müssen vorher vom xpecto Kundensupport hinterlegt werden. 
-Enthalten die zu importierenden Daten Datensätze, die sich bereits in der verwendeten Datenbank befinden, so setzen Sie ein Häkchen bei	*vorhandene Kunden und Verträge aktualisieren*. Dies verhindert die doppelte Anlage bereits vorhandener Datensätze (bereits vorhandene Datensätze werden durch einen Abgleich-Algorithmus erkannt und aktualisiert). 
+Enthalten die zu importierenden Daten Datensätze, die sich bereits in der Datenbank befinden, so setzen Sie ein Häkchen bei *vorhandene Kunden und Verträge aktualisieren*. Dies verhindert die doppelte Anlage bereits vorhandener Datensätze (bereits vorhandene Datensätze werden durch einen Abgleich-Algorithmus erkannt und aktualisiert). 
 
 
 ----------
@@ -27,13 +27,13 @@ Enthalten die zu importierenden Daten Datensätze, die sich bereits in der verwe
 | ------------- |:-------------| 
 | Produkt     |  Produkt auswählen |
 | Datei     |Importdatei auswählen | 
-| Vorschau    | Vorschau der Importdatei mit selektiertem Wert | 
-| Datei enthält Produktspalte     | Beim Import werden Kundendaten automatisch dem richtigen Produkt zugewiesen | 
+| Vorschau    | Vorschau der Importdatei mit gewählten Import-Parametern | 
+| Datei enthält Produktspalte     | Beim Import werden Importdaten automatisch dem richtigen Produkt zugewiesen | 
 | Trennzeichen    | Der gewählte Wert trennt Spalten innerhalb der Importdatei | 
 | Textzeichen     |Der gewählte Wert importiert den Wert innerhalb des Textzeichens als Text| 
 | Vorhandene Daten aktualisieren | Es wird beim Import geprüft ob der Datensatz bereits vorhanden ist, wenn ja wird dieser aktualisiert | 
 | Datei enthält Kopfzeile  | Beim Import wird die erste Zeile der Datei ignoriert da diese die Felddefinitionen der Import-Datei enthält | 
-| Start    | Es werden nur die Datensätze importiert die im Wert "Z/S" fesgelegt wurden| 
+| Start    | Es werden nur die Datensätze importiert die im Wert "Z/S" festgelegt wurden| 
 | Prozedur    | Hier muss die passende Prozedur gewählt werden | 
 
 
