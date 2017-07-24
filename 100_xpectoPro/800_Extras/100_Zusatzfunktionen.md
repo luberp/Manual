@@ -6,6 +6,6 @@ Erforderliche Zusatzmasken, die sich thematisch nicht in eine der bestehenden Ma
 
 
 ----------
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Die Funktion ist ausschließlich in der klassischen Ansicht vorhanden.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Die Funktion steht ausschließlich in der klassischen Ansicht zur Verfügung.
 
 ----------
