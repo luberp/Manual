@@ -71,7 +71,7 @@ Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welch
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Bericht_Kategorien.png)
 
-Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. 
+Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopf- /Fußzeile bzw. als Briefpapier ausgewählt werden. 
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Unterbericht.png)
 
