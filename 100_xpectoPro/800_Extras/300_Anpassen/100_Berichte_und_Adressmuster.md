@@ -63,34 +63,50 @@ Im oberen Bereich des Reiters *Abfrage* gibt es einen Button *Testen* um die obe
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Filter_Field_ID.png)
 
-Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf-, Fußzeile oder Briefpapier können nur die Berichte verwendet die entsprechend kategorisiert sind. Unter dem Reiter *Kategorien* Feldgruppe *Unterbericht* kann diese Kategorisierung/Festlegung durchgeführt werden.
+Unter dem Reiter *Zusatzdaten* kann jeweils ein anderen Bericht als Kopfzeile bzw. Fußzeile, Briefpapier ausgewählt werden. So kann auf einfache Weise ein einheitlicher Briefkopf für mehrere Berichte verwendet werden. Änderungen am Briefkopf müssen dann zentral an einer Stelle durchgeführt werden, und nicht in jedem einzelnen Bericht. Als Kopf- / Fußzeile oder Briefpapier können nur Berichte verwendet werden die bereits kategorisiert sind, im Reiter *Kategorien* Feldgruppe *Unterbericht* kann diese Kategorisierung/Festlegung durchgeführt werden.
 
-Unter dem Reiter *Kategorien* kann der bearbeitete Bericht kategorisiert werden. 
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Zusatzdaten.png)
 
-![](http://xpecto.github.io/docs/img/img_1461939783950.png)
+Mit den Optionen unter *Allgemeiner Bericht* kann festgelegt werden, unter welchen Voraussetzungen der Bericht unter *Favoriten* im der Hauptmaske der Applikation gelistet werden soll. Siehe Handbuch *Bearbeiten → Berichte erzeugen*). Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
 
-Mit den Optionen unter der Feldgruppe *Allgemeiner Bericht* kann festgelegt werden, unter welchen Umständen der Bericht in den Berichts-Favoriten auf der Symbolleiste des Hauptfensters angezeigt werden soll siehe Handbuch *Bearbeiten → Berichte erzeugen*). Dies ist sinnvoll für häufig verwendete Berichte, da diese dann direkt von der Hauptmaske aus gedruckt werden können.
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Bericht_Kategorien.png)
 
- Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. 
+Unter der Feldgruppe *Unterbericht* kann festgelegt werden, dass es sich bei dem Bericht um eine Kopfzeile Fußzeile oder Briefpapier handelt. Der Bericht kann dann in anderen Berichten als Kopfzeile bzw. Fußzeile ausgewählt werden. 
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Unterbericht.png)
 
 Die Optionen unter der Feldgruppe *Beleg* geben die Möglichkeit ein Bericht als Beleg zu archivieren, dazu muss ein Belegtyp angegeben werden.
 
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Beleg.png)
+
  Die Optionen unter *Spezieller Bericht* sind für Berechnungen vorgesehen (siehe *Berechnungen → Berechnungen und Transaktionen Bereich Druck und Ausgabe*). 
+ 
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Spezieller_Bericht.png)
 
 In der Feldgruppe *Erweiterte Berechtigung Drucksystem* können die Optionen gewählt 
  wie z.B. *Verwendung für Massendruck*. Dann wird der Bericht in der Kampagnen unter Feldgruppe *Aktion wählen* zu Auswahl stehen siehe Handbuch *Bearbeiten → Kampagnen*).
 
-Unter dem Reiter *Versandoptionen* werden die Parameter für die Online-Zustellung von Ausdrucken, Archiv-Einstellungen und Exportformat definiert. Z.B. *eBrief Sofortdruck* hat eine Schnittstelle zu Software damit wird die PDF Datei zur Versandzentrum geschickt und für Versand vorbereitet.
-![](http://xpecto.github.io/docs/img/img_1461942065798.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Erweiterte_Berechtigungen.png)
 
-In der *Berichte und Texbausteine* Maske gibt neben der Berichte drei andere Ansichten für  Adressmuster, Textbausteine und individuelle Schreiben.
+Unter dem Reiter *Versandoptionen* werden die Parameter für die Online-Zustellung von Ausdrucken, Archiv-Einstellungen und Exportformat definiert. z.B. *eBrief Sofortdruck* , damit wird die Ausgabedatei zum Versandzentrum geschickt und für den Versand vorbereitet.
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Berichte_Versandoptionen.png)
+
+In der *Berichte und Texbausteine* Maske gibt neben dem Reiter *Berichte* drei weitere Kategorien:  Adressmuster, Textbausteine und individuelle Schreiben.
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Berichte_Reiter.png)
+
 
 Die *Adressmuster* Funktion kann auch über die Registerkarte *System* Gruppe *Anpassungen* erreicht werden.
-Ein Adressmuster ist ein Feld der im Hintergrund eine Datenbankabfrage hat und wird in  Berichte verwendet.
-Ein*Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.
+Ein Adressmuster ist ein Feld das im Hintergrund eine Datenbankabfrage erzeugt und wird in Berichten verwendet.
+Ein *Adressmuster* ist eine SQL-Abfrage die nur ein einziges Feld und eine einzige Zeile zurück liefern darf.
 
-![](http://xpecto.github.io/docs/img/img_1461942683009.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Berichte_Adressmuster.png)
 
-*Textbausteine* sind Textsegmente, die in ein individuelles Schreiben eingebaut werden können. 
+*Textbausteine* sind Textblöcke die zentral unter Textbausteine gepflegt und in allen Berichten verwendet werden können. 
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Berichte_Textbausteine.png)
 
 *Individuelle Schreiben* sind Dokumente die aus Textbausteine und statische Elemente gebaut werden können.
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Berichte_und_Adressmuster/Individuelles_Schreiben.png)
