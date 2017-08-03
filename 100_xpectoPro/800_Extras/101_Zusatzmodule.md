@@ -1,6 +1,6 @@
 
 Unter diesem Menüpunkt können von der xpecto AG zur Verfügung gestellte Module installiert werden.
-Sie erreichen diese Funktion in der modernen Menueansicht unter *System -> Zusatzmodule*.
+Sie erreichen diese Funktion in der modernen Menueansicht unter *System -> Zusatzmodule*. In der klassischen Ansicht ist diese Funktion nicht verfügbar.
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Zusatzmodule/Zusatzmodule_Menue.png)
 
