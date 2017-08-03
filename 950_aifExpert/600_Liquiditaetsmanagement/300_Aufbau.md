@@ -117,6 +117,7 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
   - Berechnung
     - Im Feld "Berechnung" muss nun die entsprechende Formel hinterlegt werden, aus der sich der Wert zusammensetzt.
     - Die Formelsystematik ist simpel gehalten, ermöglicht die Benutzung aller Grundrechenarten und eine beliebige Komplexität innerhalb dieser.
+    - Ein implementierter Validator prüft die Formel auf formale Richtigkeit und gibt eine Warnmeldung aus, sollte diese nicht stimmen.
     
       | Art | Berechnung | Beschreibung |
       | ------------- |:-------------|:--------|
@@ -129,4 +130,23 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
       | Fortlaufend & Berechnung | = [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
       | Grundrechenart & Konstante | = [ID] + - * / [xx.xx] | Für die Nutzung einer konstanten Zahl in einer Formel muss diese innerhalb von eckingen Klammern mit einem Punkt als Dezimaltrennzeichen hinterlegt werden (z.B. [A00000002] * [0.19]) |
  
+  - Verteilung
+    - Im Feld "Verteilung" muss der gewünschte Verteilungsschlüssel angegeben werden. Dabei wird ein Wert entweder auf Quartals- oder Monatswerte verteilt. Ein Validator überprüft automatisch den eingegebenen Schlüssel auf formale Richtigkeit.
+    - Beispiel:
+      - 120.000 = Jahreswert
+      - Option 1: Gleichmäßig monatlich = 10.000 pro Monat
+      - Option 2: Gleichmäßig vierteljährlich = 30.000 pro Quartal
+      - Option 3: Nach manuellem Plan. Hier muss ich Prozentwerte pro Monat eingeben. Es muss auf Summe 100 % validiert werden, z. B. Jan = 10%, Feb = 5%, Mär = 15%, Nov = 70%
+
+    - Eingabemöglichkeiten:
+      - Es können 4 oder 12 Zahlen mit Semikolon getrennt angegeben werden. Die Gesamtsumme muss 100% ergeben. (25;25;25;25)
+      - Es können 5 oder 13 Zahlen mit Semikolon getrennt angegeben werden. Die Gesamtsumme der ersten Zahlen (4/12) muss der letzten Zahl entsprechen. (1;1;1;1;4)
+      - Es kann "linear" oder "linearXXX,XXX" angegeben werden. Damit wird ein linearer Verlauf mit der XXX,XXX Veränderung pro Jahr definiert. (linear5, linear-2,5)
+
+    - Hinweise:
+      - Wenn nur 4/5 Werte angegeben werden, gelten die Werte für die Monate März, Juni, September und Dezember. Die restlichen Monate werden mit 0 aufgefüllt. 1;1;1;1;4 entspricht also 0;0;1;0;0;1;0;0;1;0;0;1;4.
+      - Wenn eine Verteilung im Planposten eingetragen ist, werden immer die Veränderungen nach diesem Schema auf die Monate verteilt.
+    Beispiel für Q1: Wert vorher: 10€, eine Buchung zum 31.3. mit 10€, Verteilung: "linear"
+    Neuer Wert: 16€, resultierende Veränderung: +6€ (3×2€), Buchungen neu: 31.1., 2€, 28.2., 2€, 31.3., 12€ (10€ + 2€)
+
 --------
