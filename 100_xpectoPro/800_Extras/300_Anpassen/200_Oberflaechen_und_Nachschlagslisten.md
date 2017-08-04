@@ -73,14 +73,27 @@ Die Oberfläche des Designers gliedert sich an dieser Stelle in vier Hauptbereic
 | ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Button_einfügen.png)     | Button einfügen | 
 | ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Label_Textbox_einfügen.png)     | Label und Eingabefeld einfügen | 
 
-Um ein bereits bestehendes Element zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position. 
-Zum Einfügen eines neuen Elements wählen Sie, sofern es sich um ein Datenbankfeld handelt, die Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das  Icon ![](http://xpecto.github.io/docs/img/img_1442578074569.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Speichern Sie die veränderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1442578440840.png) . 
+Um ein bereits bestehendes Element zu verschieben, markieren Sie dieses durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position. 
+Zum Einfügen eines neuen Elements wählen Sie, sofern es sich um ein Datenbankfeld handelt, die Datenbanktabelle und markieren darunter das gewünschte Datenbankfeld.
 
-Reichen in einer Tabelle die vorhandene Felder nicht aus, so können weitere Felder angelegt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442580597049.png) wird ein neues Datenbankfeld angelegt.
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_Felder.png)
+
+Durch Klick auf eines der Icons  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Label_Textbox_einfügen.png)    ![](http://xpecto.github.io/docs/img/img_1442578074569.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Button_einfügen.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/ComboBox_einfuegen.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Positionieren Sie das Objekt nun an der vorgesehenen Position in der Oberfläche. Speichern Sie final die geänderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1442578440840.png) . 
+
+Reichen in einer Tabelle die vorhandene Datenbankfelder nicht aus, so können weitere Felder in der Tabelle angelegt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442580597049.png) wird ein neues Datenbankfeld angelegt.
 
 ![](http://xpecto.github.io/docs/img/img_1442580545253.png)
 
-Wählen Sie unter *1. Tabelle wählen* die Datenbanktabelle, die erweitert werden soll. Geben Sie unter die Feldgruppe *2a. Feld anlegen* den gewünschten Feldname, Feldtyp und das Ausgabeformat. Der benötigten Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: Text, langer Text, Ja/Nein, Datum, Datum und Uhrzeit, Kommazahl, Ganzzahl.
+Wählen Sie unter *1. Tabelle wählen* die Datenbanktabelle, die erweitert werden soll. Geben Sie unter die Feldgruppe *2a. Feld anlegen* den gewünschten Feldname, Feldtyp und das Ausgabeformat. Der benötigten Feldtyp ist abhängig von der Art der Daten, die im neu erzeugten Datenbankfeld gespeichert werden sollen. Zur Auswahl stehen: 
+
+ - Text
+ - Ganzzahl
+ - Ja/Nein (Haken setzten)
+ - Datum
+ - Kommazahl
+ - langer Text
+ - Datei (binär)
+ - Datum und Uhrzeit
 
 In dem Eingabefeld *Ausgabeformat* kann optional das Ausgabeformat des Datenfeldes angegeben werden, z.B.  #.##0,00. 
 
