@@ -73,12 +73,27 @@ Die Oberfläche des Designers gliedert sich an dieser Stelle in vier Hauptbereic
 | ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Button_einfügen.png)     | Button einfügen | 
 | ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Label_Textbox_einfügen.png)     | Label und Eingabefeld einfügen | 
 
+
+----------
+###Elemente / Objekte einfügen
+
+----------
+
+
 Um ein bereits bestehendes Element zu verschieben, markieren Sie dieses durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position. 
 Zum Einfügen eines neuen Elements wählen Sie, sofern es sich um ein Datenbankfeld handelt, die Datenbanktabelle und markieren darunter das gewünschte Datenbankfeld.
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_Felder.png)
 
 Durch Klick auf eines der Icons  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Label_Textbox_einfügen.png)    ![](http://xpecto.github.io/docs/img/img_1442578074569.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Button_einfügen.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/ComboBox_einfuegen.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Positionieren Sie das Objekt nun an der vorgesehenen Position in der Oberfläche. Speichern Sie final die geänderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/img_1442578440840.png) . 
+
+
+----------
+###Tabellenfelder anlegen
+
+
+----------
+
 
 Reichen in einer Tabelle die vorhandene Datenbankfelder nicht aus, so können weitere Felder in der Tabelle angelegt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Datenbankfeld_anlegen.png) wird ein neues Datenbankfeld angelegt.
 
@@ -104,24 +119,47 @@ Durch einen Klick auf die Schaltfläche *Feld erstellen* wird das Datenbankfeld 
 Unter *2b. spezielle Felder anlegen*, werden falls gewünscht, spezielle Felder angelegt wie *Erfasst am, Erfasst von, Geändert am, Geändert von, Schreibschutz*. Sind diese Datenbankfelder in der von Ihnen gewählten Tabelle bereits vorhanden, werden die entsprechenden Buttons, ausgegraut ohne Funktion dargestellt.
 
 
+
+
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Unter "Vorschau" kann jederzeit eine Vorschau der bearbeiteten Oberfläche angezeigt und getestet werden, dieses auch ohne die Änderungen vorher zu speichern.*
+
+
 ----------
-
-
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) Unter *Vorschau* kann jederzeit eine Vorschau der bearbeiteten Oberfläche angezeigt und getestet werden werden, dieses auch ohne die Änderungen vorher zu speichern.
+###Datenbanktabellen erzeugen
 
 
 ----------
+Im Oberflächendesigner haben Sie außerdem ebenfalls die Möglichkeit, komplette Datenbanktabellen anzulegen, sollte die Standardkonfiguration für Ihre Zwecke nicht ausreichend sein.
 
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_anlegen.png)
 
 Über das Symbol ![](http://xpecto.github.io/docs/img/img_1442580639187.png), kann eine neue Tabelle in der Datenbank angelegt werden. 
 
-Die Reiter *Editor*, *Layout* und *Code* beinhalten Editoren zur Bearbeitung des VB- und XML-Codes zur Erweiterung der Funktionalität. 
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_anlegen_Auswahl.png)
+
+Wählen Sie zunächst bitte um welche Tabellenart es sich handelt: *Vertriebs- / Produkt- oder Vertragstabelle*
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_anlegen_Name.png)
+
+Im nächsten Schritt werden Sie gebeten den Tabellennamen anzugeben. 
 
 
 ----------
 
 
-Nachschlagslisten
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Bitte komplettieren Sie an dieser Stelle nur die Namensgebung, der bereits vorgegebene Teil dient der Identifizierung der Tabelle als "Kundentabelle" und muss beibehalten werden.*
+
+
+----------
+Nachdem die Tabelle benannt wurde werden Sie wieder zum Dialog zum anlegen von Tabellenfeldern zurückgeleitet. Sie sehen nun oben den Namen der von Ihnen erzeugten Tabelle. Sie können jetzt beliebig viele Felder in Ihrer Tabelle erzeugen.
+
+
+----------
+
+
+###Nachschlagslisten
 
 ----------
 
