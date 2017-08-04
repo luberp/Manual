@@ -146,19 +146,31 @@ Wählen Sie zunächst bitte um welche Tabellenart es sich handelt: *Vertriebs- /
 Im nächsten Schritt werden Sie gebeten den Tabellennamen anzugeben. 
 
 
-----------
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Bitte komplettieren Sie an dieser Stelle nur die Namensgebung, der bereits vorgegebene Teil dient der Identifizierung der Tabelle als "Kundentabelle" und muss beibehalten werden.*
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Bitte komplettieren Sie an dieser Stelle nur die Namensgebung, der bereits vorgegebene Teil dient der Identifizierung der Tabelle als "Kundentabelle" und muss beibehalten werden. Weiterhin sollte beachtet werden dass im Designer erzeugte Tabellen und Felder nicht mehr gelöscht werden können.*
 
 
-----------
 Nachdem die Tabelle benannt wurde werden Sie wieder zum Dialog  *anlegen von Tabellenfeldern* zurückgeleitet. Sie sehen nun oben den Namen der von Ihnen erzeugten Tabelle. Sie können jetzt beliebig viele Felder in Ihrer Tabelle erzeugen.
 
 
 ----------
 
+###Standardoberfläche laden
+----------
 
+XpectoPro bietet eine einfach Möglichkeit Standard Oberflächen zu laden, dieses kann notwendig sein wenn angepasste Oberflächen nicht mehr korrekt funktionieren oder bei der Anpassung der Überblick verloren ging.
+
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaeche_angepasst.png)
+
+Ob es sich überhaupt um eine bereits bearbeitete Oberfläche handelt erkennen Sie am Haken in der Spalte *Angepasst* in Stockliste der Oberflächen.
+
+
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaeche_zurücksetzen.png)
+
+Zum zurücksetzen der angepassten Oberfläche auf den Standard selektieren Sie zunächst die Oberfläche die Sie zurücksetzten möchten. Anschließend betätigen Sie den Button zum zurücksetzen der Oberfläche. Nachdem die Oberfläche zurückgesetzt wurde muss der Standard erneut gespeichert werden.
 ###Nachschlagslisten
 
 ----------
