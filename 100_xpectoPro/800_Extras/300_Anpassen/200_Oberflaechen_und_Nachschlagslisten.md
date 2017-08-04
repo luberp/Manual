@@ -88,7 +88,7 @@ Wählen Sie unter *1. Tabelle wählen* die Datenbanktabelle, die erweitert werde
 
  - Text
  - Ganzzahl
- - Ja/Nein (Haken setzten)
+ - Ja/Nein (checkbox)
  - Datum
  - Kommazahl
  - langer Text
