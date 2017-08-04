@@ -26,15 +26,53 @@ Der Reiter *Designer* beinhaltet den grafischer Editor zum Bearbeiten des Layout
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaechen_Designer.png)
 
-Die Oberfläche des Designers gliedert sich an dieser Stelle in 4 Bereiche:
+Die Oberfläche des Designers gliedert sich an dieser Stelle in vier Hauptbereiche:
 
  - Die Oberflächen Stockliste mit allen verfügbaren Oberflächen.
  - Das Designer Hauptfenster mit allen derzeit eingebetteten Elementen.
  - Eine Übersicht der verfügbaren Datenbanktabellen und Felder.
- - 
+ - Details zum selektiertem Objekt im Designer Hauptfenster.
+ 
 
-Um ein bereits bestehendes Label oder Eingabefeld zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position. 
-Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das  Icon ![](http://xpecto.github.io/docs/img/img_1442578074569.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Speichern Sie die veränderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1442578440840.png) . 
+
+----------
+####Designer Funktionsleiste
+
+----------
+
+Über dem Hauptfenster des Designers wird die Funktionsleiste der Designers dargestellt. Dieses ist das elementare Werkzeug zum bearbeiten der Oberflächen. Die Funktionsleiste enthält im einzelnen folgende Funktionen:
+
+ ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Funktionsleiste.png)
+
+
+|  Schaltfläche         |    Funktion     |  
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Loeschen.png)     | Selektiertes Objekt löschen |
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Ausschneiden.png)     | Selektiertes Objekt ausschneiden  | 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Kopieren.png)     | Selektiertes Objekt kopieren | 
+| ![](http://xpecto.github.io/)     | Selektiertes Objekt aus Zwischenablage einfügen | 
+| ![](http://xpecto.github.io/)     | Letzte Aktion rückgängig machen | 
+| ![](http://xpecto.github.io/)     | Letzte Aktion wiederherstellen | 
+| ![](http://xpecto.github.io/)     | Selektierte Objekte links ausrichten | 
+| ![](http://xpecto.github.io/)     | Selektierte Objekte zentrieren |
+| ![](http://xpecto.github.io/)     | Selektierte Objekte rechts ausrichten  | 
+| ![](http://xpecto.github.io/)     | Selektierte Objekte oben ausrichten | 
+| ![](http://xpecto.github.io/)     | Selektierte Objekte mittig ausrichten | 
+| ![](http://xpecto.github.io/)     | Selektierte Objekte unten ausrichten | 
+| ![](http://xpecto.github.io/)     | Gleiche Breite aller selektierter Objekte | 
+| ![](http://xpecto.github.io/)     | Gleiche Höhe aller selektierter Objekte | 
+| ![](http://xpecto.github.io/)     | Gleiche Höhe und Breite aller selektierter Objekte | 
+| ![](http://xpecto.github.io/)     | Datenbankfeld oder Tabelle anlegen | 
+| ![](http://xpecto.github.io/)     | Datenbankfeld umbenennen | 
+| ![](http://xpecto.github.io/)     | Label einfügen |
+| ![](http://xpecto.github.io/)     | Eingabefeld einfügen | 
+| ![](http://xpecto.github.io/)     | ComboBox einfügen | 
+| ![](http://xpecto.github.io/)     | Rahmen einfügen | 
+| ![](http://xpecto.github.io/)     | Button einfügen | 
+| ![](http://xpecto.github.io/)     | Label und Eingabefeld einfügen | 
+
+Um ein bereits bestehendes Element zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position. 
+Zum Einfügen eines neuen Elements wählen Sie, sofern es sich um ein Datenbankfeld handelt, die Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das  Icon ![](http://xpecto.github.io/docs/img/img_1442578074569.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Speichern Sie die veränderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1442578440840.png) . 
 
 Reichen in einer Tabelle die vorhandene Felder nicht aus, so können weitere Felder angelegt werden. Mit der Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442580597049.png) wird ein neues Datenbankfeld angelegt.
 
