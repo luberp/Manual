@@ -1,10 +1,10 @@
-Im folgenden Abschnitt ist die Anpassung und Erweiterbarkeit von Formulare bzw. Masken der xpectoPro beschrieben.
+Im folgenden Abschnitt wird die Anpassung und Erweiterbarkeit von Formulare bzw. Masken der xpectoPro Software beschrieben.
 
 In der klassischen Menü-Ansicht kann die Maske *Oberflächen und Nachschlagslisten* über Menü *Extras → Anpassen → Oberflächen und Nachschlagslisten* oder durch Drücken der F12-Taste.
 
 In der modernen Menü-Ansicht kann die Maske über die Registerkarte *System* Gruppe Anpassungen Funktion *Oberflächen* und Funktion *Nachschlagslisten* oder durch Drücken der F12-Taste.
 
-![](http://xpecto.github.io/docs/img/img_1462178525763.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaechen_Menue.png)
 
 
 ----------
@@ -18,18 +18,20 @@ Oberflächen
 
 In xpectoPro sind viele Eingabenmasken individuell anpassbar. Dies bezieht sich nicht nur auf das Layout der Masken, sondern erstreckt sich auch auf die damit verknüpfte Funktionalitäten. Während das Layout (Anzahl, Anordnung und Beschriftung der Eingabefelder) durchaus von erfahrenen Benutzern geändert werden kann, sollten Änderungen an der Funktionalität nur vom xpecto Kundensupport durchgeführt werden. 
 
-![](http://xpecto.github.io/docs/img/img_1462174447372.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaechen_Main.png)
 
-Auf dem Reiter *Vorschau* wird eine Vorschau von der Oberfläche dargestellt, auch ohne die Änderungen vorher zu speichern. Sie haben hier die Möglichkeit die Felder mit verschiedene Daten zu testen.
+Unter *Vorschau* wird eine Vorschau der selektierten Oberfläche dargestellt, auf der linken Seite werden Ihnen alle Oberflächen angezeigt die in der Applikation verfügbar sind, wählen Sie an dieser Stelle bitte die Oberfläche aus die Sie bearbeiten / anpassen möchten. Die gewählte Oberfläche ist an dieser Stelle bereits voll funktionell und mit der Datenbank verbunden, Sie haben hier vorab die Möglichkeit die Felder mit verschiedenen Daten zu testen bevor diese in den laufenden Betrieb eingebunden wird.
 
-Über die Schaltfläche *Mustervorlage* ![](http://xpecto.github.io/docs/img/img_1424264077326.png) wird die Mustervorlage für Standard-Positionen und -Größen angezeigt. 
+Der Reiter *Designer* beinhaltet den grafischer Editor zum Bearbeiten des Layouts, alle in der Oberfläche eingebetteten Elemente können mit Hilfe des Designers problemlos verschoben und neu angeordnet werden. Ebenso können hier neue Objekte in die Oberfläche eingebunden oder nicht benötigte gelöscht werden.
 
-![](http://xpecto.github.io/docs/img/img_1462174005141.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaechen_Designer.png)
 
+Die Oberfläche des Designers gliedert sich an dieser Stelle in 4 Bereiche:
 
-Auf dem Reiter *Designer* befindet sich ein grafischer Editor zum Bearbeiten des Layouts der selektierten Oberfläche. Eingabefelder, Auswahllisten sowie Buttons etc. können mit Hilfe des Designers problemlos verschoben werden und somit das Gesamtbild nach Ihren Wünschen angepasst werden. 
-
-![](http://xpecto.github.io/docs/img/img_1462174170782.png)
+ - Die Oberflächen Stockliste mit allen verfügbaren Oberflächen.
+ - Das Designer Hauptfenster mit allen derzeit eingebetteten Elementen.
+ - Eine Übersicht der verfügbaren Datenbanktabellen und Felder.
+ - 
 
 Um ein bereits bestehendes Label oder Eingabefeld zu verschieben, markieren Sie es durch einen Klick mit der linken Maustaste und ziehen es mit gedrückter Maustaste an die gewünschten Position. 
 Zum Einfügen eines neuen Eingabefeldes wählen Sie in der Liste im rechten oberen Bereich die entsprechende Datenbanktabelle und darunter die gewünschte Datenbankspalte aus, mit der das Feld verknüpft werden soll. Durch Klick auf das  Icon ![](http://xpecto.github.io/docs/img/img_1442578074569.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Speichern Sie die veränderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1442578440840.png) . 
