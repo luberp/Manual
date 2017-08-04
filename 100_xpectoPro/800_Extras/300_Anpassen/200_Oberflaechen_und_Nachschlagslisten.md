@@ -40,9 +40,11 @@ Die Oberfläche des Designers gliedert sich an dieser Stelle in vier Hauptbereic
 
 ----------
 
-Über dem Hauptfenster des Designers wird die Funktionsleiste der Designers dargestellt. Dieses ist das elementare Werkzeug zum bearbeiten der Oberflächen. Die Funktionsleiste enthält im einzelnen folgende Funktionen:
+Über dem Hauptfenster des Designers wird die Funktionsleiste dargestellt. Dieses ist das elementare Werkzeug zum bearbeiten der Oberflächen. Die Funktionsleiste enthält im einzelnen folgende Funktionen:
+
 
  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Funktionsleiste.png)
+
 
 
 |  Schaltfläche         |    Funktion     |  
