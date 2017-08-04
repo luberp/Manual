@@ -10,7 +10,7 @@ In der modernen Menü-Ansicht kann die Maske über die Registerkarte *System* Gr
 ----------
 
 
-Oberflächen
+##Oberflächen
 
 
 ----------
@@ -85,7 +85,7 @@ Zum Einfügen eines neuen Elements wählen Sie, sofern es sich um ein Datenbankf
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_Felder.png)
 
-Durch Klick auf eines der Icons  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Label_Textbox_einfügen.png)    ![](http://xpecto.github.io/docs/img/img_1442578074569.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Button_einfügen.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/ComboBox_einfuegen.png) in der Werkzeugleiste wird das Eingabefeld eingefügt. Positionieren Sie das Objekt nun an der vorgesehenen Position in der Oberfläche. Speichern Sie final die geänderte Oberfläche mit dem Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/img_1442578440840.png) . 
+Durch Klick auf eines der Icons  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Label_Textbox_einfügen.png)    ![](http://xpecto.github.io/docs/img/img_1442578074569.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Button_einfügen.png)  ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/ComboBox_einfuegen.png) in der Werkzeugleiste wird dass auf das Datenbankfeld verlinkte Eingabefeld eingefügt. Positionieren Sie dieses nun an der vorgesehenen Position in der Oberfläche und speichern die Änderung der Oberfläche über den Button ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/img_1442578440840.png) . 
 
 
 ----------
@@ -134,7 +134,7 @@ Im Oberflächendesigner haben Sie außerdem ebenfalls die Möglichkeit, komplett
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_anlegen.png)
 
-Über das Symbol ![](http://xpecto.github.io/docs/img/img_1442580639187.png), kann eine neue Tabelle in der Datenbank angelegt werden. 
+Über das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_neu.png), kann eine neue Tabelle in der Datenbank angelegt werden. 
 
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Tabelle_anlegen_Auswahl.png)
@@ -153,7 +153,7 @@ Im nächsten Schritt werden Sie gebeten den Tabellennamen anzugeben.
 
 
 ----------
-Nachdem die Tabelle benannt wurde werden Sie wieder zum Dialog zum anlegen von Tabellenfeldern zurückgeleitet. Sie sehen nun oben den Namen der von Ihnen erzeugten Tabelle. Sie können jetzt beliebig viele Felder in Ihrer Tabelle erzeugen.
+Nachdem die Tabelle benannt wurde werden Sie wieder zum Dialog  *anlegen von Tabellenfeldern* zurückgeleitet. Sie sehen nun oben den Namen der von Ihnen erzeugten Tabelle. Sie können jetzt beliebig viele Felder in Ihrer Tabelle erzeugen.
 
 
 ----------
