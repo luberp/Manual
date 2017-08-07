@@ -171,6 +171,11 @@ Ob es sich überhaupt um eine bereits bearbeitete Oberfläche handelt erkennen S
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaeche_zurücksetzen.png)
 
 Zum zurücksetzen der angepassten Oberfläche auf den Standard selektieren Sie zunächst die Oberfläche die Sie zurücksetzten möchten. Anschließend betätigen Sie den Button zum zurücksetzen der Oberfläche. Nachdem die Oberfläche zurückgesetzt wurde muss der Standard erneut gespeichert werden.
+
+
+----------
+
+
 ###Nachschlagslisten
 
 ----------
@@ -181,6 +186,6 @@ Beispiel: Das Eingabefeld für die Anrede in der Kundenmaske kann alternativ als
 
 ![](http://xpecto.github.io/docs/img/img_1442581536742.png)
 
-Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede werden Tippfehler bie der Eingabe der Anrede vermeidet. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen vermieden, die dieses Feld enthalten. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.
+Durch die Verwendung eines Auswahlfeldes anstatt eines Eingabefeldes für die Anrede werden Tippfehler bei Eingabe der Anrede vermieden. Dadurch werden Peinlichkeiten bei der Erstellung von Serienbriefen ausgeschlossen, die auf diese Werte zurückgreifen. Darüber hinaus wird die Erstellung von Datenbankabfragen für Auswertungen mit Unterscheidungen der Kunden anhand des Geschlechts wesentlich erleichtert, da Tippfehler in den erfassten Anreden nicht berücksichtigt werden müssen.
 
-Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verbunden. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegriffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache und mit Hilfe des xpecto Kundensupports angelegt, der auch das zugehörige Skript programmiert. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne Zuhilfenahme des xpecto Kundensupports vom Benutzer durchgeführt werden. 
+Nachschlagslisten sind immer mit einer Skript-Programmierung an einer anderen Stelle der Software verknüpft. Eine Nachschlagsliste, auf die nicht von einem kundenspezifischen Skript aus zugegriffen wird, hat keinen Sinn. Nachschlagslisten werden deshalb immer in Rücksprache und mit Hilfe des xpecto Kundensupports angelegt, der Support entwickelt  auch das zugehörige Skript und bindet dieses in Ihr System ein. Änderungen und Erweiterungen der Werte in den hinterlegten Nachschlagslisten können später jederzeit ohne weitere Absprachen mit dem Kundensupport vom Benutzer durchgeführt werden. 
