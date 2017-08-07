@@ -164,7 +164,7 @@ XpectoPro bietet eine einfach Möglichkeit Standard Oberflächen zu laden, diese
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Oberflaechen_und_Nachschlagslisten/Oberflaeche_angepasst.png)
 
-Ob es sich überhaupt um eine bereits bearbeitete Oberfläche handelt erkennen Sie am Haken in der Spalte *Angepasst* in Stockliste der Oberflächen.
+Ob es sich überhaupt um eine bereits bearbeitete Oberfläche handelt erkennen Sie am Haken in der Spalte *Angepasst* in der Stockliste.
 
 
 
