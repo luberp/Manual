@@ -1,6 +1,6 @@
-In der klassischen Menü-Ansicht ist die Maske *Prozesse und Rechte* über Menü *Extras → Anpassen → Prozesse, Rechte und Batchjobs* gestartet werden.
+In der klassischen Menü-Ansicht ist die Maske *Prozesse und Rechte* über Menü *Extras → Anpassen → Prozesse, Rechte und Batchjobs* zu erreichen.
 
-In der modernen Menü-Ansicht kann die Maske *Prozesse und Rechte* in der Registerkarte *System* Gruppe *Anpassungen* Funktionen: *Prozesse, Benutzer/Rechte, Hintergrunddienste*.
+In der modernen Menü-Ansicht kann die Maske *Prozesse und Rechte* in der Registerkarte *System* Gruppe *Anpassungen* Funktionen: *Prozesse, Benutzer/Rechte, Hintergrunddienste* aufgerufen werden.
 
 ![](http://xpecto.github.io/docs/img/img_1462180609955.png)
 
