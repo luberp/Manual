@@ -85,7 +85,7 @@ Abfrage in der Command Shell (CMD) von Windows.
 
 
 
-Geben Sie einen Benutzernamen ein, achten Sie darauf, dass dieser bereits unter Windows angelegt wurde. Prüfen Sie wie der Benutzer im Betriebssystem angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
+Geben Sie einen Benutzernamen ein, achten Sie darauf, dass dieser bereits unter Windows angelegt wurde. Prüfen Sie wie der Benutzer im Betriebssystem angemeldet/ angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
 
 ![](http://xpecto.github.io/docs/img/img_1424427033970.png)
 
