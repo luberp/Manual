@@ -77,7 +77,7 @@ In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum St
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Kontrolle der angemeldeten Benutzer in xpectoPro und einem Windows Betriebssystem.*
 
-![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Benutzer_Statusleiste.png) -> In der Hauptansicht, unten links, von xpectoPro.
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Benutzer_Statusleiste.png) -> In der Statusleiste der Hauptansicht von xpectoPro.
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Whoami.png) -> Als Abfrage in der Command Shell (CMD) von Windows.
 
