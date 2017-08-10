@@ -11,14 +11,14 @@ Die Maske enthält ihre eigene Symbolleiste mit folgenden Symbolen:
 | Symbol          |    Beschreibung     |  
 | ------------- |:-------------| 
 | ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_speichern.png)  |Speichern| 
-| ![](http://xpecto.github.io/docs/img/img_1462788084971.png)  |Prozesse neu anlegen| 
-| ![](http://xpecto.github.io/docs/img/img_1462788142810.png)    | Benutzer neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1462788189080.png)   | Batch-Jobs neu anlegen | 
-| ![](http://xpecto.github.io/docs/img/img_1462788233775.png)   | Aktuellen Datensatz löschen | 
-| ![](http://xpecto.github.io/docs/img/img_1462788296199.png)   | Systembenutzer abfragen und speichern | 
-| ![](http://xpecto.github.io/docs/img/img_1461935451257.png)   | Prozess importieren|
-|![](http://xpecto.github.io/docs/img/img_1461935507991.png)| Prozess exportieren| 
-|![](http://xpecto.github.io/docs/img/img_1462788381761.png)| Druckvorschau|
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Prozesse_neu.png)  |Prozesse neu anlegen| 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Benutzer_neu.png)    | Benutzer neu anlegen | 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Batchjob_neu.png)   | Batch-Jobs neu anlegen | 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Datensatz_loeschen.png)   | Aktuellen Datensatz löschen | 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Systembenutzer_abfragen.png)   | Systembenutzer abfragen und speichern | 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Prozess_importieren.png)   | Prozess importieren|
+|![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Prozess_exportieren.png)| Prozess exportieren| 
+|![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Druckvorschau.png)| Druckvorschau|
 
 
 ----------
@@ -31,23 +31,30 @@ Prozesse
 
 
 Unter Prozesse können Wiedervorlagen, Mahnprozesse und Zeichnungen angelegt werden.
-xpectoPro ermöglicht die Integration von Ablaufprozessen in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse.
+xpectoPro ermöglicht die Integration von definierter Ablaufprozesse in die tägliche Arbeit. Nahezu alle Elemente und Funktionen der Software können in vordefinierte Abläufe eingebunden werden. Die Abläufe sind umfangreich konfigurierbar und ermöglichen eine strukturierte Arbeitsweise. Insbesondere verteilte Teams profitieren von der Aufgabentrennung und der gemeinsamen Kommunikation über Prozesse.
 Die Prozesse können über einen grafischen Designer erstellt werden. 
-Die Steuerung der Prozesse erfolgt mit einer zentralen *Wiedervorlage-Steuerung* (siehe Handbuch *Bearbeiten → Wiedervorlage Steuerung*) die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den Überblick über alle wichtigen Abläufe.
+Die Steuerung der Prozesse erfolgt mit einer zentralen *Wiedervorlage-Steuerung* (siehe Handbuch *Bearbeiten → Wiedervorlage Steuerung*) die alle Prozesselemente einsehen darf. Leiter von Callcentern, Vertrieben oder Verwaltungen haben so stets den aktuellen Status über alle wichtigen Abläufe.
 Die Einbindung von externen Stellen zur Datenerfassung, zur Prüfung/Compliance oder zur Betreuung ist über Prozesse sehr gut möglich. 
 
 Beispiel Mahnwesen:
-- Kunde erzeugt Rücklastschrift oder zahlt nicht innerhalb eines bestimmten Zeitraums 
+- Kunde erzeugt Rücklastschrift oder zahlt nicht innerhalb eines vorgegebenen Zeitraums 
 - Je nach Grund wird Callcenter oder Vertriebspartner aktiv 
 - erneute Wartezeit 
 - Kunde hat gezahlt → erledigt 
 - Kunde hat nicht gezahlt → nächste Mahnstufe
 
-Um einen Prozess neu anzulegen klicken Sie in dem Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462787545827.png). Geben Sie den Name für Ihren neuen Prozess und die gewünschte Vorlage dazu. Bestätigen Sie dann Ihre Eingaben mit einen Klick auf *OK*. 
+Um einen Prozess neu anzulegen klicken Sie in dem Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Prozesse_neu.png). 
+Im folgenden Dialog geben Sie den Name für Ihren Prozess ein. Sie haben nun die Möglichkeit aus folgenden Optionen zu wählen:
 
-![](http://xpecto.github.io/docs/img/img_1462179894814.png)
+ - leerer Prozess (Prozess muss vollständig manuell erstellt werden)
+ - Kopie eines bestehenden Prozesses (Es wird eine 1 zu 1 Kopie des gewählten Prozesses erstellt)
+ - xpecto Vorlagen (Eine Liste von vollständig erzeugten Prozessen die durch xpecto zur Verfügung gestellt wurden)
 
-Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu designen. 
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Main.png)
+
+Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu designen.  
+
+*Bitte beachten Sie dass diese Funktion teilweise Kenntnisse der Programmierung, jedoch in jedem Fall ein tiefes Hindergrundwissen der Applikation voraussetzt.*
 
 ![](http://xpecto.github.io/docs/img/img_1462180172219.png)
 
