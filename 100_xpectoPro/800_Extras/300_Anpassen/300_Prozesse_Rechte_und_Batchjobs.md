@@ -43,7 +43,7 @@ Beispiel Mahnwesen:
 - Kunde hat gezahlt → erledigt 
 - Kunde hat nicht gezahlt → nächste Mahnstufe
 
-Um einen Prozess neu anzulegen klicken Sie in dem Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Prozesse_neu.png). 
+Um einen Prozess neu anzulegen klicken Sie im Dialog xpectoPro Prozesse und Rechte auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Prozesse_neu.png). 
 Im folgenden Dialog geben Sie den Name für Ihren Prozess ein. Sie haben nun die Möglichkeit aus folgenden Optionen zu wählen:
 
  - leerer Prozess (Prozess muss vollständig manuell erstellt werden)
@@ -54,9 +54,8 @@ Im folgenden Dialog geben Sie den Name für Ihren Prozess ein. Sie haben nun die
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Main.png)
 
-Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu designen.  
-
-*Bitte beachten Sie dass diese Funktion teilweise Kenntnisse der Programmierung, jedoch in jedem Fall ein tiefes Hindergrundwissen der Applikation voraussetzt.*
+Im Reiter *Designer* haben Sie die Möglichkeit den Prozess zu designen und auf den Bedarf Ihres Unternehmens anzupassen.
+*Bitte beachten Sie dass diese Funktion teilweise Kenntnisse der Programmierung, jedoch in jeden Fall ein tiefes Hintergrundwissen der Applikation voraussetzt.*
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Designer.png)
 
