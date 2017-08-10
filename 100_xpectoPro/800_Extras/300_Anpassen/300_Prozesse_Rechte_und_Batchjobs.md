@@ -48,7 +48,9 @@ Im folgenden Dialog geben Sie den Name für Ihren Prozess ein. Sie haben nun die
 
  - leerer Prozess (Prozess muss vollständig manuell erstellt werden)
  - Kopie eines bestehenden Prozesses (Es wird eine 1 zu 1 Kopie des gewählten Prozesses erstellt)
- - xpecto Vorlagen (Eine Liste von vollständig erzeugten Prozessen die durch xpecto zur Verfügung gestellt wurden)
+ - xpecto Vorlagen (Eine Liste von bereits vollständig erzeugten Prozessen die durch xpecto zur Verfügung gestellt wurden)
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_neu.png)
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Main.png)
 
@@ -56,7 +58,7 @@ Unter dem Reiter *Designer* haben Sie dann die Möglichkeit den Prozess zu desig
 
 *Bitte beachten Sie dass diese Funktion teilweise Kenntnisse der Programmierung, jedoch in jedem Fall ein tiefes Hindergrundwissen der Applikation voraussetzt.*
 
-![](http://xpecto.github.io/docs/img/img_1462180172219.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Designer.png)
 
 
 ----------
