@@ -69,7 +69,7 @@ Benutzer
 ----------
 
 
-In xpectoPro kann jeder Menüpunkt und jeder Karteireiter sowie das Starten der Software pro Benutzer individuell gesperrt oder erlaubt werden. Der in xpectoPro verwendete Benutzer ist der jeweils angemeldete Windows-Benutzer. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187089244.png) an. 
+In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum Starten der Software pro Benutzer individuell mit Berechtigungen versehen werden, dieses ermöglicht es, speziell nur die Funktionen zu laden die der jeweilige Anwender benötigt. Der in xpectoPro angemeldete Benutzer entspricht immer dem am Betriebssystem angemeldetem Benutzer, ist dieser Benutzer nicht in xpectoPro vorhanden, da es sich hierbei ggfs. um eine neue Mitarbeiterin / Mitarbeiter handelt, wird dieser automatisch von xpectoPro in die Liste der Benutzer eingetragen. Werden Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187089244.png) an. 
 
 Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. 
 
