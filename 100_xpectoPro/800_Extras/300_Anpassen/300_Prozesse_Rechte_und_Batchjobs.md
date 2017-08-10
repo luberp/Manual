@@ -4,7 +4,7 @@ In der modernen Menü-Ansicht kann die Maske *Prozesse und Rechte* in der Regist
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Menue.png)
 
-Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:
+Die Maske enthält ihre eigene Symbolleiste mit folgenden Symbolen:
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Symbolleiste.png)
 
