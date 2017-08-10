@@ -69,7 +69,7 @@ Benutzer
 ----------
 
 
-In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum Starten der Software pro Benutzer individuell mit Berechtigungen versehen werden, dieses ermöglicht es, speziell nur die Funktionen zu laden die der jeweilige Anwender benötigt. Der in xpectoPro angemeldete Benutzer entspricht immer dem am Betriebssystem angemeldetem Benutzer, ist dieser Benutzer nicht in der xpectoPro-Userverwaltung vorhanden, da es sich hierbei ggfs. um eine neue Mitarbeiterin / Mitarbeiter handelt, wird dieser automatisch von xpectoPro in die Liste der Benutzer eingetragen. Werden Benutzer nicht automatisch erkannt, und sie bekommen beim Starten der Applikation eine Fehlermeldung, können Benutzer manuell angelegt werden. 
+In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum Starten der Software pro Benutzer individuell mit Berechtigungen versehen werden, dieses ermöglicht es, speziell nur die Funktionen zu laden die der jeweilige Anwender benötigt. Der in xpectoPro angemeldete Benutzer entspricht immer dem am Betriebssystem angemeldetem Benutzer, ist dieser Benutzer nicht in der xpectoPro-Userverwaltung vorhanden, da es sich hierbei ggfs. um eine neue Mitarbeiterin / Mitarbeiter handelt, wird dieser automatisch von xpectoPro in die Liste der Benutzer eingetragen. Werden Benutzer nicht automatisch erkannt und sie bekommen beim Starten der Applikation eine Fehlermeldung, können Benutzer manuell über das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Benutzer_neu.png) angelegt werden.
 
 
 ----------
@@ -83,9 +83,9 @@ Abfrage in der Command Shell (CMD) von Windows.
 ----------
 
 
-Einen neuen Benutzer kann durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Benutzer_neu.png) angelegt werden.
 
-Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. *ggfs. prüfen sie wie der Benutzer im Betriebssystem angelegt wurde wie oben beschrieben.*
+
+Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt, ggfs. prüfen sie wie der Benutzer im Betriebssystem angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
 
 ![](http://xpecto.github.io/docs/img/img_1424427033970.png)
 
