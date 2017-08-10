@@ -74,7 +74,7 @@ In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum St
 
 ----------
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Kontrolle der angemeldeten Benutzer in  Windows Betriebssystemen.*
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Kontrolle des angemeldeten Benutzers unter Windows Betriebssystemen.*
 
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Whoami.png) 
@@ -85,7 +85,7 @@ Abfrage in der Command Shell (CMD) von Windows.
 
 
 
-Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt, ggfs. prüfen sie wie der Benutzer im Betriebssystem angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
+Geben Sie einen Benutzernamen ein, achten Sie darauf, dass dieser bereits unter Windows angelegt wurde. Prüfen Sie wie der Benutzer im Betriebssystem angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
 
 ![](http://xpecto.github.io/docs/img/img_1424427033970.png)
 
