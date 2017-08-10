@@ -1,14 +1,15 @@
 In der klassischen Menü-Ansicht ist die Maske *Prozesse und Rechte* über Menü *Extras → Anpassen → Prozesse, Rechte und Batchjobs* zu erreichen.
 
-In der modernen Menü-Ansicht kann die Maske *Prozesse und Rechte* in der Registerkarte *System* Gruppe *Anpassungen* Funktionen: *Prozesse, Benutzer/Rechte, Hintergrunddienste* aufgerufen werden.
+In der modernen Menü-Ansicht kann die Maske *Prozesse und Rechte* in der Registerkarte *System* Gruppe *Anpassungen* Funktionen: *Prozesse* aufgerufen werden.
 
-![](http://xpecto.github.io/docs/img/img_1462180609955.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_Menue.png)
 
 Die Maske enthält ihre eigene Symbolleiste mit folgende Symbole:
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Symbolleiste.png)
 
 | Symbol          |    Beschreibung     |  
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/img/img_1461935229842.png)  |Speichern| 
+| ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_speichern.png)  |Speichern| 
 | ![](http://xpecto.github.io/docs/img/img_1462788084971.png)  |Prozesse neu anlegen| 
 | ![](http://xpecto.github.io/docs/img/img_1462788142810.png)    | Benutzer neu anlegen | 
 | ![](http://xpecto.github.io/docs/img/img_1462788189080.png)   | Batch-Jobs neu anlegen | 
