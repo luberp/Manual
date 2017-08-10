@@ -85,9 +85,9 @@ In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum St
 ----------
 
 
-Einen neuen Benutzer legen sie durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187089244.png) an. 
+Einen neuen Benutzer kann durch einen Klick auf das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Benutzer_neu.png) angelegt werden.
 
-Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. 
+Geben Sie einen Benutzernamen ein. Achten Sie darauf, dass der gewählte Benutzername bereits ein Benutzerkonto im Windows Betriebssystem besitzt. *ggfs. prüfen sie wie der Benutzer im Betriebssystem angelegt wurde wie oben beschrieben.*
 
 ![](http://xpecto.github.io/docs/img/img_1424427033970.png)
 
