@@ -48,7 +48,7 @@ Im folgenden Dialog geben Sie den Name für Ihren Prozess ein. Sie haben nun die
 
  - leerer Prozess (Prozess muss vollständig manuell erstellt werden)
  - Kopie eines bestehenden Prozesses (Es wird eine 1 zu 1 Kopie des gewählten Prozesses erstellt)
- - xpecto Vorlagen (Eine Liste von bereits vollständig erzeugten Prozessen die durch xpecto zur Verfügung gestellt wurden)
+ - xpecto Vorlagen (Eine Liste von bereits vollständig erzeugter Prozesse die durch xpecto zur Verfügung gestellt wurden)
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Prozesse_neu.png)
 
@@ -69,12 +69,17 @@ Benutzer
 ----------
 
 
-In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum Starten der Software pro Benutzer individuell mit Berechtigungen versehen werden, dieses ermöglicht es, speziell nur die Funktionen zu laden die der jeweilige Anwender benötigt. Der in xpectoPro angemeldete Benutzer entspricht immer dem am Betriebssystem angemeldetem Benutzer, ist dieser Benutzer nicht in der xpectoPro-Userverwaltung vorhanden, da es sich hierbei ggfs. um eine neue Mitarbeiterin / Mitarbeiter handelt, wird dieser automatisch von xpectoPro in die Liste der Benutzer eingetragen. Werden Benutzer nicht automatisch erkannt und sie bekommen beim Starten der Applikation eine Fehlermeldung, können Benutzer manuell über das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Benutzer_neu.png) angelegt werden.
+In xpectoPro kann jeder Menüpunkt, Karteireiter sowie Funktionen bis hin zum Starten der Software pro Benutzer individuell mit Berechtigungen versehen werden, dieses ermöglicht es, speziell nur die Funktionen zu laden die der jeweilige Anwender benötigt.
+
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Benutzer_Main.png)
+
+ Der in xpectoPro angemeldete Benutzer entspricht immer dem am Betriebssystem angemeldeten Benutzer, ist dieser Benutzer nicht in der xpectoPro-Userverwaltung vorhanden, da es sich hierbei ggfs. um eine neue Mitarbeiterin / Mitarbeiter handelt, wird dieser automatisch, beim Start der Software von xpectoPro in die Liste der Benutzer eingetragen. Werden Benutzer nicht automatisch erkannt und sie bekommen beim Starten der Applikation eine Fehlermeldung, können Benutzer manuell über das Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_Benutzer_neu.png) angelegt werden.
 
 
 ----------
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Kontrolle des angemeldeten Benutzers unter Windows Betriebssystemen.*
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *Abfrage des aktuell angemeldeten Benutzers unter Windows Betriebssystemen.*
 
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Whoami.png) 
@@ -85,20 +90,25 @@ Abfrage in der Command Shell (CMD) von Windows.
 
 
 
-Geben Sie einen Benutzernamen ein, achten Sie darauf, dass dieser bereits unter Windows angelegt wurde. Prüfen Sie wie der Benutzer im Betriebssystem angemeldet/ angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
+Geben Sie einen Benutzernamen ein, achten Sie darauf dass dieser bereits unter Windows angelegt wurde. Prüfen Sie ggfs. wie der Benutzer im Betriebssystem angemeldet/ angelegt wurde wie oben beschrieben. *Der Benutzername muss zwingend so eingegeben werden die ihnen dieser angezeigt wird.*
 
-![](http://xpecto.github.io/docs/img/img_1424427033970.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Benutzernamen_vergeben.png)
 
-Bei Windows Domänen-Benutzern setzt sich der Benutzer aus Domänenname\Benutzername zusammen. Sollten Ihre Benutzer also an einem Domänencontroller angemeldet sein, so berücksichtigen Sie dies bei der Erstellung des Benutzerkontos. Bestätigen Sie Ihre Eingaben mit *OK*. Nachdem Sie mit dem Symbol ![](http://xpecto.github.io/docs/img/img_1462187128337.png) gespeichert haben, wird der neue Benutzer in der Benutzer Liste angezeigt. 
+Bestätigen Sie Ihre Eingaben mit *OK*. Nachdem Sie mit dem Symbol ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Button_speichern.png) gespeichert haben, wird der neue Benutzer in der Benutzerliste angezeigt. 
 
-Beim Start der Software werden zuerst die Rechte des angemeldeten Benutzers ermittelt und daraufhin nur die Menüpunkte und Karteireiter angezeigt, für die der Benutzer berechtigt ist oder gegebenfalls der Start der Software abgebrochen. Die Ermittlung der Berechtigungen eines angemeldeten Benutzers erfolgt in zwei Stufen. Zuerst werden die Rechte des Benutzer *Default* abgefragt (der Benutzer „Default" wird  bei der Installation der Software automatisch angelegt und mit dem Recht *Administrator* ausgestattet). Danach werden die Rechte des tatsächlich angemeldeten Benutzers abgefragt, diese überblenden gegebenenfalls die Rechte des Benutzers *Default*. 
 
-Beispiel: Beim Benutzer *Default* sei das Recht zum Start von xpectoPro auf erlauben gesetzt. Bei einem bestimmten Benutzer sei jedoch zusätzlich das Recht zum Start von xpectoPro auf verbieten gesetzt. Dadurch ist allen Windows Benutzer grundsätzlich das Starten der Software möglich. Der bestimmte Benutzer kann jedoch xpectoPro nicht starten, obwohl beim Benutzer *Default* das Recht auf erlauben ist. 
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)*Default werden für neue Benutzer immer administrative Rechte vergeben, diese müssen im Nachgang durch Ihren Systemadministrator angepasst werden. Sollten Sie Rechte für neue Benutzer nicht ändern / speichern können, prüfen Sie bitte den User "Default" auf "administrative Berechtigungen" und korrigieren Sie dieses ggfs. auf das Recht "Poweruser". *
 
-Spezielle Rechte: Die Rechte *Administrator* und *Poweruser* umfassen alle möglichen Rechte, d.h. das Setzen eines der beiden Rechte bei einem Benutzer ist äquivalent zum Setzen aller anderen Rechte bei demselben Benutzer. Bei *Poweruser* können einzelne Rechte für den Benutzer durch Setzen des entsprechenden Rechts auf verbieten entzogen werden. Im Gegensatz dazu ist dies bei *Administrator* nicht möglich.
+Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und wechseln in den Reiter *Rechte*. 
+Setzten Sie hier bitte den Haken bei "alle Rechte anzeigen" um eine Liste aller Rechte und Rollen zu erhalten.
 
-Zur Einstellung der Rechte eines Benutzers selektieren Sie den Benutzer und betätigen Sie die Schaltfläche 
- ![](http://xpecto.github.io/docs/img/img_1424439295301.png) in dem Reiter *Rechte*, um eine neue Berechtigungszeile einzufügen. In der Auswahlbox *Recht* wird das gewünschte Recht ausgewählt, und unter Wert die jeweilige Berechtigungsstufe *deny/verbieten*, *default* oder *allow/erlauben* gesetzt.
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Benutzer_Rechte.png)
+
+Über einen Klick auf das Symbol in der Spalte *Icon* können nun Berechtigungen für das selektierte Recht gesetzt werden. Sie haben hier drei Optionen zur Auswahl:
+
+ - ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Recht_undefiniert.png) Noch keine Berechtigung defniert (default).
+ - ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Recht_zugelassen.png)  Berchtigung für diese Funktion erteilt.
+ - ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Recht_verweigert.png) Berchtigung für diese Funktion verweigert.
 
 Über Gruppen-Rechte gelten die Berechtigungen die Sie dieser Gruppe geben, grundsätzlich für alle Mitglieder der Gruppe. 
 
