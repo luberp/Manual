@@ -110,9 +110,15 @@ Setzten Sie hier bitte den Haken bei "alle Rechte anzeigen" um eine Liste aller 
  - ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Recht_zugelassen.png)  Berchtigung für diese Funktion erteilt.
  - ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Recht_verweigert.png) Berchtigung für diese Funktion verweigert.
 
-Über Gruppen-Rechte gelten die Berechtigungen die Sie dieser Gruppe geben, grundsätzlich für alle Mitglieder der Gruppe. 
+Im Reiter *Effektive Rechte* werden die dem Benutzer zugeteilten bzw. verweigerten Berechtigungen angezeigt. Rechte die den Status "undefiniert" besitzen werden bei den Effektiven Rechten nicht berücksichtigt.
 
-Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1462187160501.png) holt alle Benutzer aus dem Active Directoy ab und speichert diese. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen. Werden die Benutzer nicht automatisch erkannt, können sie manuell angelegt werden. 
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Effektive_Rechte.png)
+
+Über Gruppen-Rechte gelten die Berechtigungen die Sie dieser Gruppe geben grundsätzlich für alle Mitglieder der Gruppe. Gruppen werden generell wie Benutzer angelegt, jedoch im Reiter *Allgemein -> Typ* als Gruppe definiert.
+
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Benutzer_Gruppe.png)
+
+Das Symbol *Systembenutzer abfragen und speichern* ![](http://xpecto.github.io/docs/img/img_1462187160501.png) holt den aktuellen Benutzer aus dem Active Directoy ab und speichert diesen in der Applikation. In der Liste der vorhandenen Benutzer werden automatisch die in der Windows Domäne vorhandenen Benutzer eingetragen.
 
 
 ----------
