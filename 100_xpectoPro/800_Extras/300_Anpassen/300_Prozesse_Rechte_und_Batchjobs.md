@@ -130,9 +130,10 @@ Batchjobs
 ----------
 
 
-Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen von dem Betriebsystem in einer Datei aufgeführt ist und für die Ausführung als eine einzelne Einheit vorgelegt wird. Ein Batchjob ist das Gegenteil von interaktive Verarbeitung in der ein Benutzer die einzelne Befehle sofort verarbeitet werden.
-Ein neuer Batchjob kann mit einem Klick auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187304079.png) angelegt werden.
+Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen vom Betriebsystem in einer Datei aufgeführt und für die Ausführung als eine einzelne Einheit vorgelegt wird.
+Der Prozess wird vom Betriebssystem automatisch im Hintergrund und zu einem festgelegtem Zeitpunkt ausgeführt. Die Spalte "Modul" greift hierbei auf bereits im System hinterlegte Skripte zurück.
 
-![](http://xpecto.github.io/docs/img/img_1462187275440.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Batchjob.png)
 
-Über die Druckvorschau ![](http://xpecto.github.io/docs/img/img_1462187329274.png) wird ein Ausdruck der aktuellen Eingabemaske gemacht, und zwar von dem Reiter der gerade aktiv ist. Die dazugehörigen Details stehen oben auf der Seite. Um die Druckvorschau-Funktion zu öffnen, klicken Sie auf das Symbol ![](http://xpecto.github.io/docs/img/img_1462187337467.png) in der Symbolleiste. In das Fenster *Print Preview* kann die Seite eingerichtet, und falls gewünscht gedruckt werden.
+![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Batchjob_Skript.png)
+
