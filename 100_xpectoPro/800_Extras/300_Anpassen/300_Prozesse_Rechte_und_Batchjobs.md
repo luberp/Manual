@@ -131,7 +131,7 @@ Batchjobs
 
 
 Batchjobs sind automatisierte Prozesse, das bedeutet dass eine Folge von auszuführenden Befehlen vom Betriebsystem in einer Datei aufgeführt und für die Ausführung als eine einzelne Einheit vorgelegt wird.
-Der Prozess wird vom Betriebssystem automatisch im Hintergrund und zu einem festgelegtem Zeitpunkt ausgeführt. Die Spalte "Modul" greift hierbei auf bereits im System hinterlegte Skripte zurück.
+Der Prozess wird vom Betriebssystem automatisch im Hintergrund und zu einem festgelegtem Zeitpunkt ausgeführt. Die Spalte "Modul" greift hierbei auf bereits im System hinterlegte Skripte zurück. 
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Prozesse_Rechte_und_Batchjobs/Batchjob.png)
 
