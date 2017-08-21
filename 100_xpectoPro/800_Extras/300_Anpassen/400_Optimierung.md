@@ -1,4 +1,5 @@
-Die Optimierungsfunktion hilft die Performance Ihrer xpectoPro Software zu verbessern.  Sie erreichend den Menüpunt über *System -> Optimierung* in der modernen Menüansicht der Software. In der klassichen Ansicht starten Sie die Optimierung über *Extras -> Anpassen -> Optimierung*.
+Die Optimierungsfunktion hilft die Performance Ihrer xpectoPro Software zu verbessern.  Sie erreichend den Menüpunt über *System -> Optimierung* in der modernen Menüansicht der Software. 
+In der klassichen Ansicht starten Sie die Optimierung über *Extras -> Anpassen -> Optimierung*.
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Optimierung/Optimierung_Menue.png)
 
