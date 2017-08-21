@@ -8,7 +8,7 @@ In der modernen Menü-Ansicht wird die Funktion Update über die Registerkarte *
 
 Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*. Ist die aktuell installierte Version nicht mehr aktuell, so wird die installierte und die zur Verfügung stehende Version angezeigt.
 
-![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png)     ->   ![] (http://xpecto.github.io/docs/xpecto/Extras/Update/Update_Version.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png)     ->   ![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_Version.png)
 
 Um die neue Version von xpectoPro herunter zu laden und zu installieren, betätigen sie bitte die Schaltfläche *Update auf Version x.xx.xxxx durchführen*. Nach Abschluss der Installation wird die Software automatisch neu gestartet damit Änderungen wirksam werden.
 
