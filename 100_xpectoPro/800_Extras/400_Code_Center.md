@@ -10,4 +10,4 @@ In der modernen Menü-Ansicht kann der *Code Center* in der Registerkarte *Syste
 
 Alle benötigten Prozeduren werden durch den xpecto Kundensupport individuell für Sie erstellt und während der gesamten Laufzeit auf Wunsch angepasst.
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/Achtung.png) Berechnungsprozeduren dürfen grundsätzlich nur vom xpecto Kundensupport verändert werden. Es wird empfohlen, diesen Menüpunkt für normale Benutzer über die Rechteverwaltung zu deaktivieren!
+![](https://xpecto.github.io/docs/xpecto/Grafiken/Achtung.png) Berechnungsprozeduren dürfen grundsätzlich nur vom xpecto Kundensupport verändert werden. Es wird empfohlen, diesen Menüpunkt für normale Benutzer über die Rechteverwaltung zu deaktivieren!
