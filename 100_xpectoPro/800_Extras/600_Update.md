@@ -6,7 +6,7 @@ In der modernen Menü-Ansicht wird die Funktion Update über die Registerkarte *
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_Menue.png)
 
-Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*. Ist die aktuell installierte Version nicht mehr aktuell, so wird die installierte und die zur Verfügung stehende Version angezeigt.
+Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*. Ist die aktuell installierte Version nicht mehr aktuell, so wird Ihnen die zur Verfügung stehende Version angezeigt.
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png)     ->   ![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_Version.png)
 
@@ -18,11 +18,11 @@ Generell werden Versionsnummern immer in der Datenbank von xpectoPro gespeichert
 
 Sie haben hier folgende Optionen zur Auswahl:
 
- - Ja -> *Das Update wird alle Arbeitsplätze freigegeben, die Versionsnummer sowie das Update werden in die xpctoPro Datenbank geschrieben. Alle Arbeitsplätze die infolge die Applikation starten, werden automatisch auf diese Version upgedated. Beim Zugriff auf die Datenbank von einem Arbeitsplatz im Netzwerk, an dem noch nicht die aktuellste Version installiert ist, erscheint die Meldung "veralteten Softwarestand".*
+ - Ja -> *Das Update wird für alle Arbeitsplätze freigegeben, die Versionsnummer sowie das Update werden in die xpctoPro Datenbank geschrieben. Alle Arbeitsplätze die infolge die Applikation starten, werden automatisch auf diese Version upgedated. Beim Zugriff auf die Datenbank von einem Arbeitsplatz im Netzwerk, an dem noch nicht die aktuellste Version installiert ist, erscheint die Meldung "veralteten Softwarestand".*
 
  - Nein -> *Das Update wurde nur zum Zweck eines oder mehrerer Funktionstest auf diesem Arbeitsplatz installiert. Alle Arbeitsplätze die infolge die Applikation starten, bleiben auf dem letzten Versionsstand*.
 
 
 
-![](http://xpecto.github.io/docs/img/img_1431936241832.png) Für die Durchführung des Updates sind Administratorrechte oder zumindest Schreibrechte im xpectoPro Installationsordner notwendig. Dies gilt auch für die oben beschriebene automatische Update-Installation an den weiteren Arbeitsplätzen. Verfügt der angemeldete Benutzer nicht über die notwendigen Rechte, so wird ein Eingabedialog angezeigt, in dem Benutzername und Passwort eines Benutzers eingegeben werden können, der über die geforderten Rechte verfügt. Wenden Sie sich in diesem Fall an Ihren Systemadministrator.
+![](http://xpecto.github.io/docs/xpecto/Grafiken/Achtung.png) Für die Durchführung des Updates sind Administratorrechte oder zumindest Schreibrechte im xpectoPro Installationsordner notwendig. Dies gilt auch für die oben beschriebene automatische Update-Installation an den weiteren Arbeitsplätzen. Verfügt der angemeldete Benutzer nicht über die notwendigen Rechte, so wird ein Eingabedialog angezeigt, in dem Benutzername und Passwort eines Benutzers eingegeben werden können, der über die geforderten Rechte verfügt. Wenden Sie sich in diesem Fall an Ihren Systemadministrator.
 
