@@ -14,7 +14,7 @@ Um die neue Version von xpectoPro herunter zu laden und zu installieren, betäti
 
 Generell werden Versionsnummern immer in der Datenbank von xpectoPro gespeichert, dies garantiert dass alle angeschlossenen xpectoPro Arbeitsplätze auf einem Release und damit identischen Funktionen arbeiten. Beim Start eines xpectoPro Clients, der über die Update Funktion bereits mit einer aktuelleren Version bestückt wurde, wird Ihnen folgende Meldung angezeigt:
 
-![](http://xpecto.github.io/docs/img/img_1442929290904.png)
+![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update.png)
 
 Sie haben hier folgende Optionen zur Auswahl:
 
