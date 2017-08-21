@@ -12,6 +12,8 @@ Die Optimierung erfolgt im wesentlichen über drei Funktionen die bereits vorgeg
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Optimierung/Indizes_abfragen.png)
 
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) An dieser Stelle können die notwendigen Indexierungen die erzeugt werden sollten ausgewählt werden. Sie starten den Vorgang über den Button *markierte Indizes erzeugen*.
+
 
 
 
