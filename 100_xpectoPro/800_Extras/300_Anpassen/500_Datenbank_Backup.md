@@ -15,6 +15,6 @@ Das gewählte Format spielt hier, je nach Verwendung, eine untergeordnete Rolle 
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Datenbank_Backup/Backup_Format.png)
 
-Es werden nun alle Tabellen der Datenbank angezeigt. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442928143560.png) erstellen Sie eine Backup-Datei der gesamten Datenbank in dem von Ihnen gewählten Format.  
+Es werden nun alle Tabellen der Datenbank angezeigt. Über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Datenbank_Backup/Button_Backup_starten.png) erstellen Sie eine Backup-Datei der gesamten Datenbank in dem von Ihnen gewählten Format.  
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442928753163.png) kann eine Backup-Datei rückgesichert werden, alle Datenbank-Tabellen werden durch die zuvor exportieren Tabellen der Backup-Datei überschrieben.
+Über die Schaltfläche ![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Datenbank_Backup/Button_Backup_rücksichern.png) kann eine Backup-Datei rückgesichert werden, alle Datenbank-Tabellen werden durch die zuvor exportieren Tabellen der Backup-Datei überschrieben.
