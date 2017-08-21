@@ -4,7 +4,7 @@ In der klassichen Menü-Ansicht kann der *Code Center* über *Menü → Extras* 
 
 In der modernen Menü-Ansicht kann der *Code Center* in der Registerkarte *System* Gruppe *Anpassungen* Funktion *Skripte* oder durch Drücken der F11-Taste.
 
-![](http://xpecto.github.io/docs/xpecto/Extras/Anpassen/Code_Center/Code_Center_Menue.png)
+![](https://xpecto.github.io/docs/xpecto/Extras/Anpassen/Code_Center/Code_Center_Menue.png)
 
 Alle benötigten Prozeduren werden durch den xpecto Kundensupport individuell für Sie erstellt und während der gesamten Laufzeit auf Wunsch angepasst.
 
