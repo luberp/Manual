@@ -29,5 +29,5 @@ Sie haben hier folgende Optionen zur Auswahl:
 
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/Achtung.png) <b>Für die Durchführung des Updates sind Administratorrechte oder zumindest Schreibrechte im xpectoPro Installationsordner notwendig. Dies gilt auch für die oben beschriebene automatische Update-Installation an den weiteren Arbeitsplätzen. Verfügt der angemeldete Benutzer nicht über die notwendigen Rechte, so wird ein Eingabedialog angezeigt, in dem Benutzername und Passwort eines Benutzers eingegeben werden können, der über die geforderten Rechte verfügt. Wenden Sie sich in diesem Fall an Ihren Systemadministrator.</b>
+![](http://xpecto.github.io/docs/xpecto/Grafiken/Achtung.png)  Für die Durchführung des Updates sind Administratorrechte oder zumindest Schreibrechte im xpectoPro Installationsordner notwendig. Dies gilt auch für die oben beschriebene automatische Update-Installation an den weiteren Arbeitsplätzen. Verfügt der angemeldete Benutzer nicht über die notwendigen Rechte, so wird ein Eingabedialog angezeigt, in dem Benutzername und Passwort eines Benutzers eingegeben werden können, der über die geforderten Rechte verfügt. Wenden Sie sich in diesem Fall an Ihren Systemadministrator.
 
