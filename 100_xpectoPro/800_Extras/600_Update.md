@@ -21,7 +21,7 @@ Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine 
 
 Um die neue Version von xpectoPro herunter zu laden und zu installieren, betätigen sie bitte die Schaltfläche *Update auf Version x.xx.xxxx durchführen*. Nach Abschluss der Installation wird die Software automatisch neu gestartet damit Änderungen wirksam werden.
 
-Generell werden Versionsnummern immer in der Datenbank von xpectoPro gespeichert, dies garantiert dass alle angeschlossenen xpectoPro Arbeitsplätze auf einem Release und damit identischen Funktionen arbeiten. Beim Start eines xpectoPro Clients, der über die Update Funktion bereits mit einer aktuelleren Version bestückt wurde, wird Ihnen folgende Meldung angezeigt:
+Generell werden Versionsnummern beim Update immer in der Datenbank von xpectoPro geschrieben und gegen alle Arbeitsplätze abgeglichen, dies garantiert dass alle angeschlossenen xpectoPro Arbeitsplätze auf einem Release und damit identischen Funktionen arbeiten. Beim Start eines xpectoPro Clients, der über die Update Funktion bereits mit einer aktuelleren Version bestückt wurde, wird Ihnen folgende Meldung angezeigt:
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update.png)
 
