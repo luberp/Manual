@@ -29,6 +29,16 @@ Im unteren Bereich können die von Ihnen gewünschten Anhänge der Nachricht ang
 
 ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Anhaenge.png)
 
+Folgende Funktionen stehen hierbei zur Verfügung:
+
+|  Aktion            |    Beschreibung  |   
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Freisuche.png)      | Freiesuche nach Dokumenten der lokalen Festplatte| 
+|  ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Anhang_loeschen.png)     | Anhang löschen| 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Einfuegen.png)      | Archiviertes Dokument einfügen | 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_ohne_Archivierung.png)    | Report / Bericht erzeugen und einfügen. Der Bericht wird jedoch nicht zum Kunden archiviert | 
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_Archivierung.png)|Report / Bericht erzeugen und einfügen. Der Bericht wird zum Kunden archiviert |
+
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196626713.png) können externe Dokumente z.B. von der lokale Festplatte eingefügt werden.
 
 Die Feldgruppe *Archivierte Dokumente einfügen* enthält eine Liste der Dokumente die unter dem Reiter Ereignisse bei dem Empfänger archivierte würden. Durch einen Doppelklick auf den gewünschten Dokument oder auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196541211.png) angezeigt. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196661664.png) wird dann das Dokument in der Liste der Anhänge eingefügt.
