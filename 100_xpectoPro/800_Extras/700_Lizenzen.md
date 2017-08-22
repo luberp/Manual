@@ -10,7 +10,7 @@ In der modernen Menü-Ansicht erreichen Sie diese Funktion über die Registerkar
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Lizenzen/Lizenzverwaltung_Menue.png)
 
-Über den Menüpunkt *Lizenz erneuern* kann nach Ablauf der bisher gültigen Lizenz eine neue Lizenz vom xpecto Server abgeholt werden.
+Über den Menüpunkt *Lizenz erneuern* kann nach Ablauf der bisher gültigen Lizenz eine neue Lizenz vom xpecto Server abgerufen werden.
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Lizenzen/Lizenz_abgelaufen.png)
 
