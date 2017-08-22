@@ -20,4 +20,4 @@ Im letzteren Fall erhalten Sie die Meldung:
 ![](http://xpecto.github.io/docs/xpecto/Extras/Lizenzen/Lizenz_abgelaufen.png)
 
 
-Eine genaue Beschreibung zum aktivieren von Lizenzen finden Sie auch unter: *https://help.xpecto.de/xpectoPro/Installation/Datenbank_und_Lizenz_aktivieren*
+Eine genaue Beschreibung zum aktivieren von Lizenzen finden Sie auch unter: <a style="color:#80BFFF">*https://help.xpecto.de/xpectoPro/Installation/Datenbank_und_Lizenz_aktivieren*
