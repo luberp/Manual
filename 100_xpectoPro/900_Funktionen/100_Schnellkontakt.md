@@ -45,7 +45,7 @@ Klicken Sie auf die Schaltfläche *Senden* um die E-Mail zu senden bzw. *Vorscha
 ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Senden.png)
 
 
-![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *xpectoPro selbst enthält keine Mail Funktion. Die Daten werden hier ausschließlich an den lokal installierten Email-Client wie Outlook o. Ä. übergeben.* 
+
 
 
 
