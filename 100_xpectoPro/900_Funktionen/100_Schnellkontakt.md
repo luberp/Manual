@@ -39,12 +39,14 @@ Folgende Funktionen stehen hierbei zur Verfügung:
 | ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_ohne_Archivierung.png)    | Report / Bericht erzeugen und einfügen. Der Bericht wird jedoch nicht zum Kunden archiviert | 
 |![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_Archivierung.png)|Report / Bericht erzeugen und einfügen. Der Bericht wird zum Kunden archiviert |
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196626713.png) können externe Dokumente z.B. von der lokale Festplatte eingefügt werden.
 
-Die Feldgruppe *Archivierte Dokumente einfügen* enthält eine Liste der Dokumente die unter dem Reiter Ereignisse bei dem Empfänger archivierte würden. Durch einen Doppelklick auf den gewünschten Dokument oder auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196541211.png) angezeigt. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196661664.png) wird dann das Dokument in der Liste der Anhänge eingefügt.
+Klicken Sie auf die Schaltfläche *Senden* um die E-Mail zu senden bzw. *Vorschau* um eine Vorschau der gesamten Mail zu erhalten. 
 
-Die Feldgruppe *Dokumente aus Vorlagen erstellen und einfügen* enthält eine Liste der Berichte die als Datenbasis Kunden- und Vertragsdaten haben.
-Durch einen Klick auf die Schaltfläche wird ein Bericht erzeugt siehe Handbuch *Bearbeiten → Berichten erzeugen*). Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462197853355.png) wird das Dokument zur Liste der Anhänge eingefügt ohne Archivierung. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462197897490.png) wird das Dokument zur Anhänge hinzugefügt und gleichzeitig archiviert.
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Senden.png)
 
-Klicken Sie auf die Schaltfläche *Senden* um die E-Mail zu senden.
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg) *xpectoPro selbst enthält keine Mail Funktion. Die Daten werden hier ausschließlich an den lokal installierten Email-Client übergeben.* 
+
+
+
 
