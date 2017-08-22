@@ -1,20 +1,33 @@
-Über den Dialog *Schnellkontakt* haben Sie die Möglichkeit eine E-Mail mit oder ohne Anhang, direkt aus der Software zu erstellen und zu senden.
+Der Dialog *Schnellkontakt* ermöglicht es Ihnen eine E-Mail mit oder ohne Anhang, bequem direkt aus der Software zu erstellen und zu senden. Hierbei stehen Ihnen bereits in der Hauptansicht alle wichtigen Informationen und archivierte Dokumente zum Kunden zur Verfügung.
 
-Diese Funktion kann in der klassischen Menü-Ansicht über Menü *Zusatzfunktionen → Schnellkontakt*.
+----------
 
-In der modernen Menü-Ansicht ist die Funktion über die Registerkarte *Datenbearbeitung* Gruppe *Zusatzfunktionen* erreichbar.
+Diese Funktion kann in der klassischen Menü-Ansicht über Menü *Zusatzfunktionen → Schnellkontakt*,
+in der modernen Menü-Ansicht über die Registerkarte *Aktionen -> Funktionen* erreichbar.
 
-![](http://xpecto.github.io/docs/img/img_1462195542812.png)
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Menue.png)
 
-Um der Dialog soll zuerst ein gültiger Empfänger ausgewählt werden. 
+In der Hauptansicht stehen Ihnen bereits alle wichtigen Daten zum selektieren Kunden zur Verfügung. Der Dialog enthält im einzelnen folgende Informationen:
 
-![](http://xpecto.github.io/docs/img/img_1462196879055.png)
+ - Kunde und Vermittler 
+ - Betreff und Mitteilungsfeld
+ - Anhänge
+ - Archivierte Dokumente
+ - Vorlagen
 
-Setzen Sie in die Checkbox *An* den Empfänger an. 
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Main.png)
 
-In der Mitte des Dialogs kann der Betreff und der Mitteilung-Text eingefügt werden.
+Wählen Sie zunächst den Empfänger der Nachricht aus.
 
-Im unteren Bereich des Dialogs können die Anhänge ausgewählt. 
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Empfaenger.png)
+
+In der Mitte des Dialogs kann analog einer "regulären" Email Betreff und Mitteilung-Text eingefügt werden.
+
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Betreff.png)
+
+Im unteren Bereich können die von Ihnen gewünschten Anhänge der Nachricht angefügt werden.
+
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Anhaenge.png)
 
 Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196626713.png) können externe Dokumente z.B. von der lokale Festplatte eingefügt werden.
 
