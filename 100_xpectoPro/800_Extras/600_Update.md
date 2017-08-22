@@ -27,7 +27,7 @@ Sie haben hier folgende Optionen zur Auswahl:
 
  - Nein -> *Das Update wurde nur zum Zweck eines oder mehrerer Funktionstest auf diesem Arbeitsplatz installiert. Alle Arbeitsplätze die infolge die Applikation starten, bleiben auf dem letzten Versionsstand*.
 
-
+<br>
 
 ![](http://xpecto.github.io/docs/xpecto/Grafiken/Achtung.png) Für die Durchführung des Updates sind Administratorrechte oder zumindest Schreibrechte im xpectoPro Installationsordner notwendig. Dies gilt auch für die oben beschriebene automatische Update-Installation an den weiteren Arbeitsplätzen. Verfügt der angemeldete Benutzer nicht über die notwendigen Rechte, so wird ein Eingabedialog angezeigt, in dem Benutzername und Passwort eines Benutzers eingegeben werden können, der über die geforderten Rechte verfügt. Wenden Sie sich in diesem Fall an Ihren Systemadministrator.
 
