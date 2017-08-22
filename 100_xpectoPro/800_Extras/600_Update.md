@@ -9,7 +9,7 @@ In der modernen Menü-Ansicht wird die Funktion Update über die Registerkarte *
 
 Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*.
 
-<p align="center">![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png) 
+<p align="center">![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png) <p>
 
  Ist die aktuell installierte Version nicht mehr aktuell, so wird Ihnen die zur Verfügung stehende Version angezeigt.
  
