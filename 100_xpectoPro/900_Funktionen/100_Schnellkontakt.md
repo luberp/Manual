@@ -33,7 +33,7 @@ Folgende Funktionen stehen hierbei zur Verfügung:
 
 |  Aktion            |    Beschreibung  |   
 | ------------- |:-------------| 
-| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Freisuche.png)      | Freiesuche nach Dokumenten auf der lokalen Festplatte| 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Freisuche.png)      | Freisuche nach Dokumenten auf der lokalen Festplatte| 
 |  ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Anhang_loeschen.png)     | Anhang löschen| 
 | ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Einfuegen.png)      | Archiviertes Dokument einfügen | 
 | ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_ohne_Archivierung.png)    | Report / Bericht erzeugen und einfügen. Der Bericht wird jedoch nicht zum Kunden archiviert | 
