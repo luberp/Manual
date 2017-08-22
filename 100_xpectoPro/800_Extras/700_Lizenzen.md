@@ -14,10 +14,8 @@ In der modernen Menü-Ansicht erreichen Sie diese Funktion über die Registerkar
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Lizenzen/Lizenz_abgelaufen.png)
 
+Eine abgelaufene Lizenz wird in der Titelzeile der Hauptmaske angezeigt. Die Software kann jedoch weiterhin gestartet und 30 Tage uneingeschränkt genutzt werden. Lediglich das Modul Provisionsberechnung ist inaktiv. Nach Ablauf von 30 Tagen kann die Applikation, ohne Installation einer neuen Lizenz, nicht mehr gestartet werden.
 
-
-Eine abgelaufene Lizenz wird in der Titelzeile der Hauptmaske angezeigt. Die Software kann weiterhin gestartet und 30 Tage uneingeschränkt genutzt werden. Lediglich das Modul Provisionsberechnung ist gesperrt. Nach Ablauf von 30 Tagen kann die Applikation, ohne Installation einer neuen Lizenz, nicht mehr gestartet werden.
-Im letzteren Fall erhalten Sie die Meldung:
 
 ![](http://xpecto.github.io/docs/xpecto/Extras/Lizenzen/Lizenz_Manager_Main..png)
 
