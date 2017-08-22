@@ -1,4 +1,4 @@
-Um die vorliegende Installation von xpectoPro stets auf dem neuesten Stand zu halten, kann über diese Funktion ein Online-Update der Software durchgeführt werden. 
+Um die vorliegende Installation von xpectoPro stets auf dem neuesten Stand zu halten, kann über diese Funktion ein Online-Update der Software durchgeführt werden. Da das Update nach Download über den xpecto Server für alle Arbeitsplätze zur Verfügung steht, ist es ausreichend wenn nur ein Arbeitsplatz auf Updates prüft. Alle nachfolgend gestarteten Arbeitsplätze werden darauf hingewiesen dass eine neue Programmversion zur Verfügung steht.
 
 Über der klassischen Menü-Ansicht kann die Funktion über Menü *Extras → Update* gestartet werden.
 
@@ -8,7 +8,7 @@ In der modernen Menü-Ansicht wird die Funktion Update über die Registerkarte *
 
 
 
-![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png)    Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*.
+![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_keine_Version.png)   Ist bereits die aktuellste Version installiert, so erscheint die Meldung *Keine neuere Version verfügbar*.
 
    ![](http://xpecto.github.io/docs/xpecto/Extras/Update/Update_Version.png)   Ist die aktuell installierte Version nicht mehr aktuell, so wird Ihnen die zur Verfügung stehende Version angezeigt.
 
