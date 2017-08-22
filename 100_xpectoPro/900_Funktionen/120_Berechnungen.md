@@ -8,6 +8,8 @@
 </head>
 <body><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
+
+
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
 <p>Berechnungen sind dabei in verschiedenen Berechnungsprofilen organisiert. Diese Profile werden im Dialog in der linke Liste anzeigt und können beliebig strukturiert werden. Sie können Profile je Produkt anlegen oder je Aufgabe ganz nach ihren Vorstellungen. Die Organisation der Berechnungen in Profilen ermöglicht eine einfachere Übersicht für den Anwender.</p>
@@ -16,7 +18,7 @@
 
 <p>Nach der Erstellung eines Profils zeigt der Dialog direkt den Reiter “Berechnungen” an. Dort können Berechnungen angelegt, durchgeführt, ausgewertet, verarbeitet und gelöscht werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469546950163.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Main.png" alt="" title=""></p>
 
 <h2 id="berechnungen-anlegen">Berechnungen anlegen</h2>
 
