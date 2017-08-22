@@ -1,5 +1,9 @@
 Das Lizenzierungssystem von xpectoPro benutzt Lizenzen mit festgelegter Gültigkeitsdauer, diese werden in der Datenbank gespeichert. Neuen Lizenzen für ein bestehendes Software-Mietverhältnis werden regelmäßig automatisch auf dem xpecto Lizenzserver bereitgestellt. 
 
+
+----------
+
+
 In der klassischen Menü-Ansicht kann die Funktion Lizenzen über Menü *Extras  → Lizenzen* gestartet werden.
 
 In der modernen Menü-Ansicht erreichen Sie diese Funktion über die Registerkarte *System* Gruppe *Software* Funktion *Lizenzen*.
