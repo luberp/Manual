@@ -8,7 +8,7 @@
 </head>
 <body><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
-Sie erreichen diese Funktion über den Reiter *Buchhaltung -> Werte -> Berechnung* in der modernen Menueansicht.
+Sie erreichen diese Funktion über den Reiter <i>Buchhaltung -> Werte -> Berechnung</i> in der modernen Menueansicht.
 
 <p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Menue.png" alt="" title=""></p>
 
