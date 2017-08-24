@@ -85,8 +85,4 @@
   
   In der Schnellauswahl für Reports wird nun, falls nichts selektiert ist, "Bitte wählen" angezeigt.
 
-* Feature [#43203] Neue Funktionen fürs Web / Web-Oberflächen:
-  
-  SafeQuery.executeScalar()
-  SafeQuery.executeScalar(defaultValue)
-  SafeQuery.executeSingleRow()
+
