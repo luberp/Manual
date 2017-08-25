@@ -1,4 +1,4 @@
-xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* Ihre bestehenden Tickets verwalten. 
+xpectoPro verfügt über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* bestehende Tickets verwalten. 
 
 ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Menue.png)
  
@@ -29,7 +29,7 @@ In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich
 
  ![](http://xpecto.github.io/docs/img/img_TS_008.png)
 
-Über *„neues Ticket anlegen“* kann wie vorher beschrieben, ein neues Ticket angelegt werden.
+Über *„neues Ticket anlegen“* kann wie bereits beschrieben, ein neues Ticket angelegt werden.
 Über *„bestehendes Tickets“* können Tickets, die bereits bei xpecto erfasst wurden, anhand ihrer Ticketnummer in die Ansicht mit aufgenommen werden.
 Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt.
 Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
@@ -42,7 +42,9 @@ Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
 |Prüfen|*Ticket ist fertig bearbeitet. Die Funktion kann nun vom Ersteller des Tickets geprüft werden.*|
 |Erledigt |*Ticket ist abgeschlossen.*|
 |Abgewiesen|*Ticket wurde gelöscht.*|
+
 ###Tickets bearbeiten
+
 Durch einen Klick auf den Button ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Button_bearbeiten.png) in der Zeile Ihres Tickets, öffnet sich der Dialog zum Bearbeiten des gewählten Tickets. Der Aufbau ist hier prinzipiell analog zur Ansicht beim Erstellen eines Tickets, jedoch sind hier etwas mehr Funktionen möglich.
 
 ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_bearbeiten.png)
