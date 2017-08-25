@@ -1,33 +1,23 @@
 xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* Ihre bestehenden Tickets verwalten. 
 
-<img src="http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Menue.png" alt="" title="">
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Menue.png)
  
 ###Ticket Anlegen
 
-Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*). Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen zugeteilt wird. 
+Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. 
 
-* Als Standard wählen Sie bitte *Support*. 
-* *Bug* (Fehler), sowie *Feature* (Neuentwicklung) Tickets gehen direkt an das Entwicklungsteam. Diese Typen sollten nur nach Absprache angewählt werden.
-
- 
-
- ![](http://xpecto.github.io/docs/img/img_TS_003.png)
-
-Sobald Sie sich für einen Typ entschieden haben, öffnet sich die Ticketoberfläche.
-
- ![](http://xpecto.github.io/docs/img/img_TS_004.png)
+ ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_neu.png)
 
 Unter *Betreff* geben Sie bitte eine kurze, *aussagekräftige* Zusammenfassung ihres Anliegens ein.
+Bei Beschreibung können Sie ihr Anliegen ausführlicher darstellen. In der Beschreibung sollte stehen, wann genau (bei welchem *Arbeitsablauf*) es auftritt und auch in welchem Zusammenhang  (*Kunde, Vertrag, Produkt, Bericht, …*). Bitte beschreiben Sie das Problem so exakt wie es Ihnen möglich ist um eine schnelle Abhilfe zu gewährleisten.
 
-Bei Beschreibung können Sie ihr Anliegen ausführlicher darstellen. In der Beschreibung sollte stehen, wann genau (bei welchem *Arbeitsablauf*) es auftritt und auch in welchem Zusammenhang  (*Kunde, Vertrag, Produkt, Bericht, …*).
+Abschließend können Sie ihr Ticket priorisieren. 
 
-Abschließend können Sie ihr Ticket priorisieren.  
+ ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_Prioritaet.png)
 
- ![](http://xpecto.github.io/docs/img/img_TS_005.png)
+Durch einen Klick auf den Button „…“ öffnet sich ein Popup, mit Erklärungen zu den einzelnen Prioritäten, wo Sie Ihre gewünschte Priorität auswählen können. Beachten Sie hierzu bitte die nachstehenden Erläuterungen der Prioritäten.
 
-Durch einen Klick auf den Button „…“ öffnet sich ein Popup, mit Erklärungen zu den einzelnen Prioritäten, wo Sie Ihre gewünschte Priorität auswählen können.
-
- ![](http://xpecto.github.io/docs/img/img_TS_006.png)
+ ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Prioritaet1.png)
 
 Jetzt können Sie das neue Ticket erstellen. Das neue Ticket wird direkt an uns übermittelt und in Ihrer Übersicht als neuer Eintrag angezeigt. 
 
