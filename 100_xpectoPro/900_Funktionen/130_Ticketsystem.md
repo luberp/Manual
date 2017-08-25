@@ -25,14 +25,18 @@ Mit *OK* wir das neue Ticket erstellt und direkt an das Ticketsystem von xpecto 
 
 
 ###Ticket Übersicht
-In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie den aktuellen Status der Bearbeitung.
+In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie dem aktuellen Status der Bearbeitung. 
 
- ![](http://xpecto.github.io/docs/img/img_TS_008.png)
+Weiter Funktionen die in der Übersicht der Tickets verfügbar sind:
 
-Über *„neues Ticket anlegen“* kann wie bereits beschrieben, ein neues Ticket angelegt werden.
-Über *„bestehendes Tickets“* können Tickets, die bereits bei xpecto erfasst wurden, anhand ihrer Ticketnummer in die Ansicht mit aufgenommen werden.
-Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt.
-Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
+|  Funktion           |    Beschreibung     |  
+| ------------- |:-------------| 
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_anlegen.png)|*Ein neues Ticket anlegen.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Bestehendes_Ticket.png)| *Ticket das bereits bei xpecto erfasst wurde, anhand der Nummer in die Ansicht aufnehmen.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_loeschen.png)|*Ticket löschen.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Änderungen_abholen.png)|*Ansicht aktualisieren.*|
+
+
 ###Ticket - Stati
 
 |  Status           |    Beschreibung     |  
