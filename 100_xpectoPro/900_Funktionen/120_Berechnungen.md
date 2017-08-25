@@ -13,7 +13,6 @@ Sie erreichen diese Funktion über den Reiter <i>Buchhaltung -> Werte -> Berechn
 <p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Menue.png" alt="" title=""></p>
 
 
-
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
 <p>Berechnungen sind dabei in verschiedenen Berechnungsprofilen organisiert. Diese Profile werden im Dialog in der linke Liste anzeigt und können beliebig strukturiert werden. Sie können Profile je Produkt anlegen oder je Aufgabe ganz nach ihren Vorstellungen. Die Organisation der Berechnungen in Profilen ermöglicht eine einfachere Übersicht für den Anwender.</p>
@@ -72,6 +71,3 @@ Sie erreichen diese Funktion über den Reiter <i>Buchhaltung -> Werte -> Berechn
 <li>Buchungsdatum: Datum zu dem die Werte und Buchungen gebucht werden</li>
 <li>Anlass: Der Anlaß der Berechnung. Der Wert kann für die Organisation der Berechnungen benutzt werden. (z.B. Erklärung, Prüfung …)</li></ul></li>
 </ul>
-
-<p></p><p></p><h3 id="datenbasis">Datenbasis</h3> <br></div></body>
-</html>
