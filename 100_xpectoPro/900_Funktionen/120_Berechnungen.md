@@ -49,7 +49,7 @@ Sie erreichen diese Funktion über den Reiter <i>Buchhaltung -> Werte -> Berechn
 
 <p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Parameter.png" alt="" title=""></p>
 
-<p>Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich am Ablauf der Berechnung orientieren.</p>
+<p>Die Parameter einer Berechnung gliedern sich in verschiedene Abteilungen die sich am Ablauf der Berechnung orientieren.</p>
 
 <h3 id="allgemein">Allgemein</h3>
 
