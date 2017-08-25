@@ -47,7 +47,7 @@ Sie erreichen diese Funktion über den Reiter <i>Buchhaltung -> Werte -> Berechn
 
 <p>Die einzelnen Parameter einer Berechnungen bestimmen alle Eigenschaften des Ablaufs. Große Sorgfalt sollte daher bei Änderungen herrschen. Sie können sich jederzeit an unsere Kundenbetreuung bei Fragen oder Unsicherheiten wenden.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469547844984.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Parameter.png" alt="" title=""></p>
 
 <p>Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich am Ablauf der Berechnung orientieren.</p>
 
