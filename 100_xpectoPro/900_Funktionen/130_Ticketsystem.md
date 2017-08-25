@@ -1,7 +1,7 @@
-xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* Ihre bestehenden Tickets verwalten. 
+<p>xpectoPro verfügt nun über ein integriertes Ticketsystem. Dieses finden Sie in der Software unter *Hilfe -> Tickets*. Hier haben Sie zwei Möglichkeiten, Sie können entweder direkt über *„Anlegen“* ein neues Ticket einpflegen oder über *„Übersicht“* Ihre bestehenden Tickets verwalten. </p>
 
- ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Menue.png)
-
+<p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Menue.png" alt="" title=""></p>
+ 
 <h2>Ticket Anlegen</h2>
 
 Wenn Sie direkt ein neues Ticket anlegen möchten, drücken Sie die Schaltfläche *„Anlegen“.* Dies öffnet zusätzlich zum xpecto Ticket-System, den Dialog zum Anlegen eines neuen Tickets. Zunächst haben Sie die Möglichkeit ihr Ticket zu klassifizieren (*Ticket-Typ*). Diese Klassifikation definiert welchem Mitarbeiterkreis ihr Anliegen zugeteilt wird. 
