@@ -15,17 +15,17 @@ Abschließend können Sie ihr Ticket priorisieren.
 
  ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_Prioritaet.png)
 
-Durch einen Klick auf den Button „…“ öffnet sich ein Popup, mit Erklärungen zu den einzelnen Prioritäten, wo Sie Ihre gewünschte Priorität auswählen können. Beachten Sie hierzu bitte die nachstehenden Erläuterungen der Prioritäten.
+Durch einen Klick auf den Button ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Button.png) öffnet sich ein Popup, mit Erklärungen zu den einzelnen Prioritäten, wo Sie Ihre gewünschte Priorität auswählen können. Beachten Sie hierzu bitte auch die nachstehenden Erläuterungen.
 
  ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticketsystem_Prioritaet1.png)
 
-Jetzt können Sie das neue Ticket erstellen. Das neue Ticket wird direkt an uns übermittelt und in Ihrer Übersicht als neuer Eintrag angezeigt. 
+Mit *OK* wir das neue Ticket erstellt und direkt an das Ticketsystem von xpecto übermittelt .  Zeitgleich hierzu wird das Ticket in Ihrem System in der Übersicht angezeigt. 
 
- ![](http://xpecto.github.io/docs/img/img_TS_007.png)
+ ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_Uebersicht.png)
 
-Sollten Sie zur Verdeutlichung des Sachverhalts noch Screenshots oder andere Dateien an das Ticket hängen wollen, so bitten wir Sie uns eine E-Mail an ticket@xpecto.de mit den betreffenden Dateien zuzusenden. Wichtig hierbei ist, dass der Betreff die Ticketnummer mit einem führenden Nummernzeichen "#"  enthält (z.B. #38145).
-###Übersicht
-In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie den Status der Bearbeitung der Tickets.
+
+###Ticket Übersicht
+In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich gekennzeichnet), sowie den aktuellen Status der Bearbeitung.
 
  ![](http://xpecto.github.io/docs/img/img_TS_008.png)
 
@@ -34,25 +34,27 @@ In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich
 Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt.
 Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
 ###Ticket - Stati
-* *Neu*: Ticket ist noch nicht bearbeitet.
-* *Angenommen*: Ticket ist in Bearbeitung.
-* *Prüfen*: Ticket ist fertig bearbeitet (und kann nun überprüft werden).
-* *Erledigt*: Ticket ist abgeschlossen (wird durch den Kunden durchgeführt).
-* *Abgewiesen*: Ticket wurde gelöscht.
 
-###Nachträgliches Bearbeiten von Tickets
-Durch einen Klick auf den Stift öffnet sich erneut die Maske aus der Erfassung.
+|  Status           |    Beschreibung     |  
+| ------------- |:-------------| 
+|Neu|*Ticket ist noch nicht in Bearbeitung.*|
+|Angenommen| *Ticket ist in Bearbeitung.*|
+|Prüfen|*Ticket ist fertig bearbeitet. Die Funktion kann nun vom Ersteller des Tickets geprüft werden.*|
+|Erledigt |*Ticket ist abgeschlossen.*|
+|Abgewiesen|*Ticket wurde gelöscht.*|
+###Tickets bearbeiten
+Durch einen Klick auf den Button ![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Button_bearbeiten.png) in der Zeile Ihres Tickets, öffnet sich der Dialog zum Bearbeiten des gewählten Tickets. Der Aufbau ist hier prinzipiell analog zur Ansicht beim Erstellen eines Tickets, jedoch sind hier etwas mehr Funktionen möglich.
 
- ![](http://xpecto.github.io/docs/img/img_TS_009.png)
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_bearbeiten.png)
 
-Hier kann das Ticket nun bearbeitet werden.
+Möglich Änderungen / Funktionen
 
-![](http://xpecto.github.io/docs/img/img_TS_010.png)
+|  Funktion           |    Beschreibung     |  
+| ------------- |:-------------| 
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Betreff_anpassen.png)|*Betreff und Beschreibung sind wieder zur Bearbeitung freigegeben und können angepasst werden.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_assembla.png)| *Ticket direkt im xpecto Ticketsystem öffnen.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Datei_hinzufuegen.png)|*Dateien(en) dem Ticket anhängen.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_schließen.png)|*Ticket wird durch den Anwender geschlossen.*|
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Ticketsystem/Ticket_oeffenen.png)|*Geschlossenes Ticket erneut öffnen.*|
 
-Über einen Klick auf den Button *„Betreff/Beschreibung anpassen“* wird der Betreff und die Beschreibung wieder zur Bearbeitung freigegeben und können angepasst werden.
-
-Auch ist die Priorität änderbar.
-
-Durch einen Klick auf *„Ticket schließen“* wird das Ticket geschlossen und der Status auf erledigt gesetzt. 
-
-Bei *„Ticket erneut öffnen“* kann ein gelöschtes, geschlossenes oder zu prüfendes Ticket wieder geöffnet werden. Der Status wird hier wieder automatisch auf *neu* gesetzt. Das Ticket erscheint automatisch wieder beim xpecto-Mitarbeiter in der Inbox des Ticketsystems.
+Mit *OK* werden die Änderungen gespeichert und direkt an das Ticketsystem von xpecto übermittelt . 
