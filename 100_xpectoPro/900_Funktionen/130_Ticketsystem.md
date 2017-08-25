@@ -33,7 +33,7 @@ In der Übersicht sehen Sie alle Ihre Tickets geordnet nach Priorität (farblich
 Über *„bestehendes Tickets“* können Tickets, die bereits bei xpecto erfasst wurden, anhand ihrer Ticketnummer in die Ansicht mit aufgenommen werden.
 Bei *„Ticket löschen“* wird das selektierte Ticket geschlossen und der Status auf „abgewiesen“ gesetzt.
 Durch einen Klick auf „Änderungen abholen“ wird die Ansicht aktualisiert.
-###Status
+###Ticket - Stati
 * *Neu*: Ticket ist noch nicht bearbeitet.
 * *Angenommen*: Ticket ist in Bearbeitung.
 * *Prüfen*: Ticket ist fertig bearbeitet (und kann nun überprüft werden).
