@@ -1,30 +1,28 @@
-aifExpert unterstützt verschiedene Aufgabenbereiche einer Kapitalverwaltungsgesellschaft. Während
-die Anlegerverwaltung, die Anlegerbuchhaltung und die Vertriebssteuerung von unserer bewährten
-Lösung xpectoPro erledigt wird, stellt aifExpert zusätzliche Funktionen für die gesamte Unternehmung
-zur Verfügung.
+aifExpert ist das erste elektronische Softwareprodukt, das Informationen und strukturierte Abläufe aus allen Unternehmensbereichen für die Umsetzung der rechtlichen Vorgaben schafft. Das elektronische Multitalent enthält Auswertungen und Berichte für die interne & externe Berichtserstattung und Weitergabe an behördliche Aufsichtsgremien.
 
-aifExpert knüpft nahtlos an das System von xpectoPro an und kann an weitere Systeme angebunden
-werden.
+Die Software aifExpert ist modular aufgebaut. Alle Module des aifExpert sind ineinander verwoben und benutzen die vorhandene Datenbasis wechselseitig. So können sich zum Beispiel Risiken direkt auf Posten des Liquiditätsmanagements beziehen. Oder Werte für die entsprechenden Meldungen direkt aus dem Liquiditätsmanagement verwendet werden.
+
+aifExpert knüpft nahtlos an das System von xpectoPro an und kann an weitere Systeme angebunden werden.
 
 ----------
 
 ####Risikomanagement
-Erfassung und Simulation des Risikos der Unternehmung
+Erfassung & Controlling der Risiken
 
 Im Bereich des Risikomanagements ermöglicht aifExpert ein umfassendes Risikocontrolling.
 
 ----------
 
 ####Liquiditätsmanagement
-Planung der Liquidität für Produkte und Gesellschaften
+Erfassung & Controlling der Liquidität
 
-Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs & Gesellschaften usw..
+Im Liquiditätsmanagement erlaubt aifExpert die Erstellung und Verwaltung von Geschäftsplänen der verwalteten AIFs.
 
 ----------
 
 ####Portfoliomanagement
 
-Verwaltung der Assets und erzielten Renditen
+Erfassung & Controlling der Assets
 
 Im Portfoliomanagement unterstützt der aifExpert die Verwaltung der erworbenen Vermögensgegenstände der AIFs.
 
@@ -32,7 +30,7 @@ Im Portfoliomanagement unterstützt der aifExpert die Verwaltung der erworbenen 
 
 ####Meldewesen
 
-Meldungen für Bundesbank, BaFin und BZSt
+Meldungen an BuBa, BaFin & BZSt 
 
 Im Bereich des Meldewesens ermöglicht aifExpert automatisierte Meldungen an die Bundesbank. die BaFin/Esma und das Bundeszentralamt für Steuern.
 
@@ -40,12 +38,12 @@ Im Bereich des Meldewesens ermöglicht aifExpert automatisierte Meldungen an die
 
 ####Berichtswesen
 
-Berichte und Auswertungen
+Berichte & KPIs & Auswertungen
 
-Im Berichtswesen des aifExpert können umfassende Berichte und Auswertungen aus den wichtigsten Bereichen adhoc oder automatisiert erzeugt werden.
+Im Berichtswesen des aifExpert können umfassende Berichte und Auswertungen aus den wichtigsten Bereichen adhoc oder automatisiert erzeugt werden. 
 
 
 ----------
 
 
-![aifExpert Funktionsumfang](http://xpecto.github.io/docs/aifExpert/aifExpert1.png)
+>![aifExpert Funktionsumfang](http://xpecto.github.io/docs/aifExpert/aifExpert1.png)

@@ -1,4 +1,4 @@
-#### Anlage
+### Anlage
 
 Die Anlage eines neuen Plans erfolgt durch die Betätigung der Schaltfläche "Neu" im Menü. Dabei öffnet sich ein Dialog zur Neuanlage des Plans. Dabei muss ein Name sowie ein Produkt für den neuen Plan ausgewählt werden. Im unteren Bereich besteht zusätzlich die Möglichkeit auszuwählen, ob dies nun ein neuer "leerer Plan" sein soll oder der Plan eine "Kopie des bestehenden Plans" darstellt. 
 

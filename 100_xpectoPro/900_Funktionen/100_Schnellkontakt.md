@@ -1,27 +1,52 @@
-Über den Dialog *Schnellkontakt* haben Sie die Möglichkeit eine E-Mail mit oder ohne Anhang, direkt aus der Software zu erstellen und zu senden.
+Der Dialog *Schnellkontakt* ermöglicht es Ihnen eine E-Mail mit oder ohne Anhang, bequem direkt aus der Software zu erstellen und zu senden. Hierbei stehen Ihnen bereits in der Hauptansicht alle wichtigen Informationen und archivierte Dokumente zum Kunden zur Verfügung.
 
-Diese Funktion kann in der klassischen Menü-Ansicht über Menü *Zusatzfunktionen → Schnellkontakt*.
+----------
 
-In der modernen Menü-Ansicht ist die Funktion über die Registerkarte *Datenbearbeitung* Gruppe *Zusatzfunktionen* erreichbar.
+Diese Funktion kann in der klassischen Menü-Ansicht über Menü *Zusatzfunktionen → Schnellkontakt*,
+in der modernen Menü-Ansicht über die Registerkarte *Aktionen -> Funktionen* erreichbar.
 
-![](http://xpecto.github.io/docs/img/img_1462195542812.png)
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Menue.png)
 
-Um der Dialog soll zuerst ein gültiger Empfänger ausgewählt werden. 
+In der Hauptansicht stehen Ihnen bereits alle wichtigen Daten zum selektieren Kunden zur Verfügung. Der Dialog enthält im einzelnen folgende Informationen:
 
-![](http://xpecto.github.io/docs/img/img_1462196879055.png)
+ - Kunde und Vermittler 
+ - Betreff und Mitteilungsfeld
+ - Anhänge
+ - Archivierte Dokumente
+ - Vorlagen
 
-Setzen Sie in die Checkbox *An* den Empfänger an. 
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Main.png)
 
-In der Mitte des Dialogs kann der Betreff und der Mitteilung-Text eingefügt werden.
+Wählen Sie zunächst den Empfänger der Nachricht aus.
 
-Im unteren Bereich des Dialogs können die Anhänge ausgewählt. 
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Empfaenger.png)
 
-Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196626713.png) können externe Dokumente z.B. von der lokale Festplatte eingefügt werden.
+In der Mitte des Dialogs kann analog einer "regulären" Email Betreff und Mitteilung-Text eingefügt werden.
 
-Die Feldgruppe *Archivierte Dokumente einfügen* enthält eine Liste der Dokumente die unter dem Reiter Ereignisse bei dem Empfänger archivierte würden. Durch einen Doppelklick auf den gewünschten Dokument oder auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196541211.png) angezeigt. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462196661664.png) wird dann das Dokument in der Liste der Anhänge eingefügt.
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Betreff.png)
 
-Die Feldgruppe *Dokumente aus Vorlagen erstellen und einfügen* enthält eine Liste der Berichte die als Datenbasis Kunden- und Vertragsdaten haben.
-Durch einen Klick auf die Schaltfläche wird ein Bericht erzeugt siehe Handbuch *Bearbeiten → Berichten erzeugen*). Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462197853355.png) wird das Dokument zur Liste der Anhänge eingefügt ohne Archivierung. Über die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1462197897490.png) wird das Dokument zur Anhänge hinzugefügt und gleichzeitig archiviert.
+Im unteren Bereich können die von Ihnen gewünschten Anhänge der Nachricht angefügt werden.
 
-Klicken Sie auf die Schaltfläche *Senden* um die E-Mail zu senden.
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Anhaenge.png)
+
+Folgende Funktionen stehen hierbei zur Verfügung:
+
+|  Aktion            |    Beschreibung  |   
+| ------------- |:-------------| 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Freisuche.png)      | Freisuche nach Dokumenten auf der lokalen Festplatte| 
+|  ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Anhang_loeschen.png)     | Anhang löschen| 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Einfuegen.png)      | Archiviertes Dokument einfügen | 
+| ![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_ohne_Archivierung.png)    | Report / Bericht erzeugen und einfügen. Der Bericht wird jedoch nicht zum Kunden archiviert | 
+|![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Druck_Archivierung.png)|Report / Bericht erzeugen und einfügen. Der Bericht wird zum Kunden archiviert |
+
+
+Klicken Sie auf die Schaltfläche *Senden* um die E-Mail zu senden bzw. *Vorschau* um eine Vorschau der gesamten Mail zu erhalten. 
+
+![](http://xpecto.github.io/docs/xpecto/Funktionen/Schnellkontakt/Schnellkontakt_Senden.png)
+
+
+
+
+
+
 

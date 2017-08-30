@@ -8,6 +8,11 @@
 </head>
 <body><div class="container"><p>Die Funktion Berechnungen kann verschiedenste Werte, Buchungen, Anteilsbuchungen und Belege für Verträge und Beteiligungen erzeugen.</p>
 
+Sie erreichen diese Funktion über den Reiter <i>Buchhaltung -> Werte -> Berechnung</i> in der modernen Menueansicht.
+
+<p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Menue.png" alt="" title=""></p>
+
+
 <p>Die Möglichkeiten des Moduls sind dabei sehr vielfältig. Es reicht von einfachen Gewinnverteilungen auf Basis einer festen Zeichnungssumme bis zu komplexen Berechnungen von Dividenden mit direkter Berechnung der nötigen Steuern.</p>
 
 <p>Berechnungen sind dabei in verschiedenen Berechnungsprofilen organisiert. Diese Profile werden im Dialog in der linke Liste anzeigt und können beliebig strukturiert werden. Sie können Profile je Produkt anlegen oder je Aufgabe ganz nach ihren Vorstellungen. Die Organisation der Berechnungen in Profilen ermöglicht eine einfachere Übersicht für den Anwender.</p>
@@ -16,7 +21,7 @@
 
 <p>Nach der Erstellung eines Profils zeigt der Dialog direkt den Reiter “Berechnungen” an. Dort können Berechnungen angelegt, durchgeführt, ausgewertet, verarbeitet und gelöscht werden. </p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469546950163.png" alt="" title=""></p>
+<p><img src="http://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Main.png" alt="" title=""></p>
 
 <h2 id="berechnungen-anlegen">Berechnungen anlegen</h2>
 
@@ -42,9 +47,9 @@
 
 <p>Die einzelnen Parameter einer Berechnungen bestimmen alle Eigenschaften des Ablaufs. Große Sorgfalt sollte daher bei Änderungen herrschen. Sie können sich jederzeit an unsere Kundenbetreuung bei Fragen oder Unsicherheiten wenden.</p>
 
-<p><img src="http://xpecto.github.io/docs/img/img_1469547844984.png" alt="" title=""></p>
+<img src="https://xpecto.github.io/docs/xpecto/Funktionen/Berechnungen/Berechnung_Parameter.png" alt="" title="">
 
-<p>Die Parameter einer Berechnung gliedern sich in verschieden Abteilungen und sich am Ablauf der Berechnung orientieren.</p>
+<p>Die Parameter einer Berechnung gliedern sich in verschiedene Abteilungen die sich am Ablauf der Berechnung orientieren.</p>
 
 <h3 id="allgemein">Allgemein</h3>
 
@@ -66,6 +71,3 @@
 <li>Buchungsdatum: Datum zu dem die Werte und Buchungen gebucht werden</li>
 <li>Anlass: Der Anlaß der Berechnung. Der Wert kann für die Organisation der Berechnungen benutzt werden. (z.B. Erklärung, Prüfung …)</li></ul></li>
 </ul>
-
-<p></p><p></p><h3 id="datenbasis">Datenbasis</h3> <br></div></body>
-</html>

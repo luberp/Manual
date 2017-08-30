@@ -1,6 +1,10 @@
 Zur Risikoüberwachung stellt der aifExpert vielfältige Methoden zur Verfügung.
 
-Neben einer allgemeinen Risikoübersicht mithilfe der funktionalen Risikoliste und einer Risikomatrix (Unterreiter "Matrix") stellt das Reporting-Modul ein umfangreiches Berichtswesen zur Verfügung.
+Neben einer allgemeinen Risikoübersicht mithilfe der funktionalen Risikoliste, einem Dashboard je Risikoobjekt, einem Frühwarnsystem mit Warnschwellen stellt das Reporting-Modul ein umfangreiches Berichtswesen zur Risikoüberwachung zur Verfügung.
+
+Das Dashboard ermöglicht auf einen Blick die wichtigsten Kennzahlen, fällige Bewertungen, Schadensfälle und die entsprechenden Risiken anhand einer Riskmap zu betrachten. Dieses Dashboard kann je nach Erfordernis flexibel angepasst oder um weitere Kennzahlen erweitert werden.
+
+Das Frühwarnsystem in Form von Hintergrunddiensten kann in Zusammenarbeit mit dem xpecto Support unterschiedliche Warnschwellen, Termine oder Kennzahlen berücksichtigen und entsprechende Funktionen auslösen. Zum Beispiel: Sobald der gewichtete Risikowert eine gewisse Schwelle erreicht soll eine Benachrichtigungsmail an den Verantwortlichen verschickt werden.
 
 Um den u.g. Anforderungen zu begegnen, bietet aifExpert mithilfe von Berichtsgeneratoren ein flexibles und auf die Anforderungen  zugeschnittenes Reporting. Die Berichtsgeneratoren des aifExpert können dabei adhoc oder automatisiert Berichte erstellen und versenden.
 
@@ -19,9 +23,9 @@ Im Risikomanagement findet sich im MaRisk die Notwendigkeit nach einem Berichtsw
 
 Neben diesen rechtlichen Anforderungen besitzt jede KVG praktische und spezifische Anforderungen an das Reporting, welches die KVG mit aktuellen Informationen zur richtigen Zeit mit der gewünschten Qualität  versorgt.
 
-![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko18.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko20.png)
 
-![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko19.png)
+![](http://xpecto.github.io/docs/aifExpert/aifExpert_Risiko23.png)
 
 
 ----------

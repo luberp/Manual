@@ -14,13 +14,22 @@ Im Dialog *Buchungen zuweisen* wird die Liste der Produkte mit offenen sowie gep
 
 Die Schaltfläche Rundruf starten ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_starten.png) dient dazu die Kontobewegungen für das markierte Produkt bei der Bank abzufragen. 
 
-Ein Rundruf für alle Produkte kann über die Registerkarte *Buchhaltung* Gruppe *Kontodaten* Funktion *Rundruf* gestartet werden.
+
+----------
+
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Ein Rundruf für alle Produkte kann über die Registerkarte *Buchhaltung* Gruppe *Kontodaten* Funktion *Rundruf* gestartet werden.
+
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Rundruf_Menue.png)
 
 
+----------
+
+
 Durch einen Klick auf  *OK* werden Sie zum Dialog *importierte Buchungen zuweisen* weitergeleitet. 
-Der Dialog *importierte Buchungen zuweisen* enthält die Reiter *Buchungen anzeigen* und *geparkte Buchungen anzeigen* ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Geparkte_Buchungen.png).
+Der Dialog *importierte Buchungen zuweisen* enthält die Reiter *Buchungen anzeigen* und *geparkte Buchungen anzeigen* 
+![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Geparkte_Buchungen.png).
 
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Buchungen_zuweise_Main.png)
 
@@ -39,7 +48,11 @@ Mit einem Doppelklick auf einzelne Wörter wird das Wort als Suchkriterium verwe
 
 Mit einem Klick auf die Schaltfläche ![](http://xpecto.github.io/docs/img/img_1442307719407.png) werden aus allen Bankbewegungen, die beim Import bereits einem Vertrag zugewiesen wurden, automatisch Buchungssätze erzeugt und gespeichert. Dazu muss zu dem jeweiligen Produkt hinterlegt sein, welche Kontierung hier verwendet werden soll. 
 
-Das zu verwendende Konto wird in der Produktmaske in der klassischen Ansicht unter (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
+
+----------
+
+
+![](http://xpecto.github.io/docs/xpecto/Grafiken/gr_gluehbirne.jpg)Das zu verwendende Konto wird in der Produktmaske in der klassischen Ansicht unter (*Datei → Produkte*) auf dem Reiter *Allgemein* unter *Konto RZ* eingetragen. 
 
 In der modernen Menüansicht erreichen Sie diese Funktion unter *Stammdaten -> Produkte -> Allgemein -> Buchhaltung / Konten -> Konto RZ*.
 ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Produkte_Menue.png) -> ![](http://xpecto.github.io/docs/xpecto/Import_Export/Kontodaten_zuweisen/Konto_RZ.png)
