@@ -1,4 +1,4 @@
-
+{
         "title"                : "Handbuch xpectoPro / aifExpert",
         "tagline"              : "",
         "author"               : "d4ryus",
@@ -19,4 +19,4 @@
         {
                 "files" : ["000_sub_header.md", "handbuch.md", ".git"]
         }
-
+}
