@@ -12,7 +12,7 @@ In der modernen Menü-Ansicht wählen Sie den Karteireiter *Aktionen* Gruppe *Ve
 
  ![](http://xpecto.github.io/docs/xpecto/Bearbeiten/Vertrag_uebertragen/uebertragen_menue.png)
  
-Um die Übertragung zu starten muss zuerst ein Vertrag ausgewählt werden, dann klicken Sie auf die Funktion *Vertrag übertragen*.
+Um die Übertragung zu starten muss zuerst ein Vertrag ausgewählt werden, dann klicken Sie auf die Funktion *Übertragung durchführen*.
 
 Es wird der Detail-Dialog für den Übertrag angezeigt.
  
