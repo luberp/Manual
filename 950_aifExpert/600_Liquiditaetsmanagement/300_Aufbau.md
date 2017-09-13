@@ -129,7 +129,7 @@ Im Bereich "Posten-Datenherkunft-Werte" erfolgt die Bestimmung der Herkunft der 
       | Negation |  [ID] * (-1) | Die Negierung eines Wertes ist durch die Multiplikation mit (-1) möglich |
       | Fortlaufend |  [ID,-1] | Für eine fortlaufende Werthinterlegung eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern angegeben werden (z.B. [A00000002, -1]) |
       | Fortlaufend & Berechnung |  [ID,-1] + [ID] | Für eine fortlaufende Berechnung (z.B. zur Berechnung des Cash-Flows) eines Postens muss seine eigene ID + Komma + -1 in eckigen Klammern sowie eine andere Berechnungsart zusätzlich angegeben werden (z.B. [A00000002, -1] + [A00000003]) |
-      | Grundrechenart & Konstante |  [ID] + - * / xx.xx | Für die Nutzung einer konstanten Zahl in einer Formel muss diese innerhalb von eckingen Klammern mit einem Punkt als Dezimaltrennzeichen hinterlegt werden (z.B. [A00000002] * [0.19]) |
+      | Grundrechenart & Konstante |  [ID] + - * / xx.xx | Für die Nutzung einer konstanten Zahl in einer Formel muss diese  mit einem Punkt als Dezimaltrennzeichen hinterlegt werden (z.B. [A00000002] * 0.19) |
  
   - Verteilung
     - Im Feld "Verteilung" muss der gewünschte Verteilungsschlüssel angegeben werden. Dabei wird ein Wert entweder auf Quartals- oder Monatswerte verteilt. Ein Validator überprüft automatisch den eingegebenen Schlüssel auf formale Richtigkeit.
