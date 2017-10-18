@@ -8,7 +8,7 @@ Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf einige Punkte h
 ##### Neue Kopfzeilen
 
 Alle Kopfzeilen wurden überarbeitet und in der Darstellung optimiert.
-Dabei wird eine Schriftart mit Serifen zur Unterscheidung von kleinem L und großem I verwendet.
+Dabei wird eine Schriftart mit Serifen zur Unterscheidung von kleinem L und großem i verwendet.
 Zusätzlich gibt es nun eine bessere Darstellung von z.B. PePs, Minderjährigen und weiteren Personengruppen.
 
 ##### Einheitliche Telefonnummerformatierung 
