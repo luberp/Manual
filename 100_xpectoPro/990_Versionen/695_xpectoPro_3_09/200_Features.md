@@ -40,7 +40,7 @@
   
 * Datenexportbericht
  
-  Beim Export der Daten als XLSX wird das Format der Spalten mit exportiert.
+  Beim Export der Daten als xlsx-Datei wird das Format der Spalten mit exportiert.
 
 * Kampagnendialog 
   
