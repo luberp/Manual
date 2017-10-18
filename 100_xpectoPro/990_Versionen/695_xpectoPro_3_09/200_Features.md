@@ -1,3 +1,5 @@
+
+
 * Benutzerverwaltung - neues Feld für Unterschriftsbild
   
   In der Benutzerverwaltung kann nun zu einem Benutzer die Unterschrift als Bilddatei eingefügt werden damit dieses z. B. in Berichten verwendet werden kann.
@@ -27,6 +29,10 @@
 * Berechnungen: Einbuchen von Werten in Fremdwährung
   
   Werte die Fremdwährungsbuchungen erzeugen werden jetzt mit Umrechnungskurs (Nachfrage nach dem Kurs) in Fondswährung mit der entsprechenden Fremdwährung erzeugt.
+
+* Wunschversand: Individuelles E-Mail-Anschreiben bei zu versendenden Bericht
+
+  Bei Verwendung des Wunschversands kann in dem zu versendenden Bericht nun ein abweichender/individueller E-Mail-Bericht als E-Mail-Anschreiben angegeben werden.  Bei einem leeren abweichenden Eintrag des E-Mail-Berichts wird der Standard-Bericht aus den Einstellungen verwendet.
 
 * Neuer Berichtstyp "Variantenauswahl"
   
