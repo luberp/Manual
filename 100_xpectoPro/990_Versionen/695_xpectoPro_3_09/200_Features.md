@@ -36,7 +36,7 @@
 
 * Neuer Berichtstyp "Variantenauswahl"
   
-  Der neue Berichtstyp "Variantenbericht" kann aus einer Liste von Berichten einen Bericht abhängig von einer festzulegenden Bedingung liefern. Dieser Berichtstyp kann z. B. für die Erstellung von Sprachabhängigen Berichten genutzt werden.
+  Der neue Berichtstyp "Variantenauswahl" kann aus einer Liste von Berichten einen Bericht abhängig von einer festzulegenden Bedingung liefern. Dieser Berichtstyp kann z. B. für die Erstellung von Sprachabhängigen Berichten genutzt werden.
   
   Beispiel Provisionsabrechnungsbericht: Abhängig von der Vermittlersprache könnte hier der entsprechende übersetzte Bericht und ausgewählt werden.
 
