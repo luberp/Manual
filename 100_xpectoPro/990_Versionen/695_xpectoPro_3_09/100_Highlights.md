@@ -3,13 +3,13 @@ Trotz der Vielzahl der verbesserten Funktionen, möchten wir auf einige Punkte h
 
 ##### PeP – Massenabfrage
 
-Über den Kampagnendialog kann nun eine Massenabfrage über PePs/Sanktionierte Personen erfolgen
+Über den Kampagnendialog kann nun eine Massenabfrage über PePs/Sanktionierte Personen erfolgen.
 
 ##### Neue Kopfzeilen
 
-Alle Kopfzeilen wurde Überarbeitet und in der Darstellung optimiert.
+Alle Kopfzeilen wurden überarbeitet und in der Darstellung optimiert.
 Dabei wird eine Schriftart mit Serifen zur Unterscheidung von kleinem L und großem I verwendet.
-Zusätlich gibt es nun eine bessere Darstellung von z.B. PePs, Minderjährigen und weiteren Personengruppen.
+Zusätzlich gibt es nun eine bessere Darstellung von z.B. PePs, Minderjährigen und weiteren Personengruppen.
 
 ##### Einheitliche Telefonnummerformatierung 
 
