@@ -4,7 +4,7 @@
 
 * Verhinderung von Provisionsauszahlung in falscher Währung (unterschiedlich zur Kontowährung)
   
-  Dafür wurde ein optionaler Parameter ProvPayoutCurrencyMustMatchAccountCurrency eingeführt. Dadurch wird bei der Provisionsauszahlung eine Warnmeldung ausgegeben, wenn die Auszahlungswährung nicht der Kontowährung entspricht.
+  Dafür wurde ein optionaler Parameter ProvPayoutCurrencyMustMatchAccountCurrency eingeführt. Dadurch wird bei der Provisionsauszahlung eine Warnmeldung ausgegeben, wenn die Auszahlungswährung nicht der Währung des Bankkontos entspricht.
   
 * Übertragungen 
   
@@ -28,7 +28,7 @@
   
   Werte die Fremdwährungsbuchungen erzeugen werden jetzt mit Umrechnungskurs (Nachfrage nach dem Kurs) in Fondswährung mit der entsprechenden Fremdwährung erzeugt.
 
-* Neuer Berichtstyp "Variantenbericht"
+* Neuer Berichtstyp "Variantenauswahl"
   
   Der neue Berichtstyp "Variantenbericht" kann aus einer Liste von Berichten einen Bericht abhängig von einer festzulegenden Bedingung liefern. Dieser Berichtstyp kann z. B. für die Erstellung von Sprachabhängigen Berichten genutzt werden.
   
