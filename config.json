@@ -13,10 +13,10 @@
         "file_editor"          : false,
         "links"                : 
         {
-                     "Download" : ""
-        }  
+                     "Download" : "" ,
+          
                
-        {
+        
                      "Homepage" : "http://www.xpecto.de"
         } ,
         "ignore"               :
