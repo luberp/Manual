@@ -13,9 +13,7 @@ Zusätzlich gibt es nun eine bessere Darstellung von z.B. PePs, Minderjährigen 
 
 ##### Einheitliche Telefonnummerformatierung 
 
-Mithilfe der Bibliothek "Google libphonenumber" werden nun Telefonnummern in einem festgelegten Format abgelegt.
-Dies erleichtert die Suche und Lesbarkeit. Außerdem können Mobiltelefonnummern auf "Korrektheit" überprüft werden. 
-Es werden keine Daten an Dritte übertragen.
+Mithilfe eines internationalen Standards werden nun Telefonnummern in einem festgelegten Format abgelegt, so wie sie es auch von ihrem Mobiltelefon kennen. Dies erleichtert die Suche und Lesbarkeit. Außerdem können Mobiltelefonnummern auf "Korrektheit" überprüft werden. Es werden keine Daten an Dritte übertragen.
 
 ##### Produkte automatisch im Web anlegen
 Produkte können direkt bei der Anlage für die Synchronisation mit dem Webportal freigeschalten werden. Damit ist die zusätzliche Benachrichtigung und Einrichtung durch xpecto nicht mehr notwendig.
