@@ -1,0 +1,1 @@
+﻿Der Dialog *Bitte wählen" ermöglicht eine Auswahl von Berichten die für eine Schnellansicht konfiguriert wurden. Berichte die in der Kategorie "Allgemeiner Bericht - immer in Favoriten anzeigen" angelegt wurden, können in der Schnellansicht ausgewählt werden. 
