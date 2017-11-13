@@ -37,9 +37,6 @@ Sind alle Einstellungen zum Server und der Authentifikation korrekt werden Ihnen
 
 Tragen Sie hier den Namen der zu erstellenden Datenbank ein und bestätigen den Dialog mit dem Button "*Erstellen*". Im Anschluss wird auf dem SQL Server eine neu Datenbank generiert. Nachdem die Datenbank generiert wurde kann die Applikation analog dem Punkt "*Eine bestehende Datenbank verwenden*" gestartet werden.
 
-
-----------
-
 Nachdem xpectoPro gestartet wurde, werden Sie an dieser Stelle aufgefordert einen Mandanten (Owner) der Datenbank zu benennen. 
 Bitte geben Sie hier den vorgegebenen Namen / Kürzel ein und bestätigen den Dialog mit "*OK*".
 
