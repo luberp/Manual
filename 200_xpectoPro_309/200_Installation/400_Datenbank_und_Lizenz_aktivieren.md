@@ -1,4 +1,4 @@
-Im Regelfall sollten bei der Lizenzierung keine Probleme auftreten. Die Registration des Systemowners, der Datenbank sowie der Lizenz läuft im Normalfall selbständig durch und muss nur noch bestätigt werden. 
+Im Regelfall sollten bei der Lizenzierung keine Probleme auftreten. Die Registration des Systemowners, der Datenbank sowie der Lizenz läuft im Normalfall selbständig durch und muss nur noch bestätigt werden.
 Ausnahmen bilden ggfs jedoch Netzwerke mit Proxy-Servern oder sonstigen Routing-/ Sicherheitseinstellungen.
 Sollte die Lizenzierung automatisiert durch die Applikation nicht möglich sein, werden Sie wie im folgenden Dialog darauf hingewiesen welche Funktionen nicht ordnungsgemäß abgearbeitet werden konnten.
 
