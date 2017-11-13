@@ -1,4 +1,4 @@
-xpectoPro wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbeitsablauf möglichst einfach am PC umzusetzen und dadurch zur Optimierung des Betriebserfolges beizutragen. Die bislang notwendigen Kenntnisse über die Struktur und den Aufbau von Verzeichnissen und Dateien entfällt nahezu, da xpectoPro das Dateimanagement auf Wunsch übernimmt.
+<p class="center">xpectoPro wurde mit dem Ziel entwickelt, einen für den Anwender logischen Arbeitsablauf möglichst einfach am PC umzusetzen und dadurch zur Optimierung des Betriebserfolges beizutragen. Die bislang notwendigen Kenntnisse über die Struktur und den Aufbau von Verzeichnissen und Dateien entfällt nahezu, da xpectoPro das Dateimanagement auf Wunsch übernimmt.</p>
 
 Während der Entwicklung von xpectoPro stand immer der Mensch im Mittelpunkt - dessen Gewohnheiten im täglichen Umgang mit Daten, Informationen, Archivierung, aber auch dessen Erwartungen an ein Computerprogramm, das die Möglichkeiten einer elektronischen Datenverwaltung und Aufbereitung praxisnah löst, ohne vom Anwender grundlegende Änderungen seiner gewohnten Abläufe oder eine hohe Schulungsbereitschaft zu erwarten.
 
